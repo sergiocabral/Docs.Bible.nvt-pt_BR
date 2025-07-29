@@ -1,0 +1,289 @@
+include::./index.adoc[]
+
+[[v15-2-0]]
+=== Esdras, 2
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v15-2-1]]
+
+^<<v15-2-1,1>>^ Esta é uma lista dos judeus da província que regressaram do cativeiro. O rei Nabucodonosor os havia deportado para a Babilônia, mas eles voltaram para Jerusalém e Judá, cada um para sua cidade de origem.
+
+[[v15-2-2]]
+
+^<<v15-2-2,2>>^ Seus líderes eram Zorobabel, Jesua, Neemias, Seraías, Reelaías, Mardoqueu, Bilsã, Mispar, Bigvai, Reum e Baaná. Este é o número de homens de Israel que regressaram do exílio:
+
+[[v15-2-3]]
+
+^<<v15-2-3,3>>^ da família de Parós, 2.172;
+
+[[v15-2-4]]
+
+^<<v15-2-4,4>>^ da família de Sefatias, 372;
+
+[[v15-2-5]]
+
+^<<v15-2-5,5>>^ da família de Ará, 775;
+
+[[v15-2-6]]
+
+^<<v15-2-6,6>>^ da família de Paate-Moabe (descendentes de Jesua e Joabe), 2.812;
+
+[[v15-2-7]]
+
+^<<v15-2-7,7>>^ da família de Elão, 1.254;
+
+[[v15-2-8]]
+
+^<<v15-2-8,8>>^ da família de Zatu, 945;
+
+[[v15-2-9]]
+
+^<<v15-2-9,9>>^ da família de Zacai, 760;
+
+[[v15-2-10]]
+
+^<<v15-2-10,10>>^ da família de Bani, 642;
+
+[[v15-2-11]]
+
+^<<v15-2-11,11>>^ da família de Bebai, 623;
+
+[[v15-2-12]]
+
+^<<v15-2-12,12>>^ da família de Azgade, 1.222;
+
+[[v15-2-13]]
+
+^<<v15-2-13,13>>^ da família de Adonicam, 666;
+
+[[v15-2-14]]
+
+^<<v15-2-14,14>>^ da família de Bigvai, 2.056;
+
+[[v15-2-15]]
+
+^<<v15-2-15,15>>^ da família de Adim, 454;
+
+[[v15-2-16]]
+
+^<<v15-2-16,16>>^ da família de Ater (descendentes de Ezequias), 98;
+
+[[v15-2-17]]
+
+^<<v15-2-17,17>>^ da família de Bezai, 323;
+
+[[v15-2-18]]
+
+^<<v15-2-18,18>>^ da família de Jora, 112;
+
+[[v15-2-19]]
+
+^<<v15-2-19,19>>^ da família de Hasum, 223;
+
+[[v15-2-20]]
+
+^<<v15-2-20,20>>^ da família de Gibar, 95;
+
+[[v15-2-21]]
+
+^<<v15-2-21,21>>^ do povo de Belém, 123;
+
+[[v15-2-22]]
+
+^<<v15-2-22,22>>^ do povo de Netofa, 56;
+
+[[v15-2-23]]
+
+^<<v15-2-23,23>>^ do povo de Anatote, 128;
+
+[[v15-2-24]]
+
+^<<v15-2-24,24>>^ do povo de Bete-Azmavete, 42;
+
+[[v15-2-25]]
+
+^<<v15-2-25,25>>^ do povo de Quiriate-Jearim, Quefira e Beerote, 743;
+
+[[v15-2-26]]
+
+^<<v15-2-26,26>>^ do povo de Ramá e Geba, 621;
+
+[[v15-2-27]]
+
+^<<v15-2-27,27>>^ do povo de Micmás, 122;
+
+[[v15-2-28]]
+
+^<<v15-2-28,28>>^ do povo de Betel e Ai, 223;
+
+[[v15-2-29]]
+
+^<<v15-2-29,29>>^ dos cidadãos de Nebo, 52;
+
+[[v15-2-30]]
+
+^<<v15-2-30,30>>^ dos cidadãos de Magbis, 156;
+
+[[v15-2-31]]
+
+^<<v15-2-31,31>>^ dos cidadãos de Elão Ocidental, 1.254;
+
+[[v15-2-32]]
+
+^<<v15-2-32,32>>^ dos cidadãos de Harim, 320;
+
+[[v15-2-33]]
+
+^<<v15-2-33,33>>^ dos cidadãos de Lode, Hadide e Ono, 725;
+
+[[v15-2-34]]
+
+^<<v15-2-34,34>>^ dos cidadãos de Jericó, 345;
+
+[[v15-2-35]]
+
+^<<v15-2-35,35>>^ dos cidadãos de Senaá, 3.630.
+
+[[v15-2-36]]
+
+^<<v15-2-36,36>>^ Estes são os sacerdotes que regressaram do exílio: da família de Jedaías (da linhagem de Jesua), 973;
+
+[[v15-2-37]]
+
+^<<v15-2-37,37>>^ da família de Imer, 1.052;
+
+[[v15-2-38]]
+
+^<<v15-2-38,38>>^ da família de Pasur, 1.247;
+
+[[v15-2-39]]
+
+^<<v15-2-39,39>>^ da família de Harim, 1.017.
+
+[[v15-2-40]]
+
+^<<v15-2-40,40>>^ Estes são os levitas que regressaram do exílio: das famílias de Jesua e Cadmiel (descendentes de Hodavias), 74;
+
+[[v15-2-41]]
+
+^<<v15-2-41,41>>^ os cantores da família de Asafe, 128;
+
+[[v15-2-42]]
+
+^<<v15-2-42,42>>^ os guardas das portas das famílias de Salum, Ater, Talmom, Acube, Hatita e Sobai, 139.
+
+[[v15-2-43]]
+
+^<<v15-2-43,43>>^ Os descendentes destes servidores do templo regressaram do exílio: Zia, Hasufa, Tabaote,
+
+[[v15-2-44]]
+
+^<<v15-2-44,44>>^ Queros, Sia, Padom,
+
+[[v15-2-45]]
+
+^<<v15-2-45,45>>^ Lebana, Hagaba, Acube,
+
+[[v15-2-46]]
+
+^<<v15-2-46,46>>^ Hagabe, Salmai, Hanã,
+
+[[v15-2-47]]
+
+^<<v15-2-47,47>>^ Gidel, Gaar, Reaías,
+
+[[v15-2-48]]
+
+^<<v15-2-48,48>>^ Rezim, Necoda, Gazão,
+
+[[v15-2-49]]
+
+^<<v15-2-49,49>>^ Uzá, Paseá, Besai,
+
+[[v15-2-50]]
+
+^<<v15-2-50,50>>^ Asná, Meunim, Nefusim,
+
+[[v15-2-51]]
+
+^<<v15-2-51,51>>^ Baquebuque, Hacufa, Harur,
+
+[[v15-2-52]]
+
+^<<v15-2-52,52>>^ Baslute, Meída, Harsa,
+
+[[v15-2-53]]
+
+^<<v15-2-53,53>>^ Barcos, Sísera, Tamá,
+
+[[v15-2-54]]
+
+^<<v15-2-54,54>>^ Nesias, Hatifa.
+
+[[v15-2-55]]
+
+^<<v15-2-55,55>>^ Os descendentes destes servidores do rei Salomão regressaram do exílio: Sotai, Soferete, Peruda,
+
+[[v15-2-56]]
+
+^<<v15-2-56,56>>^ Jaala, Darcom, Gidel,
+
+[[v15-2-57]]
+
+^<<v15-2-57,57>>^ Sefatias, Hatil, Poquerete-Hazebaim e Ami.
+
+[[v15-2-58]]
+
+^<<v15-2-58,58>>^ Ao todo, os servidores do templo e os descendentes dos servos de Salomão eram 392.
+
+[[v15-2-59]]
+
+^<<v15-2-59,59>>^ Nessa ocasião, outro grupo regressou das cidades de Tel-Melá, Tel-Harsa, Querube, Adã e Imer. Contudo, não puderam comprovar que eles ou suas famílias eram descendentes de Israel.
+
+[[v15-2-60]]
+
+^<<v15-2-60,60>>^ Estavam nesse grupo as famílias de Delaías, Tobias e Necoda, 652 pessoas ao todo.
+
+[[v15-2-61]]
+
+^<<v15-2-61,61>>^ Também regressaram as famílias de três sacerdotes: Habaías, Hacoz e Barzilai. (Esse Barzilai havia se casado com uma mulher descendente de Barzilai, de Gileade, e assumido o nome da família dela.)
+
+[[v15-2-62]]
+
+^<<v15-2-62,62>>^ Procuraram seus nomes nos registros genealógicos, mas não os encontraram, por isso não se qualificaram para servir como sacerdotes.
+
+[[v15-2-63]]
+
+^<<v15-2-63,63>>^ O governador ordenou que não comessem das porções dos sacrifícios separadas para os sacerdotes até que um sacerdote consultasse o SENHOR a esse respeito usando o Urim e o Tumim.
+
+[[v15-2-64]]
+
+^<<v15-2-64,64>>^ Portanto, os que regressaram para Judá foram 42.360,
+
+[[v15-2-65]]
+
+^<<v15-2-65,65>>^ além dos 7.337 servos e servas e dos 200 cantores e cantoras.
+
+[[v15-2-66]]
+
+^<<v15-2-66,66>>^ Levaram consigo 736 cavalos, 245 mulas,
+
+[[v15-2-67]]
+
+^<<v15-2-67,67>>^ 435 camelos e 6.720 jumentos.
+
+[[v15-2-68]]
+
+^<<v15-2-68,68>>^ Quando chegaram ao templo do SENHOR, em Jerusalém, alguns dos chefes das famílias entregaram ofertas voluntárias para a reconstrução do templo de Deus em seu local original.
+
+[[v15-2-69]]
+
+^<<v15-2-69,69>>^ Cada chefe contribuiu com o que pôde. Suas ofertas totalizaram 525 quilos de ouro, 3.000 quilos de prata e 100 vestes para os sacerdotes.
+
+[[v15-2-70]]
+
+^<<v15-2-70,70>>^ Assim, os sacerdotes, os levitas, os cantores, os guardas das portas, os servidores do templo e alguns do povo se estabeleceram em povoados perto de Jerusalém. O restante do povo regressou às suas cidades em todo o Israel.
+
+'''
+
+xref:015-esdras/015-esdras-001.adoc#v15-1-0[&#60; Capítulo Anterior] | <<v15-2-0,Topo>> | xref:015-esdras/015-esdras-003.adoc#v15-3-0[Próximo Capítulo &#62;]

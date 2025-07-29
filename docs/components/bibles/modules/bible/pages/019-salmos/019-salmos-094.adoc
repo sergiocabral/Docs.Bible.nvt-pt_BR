@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v19-94-0]]
+=== Salmos, 94
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-94-1]]
+
+^<<v19-94-1,1>>^ Ó SENHOR, Deus da vingança, ó Deus da vingança, manifesta teu esplendor!
+
+[[v19-94-2]]
+
+^<<v19-94-2,2>>^ Levanta-te, ó Juiz da terra, dá aos orgulhosos o que merecem.
+
+[[v19-94-3]]
+
+^<<v19-94-3,3>>^ Até quando, SENHOR? Até quando os perversos se alegrarão de suas maldades?
+
+[[v19-94-4]]
+
+^<<v19-94-4,4>>^ Até quando falarão com arrogância? Até quando os que praticam o mal contarão vantagens?
+
+[[v19-94-5]]
+
+^<<v19-94-5,5>>^ Esmagam o teu povo, SENHOR, oprimem os que pertencem a ti.
+
+[[v19-94-6]]
+
+^<<v19-94-6,6>>^ Matam viúvas e estrangeiros e assassinam órfãos.
+
+[[v19-94-7]]
+
+^<<v19-94-7,7>>^ "O SENHOR não vê", eles dizem. "O Deus de Israel não se importa."
+
+[[v19-94-8]]
+
+^<<v19-94-8,8>>^ Pensem melhor, tolos! Quando vocês, insensatos, entenderão?
+
+[[v19-94-9]]
+
+^<<v19-94-9,9>>^ Acaso é surdo aquele que fez os ouvidos? É cego aquele que formou os olhos?
+
+[[v19-94-10]]
+
+^<<v19-94-10,10>>^ Aquele que castiga as nações não os castigará? Aquele que tudo sabe não sabe o que vocês fazem?
+
+[[v19-94-11]]
+
+^<<v19-94-11,11>>^ O SENHOR conhece os pensamentos de cada um; sabe que nada valem.
+
+[[v19-94-12]]
+
+^<<v19-94-12,12>>^ Feliz é aquele a quem disciplinas, SENHOR, aquele a quem ensinas tua lei.
+
+[[v19-94-13]]
+
+^<<v19-94-13,13>>^ Tu lhe dás alívio em tempos de aflição, até que se abra uma cova para os perversos.
+
+[[v19-94-14]]
+
+^<<v19-94-14,14>>^ Pois o SENHOR não rejeitará seu povo; não abandonará os que lhe pertencem.
+
+[[v19-94-15]]
+
+^<<v19-94-15,15>>^ Os julgamentos voltarão a se basear na justiça, e os de coração íntegro a buscarão.
+
+[[v19-94-16]]
+
+^<<v19-94-16,16>>^ Quem me protegerá dos perversos? Quem me defenderá dos que praticam o mal?
+
+[[v19-94-17]]
+
+^<<v19-94-17,17>>^ Se o SENHOR não tivesse me ajudado, eu já estaria no silêncio do túmulo.
+
+[[v19-94-18]]
+
+^<<v19-94-18,18>>^ Gritei: "Estou caindo!", mas o teu amor, SENHOR, me sustentou.
+
+[[v19-94-19]]
+
+^<<v19-94-19,19>>^ Quando minha mente estava cheia de dúvidas, teu consolo me deu esperança e ânimo.
+
+[[v19-94-20]]
+
+^<<v19-94-20,20>>^ Podem os líderes injustos, aqueles cujos decretos permitem a injustiça, afirmar que Deus está do lado deles?
+
+[[v19-94-21]]
+
+^<<v19-94-21,21>>^ Juntam-se contra os justos e condenam os inocentes à morte.
+
+[[v19-94-22]]
+
+^<<v19-94-22,22>>^ Mas o SENHOR é a minha fortaleza; meu Deus é a rocha onde me refugio.
+
+[[v19-94-23]]
+
+^<<v19-94-23,23>>^ Deus fará os pecados dos perversos caírem sobre eles; ele os destruirá por suas maldades. O SENHOR, nosso Deus, os destruirá.
+
+'''
+
+xref:019-salmos/019-salmos-093.adoc#v19-93-0[&#60; Capítulo Anterior] | <<v19-94-0,Topo>> | xref:019-salmos/019-salmos-095.adoc#v19-95-0[Próximo Capítulo &#62;]

@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v18-14-0]]
+=== Jó, 14
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v18-14-1]]
+
+^<<v18-14-1,1>>^ "Como é frágil o ser humano! Sua vida é breve e cheia de aflições.
+
+[[v18-14-2]]
+
+^<<v18-14-2,2>>^ Como uma flor, nasce e depois murcha; como uma sombra passageira, some depressa.
+
+[[v18-14-3]]
+
+^<<v18-14-3,3>>^ É preciso que vigies uma criatura tão frágil e exijas que te preste contas?
+
+[[v18-14-4]]
+
+^<<v18-14-4,4>>^ Quem pode extrair pureza de algo impuro? Ninguém!
+
+[[v18-14-5]]
+
+^<<v18-14-5,5>>^ Estabeleceste a extensão de nossa vida; sabes quantos meses viveremos, e não recebemos nem um dia a mais.
+
+[[v18-14-6]]
+
+^<<v18-14-6,6>>^ Portanto, dá-nos sossego, deixa-nos descansar! Somos como trabalhadores braçais; permite que terminemos nosso trabalho em paz.
+
+[[v18-14-7]]
+
+^<<v18-14-7,7>>^ "Até mesmo uma árvore tem mais esperança, pois, se for cortada, voltará a brotar e dar novos ramos.
+
+[[v18-14-8]]
+
+^<<v18-14-8,8>>^ Ainda que as raízes tenham envelhecido na terra e o tronco esteja podre,
+
+[[v18-14-9]]
+
+^<<v18-14-9,9>>^ com o cheiro da água, voltará a brotar e dar ramos, como uma planta nova.
+
+[[v18-14-10]]
+
+^<<v18-14-10,10>>^ "Mas, quando as pessoas morrem, perdem as forças; dão o último suspiro e, depois, onde estão?
+
+[[v18-14-11]]
+
+^<<v18-14-11,11>>^ Como a água evapora do lago e o rio desaparece na seca,
+
+[[v18-14-12]]
+
+^<<v18-14-12,12>>^ são colocadas no túmulo e não voltam a se levantar. Até que os céus deixem de existir, não acordarão; não serão despertadas de seu sono.
+
+[[v18-14-13]]
+
+^<<v18-14-13,13>>^ "Quem dera tu me escondesses na sepultura e me esquecesses ali até tua ira passar! Quem dera me desses um tempo de descanso, para que só então te lembrasses de mim!
+
+[[v18-14-14]]
+
+^<<v18-14-14,14>>^ Podem os mortos voltar a viver? Assim eu teria esperança durante todos os meus anos de luta e aguardaria a libertação que a morte traz.
+
+[[v18-14-15]]
+
+^<<v18-14-15,15>>^ Tu chamarias, e eu responderia; tu ansiarias por mim, a obra de tuas mãos.
+
+[[v18-14-16]]
+
+^<<v18-14-16,16>>^ Assim, tu protegerias meus passos, em vez de vigiares meus pecados.
+
+[[v18-14-17]]
+
+^<<v18-14-17,17>>^ Meus pecados seriam fechados num saco, e tu cobririas minha culpa.
+
+[[v18-14-18]]
+
+^<<v18-14-18,18>>^ "Em vez disso, assim como os montes desmoronam e as rochas caem de onde estão,
+
+[[v18-14-19]]
+
+^<<v18-14-19,19>>^ como a água desgasta as pedras e as enchentes arrastam a terra, tu destróis a esperança do ser humano.
+
+[[v18-14-20]]
+
+^<<v18-14-20,20>>^ Tu prevaleces sempre sobre ele, e ele se vai; tu o desfiguras na morte e o mandas embora.
+
+[[v18-14-21]]
+
+^<<v18-14-21,21>>^ Não sabe se os filhos crescerão com honra ou afundarão no esquecimento.
+
+[[v18-14-22]]
+
+^<<v18-14-22,22>>^ Ele sofre sua própria dor e lamenta apenas por si mesmo".
+
+'''
+
+xref:018-jo/018-jo-013.adoc#v18-13-0[&#60; Capítulo Anterior] | <<v18-14-0,Topo>> | xref:018-jo/018-jo-015.adoc#v18-15-0[Próximo Capítulo &#62;]

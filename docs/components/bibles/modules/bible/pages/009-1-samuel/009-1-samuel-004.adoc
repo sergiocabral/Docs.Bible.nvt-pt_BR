@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v9-4-0]]
+=== 1 Samuel, 4
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v9-4-1]]
+
+^<<v9-4-1,1>>^ E as palavras de Samuel chegavam a todo o povo de Israel. Naquele tempo, Israel estava em guerra com os filisteus. O exército israelita tinha acampado perto de Ebenézer, e os filisteus acamparam em Afeque.
+
+[[v9-4-2]]
+
+^<<v9-4-2,2>>^ Os filisteus atacaram e derrotaram o exército de Israel, matando cerca de quatro mil homens.
+
+[[v9-4-3]]
+
+^<<v9-4-3,3>>^ Terminada a batalha, os soldados voltaram para o acampamento, e as autoridades de Israel se perguntaram: "Por que o SENHOR causou nossa derrota diante dos filisteus? Vamos trazer a arca da aliança do SENHOR desde Siló, para que esteja conosco e nos livre do poder do inimigo!".
+
+[[v9-4-4]]
+
+^<<v9-4-4,4>>^ Então enviaram homens a Siló para trazer a arca da aliança do SENHOR dos Exércitos, que está entronizado entre os querubins. Hofni e Fineias, os dois filhos de Eli, acompanharam a arca da aliança de Deus.
+
+[[v9-4-5]]
+
+^<<v9-4-5,5>>^ Quando todos os israelitas viram a arca da aliança do SENHOR entrando no acampamento, soltaram gritos de alegria tão altos que fizeram o chão tremer.
+
+[[v9-4-6]]
+
+^<<v9-4-6,6>>^ "O que está acontecendo?", perguntaram os filisteus. "Que significam esses gritos no acampamento dos hebreus?" Quando souberam que era porque a arca do SENHOR havia chegado,
+
+[[v9-4-7]]
+
+^<<v9-4-7,7>>^ entraram em pânico. "Os deuses vieram ao acampamento deles!", disseram. "Estamos perdidos! Nunca enfrentamos uma coisa assim antes!
+
+[[v9-4-8]]
+
+^<<v9-4-8,8>>^ Estamos perdidos! Quem nos salvará desses deuses poderosos? São os mesmos deuses que destruíram os egípcios com pragas, quando Israel estava no deserto.
+
+[[v9-4-9]]
+
+^<<v9-4-9,9>>^ Tenham coragem, filisteus! Sejam homens! Do contrário, acabaremos como escravos dos hebreus, assim como eles se tornaram nossos escravos. Sejam homens e lutem!"
+
+[[v9-4-10]]
+
+^<<v9-4-10,10>>^ Então os filisteus saíram para a batalha, e Israel foi derrotado. A matança foi grande: trinta mil soldados israelitas morreram naquele dia. Os sobreviventes deram meia-volta e fugiram para suas tendas.
+
+[[v9-4-11]]
+
+^<<v9-4-11,11>>^ A arca de Deus foi tomada, e Hofni e Fineias, os dois filhos de Eli, foram mortos.
+
+[[v9-4-12]]
+
+^<<v9-4-12,12>>^ Um homem da tribo de Benjamim correu do campo de batalha e chegou a Siló ainda naquele dia. Tinha rasgado suas roupas e colocado pó sobre a cabeça.
+
+[[v9-4-13]]
+
+^<<v9-4-13,13>>^ Eli estava sentado numa cadeira, ao lado da estrada, esperando para ouvir as notícias da batalha, pois seu coração tremia pela segurança da arca de Deus. Quando o mensageiro chegou e contou o que havia acontecido, gritos ressoaram por toda a cidade.
+
+[[v9-4-14]]
+
+^<<v9-4-14,14>>^ Eli ouviu os gritos e perguntou: "O que é esse barulho todo?". O mensageiro correu até Eli e contou-lhe a notícia.
+
+[[v9-4-15]]
+
+^<<v9-4-15,15>>^ Eli estava com 98 anos e já não conseguia enxergar.
+
+[[v9-4-16]]
+
+^<<v9-4-16,16>>^ "Acabo de chegar do campo de batalha", disse o mensageiro. "Fugi de lá hoje mesmo." Eli perguntou: "O que aconteceu, meu filho?".
+
+[[v9-4-17]]
+
+^<<v9-4-17,17>>^ O mensageiro respondeu: "Israel foi derrotado pelos filisteus, e o povo foi massacrado. Seus dois filhos, Hofni e Fineias, também morreram, e a arca de Deus foi tomada".
+
+[[v9-4-18]]
+
+^<<v9-4-18,18>>^ Quando ele mencionou o que havia acontecido com a arca de Deus, Eli caiu da cadeira para trás, ao lado do portão. Quebrou o pescoço e morreu, pois era velho e pesado. Havia sido juiz em Israel durante quarenta anos.
+
+[[v9-4-19]]
+
+^<<v9-4-19,19>>^ A nora de Eli, esposa de Fineias, estava grávida e perto de dar à luz. Quando soube que a arca de Deus havia sido tomada e que o sogro e o marido estavam mortos, teve contrações violentas e deu à luz.
+
+[[v9-4-20]]
+
+^<<v9-4-20,20>>^ Ela morreu no parto, mas antes de falecer as parteiras tentaram animá-la. "Não tenha medo!", disseram. "Você teve um menino!" Mas ela não respondeu nem se importou.
+
+[[v9-4-21]]
+
+^<<v9-4-21,21>>^ Deu ao menino o nome de Icabode, e disse: "Foi-se embora a glória de Israel", pois a arca de Deus havia sido tomada, e seu sogro e seu marido estavam mortos.
+
+[[v9-4-22]]
+
+^<<v9-4-22,22>>^ Disse ainda: "Foi-se embora a glória de Israel, pois a arca de Deus foi tomada!".
+
+'''
+
+xref:009-1-samuel/009-1-samuel-003.adoc#v9-3-0[&#60; Capítulo Anterior] | <<v9-4-0,Topo>> | xref:009-1-samuel/009-1-samuel-005.adoc#v9-5-0[Próximo Capítulo &#62;]

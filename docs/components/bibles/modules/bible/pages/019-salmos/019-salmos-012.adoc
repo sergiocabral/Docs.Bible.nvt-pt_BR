@@ -1,0 +1,41 @@
+include::./index.adoc[]
+
+[[v19-12-0]]
+=== Salmos, 12
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-12-1]]
+
+^<<v19-12-1,1>>^ Socorro, SENHOR, pois os fiéis estão desaparecendo depressa! Os que te temem sumiram da terra!
+
+[[v19-12-2]]
+
+^<<v19-12-2,2>>^ Todos mentem uns aos outros; falam com lábios bajuladores e coração fingido.
+
+[[v19-12-3]]
+
+^<<v19-12-3,3>>^ Que o SENHOR corte os lábios bajuladores e cale a língua arrogante.
+
+[[v19-12-4]]
+
+^<<v19-12-4,4>>^ Eles dizem: "Mentiremos quanto quisermos. Os lábios são nossos; quem nos impedirá?".
+
+[[v19-12-5]]
+
+^<<v19-12-5,5>>^ O SENHOR responde: "Vi a violência cometida contra os indefesos e ouvi o gemido dos pobres. Agora me levantarei para salvá-los, como eles tanto desejam".
+
+[[v19-12-6]]
+
+^<<v19-12-6,6>>^ As promessas do SENHOR são puras como prata refinada no forno, purificada sete vezes.
+
+[[v19-12-7]]
+
+^<<v19-12-7,7>>^ Portanto, SENHOR, sabemos que protegerás os oprimidos e para sempre os guardarás desta geração mentirosa,
+
+[[v19-12-8]]
+
+^<<v19-12-8,8>>^ ainda que os perversos andem confiantes, e a maldade seja elogiada em toda a terra.
+
+'''
+
+xref:019-salmos/019-salmos-011.adoc#v19-11-0[&#60; Capítulo Anterior] | <<v19-12-0,Topo>> | xref:019-salmos/019-salmos-013.adoc#v19-13-0[Próximo Capítulo &#62;]

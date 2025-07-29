@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v19-31-0]]
+=== Salmos, 31
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-31-1]]
+
+^<<v19-31-1,1>>^ Em ti, SENHOR, me refugio; não permitas que eu seja envergonhado. Salva-me por causa da tua justiça;
+
+[[v19-31-2]]
+
+^<<v19-31-2,2>>^ inclina o teu ouvido para me escutar e livra-me depressa. Que tu sejas para mim rocha de proteção, fortaleza onde estarei seguro.
+
+[[v19-31-3]]
+
+^<<v19-31-3,3>>^ És minha rocha e minha fortaleza; por causa do teu nome, guia-me e conduze-me.
+
+[[v19-31-4]]
+
+^<<v19-31-4,4>>^ Tira-me da armadilha que me prepararam, pois só em ti encontro proteção.
+
+[[v19-31-5]]
+
+^<<v19-31-5,5>>^ Em tuas mãos entrego meu espírito; resgata-me, SENHOR, pois és Deus fiel.
+
+[[v19-31-6]]
+
+^<<v19-31-6,6>>^ Detesto os que adoram ídolos inúteis; eu, porém, confio no SENHOR.
+
+[[v19-31-7]]
+
+^<<v19-31-7,7>>^ Exultarei e me alegrarei em teu amor, pois viste minha aflição e te importas com minha angústia.
+
+[[v19-31-8]]
+
+^<<v19-31-8,8>>^ Não me entregaste a meus inimigos, mas me puseste em lugar seguro.
+
+[[v19-31-9]]
+
+^<<v19-31-9,9>>^ Tem misericórdia de mim, SENHOR, pois estou angustiado; lágrimas me embaçam os olhos, e meu corpo e minha alma definham.
+
+[[v19-31-10]]
+
+^<<v19-31-10,10>>^ A tristeza me consome, e meus dias se encurtam com gemidos. Minha força se esvai por causa do pecado, e meus ossos se desgastam.
+
+[[v19-31-11]]
+
+^<<v19-31-11,11>>^ Todos os meus inimigos zombam de mim, e meus vizinhos me desprezam; até meus amigos têm medo de se aproximar. Quando me veem na rua, correm para o outro lado.
+
+[[v19-31-12]]
+
+^<<v19-31-12,12>>^ Não se lembram de mim, como se eu estivesse morto, como se fosse um jarro quebrado.
+
+[[v19-31-13]]
+
+^<<v19-31-13,13>>^ Ouço muitos boatos a meu respeito, e o terror me cerca. Conspiram contra mim, tramam tirar minha vida.
+
+[[v19-31-14]]
+
+^<<v19-31-14,14>>^ Eu, porém, confio em ti, SENHOR, e digo: "Tu és meu Deus!".
+
+[[v19-31-15]]
+
+^<<v19-31-15,15>>^ Meu futuro está em tuas mãos; livra-me dos que me perseguem sem cessar.
+
+[[v19-31-16]]
+
+^<<v19-31-16,16>>^ Que a luz do teu rosto brilhe sobre teu servo; salva-me por causa do teu amor.
+
+[[v19-31-17]]
+
+^<<v19-31-17,17>>^ Não permitas que eu seja envergonhado, SENHOR, pois clamo a ti. Que os perversos sejam envergonhados, que fiquem calados na sepultura.
+
+[[v19-31-18]]
+
+^<<v19-31-18,18>>^ Silencia seus lábios mentirosos, lábios orgulhosos e arrogantes que acusam os justos.
+
+[[v19-31-19]]
+
+^<<v19-31-19,19>>^ Grande é a bondade que reservaste para os que te temem! Tu a concedes aos que em ti se refugiam e os abençoas à vista de todos.
+
+[[v19-31-20]]
+
+^<<v19-31-20,20>>^ Tu os escondes em tua presença, a salvo de todos que contra eles conspiram. Tu os proteges num abrigo, longe das línguas acusadoras.
+
+[[v19-31-21]]
+
+^<<v19-31-21,21>>^ Louvado seja o SENHOR, pois ele me mostrou as maravilhas de seu amor; manteve-me a salvo numa cidade cercada de inimigos.
+
+[[v19-31-22]]
+
+^<<v19-31-22,22>>^ Apavorado, clamei: "Estou separado de tua presença!". Mas ele ouviu a minha súplica por misericórdia e respondeu ao meu clamor por socorro.
+
+[[v19-31-23]]
+
+^<<v19-31-23,23>>^ Amem o SENHOR, todos vocês que lhe são fiéis, pois o SENHOR protege quem nele confia, mas castiga severamente o arrogante.
+
+[[v19-31-24]]
+
+^<<v19-31-24,24>>^ Portanto, sejam fortes e corajosos, todos vocês que põem sua esperança no SENHOR!
+
+'''
+
+xref:019-salmos/019-salmos-030.adoc#v19-30-0[&#60; Capítulo Anterior] | <<v19-31-0,Topo>> | xref:019-salmos/019-salmos-032.adoc#v19-32-0[Próximo Capítulo &#62;]

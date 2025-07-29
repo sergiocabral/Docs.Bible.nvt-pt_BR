@@ -1,0 +1,145 @@
+include::./index.adoc[]
+
+[[v40-8-0]]
+=== Mateus, 8
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v40-8-1]]
+
+^<<v40-8-1,1>>^ Quando Jesus desceu a encosta do monte, grandes multidões o seguiram.
+
+[[v40-8-2]]
+
+^<<v40-8-2,2>>^ Um leproso aproximou-se de Jesus, ajoelhou-se diante dele e disse: "Senhor, se quiser, pode me curar e me deixar limpo".
+
+[[v40-8-3]]
+
+^<<v40-8-3,3>>^ Jesus estendeu a mão e tocou nele. "Eu quero", respondeu. "Seja curado e fique limpo!" No mesmo instante, o homem foi curado da lepra.
+
+[[v40-8-4]]
+
+^<<v40-8-4,4>>^ Então Jesus disse ao homem: "Não conte isso a ninguém. Vá e apresente-se ao sacerdote para que ele o examine. Leve a oferta que a lei de Moisés exige. Isso servirá como testemunho".
+
+[[v40-8-5]]
+
+^<<v40-8-5,5>>^ Quando Jesus chegou a Cafarnaum, um oficial romano se aproximou dele e suplicou:
+
+[[v40-8-6]]
+
+^<<v40-8-6,6>>^ "Senhor, meu jovem servo está de cama, paralisado e com dores terríveis".
+
+[[v40-8-7]]
+
+^<<v40-8-7,7>>^ Jesus disse: "Vou até lá para curá-lo".
+
+[[v40-8-8]]
+
+^<<v40-8-8,8>>^ O oficial, porém, respondeu: "Senhor, não mereço que entre em minha casa. Basta uma ordem sua, e meu servo será curado.
+
+[[v40-8-9]]
+
+^<<v40-8-9,9>>^ Sei disso porque estou sob a autoridade de meus superiores e tenho autoridade sobre meus soldados. Só preciso dizer ‘Vão’, e eles vão, ou ‘Venham’, e eles vêm. E, se digo a meus escravos: ‘Façam isto’, eles o fazem".
+
+[[v40-8-10]]
+
+^<<v40-8-10,10>>^ Quando Jesus ouviu isso, ficou admirado e disse aos que o seguiam: "Eu lhes digo a verdade: jamais vi fé como esta em Israel!
+
+[[v40-8-11]]
+
+^<<v40-8-11,11>>^ E também lhes digo: muitos virão de toda parte, do leste e do oeste, e se sentarão com Abraão, Isaque e Jacó no banquete do reino dos céus.
+
+[[v40-8-12]]
+
+^<<v40-8-12,12>>^ Mas muitos para os quais o reino foi preparado serão lançados fora, na escuridão, onde haverá choro e ranger de dentes".
+
+[[v40-8-13]]
+
+^<<v40-8-13,13>>^ Então Jesus disse ao oficial romano: "Volte para casa. Tal como você creu, assim acontecerá". E o jovem servo foi curado na mesma hora.
+
+[[v40-8-14]]
+
+^<<v40-8-14,14>>^ Quando Jesus chegou à casa de Pedro, viu que a sogra dele estava de cama, com febre.
+
+[[v40-8-15]]
+
+^<<v40-8-15,15>>^ Jesus tocou em sua mão e a febre a deixou. Então ela se levantou e passou a servi-lo.
+
+[[v40-8-16]]
+
+^<<v40-8-16,16>>^ Ao entardecer, trouxeram a Jesus muita gente possuída por demônios. Ele expulsou esses espíritos impuros com uma simples ordem e curou todos os enfermos.
+
+[[v40-8-17]]
+
+^<<v40-8-17,17>>^ Cumpriu-se, desse modo, o que foi dito pelo profeta Isaías: "Levou sobre si nossas enfermidades e removeu nossas doenças".
+
+[[v40-8-18]]
+
+^<<v40-8-18,18>>^ Quando Jesus viu a grande multidão ao seu redor, ordenou que atravessassem para o outro lado do mar.
+
+[[v40-8-19]]
+
+^<<v40-8-19,19>>^ Então um dos mestres da lei lhe disse: "Mestre, eu o seguirei aonde quer que vá".
+
+[[v40-8-20]]
+
+^<<v40-8-20,20>>^ Jesus respondeu: "As raposas têm tocas onde morar e as aves têm ninhos, mas o Filho do Homem não tem sequer um lugar para recostar a cabeça".
+
+[[v40-8-21]]
+
+^<<v40-8-21,21>>^ Outro discípulo disse: "Senhor, deixe-me primeiro sepultar meu pai".
+
+[[v40-8-22]]
+
+^<<v40-8-22,22>>^ Jesus respondeu: "Siga-me agora. Deixe que os mortos sepultem seus próprios mortos".
+
+[[v40-8-23]]
+
+^<<v40-8-23,23>>^ Em seguida, Jesus entrou no barco, e seus discípulos o acompanharam.
+
+[[v40-8-24]]
+
+^<<v40-8-24,24>>^ De repente, veio sobre o mar uma tempestade violenta, com ondas que cobriam o barco. Jesus, no entanto, dormia.
+
+[[v40-8-25]]
+
+^<<v40-8-25,25>>^ Os discípulos foram acordá-lo, clamando: "Senhor, salve-nos! Vamos morrer!".
+
+[[v40-8-26]]
+
+^<<v40-8-26,26>>^ "Por que vocês estão com medo?", perguntou ele. "Como é pequena a sua fé!" Então levantou-se, repreendeu o vento e o mar, e houve grande calmaria.
+
+[[v40-8-27]]
+
+^<<v40-8-27,27>>^ Os discípulos ficaram admirados. "Quem é este homem?", diziam eles. "Até os ventos e o mar lhe obedecem!"
+
+[[v40-8-28]]
+
+^<<v40-8-28,28>>^ Quando Jesus chegou ao outro lado do mar, à região dos gadarenos, dois homens possuídos por demônios saíram do cemitério e foram ao seu encontro. Eram tão violentos que ninguém podia passar por ali.
+
+[[v40-8-29]]
+
+^<<v40-8-29,29>>^ Eles começaram a gritar: "Por que vem nos importunar, Filho de Deus? Veio aqui para nos atormentar antes do tempo determinado?".
+
+[[v40-8-30]]
+
+^<<v40-8-30,30>>^ A certa distância deles, havia uma grande manada de porcos pastando.
+
+[[v40-8-31]]
+
+^<<v40-8-31,31>>^ Então os demônios suplicaram: "Se vai nos expulsar, mande-nos entrar naquela manada de porcos".
+
+[[v40-8-32]]
+
+^<<v40-8-32,32>>^ "Vão!", ordenou Jesus. Os demônios saíram dos homens e entraram nos porcos, e toda a manada se atirou pela encosta íngreme do monte para dentro do mar e se afogou.
+
+[[v40-8-33]]
+
+^<<v40-8-33,33>>^ Os que cuidavam dos porcos fugiram para uma cidade próxima e contaram a todos o que havia ocorrido com os homens possuídos por demônios.
+
+[[v40-8-34]]
+
+^<<v40-8-34,34>>^ Os habitantes da cidade saíram ao encontro de Jesus e suplicaram que ele fosse embora da região.
+
+'''
+
+xref:040-mateus/040-mateus-007.adoc#v40-7-0[&#60; Capítulo Anterior] | <<v40-8-0,Topo>> | xref:040-mateus/040-mateus-009.adoc#v40-9-0[Próximo Capítulo &#62;]

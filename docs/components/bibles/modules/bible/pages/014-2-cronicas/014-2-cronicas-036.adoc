@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v14-36-0]]
+=== 2 Crônicas, 36
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v14-36-1]]
+
+^<<v14-36-1,1>>^ O povo da terra proclamou Jeoacaz, filho de Josias, como seu sucessor em Jerusalém.
+
+[[v14-36-2]]
+
+^<<v14-36-2,2>>^ Jeoacaz tinha 23 anos quando começou a reinar, e reinou em Jerusalém por três meses.
+
+[[v14-36-3]]
+
+^<<v14-36-3,3>>^ Foi deposto pelo rei do Egito, que exigiu de Judá o pagamento de 3.500 quilos de prata e 35 quilos de ouro como tributo.
+
+[[v14-36-4]]
+
+^<<v14-36-4,4>>^ O rei do Egito nomeou Eliaquim, irmão de Jeoacaz, rei sobre Judá e sobre Jerusalém, e mudou o nome dele para Jeoaquim. Depois, Neco levou Jeoacaz para o Egito como prisioneiro.
+
+[[v14-36-5]]
+
+^<<v14-36-5,5>>^ Jeoaquim tinha 25 anos quando começou a reinar, e reinou em Jerusalém por onze anos. Fez o que era mau aos olhos do SENHOR, seu Deus.
+
+[[v14-36-6]]
+
+^<<v14-36-6,6>>^ Então Nabucodonosor, rei da Babilônia, atacou Jerusalém e prendeu Jeoaquim com correntes de bronze. Depois, levou-o para a Babilônia.
+
+[[v14-36-7]]
+
+^<<v14-36-7,7>>^ Nabucodonosor também levou alguns dos tesouros do templo do SENHOR e os colocou em seu palácio, na Babilônia.
+
+[[v14-36-8]]
+
+^<<v14-36-8,8>>^ Os demais acontecimentos do reinado de Jeoaquim, incluindo todas as coisas detestáveis que fez e tudo que foi achado contra ele, estão registrados no Livro dos Reis de Israel e de Judá . Seu filho Joaquim foi seu sucessor.
+
+[[v14-36-9]]
+
+^<<v14-36-9,9>>^ Joaquim tinha 18 anos quando começou a reinar, e reinou em Jerusalém por três meses e dez dias. Fez o que era mau aos olhos do SENHOR.
+
+[[v14-36-10]]
+
+^<<v14-36-10,10>>^ Na virada do ano, o rei Nabucodonosor levou Joaquim para a Babilônia. Nessa ocasião, também levou os tesouros do templo do SENHOR. Nabucodonosor nomeou Zedequias, tio de Joaquim, rei sobre Judá e sobre Jerusalém.
+
+[[v14-36-11]]
+
+^<<v14-36-11,11>>^ Zedequias tinha 21 anos quando começou a reinar, e reinou em Jerusalém por onze anos.
+
+[[v14-36-12]]
+
+^<<v14-36-12,12>>^ Zedequias fez o que era mau aos olhos do SENHOR, seu Deus, e não se humilhou quando o profeta Jeremias lhe falou diretamente da parte do SENHOR.
+
+[[v14-36-13]]
+
+^<<v14-36-13,13>>^ Também se rebelou contra o rei Nabucodonosor, embora lhe tivesse jurado lealdade em nome de Deus. Zedequias era um homem duro e teimoso e se recusou a voltar para o SENHOR, o Deus de Israel.
+
+[[v14-36-14]]
+
+^<<v14-36-14,14>>^ Da mesma forma, todos os líderes dos sacerdotes e o povo se tornaram cada vez mais infiéis. Seguiram todas as práticas detestáveis das nações vizinhas e profanaram o templo do SENHOR que havia sido consagrado em Jerusalém.
+
+[[v14-36-15]]
+
+^<<v14-36-15,15>>^ Repetidamente, o SENHOR, o Deus de seus antepassados, enviou profetas para adverti-los, pois tinha compaixão de seu povo e do lugar de sua habitação.
+
+[[v14-36-16]]
+
+^<<v14-36-16,16>>^ No entanto, eles zombaram dos mensageiros de Deus e desprezaram suas palavras. Caçoaram dos profetas até que a ira do SENHOR não pôde mais ser contida e nada mais se pôde fazer.
+
+[[v14-36-17]]
+
+^<<v14-36-17,17>>^ Então o SENHOR trouxe o rei da Babilônia contra eles. Os babilônios mataram os jovens e foram atrás deles até dentro do santuário. Não tiveram piedade nem dos rapazes, nem das moças, nem dos idosos e doentes. Deus os entregou todos nas mãos do rei.
+
+[[v14-36-18]]
+
+^<<v14-36-18,18>>^ Ele levou para a Babilônia todos os utensílios, grandes e pequenos, do templo de Deus e todos os tesouros do templo do SENHOR e do palácio do rei e de seus oficiais.
+
+[[v14-36-19]]
+
+^<<v14-36-19,19>>^ Seu exército queimou o templo de Deus, derrubou os muros de Jerusalém, queimou todos os palácios e destruiu tudo que era de valor.
+
+[[v14-36-20]]
+
+^<<v14-36-20,20>>^ Os poucos habitantes que sobreviveram foram levados para o exílio na Babilônia e se tornaram servos do rei e de seus filhos, até que o reino da Pérsia conquistou o poder.
+
+[[v14-36-21]]
+
+^<<v14-36-21,21>>^ Cumpriu-se, desse modo, a mensagem do SENHOR transmitida por Jeremias. A terra finalmente desfrutou seu descanso sabático e permaneceu desolada até que se completaram os setenta anos, conforme o profeta havia anunciado.
+
+[[v14-36-22]]
+
+^<<v14-36-22,22>>^ No primeiro ano do reinado de Ciro, rei da Pérsia, o SENHOR cumpriu a profecia que havia anunciado por meio de Jeremias. O SENHOR despertou o coração de Ciro para registrar por escrito a seguinte proclamação e enviá-la a todo o seu reino:
+
+[[v14-36-23]]
+
+^<<v14-36-23,23>>^ "Assim diz Ciro, rei da Pérsia: "O SENHOR, o Deus dos céus, me deu todos os reinos da terra. Ele me encarregou de construir para ele um templo em Jerusalém, na terra de Judá. Quem pertence ao povo dele, volte para realizar essa tarefa. E que o SENHOR, seu Deus, esteja com vocês!".
+
+'''
+
+xref:014-2-cronicas/014-2-cronicas-035.adoc#v14-35-0[&#60; Capítulo Anterior] | <<v14-36-0,Topo>> | xref:015-esdras/015-esdras-001.adoc#v15-1-0[Próximo Capítulo &#62;]

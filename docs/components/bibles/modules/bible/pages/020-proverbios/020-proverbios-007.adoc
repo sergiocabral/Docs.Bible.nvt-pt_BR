@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v20-7-0]]
+=== Provérbios, 7
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v20-7-1]]
+
+^<<v20-7-1,1>>^ Meu filho, siga meu conselho; guarde meus mandamentos como um tesouro.
+
+[[v20-7-2]]
+
+^<<v20-7-2,2>>^ Obedeça a meus mandamentos e viva; cuide de minhas instruções como da menina de seus olhos.
+
+[[v20-7-3]]
+
+^<<v20-7-3,3>>^ Amarre-as aos dedos como lembrança e escreva-as no fundo do coração.
+
+[[v20-7-4]]
+
+^<<v20-7-4,4>>^ Ame a sabedoria como se fosse sua irmã e faça do discernimento um membro da família.
+
+[[v20-7-5]]
+
+^<<v20-7-5,5>>^ Eles o guardarão da mulher imoral, das palavras sedutoras da promíscua.
+
+[[v20-7-6]]
+
+^<<v20-7-6,6>>^ Enquanto estava à janela de minha casa e olhava pela cortina,
+
+[[v20-7-7]]
+
+^<<v20-7-7,7>>^ vi alguns rapazes ingênuos e percebi um entre eles que não tinha juízo.
+
+[[v20-7-8]]
+
+^<<v20-7-8,8>>^ Ele atravessava a rua, perto da esquina onde morava certa mulher, e caminhava em direção à casa dela.
+
+[[v20-7-9]]
+
+^<<v20-7-9,9>>^ Era o crepúsculo, o anoitecer, quando caía a escuridão profunda.
+
+[[v20-7-10]]
+
+^<<v20-7-10,10>>^ A mulher se aproximou dele, com roupas provocantes e coração malicioso.
+
+[[v20-7-11]]
+
+^<<v20-7-11,11>>^ Era ousada e inquieta, do tipo que nunca para em casa.
+
+[[v20-7-12]]
+
+^<<v20-7-12,12>>^ Está sempre nas ruas e nos mercados, à espreita em cada esquina.
+
+[[v20-7-13]]
+
+^<<v20-7-13,13>>^ Abraçou o rapaz e o beijou e, sem a menor vergonha, lhe disse:
+
+[[v20-7-14]]
+
+^<<v20-7-14,14>>^ "Hoje apresentei uma oferta de paz e cumpri meus votos.
+
+[[v20-7-15]]
+
+^<<v20-7-15,15>>^ Por isso, estava à sua procura; saí para encontrá-lo, e agora o achei!
+
+[[v20-7-16]]
+
+^<<v20-7-16,16>>^ Estendi lindas cobertas sobre minha cama e lençóis coloridos de linho egípcio.
+
+[[v20-7-17]]
+
+^<<v20-7-17,17>>^ Perfumei minha cama com mirra, aloés e canela.
+
+[[v20-7-18]]
+
+^<<v20-7-18,18>>^ Venha, vamos nos embriagar de amor até o amanhecer! Vamos desfrutar as carícias um do outro,
+
+[[v20-7-19]]
+
+^<<v20-7-19,19>>^ pois meu marido não está em casa. Ele partiu numa longa viagem;
+
+[[v20-7-20]]
+
+^<<v20-7-20,20>>^ levou consigo uma bolsa cheia de dinheiro e só voltará no fim do mês".
+
+[[v20-7-21]]
+
+^<<v20-7-21,21>>^ Assim ela o seduziu com palavras agradáveis e com elogios doces o atraiu.
+
+[[v20-7-22]]
+
+^<<v20-7-22,22>>^ Ele a acompanhou de imediato, como boi que vai para o matadouro, como cervo que caiu na armadilha
+
+[[v20-7-23]]
+
+^<<v20-7-23,23>>^ à espera da flecha que lhe atravessará o coração, como o pássaro que voa direto para o laço, sem saber que lhe custará a vida.
+
+[[v20-7-24]]
+
+^<<v20-7-24,24>>^ Portanto, meu filho, ouça-me; preste atenção às minhas palavras.
+
+[[v20-7-25]]
+
+^<<v20-7-25,25>>^ Não deixe que seu coração se desvie para ela, não se perca em seus caminhos tortuosos.
+
+[[v20-7-26]]
+
+^<<v20-7-26,26>>^ Pois ela causou a ruína de muitos; não são poucas as suas vítimas.
+
+[[v20-7-27]]
+
+^<<v20-7-27,27>>^ Sua casa é o caminho para a sepultura, seu quarto é a câmara da morte.
+
+'''
+
+xref:020-proverbios/020-proverbios-006.adoc#v20-6-0[&#60; Capítulo Anterior] | <<v20-7-0,Topo>> | xref:020-proverbios/020-proverbios-008.adoc#v20-8-0[Próximo Capítulo &#62;]

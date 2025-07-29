@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v23-54-0]]
+=== Isaías, 54
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v23-54-1]]
+
+^<<v23-54-1,1>>^ "Cante, ó mulher sem filhos, você que nunca deu à luz! Cante alegremente, em alta voz, ó Jerusalém, você que nunca esteve em trabalho de parto! Pois a abandonada agora tem mais filhos que a mulher que vive com o marido", diz o SENHOR.
+
+[[v23-54-2]]
+
+^<<v23-54-2,2>>^ "Amplie o lugar onde mora, construa mais um cômodo, aumente sua casa, e não economize nisso!
+
+[[v23-54-3]]
+
+^<<v23-54-3,3>>^ Pois logo você transbordará para todos os lados; seus descendentes ocuparão outras nações e povoarão as cidades arruinadas.
+
+[[v23-54-4]]
+
+^<<v23-54-4,4>>^ "Não se assuste; você não será envergonhada. Não tenha medo; você não sofrerá humilhação. Não se lembrará mais da vergonha de sua juventude, nem da tristeza da viuvez.
+
+[[v23-54-5]]
+
+^<<v23-54-5,5>>^ Pois seu marido será aquele que a fez; o SENHOR dos Exércitos é seu nome! Ele é seu Redentor, o Santo de Israel, o Deus de toda a terra.
+
+[[v23-54-6]]
+
+^<<v23-54-6,6>>^ Pois o SENHOR a chamou de volta de seu lamento, você que era como uma jovem esposa abandonada", diz o seu Deus.
+
+[[v23-54-7]]
+
+^<<v23-54-7,7>>^ "Por um breve tempo eu a abandonei, mas com grande compaixão a receberei de volta.
+
+[[v23-54-8]]
+
+^<<v23-54-8,8>>^ Num ímpeto de fúria, escondi meu rosto de você por um momento, mas com amor eterno terei compaixão de você", diz o SENHOR, seu Redentor.
+
+[[v23-54-9]]
+
+^<<v23-54-9,9>>^ "Assim como jurei no tempo de Noé que nunca mais cobriria a terra com um dilúvio, agora juro que nunca mais ficarei irado com você nem a castigarei.
+
+[[v23-54-10]]
+
+^<<v23-54-10,10>>^ Pois, ainda que os montes se movam e as colinas desapareçam, meu amor por você permanecerá. A aliança de minha bênção jamais será quebrada", diz o SENHOR, que tem compaixão de você.
+
+[[v23-54-11]]
+
+^<<v23-54-11,11>>^ "Ó cidade açoitada por tempestades, aflita e desolada! Eu a reconstruirei com pedras preciosas e edificarei seus alicerces com safiras.
+
+[[v23-54-12]]
+
+^<<v23-54-12,12>>^ Farei suas torres de rubis cintilantes, seus portões, de joias brilhantes, seus muros, de pedras preciosas.
+
+[[v23-54-13]]
+
+^<<v23-54-13,13>>^ Ensinarei seus filhos, e eles terão grande paz.
+
+[[v23-54-14]]
+
+^<<v23-54-14,14>>^ Você estará segura sob um governo justo e imparcial, e seus inimigos se manterão afastados. Viverá em paz, e nenhum terror se aproximará.
+
+[[v23-54-15]]
+
+^<<v23-54-15,15>>^ Se alguma nação vier lutar contra você, não será porque eu a enviei; todos que a atacarem serão derrotados.
+
+[[v23-54-16]]
+
+^<<v23-54-16,16>>^ "Eu criei o ferreiro que abana as brasas do fogo e produz armas de destruição, e criei os exércitos que destroem.
+
+[[v23-54-17]]
+
+^<<v23-54-17,17>>^ Naquele dia, porém, nenhuma arma voltada contra você prevalecerá. Você calará toda voz que se levantar para acusá-la. É assim que o SENHOR agirá em favor de seus servos; eu lhes farei justiça. Eu, o SENHOR, falei!"
+
+'''
+
+xref:023-isaias/023-isaias-053.adoc#v23-53-0[&#60; Capítulo Anterior] | <<v23-54-0,Topo>> | xref:023-isaias/023-isaias-055.adoc#v23-55-0[Próximo Capítulo &#62;]

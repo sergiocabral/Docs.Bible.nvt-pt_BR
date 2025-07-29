@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v40-1-0]]
+=== Mateus, 1
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v40-1-1]]
+
+^<<v40-1-1,1>>^ Este é o registro dos antepassados de Jesus Cristo, descendente de Davi e de Abraão:
+
+[[v40-1-2]]
+
+^<<v40-1-2,2>>^ Abraão gerou Isaque. Isaque gerou Jacó. Jacó gerou Judá e seus irmãos.
+
+[[v40-1-3]]
+
+^<<v40-1-3,3>>^ Judá gerou Perez e Zerá, cuja mãe foi Tamar. Perez gerou Esrom. Esrom gerou Rão.
+
+[[v40-1-4]]
+
+^<<v40-1-4,4>>^ Rão gerou Aminadabe. Aminadabe gerou Naassom. Naassom gerou Salmom.
+
+[[v40-1-5]]
+
+^<<v40-1-5,5>>^ Salmom gerou Boaz, cuja mãe foi Raabe. Boaz gerou Obede, cuja mãe foi Rute. Obede gerou Jessé.
+
+[[v40-1-6]]
+
+^<<v40-1-6,6>>^ Jessé gerou o rei Davi. Davi gerou Salomão, cuja mãe foi Bate-Seba, viúva de Urias.
+
+[[v40-1-7]]
+
+^<<v40-1-7,7>>^ Salomão gerou Roboão. Roboão gerou Abias. Abias gerou Asa.
+
+[[v40-1-8]]
+
+^<<v40-1-8,8>>^ Asa gerou Josafá. Josafá gerou Jeorão. Jeorão gerou Uzias.
+
+[[v40-1-9]]
+
+^<<v40-1-9,9>>^ Uzias gerou Jotão. Jotão gerou Acaz. Acaz gerou Ezequias.
+
+[[v40-1-10]]
+
+^<<v40-1-10,10>>^ Ezequias gerou Manassés. Manassés gerou Amom. Amom gerou Josias.
+
+[[v40-1-11]]
+
+^<<v40-1-11,11>>^ Josias gerou Joaquim e seus irmãos, nascidos no tempo do exílio na Babilônia.
+
+[[v40-1-12]]
+
+^<<v40-1-12,12>>^ Depois do exílio na Babilônia: Joaquim gerou Salatiel. Salatiel gerou Zorobabel.
+
+[[v40-1-13]]
+
+^<<v40-1-13,13>>^ Zorobabel gerou Abiúde. Abiúde gerou Eliaquim. Eliaquim gerou Azor.
+
+[[v40-1-14]]
+
+^<<v40-1-14,14>>^ Azor gerou Sadoque. Sadoque gerou Aquim. Aquim gerou Eliúde.
+
+[[v40-1-15]]
+
+^<<v40-1-15,15>>^ Eliúde gerou Eleazar. Eleazar gerou Matã. Matã gerou Jacó.
+
+[[v40-1-16]]
+
+^<<v40-1-16,16>>^ Jacó gerou José, marido de Maria. Maria deu à luz Jesus, que é chamado Cristo.
+
+[[v40-1-17]]
+
+^<<v40-1-17,17>>^ Portanto, são catorze gerações de Abraão até Davi, catorze de Davi até o exílio na Babilônia e catorze do exílio na Babilônia até Cristo.
+
+[[v40-1-18]]
+
+^<<v40-1-18,18>>^ Foi assim que nasceu Jesus Cristo. Maria, sua mãe, estava prometida para se casar com José. Antes do casamento, porém, ela engravidou pelo poder do Espírito Santo.
+
+[[v40-1-19]]
+
+^<<v40-1-19,19>>^ José, seu noivo, era um homem justo e resolveu romper a união em segredo, pois não queria envergonhá-la com uma separação pública.
+
+[[v40-1-20]]
+
+^<<v40-1-20,20>>^ Enquanto ele pensava nisso, um anjo do Senhor lhe apareceu em sonho e disse: "José, filho de Davi, não tenha medo de receber Maria como esposa, pois a criança dentro dela foi concebida pelo Espírito Santo.
+
+[[v40-1-21]]
+
+^<<v40-1-21,21>>^ Ela terá um filho, e você lhe dará o nome de Jesus, pois ele salvará seu povo dos seus pecados".
+
+[[v40-1-22]]
+
+^<<v40-1-22,22>>^ Tudo isso aconteceu para cumprir o que o Senhor tinha dito por meio do profeta:
+
+[[v40-1-23]]
+
+^<<v40-1-23,23>>^ "Vejam! A virgem ficará grávida! Ela dará à luz um filho, e o chamarão Emanuel, que significa ‘Deus conosco’".
+
+[[v40-1-24]]
+
+^<<v40-1-24,24>>^ Quando José acordou, fez o que o anjo do Senhor lhe havia ordenado e recebeu Maria como esposa.
+
+[[v40-1-25]]
+
+^<<v40-1-25,25>>^ No entanto, não teve relações com ela até o menino nascer; e ele lhe deu o nome de Jesus.
+
+'''
+
+xref:039-malaquias/039-malaquias-004.adoc#v39-4-0[&#60; Capítulo Anterior] | <<v40-1-0,Topo>> | xref:040-mateus/040-mateus-002.adoc#v40-2-0[Próximo Capítulo &#62;]

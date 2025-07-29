@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v18-7-0]]
+=== Jó, 7
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v18-7-1]]
+
+^<<v18-7-1,1>>^ "Acaso a vida na terra não é uma luta? Nossos dias são como os de um trabalhador braçal,
+
+[[v18-7-2]]
+
+^<<v18-7-2,2>>^ como o servo que anseia pela sombra, como o empregado à espera do pagamento.
+
+[[v18-7-3]]
+
+^<<v18-7-3,3>>^ Recebi de herança meses de puro vazio, fui condenado a passar noites longas em aflição.
+
+[[v18-7-4]]
+
+^<<v18-7-4,4>>^ Deitado na cama, penso: ‘Quando chegará a manhã?’, mas a noite se arrasta e reviro-me até o amanhecer.
+
+[[v18-7-5]]
+
+^<<v18-7-5,5>>^ Meu corpo está coberto de vermes e crostas de feridas; minha pele se racha e vaza pus."
+
+[[v18-7-6]]
+
+^<<v18-7-6,6>>^ "Meus dias correm mais depressa que a lançadeira de um tecelão e terminam sem esperança.
+
+[[v18-7-7]]
+
+^<<v18-7-7,7>>^ Lembra-te, ó Deus, de que minha vida é apenas um sopro; nunca mais voltarei a ver a felicidade.
+
+[[v18-7-8]]
+
+^<<v18-7-8,8>>^ Tu me vês agora, mas em breve não me verás; procurarás por mim, mas já não existirei.
+
+[[v18-7-9]]
+
+^<<v18-7-9,9>>^ Como uma nuvem que se dissipa e some, os que descem à sepultura não voltam mais.
+
+[[v18-7-10]]
+
+^<<v18-7-10,10>>^ Deixam seu lar para sempre, e ninguém se lembrará deles novamente.
+
+[[v18-7-11]]
+
+^<<v18-7-11,11>>^ "Não posso me calar, tenho de expressar minha angústia; minha alma amargurada precisa se queixar.
+
+[[v18-7-12]]
+
+^<<v18-7-12,12>>^ Acaso sou eu o mar revolto ou algum monstro marinho, para que me ponhas sob vigilância?
+
+[[v18-7-13]]
+
+^<<v18-7-13,13>>^ Penso: ‘Na cama encontrarei descanso, e o leito me aliviará o sofrimento’,
+
+[[v18-7-14]]
+
+^<<v18-7-14,14>>^ mas tu me assustas com sonhos e me aterrorizas com visões.
+
+[[v18-7-15]]
+
+^<<v18-7-15,15>>^ Preferiria ser estrangulado; melhor morrer que sofrer assim.
+
+[[v18-7-16]]
+
+^<<v18-7-16,16>>^ Odeio minha vida e não quero continuar a viver; deixa-me em paz, pois meus dias passam como um sopro.
+
+[[v18-7-17]]
+
+^<<v18-7-17,17>>^ "O que é o ser humano, para que lhe dês tanta importância e penses nele com tanta atenção?
+
+[[v18-7-18]]
+
+^<<v18-7-18,18>>^ Pois o examinas todas as manhãs e o pões à prova a cada instante.
+
+[[v18-7-19]]
+
+^<<v18-7-19,19>>^ Por que não me deixas em paz? Dá-me tempo pelo menos para engolir a saliva!
+
+[[v18-7-20]]
+
+^<<v18-7-20,20>>^ Se eu pequei, o que te fiz, ó Vigia de toda a humanidade? Por que fizeste de mim o teu alvo? Acaso sou um fardo para ti?
+
+[[v18-7-21]]
+
+^<<v18-7-21,21>>^ Por que não perdoas meu pecado e removes minha culpa? Pois em breve me deitarei no pó e morrerei; quando procurares por mim, já não existirei".
+
+'''
+
+xref:018-jo/018-jo-006.adoc#v18-6-0[&#60; Capítulo Anterior] | <<v18-7-0,Topo>> | xref:018-jo/018-jo-008.adoc#v18-8-0[Próximo Capítulo &#62;]

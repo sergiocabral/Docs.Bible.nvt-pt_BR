@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v3-21-0]]
+=== Levítico, 21
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v3-21-1]]
+
+^<<v3-21-1,1>>^ O SENHOR disse a Moisés: "Dê as seguintes instruções aos sacerdotes, os filhos de Arão. "Nenhum sacerdote deverá se tornar cerimonialmente impuro por causa da morte de alguém do povo.
+
+[[v3-21-2]]
+
+^<<v3-21-2,2>>^ As únicas exceções são seus parentes mais próximos: mãe ou pai, filho ou filha, irmão
+
+[[v3-21-3]]
+
+^<<v3-21-3,3>>^ ou irmã virgem que dependa dele, uma vez que não tem marido. Nesse caso, poderá contaminar-se.
+
+[[v3-21-4]]
+
+^<<v3-21-4,4>>^ O sacerdote não deverá contaminar-se e tornar-se cerimonialmente impuro por causa de algum parente de sua esposa.
+
+[[v3-21-5]]
+
+^<<v3-21-5,5>>^ "Os sacerdotes não rasparão a cabeça, não rasparão a barba rente à pele, nem farão cortes no corpo.
+
+[[v3-21-6]]
+
+^<<v3-21-6,6>>^ Serão consagrados ao seu Deus e jamais desonrarão o nome de Deus, pois são eles que apresentam as ofertas especiais para o SENHOR, ofertas de alimento para o seu Deus.
+
+[[v3-21-7]]
+
+^<<v3-21-7,7>>^ "Os sacerdotes não se casarão com uma mulher contaminada pela prostituição, nem se casarão com uma mulher divorciada do marido, pois o sacerdote é consagrado ao seu Deus.
+
+[[v3-21-8]]
+
+^<<v3-21-8,8>>^ Tratem-no como santo, pois ele traz as ofertas de alimento perante o seu Deus. Considerem-no santo, pois eu, o SENHOR, sou santo e santifico vocês.
+
+[[v3-21-9]]
+
+^<<v3-21-9,9>>^ "Se a filha de um sacerdote se tornar prostituta e, desse modo, se contaminar, também contamina a santidade de seu pai e deverá morrer queimada.
+
+[[v3-21-10]]
+
+^<<v3-21-10,10>>^ "O sumo sacerdote ocupa a posição mais elevada entre todos os sacerdotes. O óleo da unção foi derramado sobre sua cabeça, e ele foi consagrado para vestir as roupas sacerdotais. Nunca deixará o cabelo despenteado nem rasgará suas roupas em sinal de luto.
+
+[[v3-21-11]]
+
+^<<v3-21-11,11>>^ Não se contaminará por aproximar-se de um cadáver. Não se tornará cerimonialmente impuro nem mesmo por causa de seu pai ou de sua mãe.
+
+[[v3-21-12]]
+
+^<<v3-21-12,12>>^ Não deixará o santuário, nem contaminará o santuário do seu Deus, pois foi consagrado pelo óleo da unção de seu Deus. Eu sou o SENHOR.
+
+[[v3-21-13]]
+
+^<<v3-21-13,13>>^ "O sumo sacerdote somente se casará com uma virgem.
+
+[[v3-21-14]]
+
+^<<v3-21-14,14>>^ Não se casará com uma viúva, nem com uma mulher divorciada, nem com uma mulher contaminada pela prostituição. Sua esposa deverá ser uma virgem de seu próprio clã,
+
+[[v3-21-15]]
+
+^<<v3-21-15,15>>^ para que ele não desonre seus descendentes entre o povo, pois eu sou o SENHOR, que o santifico".
+
+[[v3-21-16]]
+
+^<<v3-21-16,16>>^ Então o SENHOR disse a Moisés:
+
+[[v3-21-17]]
+
+^<<v3-21-17,17>>^ "Dê as seguintes instruções a Arão. Nas gerações futuras, nenhum de seus descendentes portador de algum defeito físico estará qualificado para trazer ofertas de alimento ao seu Deus.
+
+[[v3-21-18]]
+
+^<<v3-21-18,18>>^ Nenhum homem que tenha algum defeito estará qualificado, seja ele cego, aleijado, mutilado ou deformado,
+
+[[v3-21-19]]
+
+^<<v3-21-19,19>>^ ou tenha o pé ou braço quebrado,
+
+[[v3-21-20]]
+
+^<<v3-21-20,20>>^ ou seja corcunda, ou anão, ou tenha um olho defeituoso, ou feridas na pele ou sarna, ou testículos defeituosos.
+
+[[v3-21-21]]
+
+^<<v3-21-21,21>>^ Nenhum descendente de Arão que tenha algum defeito se aproximará do altar para apresentar ofertas especiais para o SENHOR. Uma vez que tem defeito, não poderá se aproximar do altar para trazer ofertas de alimento ao seu Deus.
+
+[[v3-21-22]]
+
+^<<v3-21-22,22>>^ No entanto, poderá comer do alimento oferecido a Deus, das ofertas santas e das ofertas santíssimas.
+
+[[v3-21-23]]
+
+^<<v3-21-23,23>>^ Mas, por causa de seu defeito físico, não passará adiante da cortina interna nem se aproximará do altar, pois contaminaria meus lugares santos. Eu sou o SENHOR, que santifico esses lugares".
+
+[[v3-21-24]]
+
+^<<v3-21-24,24>>^ Moisés deu essas instruções a Arão, a seus filhos e a todos os israelitas.
+
+'''
+
+xref:003-levitico/003-levitico-020.adoc#v3-20-0[&#60; Capítulo Anterior] | <<v3-21-0,Topo>> | xref:003-levitico/003-levitico-022.adoc#v3-22-0[Próximo Capítulo &#62;]

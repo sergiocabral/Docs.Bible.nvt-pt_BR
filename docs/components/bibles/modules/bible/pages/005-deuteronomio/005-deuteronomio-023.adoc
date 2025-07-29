@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v5-23-0]]
+=== Deuteronômio, 23
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v5-23-1]]
+
+^<<v5-23-1,1>>^ "Se um homem tiver os testículos esmagados ou o membro amputado, não terá permissão de entrar nas reuniões sagradas do SENHOR.
+
+[[v5-23-2]]
+
+^<<v5-23-2,2>>^ "Se alguém for filho ilegítimo, nem ele nem seus descendentes, até a décima geração, terão permissão de entrar nas reuniões sagradas do SENHOR.
+
+[[v5-23-3]]
+
+^<<v5-23-3,3>>^ "Nenhum amonita ou moabita, e nenhum de seus descendentes, até a décima geração, terá permissão de participar das reuniões sagradas do SENHOR.
+
+[[v5-23-4]]
+
+^<<v5-23-4,4>>^ Essas nações não os receberam com alimento e água quando vocês saíram do Egito. Em vez disso, contrataram Balaão, filho de Beor, nascido em Petor, na Mesopotâmia, para amaldiçoá-los.
+
+[[v5-23-5]]
+
+^<<v5-23-5,5>>^ Mas o SENHOR, seu Deus, se recusou a ouvir Balaão e transformou a maldição em bênção, pois o SENHOR, seu Deus, os ama.
+
+[[v5-23-6]]
+
+^<<v5-23-6,6>>^ Enquanto viverem, jamais promovam o bem-estar e a prosperidade dos amonitas ou moabitas.
+
+[[v5-23-7]]
+
+^<<v5-23-7,7>>^ "Não mostrem ódio aos edomitas, pois são seus parentes, nem aos egípcios, pois vocês viveram como estrangeiros entre eles.
+
+[[v5-23-8]]
+
+^<<v5-23-8,8>>^ A terceira geração de edomitas e egípcios poderá entrar nas reuniões sagradas do SENHOR."
+
+[[v5-23-9]]
+
+^<<v5-23-9,9>>^ "Quando saírem para guerrear contra seus inimigos, mantenham-se afastados de tudo que é impuro.
+
+[[v5-23-10]]
+
+^<<v5-23-10,10>>^ "O homem que ficar cerimonialmente impuro por causa de uma polução noturna sairá do acampamento e ficará fora o dia todo.
+
+[[v5-23-11]]
+
+^<<v5-23-11,11>>^ Ao entardecer, ele se banhará e, ao pôr do sol, poderá voltar ao acampamento.
+
+[[v5-23-12]]
+
+^<<v5-23-12,12>>^ "Determinem uma área fora do acampamento onde possam fazer as necessidades.
+
+[[v5-23-13]]
+
+^<<v5-23-13,13>>^ Cada um deve ter uma pá como parte de seu equipamento. Quando forem evacuar, cavem um buraco com a pá e cubram as fezes.
+
+[[v5-23-14]]
+
+^<<v5-23-14,14>>^ O acampamento deverá ser santo, pois o SENHOR, seu Deus, anda no meio dele para proteger vocês e derrotar seus inimigos. Cuidem para que ele não veja em seu meio qualquer coisa vergonhosa e se afaste de vocês.
+
+[[v5-23-15]]
+
+^<<v5-23-15,15>>^ "Se escravos fugirem e se refugiarem com vocês, não os devolvam a seus senhores.
+
+[[v5-23-16]]
+
+^<<v5-23-16,16>>^ Permitam que eles vivam em seu meio em qualquer cidade que escolherem, e não os oprimam.
+
+[[v5-23-17]]
+
+^<<v5-23-17,17>>^ "Nenhum israelita, homem ou mulher, se dedicará à prostituição em templos idólatras.
+
+[[v5-23-18]]
+
+^<<v5-23-18,18>>^ "Quando apresentarem uma oferta para cumprir um voto, não tragam à casa do SENHOR, seu Deus, nenhuma oferta proveniente dos lucros de uma prostituta ou de um prostituto, pois ambos são detestáveis ao SENHOR, seu Deus.
+
+[[v5-23-19]]
+
+^<<v5-23-19,19>>^ "Não cobrem juros sobre os empréstimos que fizerem a um irmão israelita, seja de dinheiro, de alimento ou de qualquer outra coisa.
+
+[[v5-23-20]]
+
+^<<v5-23-20,20>>^ Poderão cobrar juros dos estrangeiros, mas não cobrarão juros de israelitas, para que o SENHOR, seu Deus, os abençoe em tudo que fizerem na terra da qual estão prestes a tomar posse.
+
+[[v5-23-21]]
+
+^<<v5-23-21,21>>^ "Quando fizerem um voto ao SENHOR, seu Deus, cumpram-no prontamente. O SENHOR, seu Deus, cobrará de vocês o cumprimento dos votos, ou serão culpados de pecado.
+
+[[v5-23-22]]
+
+^<<v5-23-22,22>>^ Não é pecado deixar de fazer voto.
+
+[[v5-23-23]]
+
+^<<v5-23-23,23>>^ Mas, se fizerem um voto voluntário, cumpram cuidadosamente a promessa feita ao SENHOR, seu Deus.
+
+[[v5-23-24]]
+
+^<<v5-23-24,24>>^ "Quando entrarem no vinhedo de seu vizinho, poderão comer uvas até se saciarem, mas não as levem num cesto.
+
+[[v5-23-25]]
+
+^<<v5-23-25,25>>^ E, quando entrarem no campo de um vizinho, poderão apanhar as espigas de cereal com a mão, mas não usem a foice para cortá-las."
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-022.adoc#v5-22-0[&#60; Capítulo Anterior] | <<v5-23-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-024.adoc#v5-24-0[Próximo Capítulo &#62;]

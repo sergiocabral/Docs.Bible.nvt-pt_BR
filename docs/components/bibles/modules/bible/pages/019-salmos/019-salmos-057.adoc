@@ -1,0 +1,53 @@
+include::./index.adoc[]
+
+[[v19-57-0]]
+=== Salmos, 57
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-57-1]]
+
+^<<v19-57-1,1>>^ Tem misericórdia de mim, ó Deus, tem misericórdia! Em ti me refugio. À sombra de tuas asas me esconderei, até que passe o perigo.
+
+[[v19-57-2]]
+
+^<<v19-57-2,2>>^ Clamo ao Deus Altíssimo, ao Deus que cumpre seus propósitos para mim.
+
+[[v19-57-3]]
+
+^<<v19-57-3,3>>^ Dos céus ele enviará socorro para me salvar e envergonhará os que me perseguem. Interlúdio Meu Deus enviará seu amor e sua fidelidade!
+
+[[v19-57-4]]
+
+^<<v19-57-4,4>>^ Estou cercado de leões ferozes, ansiosos para devorar suas presas humanas. Seus dentes são como lanças e flechas, e sua língua corta como espada afiada.
+
+[[v19-57-5]]
+
+^<<v19-57-5,5>>^ Sê exaltado, ó Deus, acima dos mais altos céus; que a tua glória brilhe sobre toda a terra!
+
+[[v19-57-6]]
+
+^<<v19-57-6,6>>^ Meus inimigos me prepararam uma armadilha; estou exausto de tanta angústia. Abriram uma cova profunda em meu caminho, mas eles próprios caíram nela. Interlúdio
+
+[[v19-57-7]]
+
+^<<v19-57-7,7>>^ Meu coração está firme em ti, ó Deus, meu coração está firme; por isso canto louvores a ti!
+
+[[v19-57-8]]
+
+^<<v19-57-8,8>>^ Desperte, minha alma! Despertem, lira e harpa! Quero acordar o amanhecer com a minha canção.
+
+[[v19-57-9]]
+
+^<<v19-57-9,9>>^ Eu te darei graças, Senhor, no meio dos povos; cantarei louvores a ti entre as nações.
+
+[[v19-57-10]]
+
+^<<v19-57-10,10>>^ Pois o teu amor se eleva até os céus; a tua fidelidade alcança as nuvens.
+
+[[v19-57-11]]
+
+^<<v19-57-11,11>>^ Sê exaltado, ó Deus, acima dos mais altos céus; que a tua glória brilhe sobre toda a terra!
+
+'''
+
+xref:019-salmos/019-salmos-056.adoc#v19-56-0[&#60; Capítulo Anterior] | <<v19-57-0,Topo>> | xref:019-salmos/019-salmos-058.adoc#v19-58-0[Próximo Capítulo &#62;]

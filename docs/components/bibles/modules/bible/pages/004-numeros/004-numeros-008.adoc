@@ -1,0 +1,113 @@
+include::./index.adoc[]
+
+[[v4-8-0]]
+=== Números, 8
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v4-8-1]]
+
+^<<v4-8-1,1>>^ O SENHOR disse a Moisés:
+
+[[v4-8-2]]
+
+^<<v4-8-2,2>>^ "Dê as seguintes instruções a Arão. Quando você colocar as sete lâmpadas, posicione-as de modo que iluminem o espaço à frente do candelabro".
+
+[[v4-8-3]]
+
+^<<v4-8-3,3>>^ Arão seguiu essa instrução. Posicionou as sete lâmpadas de modo que iluminassem o espaço à frente do candelabro, conforme o SENHOR havia ordenado a Moisés.
+
+[[v4-8-4]]
+
+^<<v4-8-4,4>>^ O candelabro todo, desde a base até as flores, era de ouro batido. Foi feito exatamente de acordo com o modelo que o SENHOR havia mostrado a Moisés.
+
+[[v4-8-5]]
+
+^<<v4-8-5,5>>^ O SENHOR disse a Moisés:
+
+[[v4-8-6]]
+
+^<<v4-8-6,6>>^ "Agora, separe os levitas do restante dos israelitas e torne-os cerimonialmente puros.
+
+[[v4-8-7]]
+
+^<<v4-8-7,7>>^ Para isso, você aspergirá sobre eles a água da purificação e os fará raspar todo o corpo e lavar as roupas. Assim, estarão cerimonialmente puros.
+
+[[v4-8-8]]
+
+^<<v4-8-8,8>>^ Instrua-os a trazerem um novilho e uma oferta de cereal de farinha da melhor qualidade umedecida com azeite, junto com outro novilho como oferta pelo pecado.
+
+[[v4-8-9]]
+
+^<<v4-8-9,9>>^ Reúna toda a comunidade de Israel e apresente os levitas à entrada da tenda do encontro.
+
+[[v4-8-10]]
+
+^<<v4-8-10,10>>^ Quando você trouxer os levitas diante do SENHOR, os israelitas colocarão as mãos sobre eles.
+
+[[v4-8-11]]
+
+^<<v4-8-11,11>>^ Com as mãos levantadas, Arão apresentará os levitas ao SENHOR como oferta especial dos israelitas e, desse modo, os consagrará ao serviço do SENHOR.
+
+[[v4-8-12]]
+
+^<<v4-8-12,12>>^ "Em seguida, os levitas colocarão as mãos sobre a cabeça dos novilhos. Você sacrificará um novilho ao SENHOR como oferta pelo pecado, e o outro, como holocausto, a fim de fazer expiação pelos levitas.
+
+[[v4-8-13]]
+
+^<<v4-8-13,13>>^ Coloque os levitas em pé diante de Arão e de seus filhos e, com as mãos levantadas, apresente-os como oferta especial para o SENHOR.
+
+[[v4-8-14]]
+
+^<<v4-8-14,14>>^ Assim, você separará os levitas do restante dos israelitas, e os levitas serão meus.
+
+[[v4-8-15]]
+
+^<<v4-8-15,15>>^ Depois disso, eles entrarão na tenda do encontro para realizar o trabalho deles, pois você os purificou e os apresentou como oferta especial.
+
+[[v4-8-16]]
+
+^<<v4-8-16,16>>^ "Dentre todos os israelitas, os levitas são reservados para mim. Tomei-os para mim em lugar de todos os filhos mais velhos dos israelitas; tomei os levitas como seus substitutos.
+
+[[v4-8-17]]
+
+^<<v4-8-17,17>>^ Pois todos os filhos mais velhos e todos os machos das primeiras crias dos animais em Israel são meus. Eu os separei para mim no dia em que feri mortalmente todos os filhos mais velhos dos egípcios e os machos das primeiras crias de seus animais.
+
+[[v4-8-18]]
+
+^<<v4-8-18,18>>^ Sim, tomei para mim os levitas em lugar de todos os filhos mais velhos de Israel.
+
+[[v4-8-19]]
+
+^<<v4-8-19,19>>^ E, dentre todos os israelitas, designei os levitas para Arão e seus filhos. Eles servirão na tenda do encontro em favor dos israelitas e oferecerão sacrifícios para fazer expiação pelo povo, de modo que nenhuma praga os atinja quando se aproximarem do santuário".
+
+[[v4-8-20]]
+
+^<<v4-8-20,20>>^ Assim, Moisés, Arão e toda a comunidade de Israel consagraram os levitas, seguindo todas as instruções que o SENHOR deu a Moisés.
+
+[[v4-8-21]]
+
+^<<v4-8-21,21>>^ Os levitas se purificaram e lavaram as roupas, e Arão os apresentou ao SENHOR como oferta especial. Em seguida, ofereceu um sacrifício e fez expiação por eles, a fim de purificá-los.
+
+[[v4-8-22]]
+
+^<<v4-8-22,22>>^ Depois disso, os levitas entraram na tenda do encontro para realizar suas tarefas como assistentes de Arão e seus filhos. Assim, fizeram tudo que SENHOR havia ordenado a Moisés a respeito dos levitas.
+
+[[v4-8-23]]
+
+^<<v4-8-23,23>>^ O SENHOR também disse a Moisés:
+
+[[v4-8-24]]
+
+^<<v4-8-24,24>>^ "Dê a seguinte instrução aos levitas. Começarão a servir na tenda do encontro aos 25 anos
+
+[[v4-8-25]]
+
+^<<v4-8-25,25>>^ e deixarão o serviço aos 50 anos.
+
+[[v4-8-26]]
+
+^<<v4-8-26,26>>^ Depois que deixarem o serviço, ajudarão seus colegas levitas no trabalho de cuidar da tenda do encontro, mas não realizarão mais as cerimônias. Assim você designará as funções dos levitas".
+
+'''
+
+xref:004-numeros/004-numeros-007.adoc#v4-7-0[&#60; Capítulo Anterior] | <<v4-8-0,Topo>> | xref:004-numeros/004-numeros-009.adoc#v4-9-0[Próximo Capítulo &#62;]

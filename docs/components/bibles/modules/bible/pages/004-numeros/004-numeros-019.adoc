@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v4-19-0]]
+=== Números, 19
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v4-19-1]]
+
+^<<v4-19-1,1>>^ O SENHOR disse a Moisés e a Arão:
+
+[[v4-19-2]]
+
+^<<v4-19-2,2>>^ "Esta é uma prescrição da lei que o SENHOR ordenou: Diga aos israelitas que tragam até vocês uma novilha vermelha, um animal perfeito, sem defeito, sobre o qual nunca tenha sido colocada a canga de um arado.
+
+[[v4-19-3]]
+
+^<<v4-19-3,3>>^ Entreguem a novilha ao sacerdote Eleazar. Ele a levará para fora do acampamento e, na presença dele, a novilha será morta.
+
+[[v4-19-4]]
+
+^<<v4-19-4,4>>^ Eleazar pegará com o dedo um pouco do sangue e dele aspergirá sete vezes na direção da entrada da tenda do encontro.
+
+[[v4-19-5]]
+
+^<<v4-19-5,5>>^ A novilha inteira — couro, carne, sangue e excrementos — será queimada na presença de Eleazar.
+
+[[v4-19-6]]
+
+^<<v4-19-6,6>>^ Então ele pegará um pedaço de madeira de cedro, um ramo de hissopo e um pouco de fio vermelho e os lançará no fogo onde a novilha estiver sendo queimada.
+
+[[v4-19-7]]
+
+^<<v4-19-7,7>>^ "Em seguida, o sacerdote lavará suas roupas e se banhará com água. Depois disso, voltará ao acampamento, mas ficará cerimonialmente impuro até o entardecer.
+
+[[v4-19-8]]
+
+^<<v4-19-8,8>>^ O homem que queimar a novilha também lavará suas roupas e se banhará com água, e também ficará impuro até o entardecer.
+
+[[v4-19-9]]
+
+^<<v4-19-9,9>>^ Então uma pessoa cerimonialmente pura juntará as cinzas da novilha e as colocará num lugar cerimonialmente puro fora do acampamento. Elas ficarão guardadas ali para que a comunidade de Israel as use na cerimônia da água de purificação, para a remoção de pecados.
+
+[[v4-19-10]]
+
+^<<v4-19-10,10>>^ O homem que recolher as cinzas da novilha lavará suas roupas e ficará impuro até o entardecer. Essa é uma lei permanente para os israelitas e para os estrangeiros que vivem entre eles.
+
+[[v4-19-11]]
+
+^<<v4-19-11,11>>^ "Quem tocar num cadáver humano ficará cerimonialmente impuro por sete dias.
+
+[[v4-19-12]]
+
+^<<v4-19-12,12>>^ No terceiro e no sétimo dia, ele se purificará com a água da purificação; então, estará puro. Mas, se não seguir esse procedimento no terceiro e no sétimo dia, continuará impuro mesmo depois do sétimo dia.
+
+[[v4-19-13]]
+
+^<<v4-19-13,13>>^ Quem toca num cadáver e não se purifica corretamente contamina o tabernáculo do SENHOR e será eliminado do povo de Israel. Permanecerá impuro, uma vez que a água da purificação não foi aspergida sobre ele.
+
+[[v4-19-14]]
+
+^<<v4-19-14,14>>^ "A seguinte lei se aplica quando alguém morre numa tenda. Quem entrar nessa tenda e quem estiver dentro dela quando a morte ocorrer ficarão cerimonialmente impuros por sete dias.
+
+[[v4-19-15]]
+
+^<<v4-19-15,15>>^ Qualquer vasilha que não tiver sido tampada também ficará contaminada.
+
+[[v4-19-16]]
+
+^<<v4-19-16,16>>^ Se, ao andar pelo campo, alguém tocar no cadáver de uma pessoa morta à espada ou que tenha morrido de causas naturais, ou tocar num osso humano ou num túmulo, ficará impuro por sete dias.
+
+[[v4-19-17]]
+
+^<<v4-19-17,17>>^ "Para remover a contaminação, coloquem parte das cinzas do holocausto de purificação num jarro e derramem água corrente por cima.
+
+[[v4-19-18]]
+
+^<<v4-19-18,18>>^ Então uma pessoa cerimonialmente pura pegará um ramo de hissopo e o molhará na água. Em seguida, aspergirá a água sobre a tenda, sobre todos os seus utensílios e sobre as pessoas que estavam na tenda; fará o mesmo com a pessoa que tocou num osso humano, ou num morto, ou em alguém que morreu de causas naturais, ou que tocou num túmulo.
+
+[[v4-19-19]]
+
+^<<v4-19-19,19>>^ No terceiro e no sétimo dia, a pessoa cerimonialmente pura aspergirá água sobre quem estiver contaminado. No sétimo dia, aquele que está sendo purificado lavará suas roupas e se banhará e, ao entardecer, estará puro de sua contaminação.
+
+[[v4-19-20]]
+
+^<<v4-19-20,20>>^ "Contudo, aquele que se contaminar e não se purificar será eliminado da comunidade, pois contaminou o santuário do SENHOR. Permanecerá impuro, uma vez que a água da purificação não foi aspergida sobre ele.
+
+[[v4-19-21]]
+
+^<<v4-19-21,21>>^ Essa é uma lei permanente para o povo. Quem aspergir a água da purificação lavará, depois, suas roupas, e quem tocar na água usada para a purificação ficará impuro até o entardecer.
+
+[[v4-19-22]]
+
+^<<v4-19-22,22>>^ Qualquer coisa ou pessoa em que o indivíduo contaminado tocar ficará impura até o entardecer".
+
+'''
+
+xref:004-numeros/004-numeros-018.adoc#v4-18-0[&#60; Capítulo Anterior] | <<v4-19-0,Topo>> | xref:004-numeros/004-numeros-020.adoc#v4-20-0[Próximo Capítulo &#62;]

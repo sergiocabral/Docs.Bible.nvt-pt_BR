@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v23-55-0]]
+=== Isaías, 55
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v23-55-1]]
+
+^<<v23-55-1,1>>^ "Alguém tem sede? Venha e beba, mesmo que não tenha dinheiro! Venha, beba vinho ou leite; é tudo de graça!
+
+[[v23-55-2]]
+
+^<<v23-55-2,2>>^ Por que gastar seu dinheiro com comida que não fortalece? Por que pagar por aquilo que não satisfaz? Ouçam-me, e vocês comerão o que é bom e se deliciarão com os alimentos mais saborosos.
+
+[[v23-55-3]]
+
+^<<v23-55-3,3>>^ "Venham a mim com os ouvidos bem abertos; escutem, e encontrarão vida. Farei com vocês uma aliança permanente, o amor que fielmente prometi a Davi.
+
+[[v23-55-4]]
+
+^<<v23-55-4,4>>^ Vejam como eu o usei para mostrar meu poder aos povos; eu o fiz governante das nações.
+
+[[v23-55-5]]
+
+^<<v23-55-5,5>>^ Vocês também darão ordens a nações que não conhecem, e povos desconhecidos virão correndo lhes obedecer. Pois eu, o SENHOR, seu Deus, o Santo de Israel, os tornei gloriosos."
+
+[[v23-55-6]]
+
+^<<v23-55-6,6>>^ Busquem o SENHOR enquanto podem achá-lo; invoquem-no agora, enquanto ele está perto.
+
+[[v23-55-7]]
+
+^<<v23-55-7,7>>^ Que os perversos mudem de conduta e deixem de lado até mesmo a ideia de fazer o mal. Que se voltem para o SENHOR, para que ele tenha misericórdia deles; sim, voltem-se para nosso Deus, pois ele os perdoará generosamente.
+
+[[v23-55-8]]
+
+^<<v23-55-8,8>>^ "Meus pensamentos são muito diferentes dos seus", diz o SENHOR, "e meus caminhos vão muito além de seus caminhos.
+
+[[v23-55-9]]
+
+^<<v23-55-9,9>>^ Pois, assim como os céus são mais altos que a terra, meus caminhos são mais altos que seus caminhos, e meus pensamentos, mais altos que seus pensamentos.
+
+[[v23-55-10]]
+
+^<<v23-55-10,10>>^ "A chuva e a neve descem dos céus e na terra permanecem até regá-la. Fazem brotar os cereais e produzem sementes para o agricultor e pão para os famintos.
+
+[[v23-55-11]]
+
+^<<v23-55-11,11>>^ O mesmo acontece à minha palavra: eu a envio, e ela sempre produz frutos. Ela fará o que desejo e prosperará aonde quer que eu a enviar.
+
+[[v23-55-12]]
+
+^<<v23-55-12,12>>^ Vocês viverão com alegria e paz; os montes e as colinas cantarão, e as árvores do campo baterão palmas.
+
+[[v23-55-13]]
+
+^<<v23-55-13,13>>^ Onde antes havia espinhos, crescerá o cipreste; onde antes havia urtigas, brotará a murta. Isso resultará em glória para o nome do SENHOR; será sinal permanente, que nunca será destruído."
+
+'''
+
+xref:023-isaias/023-isaias-054.adoc#v23-54-0[&#60; Capítulo Anterior] | <<v23-55-0,Topo>> | xref:023-isaias/023-isaias-056.adoc#v23-56-0[Próximo Capítulo &#62;]

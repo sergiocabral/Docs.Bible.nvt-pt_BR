@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v23-60-0]]
+=== Isaías, 60
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v23-60-1]]
+
+^<<v23-60-1,1>>^ "Levante-se, Jerusalém! Que sua luz brilhe para que todos a vejam, pois sobre você se levanta e reluz a glória do SENHOR.
+
+[[v23-60-2]]
+
+^<<v23-60-2,2>>^ Trevas escuras como a noite cobrem as nações da terra, mas sobre você se levanta e se manifesta a glória do SENHOR.
+
+[[v23-60-3]]
+
+^<<v23-60-3,3>>^ As nações virão à sua luz, os reis verão o seu esplendor.
+
+[[v23-60-4]]
+
+^<<v23-60-4,4>>^ "Levante os olhos e veja, pois todos se reúnem e voltam para casa! Seus filhos vêm de terras distantes, e suas filhas pequenas são carregadas nos braços.
+
+[[v23-60-5]]
+
+^<<v23-60-5,5>>^ Você os verá, e seu coração vibrará de alegria, pois comerciantes do mundo todo virão até você e lhe trarão as riquezas de muitas nações.
+
+[[v23-60-6]]
+
+^<<v23-60-6,6>>^ Grandes caravanas de camelos cobrirão sua terra, camelos vindos de Midiã e de Efá. O povo de Sabá trará ouro e incenso e adorará o SENHOR.
+
+[[v23-60-7]]
+
+^<<v23-60-7,7>>^ Entregarão a você os rebanhos de Quedar e trarão para meus altares os carneiros de Nebaiote. Aceitarei suas ofertas e tornarei meu templo ainda mais glorioso.
+
+[[v23-60-8]]
+
+^<<v23-60-8,8>>^ "O que vejo voando como nuvens para Israel, como pombas para seus ninhos?
+
+[[v23-60-9]]
+
+^<<v23-60-9,9>>^ São navios dos confins da terra, de nações que confiam em mim. À frente vêm as grandes embarcações de Társis, trazendo de volta o povo de Israel, que vem de lugares distantes com sua prata e seu ouro. Eles honrarão o SENHOR, seu Deus, o Santo de Israel, pois ele a encheu de esplendor.
+
+[[v23-60-10]]
+
+^<<v23-60-10,10>>^ "Estrangeiros virão para reconstruir suas cidades, e seus reis a servirão. Pois, ainda que eu a tenha destruído em minha ira, por causa de minha graça terei misericórdia de você.
+
+[[v23-60-11]]
+
+^<<v23-60-11,11>>^ Seus portões ficarão abertos dia e noite para receber as riquezas de muitas nações. Os reis do mundo serão conduzidos como prisioneiros num desfile de vitória.
+
+[[v23-60-12]]
+
+^<<v23-60-12,12>>^ Pois as nações que não a servirem serão destruídas.
+
+[[v23-60-13]]
+
+^<<v23-60-13,13>>^ "A glória do Líbano será sua: os bosques de ciprestes, abetos e pinheiros. Ela adornará meu santuário; meu templo será glorioso!
+
+[[v23-60-14]]
+
+^<<v23-60-14,14>>^ Os descendentes de seus opressores virão e se curvarão diante de você. Aqueles que a desprezavam beijarão seus pés. Eles a chamarão de Cidade do SENHOR, a Sião do Santo de Israel.
+
+[[v23-60-15]]
+
+^<<v23-60-15,15>>^ "Antes você era desprezada e odiada, e ninguém sequer passava por você, mas agora eu a tornarei majestosa para sempre, uma alegria para todas as gerações.
+
+[[v23-60-16]]
+
+^<<v23-60-16,16>>^ Reis poderosos e grandes nações atenderão a todas as suas necessidades, como se você fosse uma criança amamentada por uma rainha. Você saberá, enfim, que eu, o SENHOR, sou seu Salvador e seu Redentor, o Poderoso de Israel.
+
+[[v23-60-17]]
+
+^<<v23-60-17,17>>^ Trocarei seu bronze por ouro, seu ferro por prata, sua madeira por bronze, e suas pedras por ferro. A paz será seu líder, e a justiça, seu governante.
+
+[[v23-60-18]]
+
+^<<v23-60-18,18>>^ A violência desaparecerá de sua terra; a desolação e a destruição da guerra chegarão ao fim. A salvação a rodeará como os muros de uma cidade, e o louvor estará nos lábios de todos que ali entrarem.
+
+[[v23-60-19]]
+
+^<<v23-60-19,19>>^ "Você não precisará do brilho do sol durante o dia, nem da claridade da lua durante a noite, pois o SENHOR será sua luz eterna; seu Deus será sua glória.
+
+[[v23-60-20]]
+
+^<<v23-60-20,20>>^ Seu sol nunca se porá, sua lua nunca deixará de brilhar. Pois o SENHOR será sua luz eterna; seus dias de lamento chegarão ao fim.
+
+[[v23-60-21]]
+
+^<<v23-60-21,21>>^ Todo o seu povo será justo; possuirão a terra para sempre. Pois eu os plantarei ali com as próprias mãos, para manifestar minha glória.
+
+[[v23-60-22]]
+
+^<<v23-60-22,22>>^ A menor família se tornará mil pessoas, e o grupo mais minúsculo, uma nação poderosa. No tempo certo, eu, o SENHOR, farei isso acontecer."
+
+'''
+
+xref:023-isaias/023-isaias-059.adoc#v23-59-0[&#60; Capítulo Anterior] | <<v23-60-0,Topo>> | xref:023-isaias/023-isaias-061.adoc#v23-61-0[Próximo Capítulo &#62;]

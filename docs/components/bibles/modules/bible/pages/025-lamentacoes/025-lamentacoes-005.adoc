@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v25-5-0]]
+=== Lamentações, 5
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v25-5-1]]
+
+^<<v25-5-1,1>>^ Lembra-te, SENHOR, do que aconteceu conosco e vê como fomos humilhados!
+
+[[v25-5-2]]
+
+^<<v25-5-2,2>>^ Nossa herança foi entregue a estranhos, e nossas casas, a estrangeiros.
+
+[[v25-5-3]]
+
+^<<v25-5-3,3>>^ Somos órfãos e já não temos pai, e nossa mãe ficou viúva.
+
+[[v25-5-4]]
+
+^<<v25-5-4,4>>^ Temos de pagar pela água que bebemos, e até a lenha nos custa caro.
+
+[[v25-5-5]]
+
+^<<v25-5-5,5>>^ Os que nos perseguem estão bem perto; estamos exaustos, mas não nos deixam descansar.
+
+[[v25-5-6]]
+
+^<<v25-5-6,6>>^ Ao Egito e à Assíria nos sujeitamos, para conseguir alimento e sobreviver.
+
+[[v25-5-7]]
+
+^<<v25-5-7,7>>^ Nossos antepassados pecaram e já morreram, e nós recebemos o castigo que eles mereciam.
+
+[[v25-5-8]]
+
+^<<v25-5-8,8>>^ Escravos se tornaram nossos senhores; não restou ninguém para nos resgatar.
+
+[[v25-5-9]]
+
+^<<v25-5-9,9>>^ Arriscamos a vida à procura de alimento, pois a violência tomou conta do deserto.
+
+[[v25-5-10]]
+
+^<<v25-5-10,10>>^ A fome nos escureceu a pele, como se tivesse sido queimada no forno.
+
+[[v25-5-11]]
+
+^<<v25-5-11,11>>^ As mulheres de Sião e as moças das cidades de Judá são violentadas por nossos inimigos.
+
+[[v25-5-12]]
+
+^<<v25-5-12,12>>^ Os príncipes são pendurados pelas mãos, os idosos são tratados com desprezo.
+
+[[v25-5-13]]
+
+^<<v25-5-13,13>>^ Os rapazes são levados para trabalhar nos moinhos, os meninos cambaleiam sob os pesados fardos de lenha.
+
+[[v25-5-14]]
+
+^<<v25-5-14,14>>^ As autoridades não se sentam mais à porta das cidades, os rapazes não tocam mais música.
+
+[[v25-5-15]]
+
+^<<v25-5-15,15>>^ A alegria desapareceu de nosso coração, nossas danças se transformaram em pranto.
+
+[[v25-5-16]]
+
+^<<v25-5-16,16>>^ A coroa caiu de nossa cabeça; que aflição por causa de nosso pecado!
+
+[[v25-5-17]]
+
+^<<v25-5-17,17>>^ Nosso coração desfalece, nossos olhos se embaçaram de lágrimas,
+
+[[v25-5-18]]
+
+^<<v25-5-18,18>>^ pois o monte Sião está desolado; tornou-se morada de chacais.
+
+[[v25-5-19]]
+
+^<<v25-5-19,19>>^ Mas tu, SENHOR, reinas eternamente! Teu trono permanece de geração em geração.
+
+[[v25-5-20]]
+
+^<<v25-5-20,20>>^ Por que continuas a te esquecer de nós? Por que nos abandonaste por tanto tempo?
+
+[[v25-5-21]]
+
+^<<v25-5-21,21>>^ Restaura-nos, SENHOR, e faze-nos voltar para ti! Devolve-nos a alegria que tínhamos antes!
+
+[[v25-5-22]]
+
+^<<v25-5-22,22>>^ Ou será que nos rejeitaste completamente? Ainda estás irado conosco?
+
+'''
+
+xref:025-lamentacoes/025-lamentacoes-004.adoc#v25-4-0[&#60; Capítulo Anterior] | <<v25-5-0,Topo>> | xref:026-ezequiel/026-ezequiel-001.adoc#v26-1-0[Próximo Capítulo &#62;]

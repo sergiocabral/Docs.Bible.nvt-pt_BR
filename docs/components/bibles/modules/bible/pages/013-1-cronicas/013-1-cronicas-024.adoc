@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v13-24-0]]
+=== 1 Crônicas, 24
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v13-24-1]]
+
+^<<v13-24-1,1>>^ Os descendentes de Arão, os sacerdotes, foram divididos em turnos para o serviço. Os filhos de Arão foram: Nadabe, Abiú, Eleazar e Itamar.
+
+[[v13-24-2]]
+
+^<<v13-24-2,2>>^ Mas Nadabe e Abiú morreram antes de seu pai e não tinham filhos. Então Eleazar e Itamar deram continuidade ao sacerdócio.
+
+[[v13-24-3]]
+
+^<<v13-24-3,3>>^ Com a ajuda de Zadoque, descendente de Eleazar, e de Aimeleque, descendente de Itamar, Davi dividiu os descendentes de Arão em turnos, de acordo com suas responsabilidades.
+
+[[v13-24-4]]
+
+^<<v13-24-4,4>>^ Os descendentes de Eleazar foram divididos em dezesseis turnos, e os de Itamar, em oito, pois havia mais chefes de família entre os descendentes de Eleazar.
+
+[[v13-24-5]]
+
+^<<v13-24-5,5>>^ As tarefas foram designadas aos grupos por sorteio, para que não houvesse nenhuma preferência, pois havia entre os descendentes de Eleazar e de Itamar muitos líderes qualificados para servir a Deus no santuário.
+
+[[v13-24-6]]
+
+^<<v13-24-6,6>>^ Semaías, filho do levita Natanael, foi o secretário e anotou os nomes e as tarefas na presença do rei, dos líderes, do sacerdote Zadoque, de Aimeleque, filho de Abiatar, e dos chefes das famílias dos sacerdotes e dos levitas. Os descendentes de Eleazar e de Itamar foram designados por sorteio alternadamente.
+
+[[v13-24-7]]
+
+^<<v13-24-7,7>>^ A primeira sorte caiu para Jeoiaribe; a segunda, para Jedaías;
+
+[[v13-24-8]]
+
+^<<v13-24-8,8>>^ a terceira, para Harim; a quarta, para Seorim;
+
+[[v13-24-9]]
+
+^<<v13-24-9,9>>^ a quinta, para Malquias; a sexta, para Miamim;
+
+[[v13-24-10]]
+
+^<<v13-24-10,10>>^ a sétima, para Hacoz; a oitava, para Abias;
+
+[[v13-24-11]]
+
+^<<v13-24-11,11>>^ a nona, para Jesua; a décima, para Secanias;
+
+[[v13-24-12]]
+
+^<<v13-24-12,12>>^ a décima primeira, para Eliasibe; a décima segunda, para Jaquim;
+
+[[v13-24-13]]
+
+^<<v13-24-13,13>>^ a décima terceira, para Hupá; a décima quarta, para Jesebeabe;
+
+[[v13-24-14]]
+
+^<<v13-24-14,14>>^ a décima quinta, para Bilga; a décima sexta, para Imer;
+
+[[v13-24-15]]
+
+^<<v13-24-15,15>>^ a décima sétima, para Hezir; a décima oitava, para Hapises;
+
+[[v13-24-16]]
+
+^<<v13-24-16,16>>^ a décima nona, para Petaías; a vigésima, para Jeezquel;
+
+[[v13-24-17]]
+
+^<<v13-24-17,17>>^ a vigésima primeira, para Jaquim; a vigésima segunda, para Gamul;
+
+[[v13-24-18]]
+
+^<<v13-24-18,18>>^ a vigésima terceira, para Delaías; a vigésima quarta, para Maazias.
+
+[[v13-24-19]]
+
+^<<v13-24-19,19>>^ Cada grupo realizava as tarefas que lhe haviam sido designadas na casa do SENHOR, de acordo com os procedimentos definidos por seu antepassado Arão em obediência às ordens do SENHOR, o Deus de Israel.
+
+[[v13-24-20]]
+
+^<<v13-24-20,20>>^ Os outros chefes de famílias descendentes de Levi foram: Dos descendentes de Anrão: Sebuel. Dos descendentes de Sebuel: Jedias.
+
+[[v13-24-21]]
+
+^<<v13-24-21,21>>^ Dos descendentes de Reabias: Issias.
+
+[[v13-24-22]]
+
+^<<v13-24-22,22>>^ Dos descendentes de Isar: Selomite. Dos descendentes de Selomite: Jaate.
+
+[[v13-24-23]]
+
+^<<v13-24-23,23>>^ Dos descendentes de Hebrom: Jerias, o chefe, Amarias, o segundo, Jaaziel, o terceiro, e Jecameão, o quarto.
+
+[[v13-24-24]]
+
+^<<v13-24-24,24>>^ Dos descendentes de Uziel: Mica. Dos descendentes de Mica: Samir
+
+[[v13-24-25]]
+
+^<<v13-24-25,25>>^ e Issias, irmão de Mica. Dos descendentes de Issias: Zacarias.
+
+[[v13-24-26]]
+
+^<<v13-24-26,26>>^ Dos descendentes de Merari: Mali e Musi. Dos descendentes de Jaazias: Beno.
+
+[[v13-24-27]]
+
+^<<v13-24-27,27>>^ Dos descendentes de Merari, por Jaazias: Beno, Soão, Zacur e Ibri.
+
+[[v13-24-28]]
+
+^<<v13-24-28,28>>^ Dos descendentes de Mali: Eleazar, que não teve filhos.
+
+[[v13-24-29]]
+
+^<<v13-24-29,29>>^ Dos descendentes de Quis: Jerameel.
+
+[[v13-24-30]]
+
+^<<v13-24-30,30>>^ Dos descendentes de Musi: Mali, Éder e Jerimote. Esses foram os descendentes de Levi, de acordo com suas famílias.
+
+[[v13-24-31]]
+
+^<<v13-24-31,31>>^ Como os descendentes de Arão, suas tarefas foram designadas por sorteio, sem distinção de idade nem de posição entre as famílias. As sortes foram lançadas na presença do rei Davi, de Zadoque, de Aimeleque e dos chefes das famílias dos sacerdotes e dos levitas.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-023.adoc#v13-23-0[&#60; Capítulo Anterior] | <<v13-24-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-025.adoc#v13-25-0[Próximo Capítulo &#62;]

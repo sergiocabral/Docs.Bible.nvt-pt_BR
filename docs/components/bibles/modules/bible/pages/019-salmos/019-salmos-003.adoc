@@ -1,0 +1,41 @@
+include::./index.adoc[]
+
+[[v19-3-0]]
+=== Salmos, 3
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-3-1]]
+
+^<<v19-3-1,1>>^ Ó SENHOR, tenho tantos inimigos; tanta gente é contra mim!
+
+[[v19-3-2]]
+
+^<<v19-3-2,2>>^ São muitos os que dizem: "Deus nunca o livrará!". Interlúdio
+
+[[v19-3-3]]
+
+^<<v19-3-3,3>>^ Mas tu, SENHOR, és um escudo ao meu redor; és minha glória e manténs minha cabeça erguida.
+
+[[v19-3-4]]
+
+^<<v19-3-4,4>>^ Clamei ao SENHOR, e ele me respondeu de seu santo monte. Interlúdio
+
+[[v19-3-5]]
+
+^<<v19-3-5,5>>^ Deitei-me e dormi; acordei em segurança, pois o SENHOR me guardava.
+
+[[v19-3-6]]
+
+^<<v19-3-6,6>>^ Não tenho medo de dez mil inimigos que me cercam de todos os lados.
+
+[[v19-3-7]]
+
+^<<v19-3-7,7>>^ Levanta-te, SENHOR! Salva-me, Deus meu! Acerta meus inimigos no queixo e quebra os dentes dos perversos.
+
+[[v19-3-8]]
+
+^<<v19-3-8,8>>^ De ti, SENHOR, vem o livramento; abençoa o teu povo! Interlúdio
+
+'''
+
+xref:019-salmos/019-salmos-002.adoc#v19-2-0[&#60; Capítulo Anterior] | <<v19-3-0,Topo>> | xref:019-salmos/019-salmos-004.adoc#v19-4-0[Próximo Capítulo &#62;]

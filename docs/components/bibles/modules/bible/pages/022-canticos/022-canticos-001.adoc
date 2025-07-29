@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v22-1-0]]
+=== Cânticos, 1
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v22-1-1]]
+
+^<<v22-1-1,1>>^ Este é o cântico dos cânticos de Salomão.
+
+[[v22-1-2]]
+
+^<<v22-1-2,2>>^ Beije-me, beije-me mais uma vez, pois seu amor é mais doce que o vinho.
+
+[[v22-1-3]]
+
+^<<v22-1-3,3>>^ Como é agradável seu perfume; seu nome é como a fragrância que se espalha. Não é de admirar que todas as moças o amem!
+
+[[v22-1-4]]
+
+^<<v22-1-4,4>>^ Leve-me com você; venha, vamos depressa! O rei me trouxe ao quarto dele. Ó rei, estamos alegres e felizes por sua causa! Celebraremos seu amor mais que o vinho. Com razão elas o amam.
+
+[[v22-1-5]]
+
+^<<v22-1-5,5>>^ Sou morena e bela, ó mulheres de Jerusalém; morena como as tendas de Quedar, bela como as cortinas de Salomão.
+
+[[v22-1-6]]
+
+^<<v22-1-6,6>>^ Não me olhem assim porque sou morena; o sol me escureceu a pele. Meus irmãos se zangaram comigo e me obrigaram a cuidar de seus vinhedos; de mim mesma, de minha videira, não pude cuidar.
+
+[[v22-1-7]]
+
+^<<v22-1-7,7>>^ Diga-me, meu amor, aonde levará seu rebanho hoje? Onde fará suas ovelhas descansarem ao meio-dia? Por que eu andaria sem rumo, como uma prostituta, entre seus amigos e os rebanhos deles?
+
+[[v22-1-8]]
+
+^<<v22-1-8,8>>^ Se você não sabe, mais bela de todas as mulheres, siga a trilha de meu rebanho e leve seus cabritos para pastar junto às tendas dos pastores.
+
+[[v22-1-9]]
+
+^<<v22-1-9,9>>^ Você é cativante, minha querida, como uma égua entre os cavalos do faraó.
+
+[[v22-1-10]]
+
+^<<v22-1-10,10>>^ Como são belas suas faces; seus brincos realçam sua beleza! Como é lindo seu pescoço, enfeitado com um colar de joias!
+
+[[v22-1-11]]
+
+^<<v22-1-11,11>>^ Faremos para você brincos de ouro com enfeites de prata.
+
+[[v22-1-12]]
+
+^<<v22-1-12,12>>^ O rei está deitado em seu sofá, encantado com a fragrância de meu perfume.
+
+[[v22-1-13]]
+
+^<<v22-1-13,13>>^ Meu amado é como uma delicada bolsa de mirra que repousa entre meus seios.
+
+[[v22-1-14]]
+
+^<<v22-1-14,14>>^ É como um ramo de flores de hena dos vinhedos de En-Gedi.
+
+[[v22-1-15]]
+
+^<<v22-1-15,15>>^ Como você é linda, minha querida, como você é linda! Seus olhos são como pombas.
+
+[[v22-1-16]]
+
+^<<v22-1-16,16>>^ Como você é belo, meu amor, como você é encantador! A grama macia é nosso leito;
+
+[[v22-1-17]]
+
+^<<v22-1-17,17>>^ os ramos perfumados do cedro são as vigas de nossa casa, e os pinheiros aromáticos, os caibros do telhado.
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-012.adoc#v21-12-0[&#60; Capítulo Anterior] | <<v22-1-0,Topo>> | xref:022-canticos/022-canticos-002.adoc#v22-2-0[Próximo Capítulo &#62;]

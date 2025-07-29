@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v19-39-0]]
+=== Salmos, 39
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-39-1]]
+
+^<<v19-39-1,1>>^ Disse comigo: "Tomarei cuidado com o que faço e não pecarei no que digo. Ficarei calado enquanto o perverso estiver por perto".
+
+[[v19-39-2]]
+
+^<<v19-39-2,2>>^ Mas, enquanto eu estava em silêncio, sem falar sequer de coisas boas, a angústia cresceu dentro de mim.
+
+[[v19-39-3]]
+
+^<<v19-39-3,3>>^ Quanto mais eu pensava, mais ardia meu coração; então, decidi falar:
+
+[[v19-39-4]]
+
+^<<v19-39-4,4>>^ "Mostra-me, SENHOR, como é breve meu tempo na terra; mostra-me que meus dias estão contados e que minha vida é passageira.
+
+[[v19-39-5]]
+
+^<<v19-39-5,5>>^ A vida que me deste não é mais longa que alguns palmos, e diante de ti toda a minha existência não passa de um momento; na verdade, o ser humano não passa de um sopro". Interlúdio
+
+[[v19-39-6]]
+
+^<<v19-39-6,6>>^ Somos apenas sombras que se movem, e nossas inquietações não dão em nada. Acumulamos riquezas sem saber quem as gastará.
+
+[[v19-39-7]]
+
+^<<v19-39-7,7>>^ Agora, Senhor, o que devo esperar? És minha única esperança.
+
+[[v19-39-8]]
+
+^<<v19-39-8,8>>^ Livra-me de minha rebeldia e não permitas que os tolos zombem de mim.
+
+[[v19-39-9]]
+
+^<<v19-39-9,9>>^ Estou calado; não direi uma só palavra, pois minha punição vem de ti.
+
+[[v19-39-10]]
+
+^<<v19-39-10,10>>^ Mas, por favor, para de me castigar; os golpes de tua mão me reduzem a nada!
+
+[[v19-39-11]]
+
+^<<v19-39-11,11>>^ Quando nos disciplinas por nossos pecados, consomes como a traça o que nos é mais precioso; o ser humano não passa de um sopro. Interlúdio
+
+[[v19-39-12]]
+
+^<<v19-39-12,12>>^ Ouve minha oração, SENHOR! Escuta meus clamores por socorro! Não ignores minhas lágrimas, pois sou como estrangeiro diante de ti, um viajante que está só de passagem, como eram meus antepassados.
+
+[[v19-39-13]]
+
+^<<v19-39-13,13>>^ Desvia de mim o olhar, para que eu volte a sorrir, antes que eu me vá e deixe de existir.
+
+'''
+
+xref:019-salmos/019-salmos-038.adoc#v19-38-0[&#60; Capítulo Anterior] | <<v19-39-0,Topo>> | xref:019-salmos/019-salmos-040.adoc#v19-40-0[Próximo Capítulo &#62;]

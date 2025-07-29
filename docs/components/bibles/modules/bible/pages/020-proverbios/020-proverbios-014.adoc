@@ -1,0 +1,149 @@
+include::./index.adoc[]
+
+[[v20-14-0]]
+=== Provérbios, 14
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v20-14-1]]
+
+^<<v20-14-1,1>>^ A mulher sábia edifica o lar, mas a insensata o destrói com as próprias mãos.
+
+[[v20-14-2]]
+
+^<<v20-14-2,2>>^ Quem anda pelo caminho reto teme o SENHOR; quem escolhe estradas tortuosas o despreza.
+
+[[v20-14-3]]
+
+^<<v20-14-3,3>>^ A conversa arrogante do insensato se torna uma vara que o castiga, mas as palavras do sábio o protegem.
+
+[[v20-14-4]]
+
+^<<v20-14-4,4>>^ Um estábulo sem bois permanece limpo, mas é a força do boi que provê a colheita farta.
+
+[[v20-14-5]]
+
+^<<v20-14-5,5>>^ A testemunha honesta não mente; a testemunha falsa respira mentiras.
+
+[[v20-14-6]]
+
+^<<v20-14-6,6>>^ O zombador procura sabedoria e nunca a encontra, mas para o que tem discernimento o conhecimento vem fácil.
+
+[[v20-14-7]]
+
+^<<v20-14-7,7>>^ Afaste-se do tolo, pois em seus lábios não achará conhecimento.
+
+[[v20-14-8]]
+
+^<<v20-14-8,8>>^ O prudente sabe para onde vai, mas os insensatos enganam a si mesmos.
+
+[[v20-14-9]]
+
+^<<v20-14-9,9>>^ Os insensatos zombam da própria culpa, mas os justos a reconhecem e buscam reconciliação.
+
+[[v20-14-10]]
+
+^<<v20-14-10,10>>^ Cada coração conhece sua própria amargura, e ninguém pode compartilhar de toda a sua alegria.
+
+[[v20-14-11]]
+
+^<<v20-14-11,11>>^ A casa dos perversos será destruída, mas a tenda dos justos florescerá.
+
+[[v20-14-12]]
+
+^<<v20-14-12,12>>^ Há caminhos que a pessoa considera corretos, mas que acabam levando à estrada da morte.
+
+[[v20-14-13]]
+
+^<<v20-14-13,13>>^ O riso pode esconder o coração aflito, mas, quando a alegria se extingue, a dor permanece.
+
+[[v20-14-14]]
+
+^<<v20-14-14,14>>^ O desleal recebe o que merece, mas a pessoa de bem é recompensada.
+
+[[v20-14-15]]
+
+^<<v20-14-15,15>>^ O ingênuo acredita em tudo que ouve; o prudente examina seus passos com cuidado.
+
+[[v20-14-16]]
+
+^<<v20-14-16,16>>^ O sábio é cauteloso e evita o perigo; o tolo confia demais em si mesmo e se precipita.
+
+[[v20-14-17]]
+
+^<<v20-14-17,17>>^ Quem se ira com facilidade faz coisas tolas; quem trama o mal é odiado.
+
+[[v20-14-18]]
+
+^<<v20-14-18,18>>^ Os ingênuos são revestidos de insensatez, enquanto os prudentes são coroados de conhecimento.
+
+[[v20-14-19]]
+
+^<<v20-14-19,19>>^ Os maus se prostrarão diante dos bons; os perversos se curvarão à porta dos justos.
+
+[[v20-14-20]]
+
+^<<v20-14-20,20>>^ Os pobres são desprezados pelos vizinhos, enquanto os ricos têm muitos amigos.
+
+[[v20-14-21]]
+
+^<<v20-14-21,21>>^ É pecado desprezar o próximo; feliz o que ajuda os pobres.
+
+[[v20-14-22]]
+
+^<<v20-14-22,22>>^ Os que tramam fazer o mal se perdem, mas os que planejam fazer o bem encontram amor e fidelidade.
+
+[[v20-14-23]]
+
+^<<v20-14-23,23>>^ O trabalho árduo produz lucro, mas a conversa fiada leva à pobreza.
+
+[[v20-14-24]]
+
+^<<v20-14-24,24>>^ A riqueza é coroa para os sábios, mas a insensatez dos tolos só resulta em mais insensatez.
+
+[[v20-14-25]]
+
+^<<v20-14-25,25>>^ A testemunha confiável salva vidas, mas a testemunha falsa é traidora.
+
+[[v20-14-26]]
+
+^<<v20-14-26,26>>^ Quem teme o SENHOR está seguro; ele é refúgio para seus filhos.
+
+[[v20-14-27]]
+
+^<<v20-14-27,27>>^ O temor do SENHOR é fonte de vida; ajuda a escapar das armadilhas da morte.
+
+[[v20-14-28]]
+
+^<<v20-14-28,28>>^ Uma população que cresce é a glória do rei, mas a falta de súditos é a ruína do príncipe.
+
+[[v20-14-29]]
+
+^<<v20-14-29,29>>^ Quem tem entendimento controla sua raiva; quem se ira facilmente demonstra grande insensatez.
+
+[[v20-14-30]]
+
+^<<v20-14-30,30>>^ O contentamento dá saúde ao corpo; a inveja é como câncer nos ossos.
+
+[[v20-14-31]]
+
+^<<v20-14-31,31>>^ Quem oprime o pobre insulta seu Criador, mas quem ajuda o necessitado honra a Deus.
+
+[[v20-14-32]]
+
+^<<v20-14-32,32>>^ O perverso é destruído por sua maldade, mas o justo encontra refúgio mesmo na hora da morte.
+
+[[v20-14-33]]
+
+^<<v20-14-33,33>>^ A sabedoria é preservada no coração sensato; não é possível encontrá-la entre os tolos.
+
+[[v20-14-34]]
+
+^<<v20-14-34,34>>^ A justiça engrandece a nação, mas o pecado é vergonha para qualquer povo.
+
+[[v20-14-35]]
+
+^<<v20-14-35,35>>^ O rei se alegra em seus servos prudentes, mas se enfurece contra os que o envergonham.
+
+'''
+
+xref:020-proverbios/020-proverbios-013.adoc#v20-13-0[&#60; Capítulo Anterior] | <<v20-14-0,Topo>> | xref:020-proverbios/020-proverbios-015.adoc#v20-15-0[Próximo Capítulo &#62;]

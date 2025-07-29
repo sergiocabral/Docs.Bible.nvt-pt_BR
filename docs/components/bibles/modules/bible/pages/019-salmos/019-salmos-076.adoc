@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v19-76-0]]
+=== Salmos, 76
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-76-1]]
+
+^<<v19-76-1,1>>^ Deus é honrado em Judá, grande é seu nome em Israel.
+
+[[v19-76-2]]
+
+^<<v19-76-2,2>>^ Jerusalém é onde ele habita, o monte Sião é seu lar.
+
+[[v19-76-3]]
+
+^<<v19-76-3,3>>^ Quebrou ali as flechas flamejantes do inimigo, os escudos, as espadas e as armas de guerra. Interlúdio
+
+[[v19-76-4]]
+
+^<<v19-76-4,4>>^ Tu és glorioso e mais majestoso que os montes eternos.
+
+[[v19-76-5]]
+
+^<<v19-76-5,5>>^ Os inimigos mais valentes foram saqueados e jazem no sono da morte; nenhum guerreiro foi capaz de levantar as mãos.
+
+[[v19-76-6]]
+
+^<<v19-76-6,6>>^ Quando os repreendeste, ó Deus de Jacó, cavalos e cavaleiros ficaram imóveis.
+
+[[v19-76-7]]
+
+^<<v19-76-7,7>>^ Não é de admirar que sejas tão temido! Quem pode permanecer diante de ti quando irrompe a tua ira?
+
+[[v19-76-8]]
+
+^<<v19-76-8,8>>^ Dos céus pronunciaste tua sentença; a terra estremeceu e se calou.
+
+[[v19-76-9]]
+
+^<<v19-76-9,9>>^ Tu te levantaste para julgar, ó Deus, para salvar os oprimidos da terra. Interlúdio
+
+[[v19-76-10]]
+
+^<<v19-76-10,10>>^ A rebeldia humana resultará em tua glória, pois tu a usas como arma.
+
+[[v19-76-11]]
+
+^<<v19-76-11,11>>^ Façam votos ao SENHOR, seu Deus, e cumpram-nos; todos paguem tributos àquele que deve ser temido.
+
+[[v19-76-12]]
+
+^<<v19-76-12,12>>^ Pois ele acaba com o orgulho dos príncipes, e os reis da terra o temem.
+
+'''
+
+xref:019-salmos/019-salmos-075.adoc#v19-75-0[&#60; Capítulo Anterior] | <<v19-76-0,Topo>> | xref:019-salmos/019-salmos-077.adoc#v19-77-0[Próximo Capítulo &#62;]

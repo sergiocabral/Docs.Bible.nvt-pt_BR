@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v5-18-0]]
+=== Deuteronômio, 18
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v5-18-1]]
+
+^<<v5-18-1,1>>^ "Lembrem-se de que os sacerdotes levitas e todos os outros membros da tribo de Levi não receberão porção alguma de terra como herança entre as outras tribos de Israel. Em vez disso, os sacerdotes e levitas comerão das ofertas especiais apresentadas ao SENHOR, pois essa é parte que lhes cabe.
+
+[[v5-18-2]]
+
+^<<v5-18-2,2>>^ Não terão herança entre os israelitas. O SENHOR é a sua herança, conforme lhes prometeu.
+
+[[v5-18-3]]
+
+^<<v5-18-3,3>>^ "Estas são as partes que os sacerdotes receberão como sua porção dos bois e das ovelhas que o povo entregar como ofertas: a espádua, as queixadas e o estômago.
+
+[[v5-18-4]]
+
+^<<v5-18-4,4>>^ Deem também aos sacerdotes a primeira porção dos cereais, do vinho novo, do azeite e da lã na época da tosquia,
+
+[[v5-18-5]]
+
+^<<v5-18-5,5>>^ pois o SENHOR, seu Deus, escolheu a tribo de Levi dentre todas as suas tribos para servir em nome do SENHOR para sempre.
+
+[[v5-18-6]]
+
+^<<v5-18-6,6>>^ "Se um levita decidir sair de sua cidade em Israel, seja ela qual for, e mudar-se para o lugar que o SENHOR escolher,
+
+[[v5-18-7]]
+
+^<<v5-18-7,7>>^ ele servirá ali em nome do SENHOR, seu Deus, da mesma forma que todos os seus companheiros levitas que servem o SENHOR naquele lugar.
+
+[[v5-18-8]]
+
+^<<v5-18-8,8>>^ Comerá sua porção dos sacrifícios e ofertas, mesmo que também receba sustento de sua família."
+
+[[v5-18-9]]
+
+^<<v5-18-9,9>>^ "Quando vocês entrarem na terra que o SENHOR, seu Deus, lhes dá, tenham muito cuidado para não imitarem os costumes detestáveis das nações que vivem ali.
+
+[[v5-18-10]]
+
+^<<v5-18-10,10>>^ Jamais deverá haver entre vocês alguém que queime seu filho ou sua filha como sacrifício. Não permitam que alguém do povo pratique adivinhação, use encantamentos, interprete agouros, envolva-se com bruxaria,
+
+[[v5-18-11]]
+
+^<<v5-18-11,11>>^ lance feitiços, atue como médium ou praticante do ocultismo, ou consulte os espíritos dos mortos.
+
+[[v5-18-12]]
+
+^<<v5-18-12,12>>^ Quem pratica tais coisas é detestável ao SENHOR. É justamente porque as outras nações praticam essas coisas detestáveis que o SENHOR, seu Deus, as expulsará de diante de vocês.
+
+[[v5-18-13]]
+
+^<<v5-18-13,13>>^ Sejam inculpáveis perante o SENHOR, seu Deus.
+
+[[v5-18-14]]
+
+^<<v5-18-14,14>>^ As nações cujas terras vocês estão prestes a conquistar consultam feiticeiros e adivinhos, mas o SENHOR, seu Deus, os proíbe de fazerem essas coisas."
+
+[[v5-18-15]]
+
+^<<v5-18-15,15>>^ "O SENHOR, seu Deus, levantará um profeta como eu do meio de seus irmãos israelitas. Deem ouvidos a ele,
+
+[[v5-18-16]]
+
+^<<v5-18-16,16>>^ pois foi isso que vocês pediram ao SENHOR, seu Deus, quando estavam reunidos ao pé do monte Sinai. Disseram: ‘Não iremos mais ouvir a voz do SENHOR, nosso Deus, nem ver este fogo ardente, pois morreríamos’.
+
+[[v5-18-17]]
+
+^<<v5-18-17,17>>^ "Então o SENHOR me disse: ‘Eles estão certos.
+
+[[v5-18-18]]
+
+^<<v5-18-18,18>>^ Levantarei um profeta como você do meio de seus irmãos israelitas e porei minhas palavras em sua boca, e ele dirá ao povo tudo que eu lhe ordenar.
+
+[[v5-18-19]]
+
+^<<v5-18-19,19>>^ Eu mesmo pedirei contas de qualquer um que não ouvir as mensagens que o profeta proclamar em meu nome.
+
+[[v5-18-20]]
+
+^<<v5-18-20,20>>^ Mas o profeta que tiver a presunção de falar em meu nome algo que não lhe ordenei, ou que falar em nome de outros deuses, será morto’.
+
+[[v5-18-21]]
+
+^<<v5-18-21,21>>^ "Talvez vocês se perguntem: ‘Como saberemos se uma profecia vem do SENHOR ou não?’.
+
+[[v5-18-22]]
+
+^<<v5-18-22,22>>^ Se o profeta falar em nome do SENHOR, mas suas previsões não acontecerem nem se cumprirem, vocês saberão que a mensagem dele não vem do SENHOR. Esse profeta presumiu arrogantemente que falava em meu nome, e vocês não precisam temê-lo."
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-017.adoc#v5-17-0[&#60; Capítulo Anterior] | <<v5-18-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-019.adoc#v5-19-0[Próximo Capítulo &#62;]

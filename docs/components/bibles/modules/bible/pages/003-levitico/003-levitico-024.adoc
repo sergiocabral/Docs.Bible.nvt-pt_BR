@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v3-24-0]]
+=== Levítico, 24
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v3-24-1]]
+
+^<<v3-24-1,1>>^ O SENHOR disse a Moisés:
+
+[[v3-24-2]]
+
+^<<v3-24-2,2>>^ "Ordene aos israelitas que tragam óleo puro de azeitonas prensadas para a iluminação do candelabro, a fim de manter as lâmpadas sempre acesas.
+
+[[v3-24-3]]
+
+^<<v3-24-3,3>>^ É o candelabro que fica na tenda do encontro, em frente à cortina interna que protege a arca da aliança. Arão manterá as lâmpadas acesas na presença do SENHOR a noite toda. Essa é uma lei permanente para vocês e deve ser cumprida de geração em geração.
+
+[[v3-24-4]]
+
+^<<v3-24-4,4>>^ Arão e os sacerdotes manterão sempre em ordem, na presença do SENHOR, as lâmpadas do candelabro de ouro puro.
+
+[[v3-24-5]]
+
+^<<v3-24-5,5>>^ "Asse doze pães de farinha da melhor qualidade usando quatro litros de farinha para cada pão.
+
+[[v3-24-6]]
+
+^<<v3-24-6,6>>^ Coloque os pães diante do SENHOR sobre a mesa de ouro puro e arrume-os em duas fileiras, com seis pães em cada fileira.
+
+[[v3-24-7]]
+
+^<<v3-24-7,7>>^ Coloque um pouco de incenso sobre cada fileira como oferta memorial, uma oferta especial apresentada ao SENHOR.
+
+[[v3-24-8]]
+
+^<<v3-24-8,8>>^ A cada sábado, coloque regularmente diante do SENHOR esses pães como oferta da parte dos israelitas; é uma expressão contínua da aliança sem fim.
+
+[[v3-24-9]]
+
+^<<v3-24-9,9>>^ Os pães pertencerão a Arão e seus descendentes, que os comerão num lugar sagrado, pois são santíssimos. Os sacerdotes terão direito permanente a essa porção das ofertas especiais apresentadas ao SENHOR". A pena para quem blasfemar
+
+[[v3-24-10]]
+
+^<<v3-24-10,10>>^ Certo dia, um homem, filho de uma israelita e de um egípcio, saiu de sua tenda e se envolveu numa briga com um dos israelitas.
+
+[[v3-24-11]]
+
+^<<v3-24-11,11>>^ Durante a briga, o filho da israelita blasfemou o Nome com uma maldição. Por isso, foi levado a Moisés para ser julgado. A mãe dele se chamava Selomite, filha de Dibri, da tribo de Dã.
+
+[[v3-24-12]]
+
+^<<v3-24-12,12>>^ O homem foi mantido preso até ficar clara a vontade do SENHOR a respeito de sua situação.
+
+[[v3-24-13]]
+
+^<<v3-24-13,13>>^ Então o SENHOR disse a Moisés:
+
+[[v3-24-14]]
+
+^<<v3-24-14,14>>^ "Leve o blasfemador para fora do acampamento e diga a todos que ouviram a maldição que coloquem as mãos sobre a cabeça dele. Depois, a comunidade toda o executará por apedrejamento.
+
+[[v3-24-15]]
+
+^<<v3-24-15,15>>^ Diga ao povo de Israel: Quem amaldiçoar o seu Deus será castigado por causa do seu pecado.
+
+[[v3-24-16]]
+
+^<<v3-24-16,16>>^ Quem blasfemar o nome do SENHOR será morto por apedrejamento por toda a comunidade de Israel. Qualquer israelita de nascimento ou estrangeiro entre vocês que blasfemar o Nome será morto.
+
+[[v3-24-17]]
+
+^<<v3-24-17,17>>^ "Quem tirar a vida de outra pessoa será morto.
+
+[[v3-24-18]]
+
+^<<v3-24-18,18>>^ "Quem matar um animal pertencente a outra pessoa a indenizará com um animal vivo.
+
+[[v3-24-19]]
+
+^<<v3-24-19,19>>^ "Quem ferir outra pessoa será tratado de acordo com o ferimento que causou:
+
+[[v3-24-20]]
+
+^<<v3-24-20,20>>^ fratura por fratura, olho por olho, dente por dente. O dano que alguém fizer a outra pessoa, será feito a ele.
+
+[[v3-24-21]]
+
+^<<v3-24-21,21>>^ "Quem matar um animal indenizará seu dono totalmente, mas quem matar uma pessoa será morto.
+
+[[v3-24-22]]
+
+^<<v3-24-22,22>>^ "A mesma lei se aplica tanto aos israelitas de nascimento como aos estrangeiros que vivem entre vocês. Eu sou o SENHOR, seu Deus".
+
+[[v3-24-23]]
+
+^<<v3-24-23,23>>^ Depois que Moisés transmitiu todas essas instruções aos israelitas, eles levaram o blasfemador para fora do acampamento e o executaram por apedrejamento. Os israelitas fizeram exatamente conforme o SENHOR havia ordenado a Moisés.
+
+'''
+
+xref:003-levitico/003-levitico-023.adoc#v3-23-0[&#60; Capítulo Anterior] | <<v3-24-0,Topo>> | xref:003-levitico/003-levitico-025.adoc#v3-25-0[Próximo Capítulo &#62;]

@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v6-18-0]]
+=== Josué, 18
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v6-18-1]]
+
+^<<v6-18-1,1>>^ Agora que a terra estava sob o controle dos israelitas, toda a comunidade se reuniu em Siló e ali armou a tenda do encontro.
+
+[[v6-18-2]]
+
+^<<v6-18-2,2>>^ Mas ainda restavam sete tribos de Israel que não haviam recebido porções de terra como herança.
+
+[[v6-18-3]]
+
+^<<v6-18-3,3>>^ Então Josué disse aos israelitas: "Até quando vocês vão esperar para tomar posse do restante da terra que o SENHOR, o Deus de seus antepassados, lhes deu?
+
+[[v6-18-4]]
+
+^<<v6-18-4,4>>^ Escolham três homens de cada tribo, e eu os enviarei para fazer o reconhecimento da terra e mapeá-la. Eles voltarão a mim com um relatório escrito das divisões propostas de sua herança.
+
+[[v6-18-5]]
+
+^<<v6-18-5,5>>^ Dividirão a terra em sete partes, sem incluir o território de Judá, ao sul, e o território de José, ao norte.
+
+[[v6-18-6]]
+
+^<<v6-18-6,6>>^ Depois que traçarem um mapa da divisão da terra em sete partes, tragam-no para mim, e eu farei um sorteio na presença do SENHOR, nosso Deus.
+
+[[v6-18-7]]
+
+^<<v6-18-7,7>>^ "Os levitas, porém, não receberão porção alguma de terra entre vocês, pois seu serviço como sacerdotes do SENHOR será a sua herança. E as tribos de Gade e Rúben e a meia tribo de Manassés não receberão mais terras, pois já receberam como herança a porção de terra que Moisés, servo do SENHOR, lhes deu a leste do Jordão".
+
+[[v6-18-8]]
+
+^<<v6-18-8,8>>^ Quando os homens estavam de partida para mapear a terra, Josué lhes ordenou: "Vão, façam o reconhecimento da terra e tragam uma descrição dela por escrito. Depois, voltem e eu distribuirei a terra entre as tribos por sorteio na presença do SENHOR, aqui em Siló".
+
+[[v6-18-9]]
+
+^<<v6-18-9,9>>^ Os homens partiram, atravessaram a terra e traçaram um mapa de todo o território, dividindo-o em sete partes e relacionando as cidades em cada parte. Registraram tudo por escrito e voltaram a Josué, no acampamento em Siló.
+
+[[v6-18-10]]
+
+^<<v6-18-10,10>>^ E, ali em Siló, Josué fez o sorteio na presença do SENHOR, determinando qual tribo receberia cada parte.
+
+[[v6-18-11]]
+
+^<<v6-18-11,11>>^ A primeira porção de terra foi entregue por sorteio à tribo de Benjamim. Ficava entre os territórios designados para as tribos de Judá e José:
+
+[[v6-18-12]]
+
+^<<v6-18-12,12>>^ A divisa norte da terra de Benjamim começava no rio Jordão, passava pela encosta norte de Jericó e continuava para o oeste, atravessando a região montanhosa e terminando no deserto de Bete-Áven.
+
+[[v6-18-13]]
+
+^<<v6-18-13,13>>^ Dali a divisa prosseguia para o sul, até a cidade de Luz (isto é, Betel), e descia para Atarote-Adar, no monte ao sul de Bete-Horom Baixa.
+
+[[v6-18-14]]
+
+^<<v6-18-14,14>>^ Nesse ponto a divisa fazia uma curva para o sul, pelo lado oeste do monte em frente de Bete-Horom, e terminava em Quiriate-Baal (isto é, Quiriate-Jearim), cidade pertencente à tribo de Judá. Essa era sua divisa ocidental.
+
+[[v6-18-15]]
+
+^<<v6-18-15,15>>^ A divisa ao sul começava nos arredores de Quiriate-Jearim. Desse ponto a oeste se estendia até a fonte nas águas de Neftoa
+
+[[v6-18-16]]
+
+^<<v6-18-16,16>>^ e descia até o pé do monte que fica junto ao vale de Ben-Hinom, ao norte do vale de Refaim. Descia pelo vale de Hinom, atravessando a encosta sul da cidade onde habitavam os jebuseus, e continuava até En-Rogel.
+
+[[v6-18-17]]
+
+^<<v6-18-17,17>>^ De En-Rogel a divisa prosseguia para o norte, chegava a En-Semes e continuava até Gelilote, que fica em frente do desfiladeiro de Adumim. Depois descia até a Pedra de Boã (Boã era filho de Rúben).
+
+[[v6-18-18]]
+
+^<<v6-18-18,18>>^ Dali passava pela encosta norte, de onde se avista o vale do Jordão, e descia para o vale.
+
+[[v6-18-19]]
+
+^<<v6-18-19,19>>^ Continuava pela encosta norte de Bete-Hogla e terminava na extremidade norte do mar Morto, que é o extremo sul do rio Jordão. Essa era a divisa ao sul.
+
+[[v6-18-20]]
+
+^<<v6-18-20,20>>^ A divisa ao leste era o rio Jordão. Essas eram as divisas da herança designada aos clãs da tribo de Benjamim.
+
+[[v6-18-21]]
+
+^<<v6-18-21,21>>^ Estas foram as cidades entregues aos clãs da tribo de Benjamim: Jericó, Bete-Hogla, Emeque-Queziz,
+
+[[v6-18-22]]
+
+^<<v6-18-22,22>>^ Bete-Arabá, Zemaraim, Betel,
+
+[[v6-18-23]]
+
+^<<v6-18-23,23>>^ Avim, Pará, Ofra,
+
+[[v6-18-24]]
+
+^<<v6-18-24,24>>^ Quefar-Amonai, Ofni e Geba; doze cidades com os povoados ao redor.
+
+[[v6-18-25]]
+
+^<<v6-18-25,25>>^ Também: Gibeom, Ramá, Beerote,
+
+[[v6-18-26]]
+
+^<<v6-18-26,26>>^ Mispá, Quefira, Mosa,
+
+[[v6-18-27]]
+
+^<<v6-18-27,27>>^ Requém, Irpeel, Tarala,
+
+[[v6-18-28]]
+
+^<<v6-18-28,28>>^ Zela, Elefe, a cidade dos jebuseus (isto é, Jerusalém), Gibeá e Quiriate-Jearim; catorze cidades com os povoados ao redor. Essa foi a herança designada aos clãs da tribo de Benjamim.
+
+'''
+
+xref:006-josue/006-josue-017.adoc#v6-17-0[&#60; Capítulo Anterior] | <<v6-18-0,Topo>> | xref:006-josue/006-josue-019.adoc#v6-19-0[Próximo Capítulo &#62;]

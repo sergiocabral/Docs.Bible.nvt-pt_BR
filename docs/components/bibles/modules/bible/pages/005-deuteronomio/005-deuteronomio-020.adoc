@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v5-20-0]]
+=== Deuteronômio, 20
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v5-20-1]]
+
+^<<v5-20-1,1>>^ "Quando saírem para lutar contra seus inimigos e enfrentarem cavalos e carros e um exército maior que o seu, não tenham medo. O SENHOR, seu Deus, que os tirou da terra do Egito, está com vocês!
+
+[[v5-20-2]]
+
+^<<v5-20-2,2>>^ Quando se prepararem para a batalha, o sacerdote virá à frente e falará aos soldados.
+
+[[v5-20-3]]
+
+^<<v5-20-3,3>>^ Dirá: ‘Ouçam, homens de Israel! Ao saírem hoje para lutar contra seus inimigos, sejam corajosos. Não tenham medo, nem se apavorem, nem tremam diante deles,
+
+[[v5-20-4]]
+
+^<<v5-20-4,4>>^ pois o SENHOR, seu Deus, vai com vocês. Ele lutará contra seus inimigos em seu favor e lhes dará vitória’.
+
+[[v5-20-5]]
+
+^<<v5-20-5,5>>^ "Então os oficiais do exército se dirigirão aos soldados e dirão: ‘Alguém aqui acabou de construir uma casa, mas ainda não a dedicou? Se houver alguém nessa situação, vá para casa! Se você morresse na batalha, outra pessoa dedicaria sua casa.
+
+[[v5-20-6]]
+
+^<<v5-20-6,6>>^ Alguém aqui acabou de plantar uma videira, mas ainda não comeu de seus frutos? Se houver alguém nessa situação, vá para casa! Se você morresse na batalha, outra pessoa comeria dos primeiros frutos.
+
+[[v5-20-7]]
+
+^<<v5-20-7,7>>^ Alguém aqui acabou de ficar noivo de uma mulher, mas ainda não se casou? Vá para casa e tome a mulher como esposa! Se você morresse na batalha, outra pessoa a tomaria como esposa’.
+
+[[v5-20-8]]
+
+^<<v5-20-8,8>>^ "Os oficiais também dirão: ‘Alguém aqui está com medo ou angustiado? Se estiver, vá para casa antes que amedronte mais alguém’.
+
+[[v5-20-9]]
+
+^<<v5-20-9,9>>^ Quando os oficiais terminarem de falar aos soldados, nomearão comandantes para as tropas.
+
+[[v5-20-10]]
+
+^<<v5-20-10,10>>^ "Quando vocês se aproximarem de uma cidade para atacá-la, primeiro proponham paz a seus habitantes.
+
+[[v5-20-11]]
+
+^<<v5-20-11,11>>^ Se eles aceitarem suas condições e abrirem as portas, todo o povo dentro da cidade os servirá com trabalhos forçados.
+
+[[v5-20-12]]
+
+^<<v5-20-12,12>>^ Se eles recusarem a proposta de paz e se prepararem para lutar, cerquem a cidade.
+
+[[v5-20-13]]
+
+^<<v5-20-13,13>>^ Quando o SENHOR, seu Deus, lhes entregar a cidade, matem à espada todos os homens.
+
+[[v5-20-14]]
+
+^<<v5-20-14,14>>^ Contudo, poderão tomar para si as mulheres, as crianças, os animais e tudo que acharem na cidade. Poderão aproveitar todos os despojos dos inimigos que o SENHOR, seu Deus, entregou em suas mãos.
+
+[[v5-20-15]]
+
+^<<v5-20-15,15>>^ "Essas instruções se aplicam somente às cidades muito distantes, e não às cidades dos povos que vivem na terra em que vocês entrarão.
+
+[[v5-20-16]]
+
+^<<v5-20-16,16>>^ Nessas cidades que o SENHOR lhes dá como herança, destruam todo ser vivo.
+
+[[v5-20-17]]
+
+^<<v5-20-17,17>>^ Destruam completamente os hititas, os amorreus, os cananeus, os ferezeus, os heveus e os jebuseus, conforme o SENHOR, seu Deus, lhes ordenou.
+
+[[v5-20-18]]
+
+^<<v5-20-18,18>>^ Isso evitará que os povos da terra os ensinem a imitar os atos detestáveis que eles praticam quando adoram seus deuses, coisas que fariam vocês pecarem contra o SENHOR, seu Deus.
+
+[[v5-20-19]]
+
+^<<v5-20-19,19>>^ "Quando cercarem uma cidade e a guerra se prolongar, não cortem as árvores com machados. Comam dos frutos, mas não cortem as árvores. Acaso as árvores são inimigos para que vocês as ataquem?
+
+[[v5-20-20]]
+
+^<<v5-20-20,20>>^ Cortem apenas as árvores que vocês sabem que não dão frutos e usem-nas para fazer o equipamento necessário no cerco à cidade inimiga até que ela caia."
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-019.adoc#v5-19-0[&#60; Capítulo Anterior] | <<v5-20-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-021.adoc#v5-21-0[Próximo Capítulo &#62;]

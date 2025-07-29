@@ -1,0 +1,181 @@
+include::./index.adoc[]
+
+[[v42-18-0]]
+=== Lucas, 18
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v42-18-1]]
+
+^<<v42-18-1,1>>^ Jesus contou a seus discípulos uma parábola para mostrar-lhes que deviam orar sempre e nunca desanimar.
+
+[[v42-18-2]]
+
+^<<v42-18-2,2>>^ Disse ele: "Havia numa cidade um juiz que não temia a Deus nem se importava com as pessoas.
+
+[[v42-18-3]]
+
+^<<v42-18-3,3>>^ Uma viúva daquela cidade vinha a ele com frequência e dizia: ‘Faça-me justiça contra meu adversário’.
+
+[[v42-18-4]]
+
+^<<v42-18-4,4>>^ Por algum tempo, o juiz não lhe deu atenção, mas, por fim, disse a si mesmo: ‘Não temo a Deus e não me importo com as pessoas,
+
+[[v42-18-5]]
+
+^<<v42-18-5,5>>^ mas essa viúva está me irritando. Vou lhe fazer justiça, pois assim deixará de me importunar’".
+
+[[v42-18-6]]
+
+^<<v42-18-6,6>>^ Então o Senhor disse: "Aprendam uma lição com o juiz injusto.
+
+[[v42-18-7]]
+
+^<<v42-18-7,7>>^ Acaso Deus não fará justiça a seus escolhidos que clamam a ele dia e noite? Continuará a adiar sua resposta?
+
+[[v42-18-8]]
+
+^<<v42-18-8,8>>^ Eu afirmo que ele lhes fará justiça, e rápido! Mas, quando o Filho do Homem voltar, quantas pessoas com fé ele encontrará na terra?".
+
+[[v42-18-9]]
+
+^<<v42-18-9,9>>^ Em seguida, Jesus contou a seguinte parábola àqueles que confiavam em sua própria justiça e desprezavam os demais:
+
+[[v42-18-10]]
+
+^<<v42-18-10,10>>^ "Dois homens foram ao templo orar. Um deles era fariseu, e o outro, cobrador de impostos.
+
+[[v42-18-11]]
+
+^<<v42-18-11,11>>^ O fariseu, em pé, fazia esta oração: ‘Eu te agradeço, Deus, porque não sou como as demais pessoas: desonestas, pecadoras, adúlteras. E, com certeza, não sou como aquele cobrador de impostos.
+
+[[v42-18-12]]
+
+^<<v42-18-12,12>>^ Jejuo duas vezes por semana e dou o dízimo de tudo que ganho’.
+
+[[v42-18-13]]
+
+^<<v42-18-13,13>>^ "Mas o cobrador de impostos ficou a distância e não tinha coragem nem de levantar os olhos para o céu enquanto orava. Em vez disso, batia no peito e dizia: ‘Deus, tem misericórdia de mim, pois sou pecador’.
+
+[[v42-18-14]]
+
+^<<v42-18-14,14>>^ Eu lhes digo que foi o cobrador de impostos, e não o fariseu, quem voltou para casa justificado diante de Deus. Pois aqueles que se exaltam serão humilhados, e aqueles que se humilham serão exaltados".
+
+[[v42-18-15]]
+
+^<<v42-18-15,15>>^ Certo dia, trouxeram crianças para que Jesus pusesse as mãos sobre elas. Ao ver isso, os discípulos repreenderam aqueles que as traziam.
+
+[[v42-18-16]]
+
+^<<v42-18-16,16>>^ Jesus, porém, chamou as crianças para junto de si e disse aos discípulos: "Deixem que as crianças venham a mim. Não as impeçam, pois o reino de Deus pertence aos que são como elas.
+
+[[v42-18-17]]
+
+^<<v42-18-17,17>>^ Eu lhes digo a verdade: quem não receber o reino de Deus como uma criança de modo algum entrará nele".
+
+[[v42-18-18]]
+
+^<<v42-18-18,18>>^ Certa vez, um homem de alta posição perguntou a Jesus: "Bom mestre, que devo fazer para herdar a vida eterna?".
+
+[[v42-18-19]]
+
+^<<v42-18-19,19>>^ "Por que você me chama de bom?", perguntou Jesus. "Apenas Deus é verdadeiramente bom.
+
+[[v42-18-20]]
+
+^<<v42-18-20,20>>^ Você conhece os mandamentos: ‘Não cometa adultério. Não mate. Não roube. Não dê falso testemunho. Honre seu pai e sua mãe’."
+
+[[v42-18-21]]
+
+^<<v42-18-21,21>>^ O homem respondeu: "Tenho obedecido a todos esses mandamentos desde a juventude".
+
+[[v42-18-22]]
+
+^<<v42-18-22,22>>^ Quando Jesus ouviu sua resposta, disse: "Ainda há uma coisa que você não fez. Venda todos os seus bens e dê o dinheiro aos pobres. Então você terá um tesouro no céu. Depois, venha e siga-me".
+
+[[v42-18-23]]
+
+^<<v42-18-23,23>>^ Ao ouvir essas palavras, o homem se entristeceu, pois era muito rico.
+
+[[v42-18-24]]
+
+^<<v42-18-24,24>>^ Ao ver a tristeza daquele homem, Jesus disse: "Como é difícil os ricos entrarem no reino de Deus!
+
+[[v42-18-25]]
+
+^<<v42-18-25,25>>^ Na verdade, é mais fácil um camelo passar pelo buraco de uma agulha que um rico entrar no reino de Deus".
+
+[[v42-18-26]]
+
+^<<v42-18-26,26>>^ Aqueles que o ouviram disseram: "Então quem pode ser salvo?".
+
+[[v42-18-27]]
+
+^<<v42-18-27,27>>^ Jesus respondeu: "O que é impossível para as pessoas é possível para Deus".
+
+[[v42-18-28]]
+
+^<<v42-18-28,28>>^ Pedro disse: "Deixamos nossos lares para segui-lo".
+
+[[v42-18-29]]
+
+^<<v42-18-29,29>>^ Jesus respondeu: "Eu lhes garanto que todos que deixaram casa, esposa, irmãos, pais ou filhos por causa do reino de Deus
+
+[[v42-18-30]]
+
+^<<v42-18-30,30>>^ receberão neste mundo uma recompensa muitas vezes maior e, no mundo futuro, terão a vida eterna".
+
+[[v42-18-31]]
+
+^<<v42-18-31,31>>^ Jesus chamou os Doze à parte e disse: "Estamos subindo para Jerusalém, onde tudo que foi escrito pelos profetas a respeito do Filho do Homem se cumprirá.
+
+[[v42-18-32]]
+
+^<<v42-18-32,32>>^ Ele será entregue aos gentios, e zombarão dele, o insultarão e cuspirão nele.
+
+[[v42-18-33]]
+
+^<<v42-18-33,33>>^ Eles o açoitarão e o matarão, mas no terceiro dia ele ressuscitará".
+
+[[v42-18-34]]
+
+^<<v42-18-34,34>>^ Os discípulos, porém, não entenderam. O significado dessas palavras lhes estava oculto, e não sabiam do que ele falava.
+
+[[v42-18-35]]
+
+^<<v42-18-35,35>>^ Quando Jesus se aproximava de Jericó, havia um mendigo cego sentado à beira do caminho.
+
+[[v42-18-36]]
+
+^<<v42-18-36,36>>^ Ao ouvir o barulho da multidão que passava, perguntou o que estava acontecendo.
+
+[[v42-18-37]]
+
+^<<v42-18-37,37>>^ Disseram-lhe que Jesus de Nazaré estava passando por ali.
+
+[[v42-18-38]]
+
+^<<v42-18-38,38>>^ Então começou a gritar: "Jesus, Filho de Davi, tenha misericórdia de mim!".
+
+[[v42-18-39]]
+
+^<<v42-18-39,39>>^ Os que estavam mais à frente o repreendiam e ordenavam que se calasse. Mas ele gritava ainda mais alto: "Filho de Davi, tenha misericórdia de mim!".
+
+[[v42-18-40]]
+
+^<<v42-18-40,40>>^ Então Jesus parou e ordenou que lhe trouxessem o homem. Quando ele se aproximou, Jesus lhe perguntou:
+
+[[v42-18-41]]
+
+^<<v42-18-41,41>>^ "O que você quer que eu lhe faça?". "Senhor, eu quero ver!", respondeu o homem.
+
+[[v42-18-42]]
+
+^<<v42-18-42,42>>^ E Jesus disse: "Receba a visão! Sua fé o curou".
+
+[[v42-18-43]]
+
+^<<v42-18-43,43>>^ No mesmo instante, o homem passou a enxergar, e seguia Jesus, louvando a Deus. E todos que presenciaram isso também louvavam a Deus.
+
+'''
+
+xref:042-lucas/042-lucas-017.adoc#v42-17-0[&#60; Capítulo Anterior] | <<v42-18-0,Topo>> | xref:042-lucas/042-lucas-019.adoc#v42-19-0[Próximo Capítulo &#62;]

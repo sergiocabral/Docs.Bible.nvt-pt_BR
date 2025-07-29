@@ -1,0 +1,173 @@
+include::./index.adoc[]
+
+[[v4-15-0]]
+=== Números, 15
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v4-15-1]]
+
+^<<v4-15-1,1>>^ Então o SENHOR disse a Moisés:
+
+[[v4-15-2]]
+
+^<<v4-15-2,2>>^ "Dê as seguintes instruções ao povo de Israel. "Quando vocês se estabelecerem na terra que eu lhes dou,
+
+[[v4-15-3]]
+
+^<<v4-15-3,3>>^ apresentarão ofertas especiais como aroma agradável ao SENHOR. Essas ofertas poderão ser apresentadas de diferentes formas: um holocausto, um sacrifício para cumprir um voto, uma oferta voluntária ou uma oferta em alguma das festas anuais, e serão de seus rebanhos de bois ou ovelhas.
+
+[[v4-15-4]]
+
+^<<v4-15-4,4>>^ Quando apresentarem essas ofertas, também entregarão ao SENHOR uma oferta de cereal de dois litros de farinha da melhor qualidade misturada com um litro de azeite.
+
+[[v4-15-5]]
+
+^<<v4-15-5,5>>^ Para cada cordeiro apresentado como holocausto ou sacrifício, vocês entregarão também um litro de vinho como oferta derramada.
+
+[[v4-15-6]]
+
+^<<v4-15-6,6>>^ "Se o sacrifício for um carneiro, apresentem uma oferta de cereal de quatro litros de farinha da melhor qualidade misturada com um litro e um terço de azeite
+
+[[v4-15-7]]
+
+^<<v4-15-7,7>>^ e um litro e um terço de vinho como oferta derramada. Será um aroma agradável ao SENHOR.
+
+[[v4-15-8]]
+
+^<<v4-15-8,8>>^ "Quando apresentarem um novilho como holocausto, como sacrifício para cumprir um voto, ou como oferta de paz ao SENHOR,
+
+[[v4-15-9]]
+
+^<<v4-15-9,9>>^ também entregarão uma oferta de cereal de seis litros de farinha da melhor qualidade misturada com dois litros de azeite
+
+[[v4-15-10]]
+
+^<<v4-15-10,10>>^ e dois litros de vinho como oferta derramada. Será uma oferta especial, um aroma agradável ao SENHOR.
+
+[[v4-15-11]]
+
+^<<v4-15-11,11>>^ "Cada sacrifício de novilho, carneiro, cordeiro ou cabrito deverá ser preparado dessa maneira.
+
+[[v4-15-12]]
+
+^<<v4-15-12,12>>^ Sigam essas instruções para cada sacrifício que apresentarem.
+
+[[v4-15-13]]
+
+^<<v4-15-13,13>>^ Todos os israelitas de nascimento seguirão essas instruções quando apresentarem uma oferta especial como aroma agradável ao SENHOR.
+
+[[v4-15-14]]
+
+^<<v4-15-14,14>>^ E, se algum estrangeiro que os visita ou que vive entre vocês ou entre seus descendentes quiser apresentar uma oferta especial como aroma agradável ao SENHOR, deverá seguir os mesmos procedimentos.
+
+[[v4-15-15]]
+
+^<<v4-15-15,15>>^ Os israelitas de nascimento e os estrangeiros são iguais diante do SENHOR e estão sujeitos aos mesmos decretos da comunidade. Essa é uma lei permanente para vocês, a ser cumprida de geração em geração.
+
+[[v4-15-16]]
+
+^<<v4-15-16,16>>^ As mesmas instruções e ordens se aplicam tanto a vocês como aos estrangeiros que vivem em seu meio".
+
+[[v4-15-17]]
+
+^<<v4-15-17,17>>^ Então o SENHOR disse a Moisés:
+
+[[v4-15-18]]
+
+^<<v4-15-18,18>>^ "Dê as seguintes instruções ao povo de Israel. "Quando chegarem à terra para onde os levo
+
+[[v4-15-19]]
+
+^<<v4-15-19,19>>^ e comerem das colheitas que ela produz, separarão uma parte como oferta para o SENHOR.
+
+[[v4-15-20]]
+
+^<<v4-15-20,20>>^ Apresentem um bolo feito da primeira farinha que moerem e separem-no como oferta, como fazem com os primeiros cereais da eira.
+
+[[v4-15-21]]
+
+^<<v4-15-21,21>>^ Todas as gerações futuras apresentarão ao SENHOR uma oferta da primeira farinha que moerem.
+
+[[v4-15-22]]
+
+^<<v4-15-22,22>>^ "Se vocês, sem intenção, deixarem de cumprir todos esses mandamentos que o SENHOR ordenou a Moisés,
+
+[[v4-15-23]]
+
+^<<v4-15-23,23>>^ sim, tudo que o SENHOR lhes ordenou por meio de Moisés, desde o dia em que ele o ordenou, para vocês e para as gerações futuras,
+
+[[v4-15-24]]
+
+^<<v4-15-24,24>>^ e a comunidade não se der conta de seu erro, toda a comunidade apresentará um novilho como holocausto de aroma agradável ao SENHOR. O sacrifício será apresentado junto com a oferta de cereal e a oferta derramada, conforme prescrito, e também com um bode como oferta pelo pecado.
+
+[[v4-15-25]]
+
+^<<v4-15-25,25>>^ Com essa oferta, o sacerdote fará expiação por toda a comunidade de Israel, e ela será perdoada. O pecado não foi intencional e foi expiado com as ofertas apresentadas ao SENHOR, a oferta especial e a oferta pelo pecado.
+
+[[v4-15-26]]
+
+^<<v4-15-26,26>>^ Toda a comunidade de Israel será perdoada, incluindo os estrangeiros que vivem entre vocês, pois o pecado envolveu todo o povo.
+
+[[v4-15-27]]
+
+^<<v4-15-27,27>>^ "Se um único indivíduo cometer um pecado não intencional, apresentará uma cabra de um ano como oferta pelo pecado.
+
+[[v4-15-28]]
+
+^<<v4-15-28,28>>^ O sacerdote a sacrificará a fim de fazer expiação pelo culpado diante do SENHOR, e ele será perdoado.
+
+[[v4-15-29]]
+
+^<<v4-15-29,29>>^ Essas instruções sobre o pecado involuntário se aplicam tanto aos israelitas de nascimento como aos estrangeiros que vivem em seu meio.
+
+[[v4-15-30]]
+
+^<<v4-15-30,30>>^ "Mas aquele que arrogantemente fizer algo contrário à vontade de Deus, seja israelita de nascimento ou estrangeiro, blasfema contra o SENHOR e deverá ser eliminado do meio do povo.
+
+[[v4-15-31]]
+
+^<<v4-15-31,31>>^ Uma vez que tratou a palavra do SENHOR com desprezo e desobedeceu à sua ordem de propósito, deverá ser eliminado e sofrer o castigo por sua culpa".
+
+[[v4-15-32]]
+
+^<<v4-15-32,32>>^ Certo dia, enquanto o povo de Israel estava no deserto, encontraram um homem recolhendo lenha no sábado.
+
+[[v4-15-33]]
+
+^<<v4-15-33,33>>^ As pessoas que o encontraram recolhendo lenha o levaram perante Moisés, Arão e o restante da comunidade.
+
+[[v4-15-34]]
+
+^<<v4-15-34,34>>^ Como ainda não estava determinado o que fariam com ele, mantiveram o homem preso.
+
+[[v4-15-35]]
+
+^<<v4-15-35,35>>^ Então o SENHOR disse a Moisés: "O homem deve ser executado! Toda a comunidade o apedrejará fora do acampamento".
+
+[[v4-15-36]]
+
+^<<v4-15-36,36>>^ Assim, toda a comunidade levou o homem para fora do acampamento e o apedrejou até a morte, conforme o SENHOR havia ordenado a Moisés.
+
+[[v4-15-37]]
+
+^<<v4-15-37,37>>^ O SENHOR disse a Moisés:
+
+[[v4-15-38]]
+
+^<<v4-15-38,38>>^ "Dê as seguintes instruções ao povo de Israel. Vocês e as gerações futuras farão franjas na bainha da roupa e as prenderão com um fio azul.
+
+[[v4-15-39]]
+
+^<<v4-15-39,39>>^ Quando virem as franjas, recordarão todos os mandamentos do SENHOR e os cumprirão. Assim, não serão infiéis, seguindo os desejos de seu coração e de seus olhos.
+
+[[v4-15-40]]
+
+^<<v4-15-40,40>>^ As franjas os ajudarão a lembrar que devem obedecer a todos os meus mandamentos e ser santos para o seu Deus.
+
+[[v4-15-41]]
+
+^<<v4-15-41,41>>^ Eu sou o SENHOR, seu Deus, que os tirou da terra do Egito para ser o seu Deus. Eu sou o SENHOR, seu Deus".
+
+'''
+
+xref:004-numeros/004-numeros-014.adoc#v4-14-0[&#60; Capítulo Anterior] | <<v4-15-0,Topo>> | xref:004-numeros/004-numeros-016.adoc#v4-16-0[Próximo Capítulo &#62;]

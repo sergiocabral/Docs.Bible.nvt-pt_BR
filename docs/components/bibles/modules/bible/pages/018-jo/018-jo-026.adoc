@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v18-26-0]]
+=== Jó, 26
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v18-26-1]]
+
+^<<v18-26-1,1>>^ Então Jó falou novamente:
+
+[[v18-26-2]]
+
+^<<v18-26-2,2>>^ "Grande ajuda você deu aos indefesos! Belo socorro prestou aos fracos!
+
+[[v18-26-3]]
+
+^<<v18-26-3,3>>^ Como esclareceu minha ignorância! Sábio conselho ofereceu!
+
+[[v18-26-4]]
+
+^<<v18-26-4,4>>^ De onde tirou todas essas palavras de sabedoria? De quem é o espírito que fala por seu intermédio?
+
+[[v18-26-5]]
+
+^<<v18-26-5,5>>^ "Tremem os mortos, aqueles que vivem debaixo das águas.
+
+[[v18-26-6]]
+
+^<<v18-26-6,6>>^ O lugar dos mortos está nu diante de Deus; o lugar de destruição está descoberto.
+
+[[v18-26-7]]
+
+^<<v18-26-7,7>>^ Deus estende o céu do norte sobre o vazio e suspende a terra sobre o nada.
+
+[[v18-26-8]]
+
+^<<v18-26-8,8>>^ Envolve a chuva com densas nuvens, e elas não se rompem com o peso da água.
+
+[[v18-26-9]]
+
+^<<v18-26-9,9>>^ Encobre a face da lua e a esconde com suas nuvens.
+
+[[v18-26-10]]
+
+^<<v18-26-10,10>>^ Criou o horizonte ao separar as águas e definiu o limite entre dia e noite.
+
+[[v18-26-11]]
+
+^<<v18-26-11,11>>^ Tremem os alicerces do céu, estremecem diante de sua repreensão.
+
+[[v18-26-12]]
+
+^<<v18-26-12,12>>^ Com seu poder, acalmou o mar; com sua habilidade, despedaçou o monstro marinho.
+
+[[v18-26-13]]
+
+^<<v18-26-13,13>>^ Com seu sopro, trouxe beleza aos céus; com sua mão, feriu a serpente veloz.
+
+[[v18-26-14]]
+
+^<<v18-26-14,14>>^ Isso é apenas o começo de tudo que ele faz, um mero sussurro de sua força; quem pode compreender o trovão de seu poder?".
+
+'''
+
+xref:018-jo/018-jo-025.adoc#v18-25-0[&#60; Capítulo Anterior] | <<v18-26-0,Topo>> | xref:018-jo/018-jo-027.adoc#v18-27-0[Próximo Capítulo &#62;]

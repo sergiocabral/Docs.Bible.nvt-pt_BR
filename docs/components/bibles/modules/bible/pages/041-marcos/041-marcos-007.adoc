@@ -1,0 +1,157 @@
+include::./index.adoc[]
+
+[[v41-7-0]]
+=== Marcos, 7
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v41-7-1]]
+
+^<<v41-7-1,1>>^ Certo dia, alguns fariseus e mestres da lei chegaram de Jerusalém para ver Jesus.
+
+[[v41-7-2]]
+
+^<<v41-7-2,2>>^ Observaram que alguns de seus discípulos comiam sua refeição com as mãos impuras, ou seja, sem lavá-las.
+
+[[v41-7-3]]
+
+^<<v41-7-3,3>>^ (Pois todos os judeus, sobretudo os fariseus, não comem sem antes lavar cuidadosamente as mãos, como exige a tradição dos líderes religiosos.
+
+[[v41-7-4]]
+
+^<<v41-7-4,4>>^ Quando chegam do mercado, não comem coisa alguma sem antes mergulhar as mãos em água. Essa é apenas uma das muitas tradições às quais se apegam, como a lavagem de copos, jarras e panelas.)
+
+[[v41-7-5]]
+
+^<<v41-7-5,5>>^ Então os fariseus e mestres da lei lhe perguntaram: "Por que seus discípulos não seguem a tradição dos líderes religiosos? Eles comem sem antes realizar a cerimônia de lavar as mãos!".
+
+[[v41-7-6]]
+
+^<<v41-7-6,6>>^ Jesus respondeu: "Hipócritas! Isaías tinha razão quando profetizou a seu respeito, pois escreveu: ‘Este povo me honra com os lábios, mas o coração está longe de mim.
+
+[[v41-7-7]]
+
+^<<v41-7-7,7>>^ Sua adoração é uma farsa, pois ensinam doutrinas humanas como se fossem mandamentos de Deus’.
+
+[[v41-7-8]]
+
+^<<v41-7-8,8>>^ Vocês desprezam a lei de Deus e a substituem por sua própria tradição".
+
+[[v41-7-9]]
+
+^<<v41-7-9,9>>^ Disse ainda: "Vocês se esquivam com habilidade da lei de Deus para se apegar à sua própria tradição.
+
+[[v41-7-10]]
+
+^<<v41-7-10,10>>^ Por exemplo, Moisés deu esta lei: ‘Honre seu pai e sua mãe’ e ‘Quem insultar seu pai ou sua mãe será executado’.
+
+[[v41-7-11]]
+
+^<<v41-7-11,11>>^ Vocês, porém, ensinam que alguém pode dizer a seus pais: ‘Não posso ajudá-los. Jurei entregar como oferta a Deus aquilo que eu teria dado a vocês’.
+
+[[v41-7-12]]
+
+^<<v41-7-12,12>>^ Com isso, desobrigam as pessoas de cuidarem dos pais,
+
+[[v41-7-13]]
+
+^<<v41-7-13,13>>^ anulando a palavra de Deus a fim de transmitir sua própria tradição. E esse é apenas um exemplo entre muitos outros".
+
+[[v41-7-14]]
+
+^<<v41-7-14,14>>^ Jesus chamou a multidão para perto de si e disse: "Ouçam, todos vocês, e procurem entender.
+
+[[v41-7-15]]
+
+^<<v41-7-15,15>>^ Não é o que entra no corpo que os contamina; vocês se contaminam com o que sai do coração.
+
+[[v41-7-16]]
+
+^<<v41-7-16,16>>^ Quem tem ouvidos para ouvir, ouça com atenção!".
+
+[[v41-7-17]]
+
+^<<v41-7-17,17>>^ Então Jesus entrou numa casa para se afastar da multidão, e seus discípulos lhe perguntaram o que ele queria dizer com a parábola que havia acabado de contar.
+
+[[v41-7-18]]
+
+^<<v41-7-18,18>>^ "Vocês também ainda não entendem?", perguntou. "Não percebem que a comida que entra no corpo não pode contaminá-los?
+
+[[v41-7-19]]
+
+^<<v41-7-19,19>>^ O alimento não vai para o coração, mas apenas passa pelo estômago e vai parar no esgoto." (Ao dizer isso, declarou que todo tipo de comida é aceitável.)
+
+[[v41-7-20]]
+
+^<<v41-7-20,20>>^ Em seguida, acrescentou: "Aquilo que vem de dentro é que os contamina.
+
+[[v41-7-21]]
+
+^<<v41-7-21,21>>^ Pois, de dentro, do coração da pessoa, vêm maus pensamentos, imoralidade sexual, roubo, homicídio,
+
+[[v41-7-22]]
+
+^<<v41-7-22,22>>^ adultério, cobiça, perversidade, engano, paixões carnais, inveja, calúnias, orgulho e insensatez.
+
+[[v41-7-23]]
+
+^<<v41-7-23,23>>^ Todas essas coisas desprezíveis vêm de dentro; são elas que os contaminam".
+
+[[v41-7-24]]
+
+^<<v41-7-24,24>>^ Então Jesus deixou a Galileia e se dirigiu para o norte, para a região de Tiro. Não queria que ninguém soubesse onde ele estava hospedado, mas não foi possível manter segredo.
+
+[[v41-7-25]]
+
+^<<v41-7-25,25>>^ De imediato, uma mulher que tinha ouvido falar dele veio e caiu a seus pés. A filha dela estava possuída por um espírito impuro,
+
+[[v41-7-26]]
+
+^<<v41-7-26,26>>^ e ela implorou que ele expulsasse o demônio que estava na menina. Sendo ela grega, nascida na região da Fenícia, na Síria,
+
+[[v41-7-27]]
+
+^<<v41-7-27,27>>^ Jesus lhe disse: "Primeiro devem-se alimentar os filhos. Não é certo tirar comida das crianças e jogá-la aos cachorros".
+
+[[v41-7-28]]
+
+^<<v41-7-28,28>>^ "Senhor, é verdade", disse a mulher. "No entanto, até os cachorros, debaixo da mesa, comem as migalhas dos pratos dos filhos."
+
+[[v41-7-29]]
+
+^<<v41-7-29,29>>^ "Boa resposta!", disse Jesus. "Vá para casa, pois o demônio já deixou sua filha."
+
+[[v41-7-30]]
+
+^<<v41-7-30,30>>^ E, quando ela chegou à sua casa, sua filha estava deitada na cama, e o demônio a havia deixado.
+
+[[v41-7-31]]
+
+^<<v41-7-31,31>>^ Jesus saiu de Tiro e subiu para Sidom antes de voltar ao mar da Galileia e à região das Dez Cidades.
+
+[[v41-7-32]]
+
+^<<v41-7-32,32>>^ Algumas pessoas lhe trouxeram um homem surdo e com dificuldade de fala, e lhe pediram que pusesse as mãos sobre ele e o curasse.
+
+[[v41-7-33]]
+
+^<<v41-7-33,33>>^ Jesus o afastou da multidão para ficar a sós com ele. Pôs os dedos nos ouvidos do homem e, em seguida, cuspiu nos dedos e tocou a língua dele.
+
+[[v41-7-34]]
+
+^<<v41-7-34,34>>^ Olhando para o céu, suspirou e disse: " Efatá! ", que significa "Abra-se!".
+
+[[v41-7-35]]
+
+^<<v41-7-35,35>>^ No mesmo instante, o homem passou a ouvir perfeitamente; sua língua ficou livre, e ele começou a falar com clareza.
+
+[[v41-7-36]]
+
+^<<v41-7-36,36>>^ Jesus ordenou à multidão que não contasse a ninguém, mas, quanto mais ele os proibia, mais divulgavam o que havia acontecido.
+
+[[v41-7-37]]
+
+^<<v41-7-37,37>>^ Estavam muito admirados e diziam repetidamente: "Tudo que ele faz é maravilhoso! Ele até faz o surdo ouvir e o mudo falar!".
+
+'''
+
+xref:041-marcos/041-marcos-006.adoc#v41-6-0[&#60; Capítulo Anterior] | <<v41-7-0,Topo>> | xref:041-marcos/041-marcos-008.adoc#v41-8-0[Próximo Capítulo &#62;]

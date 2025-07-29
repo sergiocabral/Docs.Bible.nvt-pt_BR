@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v20-27-0]]
+=== Provérbios, 27
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v20-27-1]]
+
+^<<v20-27-1,1>>^ Não conte vantagem a respeito do futuro, pois você não sabe o que o amanhã trará.
+
+[[v20-27-2]]
+
+^<<v20-27-2,2>>^ Deixe que outro o elogie, e não sua própria boca; alguém desconhecido, e não seus próprios lábios.
+
+[[v20-27-3]]
+
+^<<v20-27-3,3>>^ A pedra é pesada, e a areia também, mas pesa ainda mais o ressentimento causado pelo insensato.
+
+[[v20-27-4]]
+
+^<<v20-27-4,4>>^ A ira é cruel, e a fúria, como a inundação, mas a inveja é ainda mais perigosa.
+
+[[v20-27-5]]
+
+^<<v20-27-5,5>>^ A repreensão franca é melhor que o amor escondido.
+
+[[v20-27-6]]
+
+^<<v20-27-6,6>>^ As feridas feitas por um amigo sincero são melhores que os beijos de um inimigo.
+
+[[v20-27-7]]
+
+^<<v20-27-7,7>>^ Quem está satisfeito recusa o mel, mas para o faminto até o alimento amargo é doce.
+
+[[v20-27-8]]
+
+^<<v20-27-8,8>>^ Quem anda distante de casa é como pássaro longe do ninho.
+
+[[v20-27-9]]
+
+^<<v20-27-9,9>>^ O conselho sincero de um amigo é agradável como perfume e incenso.
+
+[[v20-27-10]]
+
+^<<v20-27-10,10>>^ Jamais abandone um amigo, nem o seu nem o de seu pai. Quando vier a calamidade, não peça ajuda a seu irmão; é melhor recorrer a um vizinho próximo que a um irmão distante.
+
+[[v20-27-11]]
+
+^<<v20-27-11,11>>^ Meu filho, seja sábio e alegre meu coração; então poderei responder aos que me criticam.
+
+[[v20-27-12]]
+
+^<<v20-27-12,12>>^ O prudente antevê o perigo e toma precauções; o ingênuo avança às cegas e sofre as consequências.
+
+[[v20-27-13]]
+
+^<<v20-27-13,13>>^ Quem aceita ser fiador de um desconhecido perderá a roupa do corpo; ela ficará como pagamento de quem garante a dívida do estranho.
+
+[[v20-27-14]]
+
+^<<v20-27-14,14>>^ A saudação ruidosa logo cedo será recebida como maldição.
+
+[[v20-27-15]]
+
+^<<v20-27-15,15>>^ A esposa briguenta é irritante como a goteira num dia de chuva.
+
+[[v20-27-16]]
+
+^<<v20-27-16,16>>^ Tentar contê-la é como deter o vento ou agarrar o óleo com a mão.
+
+[[v20-27-17]]
+
+^<<v20-27-17,17>>^ Como o ferro afia o ferro, assim um amigo afia o outro.
+
+[[v20-27-18]]
+
+^<<v20-27-18,18>>^ Quem cuida da figueira comerá de seus frutos; quem protege os interesses de seu senhor será recompensado.
+
+[[v20-27-19]]
+
+^<<v20-27-19,19>>^ Como a água reflete o rosto, assim o coração reflete quem a pessoa é.
+
+[[v20-27-20]]
+
+^<<v20-27-20,20>>^ Como a Morte e a Destruição nunca se satisfazem, assim os desejos do homem nunca são saciados.
+
+[[v20-27-21]]
+
+^<<v20-27-21,21>>^ O fogo prova a pureza da prata e do ouro, mas a pessoa é provada pelos elogios que recebe.
+
+[[v20-27-22]]
+
+^<<v20-27-22,22>>^ Ainda que se moa o insensato como cereal no pilão, é impossível separá-lo de sua insensatez.
+
+[[v20-27-23]]
+
+^<<v20-27-23,23>>^ Tome conhecimento do estado de suas ovelhas e dedique-se a cuidar de seus rebanhos,
+
+[[v20-27-24]]
+
+^<<v20-27-24,24>>^ pois a riqueza não dura para sempre, e pode ser que a coroa não passe para a geração seguinte.
+
+[[v20-27-25]]
+
+^<<v20-27-25,25>>^ Depois de recolhido o feno, geminada a nova plantação e reunido o capim dos montes,
+
+[[v20-27-26]]
+
+^<<v20-27-26,26>>^ os carneiros darão lã para suas roupas e os bodes poderão ser vendidos pelo preço de um campo.
+
+[[v20-27-27]]
+
+^<<v20-27-27,27>>^ Você terá leite de cabra suficiente para si, para sua família e para suas servas.
+
+'''
+
+xref:020-proverbios/020-proverbios-026.adoc#v20-26-0[&#60; Capítulo Anterior] | <<v20-27-0,Topo>> | xref:020-proverbios/020-proverbios-028.adoc#v20-28-0[Próximo Capítulo &#62;]

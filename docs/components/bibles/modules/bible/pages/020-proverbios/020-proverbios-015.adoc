@@ -1,0 +1,141 @@
+include::./index.adoc[]
+
+[[v20-15-0]]
+=== Provérbios, 15
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v20-15-1]]
+
+^<<v20-15-1,1>>^ A resposta gentil desvia o furor, mas a palavra ríspida desperta a ira.
+
+[[v20-15-2]]
+
+^<<v20-15-2,2>>^ A língua dos sábios torna atraente o conhecimento, mas a boca dos tolos despeja a insensatez.
+
+[[v20-15-3]]
+
+^<<v20-15-3,3>>^ Os olhos do SENHOR estão em todo lugar; observam tanto os maus como os bons.
+
+[[v20-15-4]]
+
+^<<v20-15-4,4>>^ Palavras suaves são árvore de vida, mas a língua enganosa esmaga o espírito.
+
+[[v20-15-5]]
+
+^<<v20-15-5,5>>^ O insensato despreza a instrução de seu pai, mas quem aprende com a repreensão demonstra prudência.
+
+[[v20-15-6]]
+
+^<<v20-15-6,6>>^ Há tesouros na casa do justo, mas os rendimentos dos perversos causam problemas.
+
+[[v20-15-7]]
+
+^<<v20-15-7,7>>^ A boca dos sábios espalha conhecimento; o coração dos tolos nada tem a oferecer.
+
+[[v20-15-8]]
+
+^<<v20-15-8,8>>^ Os sacrifícios dos perversos são detestáveis para o SENHOR, mas ele tem prazer nas orações dos justos.
+
+[[v20-15-9]]
+
+^<<v20-15-9,9>>^ Os caminhos dos perversos são detestáveis para o SENHOR, mas ele ama aquele que busca a justiça.
+
+[[v20-15-10]]
+
+^<<v20-15-10,10>>^ Quem abandona o caminho correto sofrerá disciplina severa; quem odeia a repreensão morrerá.
+
+[[v20-15-11]]
+
+^<<v20-15-11,11>>^ A Morte e a Destruição nada escondem do SENHOR, quanto mais o coração humano!
+
+[[v20-15-12]]
+
+^<<v20-15-12,12>>^ O zombador odeia ser repreendido, por isso se afasta dos sábios.
+
+[[v20-15-13]]
+
+^<<v20-15-13,13>>^ O coração contente alegra o rosto, mas o coração triste abate o espírito.
+
+[[v20-15-14]]
+
+^<<v20-15-14,14>>^ O sábio tem fome de conhecimento, enquanto os tolos se alimentam de insensatez.
+
+[[v20-15-15]]
+
+^<<v20-15-15,15>>^ Para os aflitos, todos os dias são difíceis; para o coração alegre, a vida é um banquete contínuo.
+
+[[v20-15-16]]
+
+^<<v20-15-16,16>>^ É melhor ter pouco e temer o Senhor que ter um grande tesouro e viver ansioso.
+
+[[v20-15-17]]
+
+^<<v20-15-17,17>>^ Um prato de verduras ao lado de quem você ama é melhor que carne saborosa junto de alguém que você odeia.
+
+[[v20-15-18]]
+
+^<<v20-15-18,18>>^ Quem se ira facilmente provoca brigas, mas quem tem paciência acalma a discussão.
+
+[[v20-15-19]]
+
+^<<v20-15-19,19>>^ O caminho do preguiçoso é bloqueado por espinhos, mas o caminho do justo é uma estrada aberta.
+
+[[v20-15-20]]
+
+^<<v20-15-20,20>>^ O filho sensato alegra seu pai; o filho tolo despreza sua mãe.
+
+[[v20-15-21]]
+
+^<<v20-15-21,21>>^ A insensatez alegra quem não tem juízo, mas quem tem bom senso permanece no caminho certo.
+
+[[v20-15-22]]
+
+^<<v20-15-22,22>>^ Planos fracassam onde não há conselho, mas têm êxito quando há muitos conselheiros.
+
+[[v20-15-23]]
+
+^<<v20-15-23,23>>^ Todos se alegram quando dão a resposta apropriada; como é bom dizer a coisa certa na hora certa!
+
+[[v20-15-24]]
+
+^<<v20-15-24,24>>^ O caminho da vida leva o prudente para cima; ele deixa a sepultura para trás.
+
+[[v20-15-25]]
+
+^<<v20-15-25,25>>^ O SENHOR derruba a casa dos orgulhosos, mas protege a propriedade da viúva.
+
+[[v20-15-26]]
+
+^<<v20-15-26,26>>^ Os planos perversos são detestáveis para o SENHOR, mas ele tem prazer nas palavras puras.
+
+[[v20-15-27]]
+
+^<<v20-15-27,27>>^ A cobiça traz aflição para toda a família, mas quem odeia subornos viverá.
+
+[[v20-15-28]]
+
+^<<v20-15-28,28>>^ O coração do justo pensa bem antes de falar; a boca dos perversos transborda de palavras maldosas.
+
+[[v20-15-29]]
+
+^<<v20-15-29,29>>^ O SENHOR está longe dos perversos, mas ouve as orações dos justos.
+
+[[v20-15-30]]
+
+^<<v20-15-30,30>>^ O olhar animador alegra o coração; boas notícias dão vigor ao corpo.
+
+[[v20-15-31]]
+
+^<<v20-15-31,31>>^ Quem dá ouvidos à crítica construtiva se sente à vontade entre os sábios.
+
+[[v20-15-32]]
+
+^<<v20-15-32,32>>^ Quem rejeita a disciplina prejudica a si mesmo, mas quem dá ouvidos à repreensão adquire entendimento.
+
+[[v20-15-33]]
+
+^<<v20-15-33,33>>^ O temor do SENHOR ensina sabedoria; a humildade precede a honra.
+
+'''
+
+xref:020-proverbios/020-proverbios-014.adoc#v20-14-0[&#60; Capítulo Anterior] | <<v20-15-0,Topo>> | xref:020-proverbios/020-proverbios-016.adoc#v20-16-0[Próximo Capítulo &#62;]

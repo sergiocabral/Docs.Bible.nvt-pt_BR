@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v12-16-0]]
+=== 2 Reis, 16
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v12-16-1]]
+
+^<<v12-16-1,1>>^ Acaz, filho de Jotão, começou a reinar em Judá no décimo sétimo ano do reinado de Peca, filho de Remalias.
+
+[[v12-16-2]]
+
+^<<v12-16-2,2>>^ Tinha 20 anos quando começou a reinar, e reinou em Jerusalém por dezesseis anos. Ao contrário de seu antepassado Davi, não fez o que era certo aos olhos do SENHOR, seu Deus.
+
+[[v12-16-3]]
+
+^<<v12-16-3,3>>^ Em vez disso, seguiu o exemplo dos reis de Israel e até sacrificou seu filho no fogo. Desse modo, seguiu as práticas detestáveis das nações que o SENHOR havia expulsado da terra diante dos israelitas.
+
+[[v12-16-4]]
+
+^<<v12-16-4,4>>^ Ofereceu sacrifícios e queimou incenso nos santuários idólatras, nos montes e debaixo de toda árvore verdejante.
+
+[[v12-16-5]]
+
+^<<v12-16-5,5>>^ Então Rezim, rei da Síria, e Peca, filho de Remalias, rei de Israel, subiram para atacar Jerusalém. Cercaram Acaz, mas não conseguiram derrotá-lo.
+
+[[v12-16-6]]
+
+^<<v12-16-6,6>>^ Nessa época, o rei de Edom recuperou a cidade de Elate para os edomitas. Expulsou o povo de Judá e colocou edomitas para morarem ali, onde estão até hoje.
+
+[[v12-16-7]]
+
+^<<v12-16-7,7>>^ O rei Acaz enviou mensageiros para dizer a Tiglate-Pileser, rei da Assíria: "Sou seu servo e seu súdito. Venha salvar-me dos exércitos da Síria e de Israel que estão me atacando".
+
+[[v12-16-8]]
+
+^<<v12-16-8,8>>^ Então Acaz pegou a prata e o ouro do templo do SENHOR e dos tesouros do palácio e os enviou como pagamento para o rei da Assíria.
+
+[[v12-16-9]]
+
+^<<v12-16-9,9>>^ O rei da Assíria atendeu ao pedido e atacou Damasco, a capital da Síria, e deportou seus habitantes para Quir. Também matou Rezim, rei da Síria.
+
+[[v12-16-10]]
+
+^<<v12-16-10,10>>^ Então o rei Acaz foi a Damasco para encontrar-se com Tiglate-Pileser, rei da Assíria. Enquanto estava lá, viu o altar da cidade e enviou ao sacerdote Urias um modelo e um desenho detalhado do altar.
+
+[[v12-16-11]]
+
+^<<v12-16-11,11>>^ O sacerdote Urias seguiu as instruções do rei e construiu um altar exatamente igual, que ficou pronto antes de o rei voltar de Damasco.
+
+[[v12-16-12]]
+
+^<<v12-16-12,12>>^ Quando o rei voltou, viu o altar e ofereceu sacrifícios sobre ele.
+
+[[v12-16-13]]
+
+^<<v12-16-13,13>>^ Apresentou um holocausto, uma oferta de cereal e uma oferta derramada e aspergiu o altar com o sangue de uma oferta de paz.
+
+[[v12-16-14]]
+
+^<<v12-16-14,14>>^ O rei Acaz removeu o antigo altar de bronze de seu lugar, na frente do templo do SENHOR, entre o novo altar e a entrada, e o colocou do lado norte do novo altar.
+
+[[v12-16-15]]
+
+^<<v12-16-15,15>>^ Disse ao sacerdote Urias: "Use o novo altar para o holocausto da manhã, para a oferta de cereal da tarde, para o holocausto e a oferta de cereal do rei, e para o holocausto, a oferta de cereal e a oferta derramada de todo o povo. Com o sangue de todos os holocaustos e sacrifícios, faça aspersão sobre o novo altar. O altar de bronze será apenas para meu uso pessoal".
+
+[[v12-16-16]]
+
+^<<v12-16-16,16>>^ Urias fez como o rei Acaz ordenou.
+
+[[v12-16-17]]
+
+^<<v12-16-17,17>>^ Depois, o rei Acaz tirou os painéis e as bacias das dez bases móveis usadas para levar água. Também removeu o grande tanque de bronze chamado Mar de cima dos touros e o colocou sobre o pavimento de pedra.
+
+[[v12-16-18]]
+
+^<<v12-16-18,18>>^ Por causa do rei da Assíria, removeu a cobertura construída dentro do templo para ser usada aos sábados, bem como a entrada externa do rei para o templo do SENHOR.
+
+[[v12-16-19]]
+
+^<<v12-16-19,19>>^ Os demais acontecimentos do reinado de Acaz e tudo que ele fez estão registrados no Livro da História dos Reis de Judá .
+
+[[v12-16-20]]
+
+^<<v12-16-20,20>>^ Quando Acaz morreu, foi sepultado com seus antepassados na Cidade de Davi. Seu filho Ezequias foi seu sucessor.
+
+'''
+
+xref:012-2-reis/012-2-reis-015.adoc#v12-15-0[&#60; Capítulo Anterior] | <<v12-16-0,Topo>> | xref:012-2-reis/012-2-reis-017.adoc#v12-17-0[Próximo Capítulo &#62;]

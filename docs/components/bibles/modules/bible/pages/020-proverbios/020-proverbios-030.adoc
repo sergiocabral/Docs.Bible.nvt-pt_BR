@@ -1,0 +1,141 @@
+include::./index.adoc[]
+
+[[v20-30-0]]
+=== Provérbios, 30
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v20-30-1]]
+
+^<<v20-30-1,1>>^ Os ditados de Agur, filho de Jaque, contêm esta mensagem: Estou cansado, ó Deus; estou cansado e exausto, ó Deus.
+
+[[v20-30-2]]
+
+^<<v20-30-2,2>>^ Sou o mais tolo dos homens; não tenho discernimento.
+
+[[v20-30-3]]
+
+^<<v20-30-3,3>>^ Não aprendi a sabedoria humana, nem tenho conhecimento do Santo.
+
+[[v20-30-4]]
+
+^<<v20-30-4,4>>^ Quem é capaz de subir aos céus e descer? Quem segura o vento nas mãos? Quem envolve os oceanos em sua capa? Quem criou o mundo inteiro? Qual é seu nome? E qual é o nome de seu filho? Diga-me, se é que sabe!
+
+[[v20-30-5]]
+
+^<<v20-30-5,5>>^ Toda palavra de Deus se prova verdadeira; ele é escudo para quem busca sua proteção.
+
+[[v20-30-6]]
+
+^<<v20-30-6,6>>^ Não acrescente nada às palavras dele; se o fizer, ele o repreenderá e mostrará que você é mentiroso.
+
+[[v20-30-7]]
+
+^<<v20-30-7,7>>^ Ó Deus, eu te peço dois favores; concede-os antes que eu morra.
+
+[[v20-30-8]]
+
+^<<v20-30-8,8>>^ Primeiro, ajuda-me a ficar longe da falsidade e da mentira. Segundo, não me dês nem pobreza nem riqueza; dá-me apenas o que for necessário.
+
+[[v20-30-9]]
+
+^<<v20-30-9,9>>^ Pois, se eu ficar rico, pode ser que te negue e diga: "Quem é o SENHOR?". E, se eu for pobre demais, pode ser que roube e, com isso, desonre o nome do meu Deus.
+
+[[v20-30-10]]
+
+^<<v20-30-10,10>>^ Não fale mal do servo a seu senhor; do contrário, o servo o amaldiçoará, e você sofrerá as consequências.
+
+[[v20-30-11]]
+
+^<<v20-30-11,11>>^ Alguns amaldiçoam o pai e são ingratos com a mãe.
+
+[[v20-30-12]]
+
+^<<v20-30-12,12>>^ Consideram-se puros, mas são imundos e nunca foram lavados.
+
+[[v20-30-13]]
+
+^<<v20-30-13,13>>^ Olham ao redor com orgulho e lançam olhares de desprezo.
+
+[[v20-30-14]]
+
+^<<v20-30-14,14>>^ Seus dentes são como espadas, e suas presas, como facas. Devoram da terra os pobres e, da humanidade, os necessitados.
+
+[[v20-30-15]]
+
+^<<v20-30-15,15>>^ A sanguessuga tem duas bocas que dizem: "Mais, mais!". Há três coisas que nunca se satisfazem, ou melhor, quatro que nunca dizem: "É suficiente!":
+
+[[v20-30-16]]
+
+^<<v20-30-16,16>>^ a sepultura, o ventre estéril, o deserto sedento e o fogo abrasador.
+
+[[v20-30-17]]
+
+^<<v20-30-17,17>>^ O olho de quem zomba do pai e despreza as instruções da mãe será arrancado pelos corvos do vale e devorado pelos abutres.
+
+[[v20-30-18]]
+
+^<<v20-30-18,18>>^ Há três coisas que me deixam maravilhado, ou melhor, quatro coisas que não entendo:
+
+[[v20-30-19]]
+
+^<<v20-30-19,19>>^ como a águia plana no céu, como a serpente rasteja sobre a rocha, como a embarcação navega no mar, e como o homem ama a mulher.
+
+[[v20-30-20]]
+
+^<<v20-30-20,20>>^ A mulher adúltera devora o homem, depois limpa a boca e diz: "Não fiz nada de errado".
+
+[[v20-30-21]]
+
+^<<v20-30-21,21>>^ Há três coisas que fazem a terra estremecer, ou melhor, quatro que ela não pode suportar:
+
+[[v20-30-22]]
+
+^<<v20-30-22,22>>^ o servo que se torna rei, o tolo arrogante que prospera,
+
+[[v20-30-23]]
+
+^<<v20-30-23,23>>^ a mulher amargurada que enfim arranja um marido, e a serva que toma o lugar de sua senhora.
+
+[[v20-30-24]]
+
+^<<v20-30-24,24>>^ Quatro coisas na terra são pequenas, mas muito sábias:
+
+[[v20-30-25]]
+
+^<<v20-30-25,25>>^ as formigas, que, embora não sejam fortes, armazenam alimento no verão,
+
+[[v20-30-26]]
+
+^<<v20-30-26,26>>^ os coelhos silvestres, que, embora não sejam poderosos, fazem sua toca nas rochas,
+
+[[v20-30-27]]
+
+^<<v20-30-27,27>>^ os gafanhotos, que, embora não tenham rei, marcham em fileira,
+
+[[v20-30-28]]
+
+^<<v20-30-28,28>>^ e as lagartixas, que, embora sejam fáceis de apanhar, vivem até nos palácios dos reis.
+
+[[v20-30-29]]
+
+^<<v20-30-29,29>>^ Há três seres vivos que caminham com passo elegante, ou melhor, quatro que se movem de modo imponente:
+
+[[v20-30-30]]
+
+^<<v20-30-30,30>>^ o leão, rei dos animais, que não abre caminho para ninguém,
+
+[[v20-30-31]]
+
+^<<v20-30-31,31>>^ o galo, que anda de peito estufado, o bode, e o rei à frente de seu exército.
+
+[[v20-30-32]]
+
+^<<v20-30-32,32>>^ Se você agiu como tolo e foi orgulhoso ou tramou o mal, tape a boca em sinal de vergonha.
+
+[[v20-30-33]]
+
+^<<v20-30-33,33>>^ Como bater o leite produz manteiga, e um soco no nariz o faz sangrar, provocar a ira resulta em brigas.
+
+'''
+
+xref:020-proverbios/020-proverbios-029.adoc#v20-29-0[&#60; Capítulo Anterior] | <<v20-30-0,Topo>> | xref:020-proverbios/020-proverbios-031.adoc#v20-31-0[Próximo Capítulo &#62;]

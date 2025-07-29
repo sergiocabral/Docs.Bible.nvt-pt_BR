@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v19-59-0]]
+=== Salmos, 59
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-59-1]]
+
+^<<v19-59-1,1>>^ Livra-me de meus inimigos, ó Deus, protege-me dos que vieram me destruir.
+
+[[v19-59-2]]
+
+^<<v19-59-2,2>>^ Livra-me dos criminosos, salva-me dos assassinos.
+
+[[v19-59-3]]
+
+^<<v19-59-3,3>>^ Armaram uma emboscada para mim; inimigos ferozes estão à minha espera, SENHOR, embora eu não tenha pecado nem os tenha ofendido.
+
+[[v19-59-4]]
+
+^<<v19-59-4,4>>^ Sou inocente, mas eles se apressam em me atacar. Desperta! Vê o que está acontecendo e ajuda-me!
+
+[[v19-59-5]]
+
+^<<v19-59-5,5>>^ Ó SENHOR, Deus dos Exércitos, Deus de Israel, desperta e castiga as nações; não tenhas misericórdia dos traidores perversos. Interlúdio
+
+[[v19-59-6]]
+
+^<<v19-59-6,6>>^ Eles saem à noite, rosnando como cães ferozes enquanto rondam a cidade.
+
+[[v19-59-7]]
+
+^<<v19-59-7,7>>^ Ouve as coisas imundas que lhes saem da boca; suas palavras cortam como espadas. "Afinal, quem nos ouvirá?", dizem com desprezo.
+
+[[v19-59-8]]
+
+^<<v19-59-8,8>>^ Mas tu, SENHOR, ris deles; zombas das nações.
+
+[[v19-59-9]]
+
+^<<v19-59-9,9>>^ És minha força; em ti espero, pois tu, ó Deus, és minha fortaleza.
+
+[[v19-59-10]]
+
+^<<v19-59-10,10>>^ Em seu amor, meu Deus estará comigo; permitirá que eu triunfe sobre meus inimigos.
+
+[[v19-59-11]]
+
+^<<v19-59-11,11>>^ Não os mates, para que meu povo não se esqueça depressa; dispersa-os com teu poder e derruba-os, ó Senhor, nosso escudo.
+
+[[v19-59-12]]
+
+^<<v19-59-12,12>>^ Pelas coisas pecaminosas que dizem, pelo mal que há em seus lábios, que sejam apanhados em seu orgulho, em suas maldições e mentiras.
+
+[[v19-59-13]]
+
+^<<v19-59-13,13>>^ Destrói-os em tua ira! Extermina-os por completo! Então o mundo todo saberá que Deus reina em Israel. Interlúdio
+
+[[v19-59-14]]
+
+^<<v19-59-14,14>>^ Eles saem à noite, rosnando como cães ferozes enquanto rondam a cidade.
+
+[[v19-59-15]]
+
+^<<v19-59-15,15>>^ Andam à procura de alimento, mas vão dormir insatisfeitos.
+
+[[v19-59-16]]
+
+^<<v19-59-16,16>>^ Eu, porém, cantarei sobre o teu poder; cada manhã, cantarei com alegria sobre o teu amor. Pois tu tens sido minha fortaleza, lugar seguro em minha aflição.
+
+[[v19-59-17]]
+
+^<<v19-59-17,17>>^ Ó minha Força, a ti canto louvores, pois tu, ó Deus, és minha fortaleza, o Deus que mostra amor por mim.
+
+'''
+
+xref:019-salmos/019-salmos-058.adoc#v19-58-0[&#60; Capítulo Anterior] | <<v19-59-0,Topo>> | xref:019-salmos/019-salmos-060.adoc#v19-60-0[Próximo Capítulo &#62;]

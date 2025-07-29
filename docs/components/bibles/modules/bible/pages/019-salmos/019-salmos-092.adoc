@@ -1,0 +1,69 @@
+include::./index.adoc[]
+
+[[v19-92-0]]
+=== Salmos, 92
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-92-1]]
+
+^<<v19-92-1,1>>^ É bom dar graças ao Senhor e cantar louvores ao Altíssimo.
+
+[[v19-92-2]]
+
+^<<v19-92-2,2>>^ É bom proclamar de manhã o teu amor e, de noite, a tua fidelidade,
+
+[[v19-92-3]]
+
+^<<v19-92-3,3>>^ ao som de um instrumento de dez cordas, da harpa e da melodia da lira.
+
+[[v19-92-4]]
+
+^<<v19-92-4,4>>^ Tu me alegras, SENHOR, com tudo que tens feito; canto de alegria por causa de tuas obras.
+
+[[v19-92-5]]
+
+^<<v19-92-5,5>>^ Quão grandes, SENHOR, são os teus feitos e profundos os teus pensamentos!
+
+[[v19-92-6]]
+
+^<<v19-92-6,6>>^ Só o ignorante não sabe, só o tolo não entende:
+
+[[v19-92-7]]
+
+^<<v19-92-7,7>>^ embora os perversos brotem como a grama e floresçam os que praticam o mal, eles serão destruídos para sempre.
+
+[[v19-92-8]]
+
+^<<v19-92-8,8>>^ Mas tu, SENHOR, serás eternamente exaltado!
+
+[[v19-92-9]]
+
+^<<v19-92-9,9>>^ Teus inimigos, SENHOR, perecerão; todos que praticam o mal serão dispersados.
+
+[[v19-92-10]]
+
+^<<v19-92-10,10>>^ Tu, porém, me tornaste forte como o boi selvagem e me ungiste com óleo da melhor qualidade.
+
+[[v19-92-11]]
+
+^<<v19-92-11,11>>^ Meus olhos viram a queda de meus inimigos, meus ouvidos ouviram a derrota de meus perversos adversários.
+
+[[v19-92-12]]
+
+^<<v19-92-12,12>>^ Os justos, porém, florescerão como palmeiras e crescerão como os cedros do Líbano.
+
+[[v19-92-13]]
+
+^<<v19-92-13,13>>^ Pois estão plantados na casa do SENHOR; florescerão nos pátios de nosso Deus.
+
+[[v19-92-14]]
+
+^<<v19-92-14,14>>^ Mesmo na velhice produzirão frutos; continuarão verdejantes e cheios de vida.
+
+[[v19-92-15]]
+
+^<<v19-92-15,15>>^ Anunciarão: "O SENHOR é justo! Ele é minha rocha; nele não há injustiça".
+
+'''
+
+xref:019-salmos/019-salmos-091.adoc#v19-91-0[&#60; Capítulo Anterior] | <<v19-92-0,Topo>> | xref:019-salmos/019-salmos-093.adoc#v19-93-0[Próximo Capítulo &#62;]

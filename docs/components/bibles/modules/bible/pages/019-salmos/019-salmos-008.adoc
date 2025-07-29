@@ -1,0 +1,45 @@
+include::./index.adoc[]
+
+[[v19-8-0]]
+=== Salmos, 8
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-8-1]]
+
+^<<v19-8-1,1>>^ Ó SENHOR, nosso Senhor, teu nome majestoso enche a terra; tua glória é mais alta que os céus!
+
+[[v19-8-2]]
+
+^<<v19-8-2,2>>^ Tu ensinaste crianças e bebês a anunciarem tua força; assim calaste teus inimigos e todos que a ti se opõem.
+
+[[v19-8-3]]
+
+^<<v19-8-3,3>>^ Quando olho para o céu e contemplo a obra de teus dedos, a lua e as estrelas que ali puseste, pergunto:
+
+[[v19-8-4]]
+
+^<<v19-8-4,4>>^ Quem são os simples mortais, para que penses neles? Quem são os seres humanos, para que com eles te importes?
+
+[[v19-8-5]]
+
+^<<v19-8-5,5>>^ E, no entanto, os fizeste apenas um pouco menores que Deus e os coroaste de glória e honra.
+
+[[v19-8-6]]
+
+^<<v19-8-6,6>>^ Tu os encarregaste de tudo que criaste e puseste sob a autoridade deles todas as coisas:
+
+[[v19-8-7]]
+
+^<<v19-8-7,7>>^ os rebanhos, o gado e todos os animais selvagens;
+
+[[v19-8-8]]
+
+^<<v19-8-8,8>>^ as aves do céu, os peixes do mar e tudo que percorre as correntes dos oceanos.
+
+[[v19-8-9]]
+
+^<<v19-8-9,9>>^ Ó SENHOR, nosso Senhor, teu nome majestoso enche a terra!
+
+'''
+
+xref:019-salmos/019-salmos-007.adoc#v19-7-0[&#60; Capítulo Anterior] | <<v19-8-0,Topo>> | xref:019-salmos/019-salmos-009.adoc#v19-9-0[Próximo Capítulo &#62;]

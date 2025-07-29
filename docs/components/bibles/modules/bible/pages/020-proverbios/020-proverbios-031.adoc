@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v20-31-0]]
+=== Provérbios, 31
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v20-31-1]]
+
+^<<v20-31-1,1>>^ Os ditados do rei Lemuel contêm esta mensagem, que sua mãe lhe ensinou:
+
+[[v20-31-2]]
+
+^<<v20-31-2,2>>^ Meu filho, filho de meu ventre, filho de meus votos,
+
+[[v20-31-3]]
+
+^<<v20-31-3,3>>^ não desperdice sua força com mulheres, nem sua vida com aquelas que destroem reis.
+
+[[v20-31-4]]
+
+^<<v20-31-4,4>>^ Não convém aos reis, ó Lemuel, tomar muito vinho; os governantes não devem desejar bebida alcoólica.
+
+[[v20-31-5]]
+
+^<<v20-31-5,5>>^ Se beberem, pode ser que se esqueçam da lei e deixem de fazer justiça aos oprimidos.
+
+[[v20-31-6]]
+
+^<<v20-31-6,6>>^ O álcool é para os que estão morrendo, e o vinho, para os que estão amargurados.
+
+[[v20-31-7]]
+
+^<<v20-31-7,7>>^ Que bebam para se esquecer de sua pobreza e não se lembrar de suas dificuldades.
+
+[[v20-31-8]]
+
+^<<v20-31-8,8>>^ Fale em favor daqueles que não podem se defender; garanta justiça para os que estão aflitos.
+
+[[v20-31-9]]
+
+^<<v20-31-9,9>>^ Sim, fale em favor dos pobres e desamparados, e providencie que recebam justiça.
+
+[[v20-31-10]]
+
+^<<v20-31-10,10>>^ Quem encontrará uma mulher virtuosa? Ela é mais preciosa que rubis.
+
+[[v20-31-11]]
+
+^<<v20-31-11,11>>^ O marido tem plena confiança nela, e ela lhe enriquecerá a vida grandemente.
+
+[[v20-31-12]]
+
+^<<v20-31-12,12>>^ Ela lhe faz bem, e não mal, todos os dias de sua vida.
+
+[[v20-31-13]]
+
+^<<v20-31-13,13>>^ Ela adquire lã e linho e, com alegria, trabalha os fios com as mãos.
+
+[[v20-31-14]]
+
+^<<v20-31-14,14>>^ Como navio mercante, traz alimentos de longe.
+
+[[v20-31-15]]
+
+^<<v20-31-15,15>>^ Levanta-se de madrugada para preparar a refeição da família e planeja as tarefas do dia para suas servas.
+
+[[v20-31-16]]
+
+^<<v20-31-16,16>>^ Vai examinar um campo e o compra; com o que ganha, planta um vinhedo.
+
+[[v20-31-17]]
+
+^<<v20-31-17,17>>^ É cheia de energia, forte e trabalhadora.
+
+[[v20-31-18]]
+
+^<<v20-31-18,18>>^ Certifica-se de que seus negócios sejam lucrativos; sua lâmpada permanece acesa à noite.
+
+[[v20-31-19]]
+
+^<<v20-31-19,19>>^ Suas mãos operam o tear, e seus dedos manejam a roca.
+
+[[v20-31-20]]
+
+^<<v20-31-20,20>>^ Estende a mão para ajudar os pobres e abre os braços para os necessitados.
+
+[[v20-31-21]]
+
+^<<v20-31-21,21>>^ Quando chega o inverno, não se preocupa, pois todos em sua família têm roupas quentes.
+
+[[v20-31-22]]
+
+^<<v20-31-22,22>>^ Faz suas próprias cobertas e usa vestidos de linho fino e tecido vermelho.
+
+[[v20-31-23]]
+
+^<<v20-31-23,23>>^ Seu marido é respeitado na porta da cidade, onde se senta com as demais autoridades.
+
+[[v20-31-24]]
+
+^<<v20-31-24,24>>^ Faz roupas de linho com cintos e faixas para vender aos comerciantes.
+
+[[v20-31-25]]
+
+^<<v20-31-25,25>>^ Veste-se de força e dignidade e ri sem medo do futuro.
+
+[[v20-31-26]]
+
+^<<v20-31-26,26>>^ Quando ela fala, suas palavras são sábias; quando dá instruções, demonstra bondade.
+
+[[v20-31-27]]
+
+^<<v20-31-27,27>>^ Cuida bem de tudo em sua casa e nunca dá lugar à preguiça.
+
+[[v20-31-28]]
+
+^<<v20-31-28,28>>^ Seus filhos se levantam e a chamam de "abençoada", e seu marido a elogia:
+
+[[v20-31-29]]
+
+^<<v20-31-29,29>>^ "Há muitas mulheres virtuosas neste mundo, mas você supera todas elas!".
+
+[[v20-31-30]]
+
+^<<v20-31-30,30>>^ Os encantos são enganosos, e a beleza não dura para sempre, mas a mulher que teme o SENHOR será elogiada.
+
+[[v20-31-31]]
+
+^<<v20-31-31,31>>^ Recompensem-na por tudo que ela faz; que suas obras a elogiem publicamente.
+
+'''
+
+xref:020-proverbios/020-proverbios-030.adoc#v20-30-0[&#60; Capítulo Anterior] | <<v20-31-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-001.adoc#v21-1-0[Próximo Capítulo &#62;]

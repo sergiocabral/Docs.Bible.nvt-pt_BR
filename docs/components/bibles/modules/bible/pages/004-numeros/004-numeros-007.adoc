@@ -1,0 +1,365 @@
+include::./index.adoc[]
+
+[[v4-7-0]]
+=== Números, 7
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v4-7-1]]
+
+^<<v4-7-1,1>>^ No dia em que Moisés terminou de armar o tabernáculo, ele o ungiu e o consagrou, junto com toda a sua mobília, o altar e seus utensílios.
+
+[[v4-7-2]]
+
+^<<v4-7-2,2>>^ Então os líderes de Israel, os chefes das tribos que haviam realizado o censo dos soldados, chegaram com suas ofertas.
+
+[[v4-7-3]]
+
+^<<v4-7-3,3>>^ Trouxeram seis carroças cobertas e doze bois, uma carroça para cada dois líderes e um boi para cada líder, e apresentaram essas ofertas ao SENHOR na frente do tabernáculo.
+
+[[v4-7-4]]
+
+^<<v4-7-4,4>>^ O SENHOR disse a Moisés:
+
+[[v4-7-5]]
+
+^<<v4-7-5,5>>^ "Receba as ofertas deles para usar no serviço na tenda do encontro. Distribua-as entre os levitas conforme o trabalho de cada um".
+
+[[v4-7-6]]
+
+^<<v4-7-6,6>>^ Então Moisés recebeu as carroças e os bois e os entregou aos levitas.
+
+[[v4-7-7]]
+
+^<<v4-7-7,7>>^ Deu duas carroças e quatro bois à divisão gersonita para seu trabalho
+
+[[v4-7-8]]
+
+^<<v4-7-8,8>>^ e quatro carroças e oito bois à divisão merarita para seu trabalho. Todos realizavam suas tarefas sob a supervisão de Itamar, filho do sacerdote Arão.
+
+[[v4-7-9]]
+
+^<<v4-7-9,9>>^ À divisão dos coatitas, porém, não deu carros nem bois, pois era seu dever carregar nos ombros os objetos sagrados.
+
+[[v4-7-10]]
+
+^<<v4-7-10,10>>^ Quando o altar foi ungido, os líderes das tribos apresentaram ofertas para a consagração do altar. Cada um colocou sua oferta diante do altar.
+
+[[v4-7-11]]
+
+^<<v4-7-11,11>>^ O SENHOR disse a Moisés: "Cada dia um líder trará sua oferta para a consagração do altar".
+
+[[v4-7-12]]
+
+^<<v4-7-12,12>>^ No primeiro dia, Naassom, filho de Aminadabe e líder da tribo de Judá, apresentou sua oferta.
+
+[[v4-7-13]]
+
+^<<v4-7-13,13>>^ Ela consistia em uma bandeja de prata que pesava 1.560 gramas e uma bacia de prata que pesava 840 gramas, com base no peso do siclo do santuário, ambas cheias de ofertas de cereal de farinha da melhor qualidade umedecida com azeite.
+
+[[v4-7-14]]
+
+^<<v4-7-14,14>>^ Trouxe também uma vasilha de ouro que pesava 120 gramas, cheia de incenso.
+
+[[v4-7-15]]
+
+^<<v4-7-15,15>>^ Apresentou ainda um novilho, um carneiro e um cordeiro de um ano como holocausto,
+
+[[v4-7-16]]
+
+^<<v4-7-16,16>>^ e um bode como oferta pelo pecado.
+
+[[v4-7-17]]
+
+^<<v4-7-17,17>>^ Para a oferta de paz, trouxe dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta apresentada por Naassom, filho de Aminadabe.
+
+[[v4-7-18]]
+
+^<<v4-7-18,18>>^ No segundo dia, Natanael, filho de Zuar e líder da tribo de Issacar, apresentou sua oferta.
+
+[[v4-7-19]]
+
+^<<v4-7-19,19>>^ Ela consistia em uma bandeja de prata que pesava 1.560 gramas e uma bacia de prata que pesava 840 gramas, com base no peso do siclo do santuário, ambas cheias de ofertas de cereal de farinha da melhor qualidade umedecida com azeite.
+
+[[v4-7-20]]
+
+^<<v4-7-20,20>>^ Trouxe também uma vasilha de ouro que pesava 120 gramas, cheia de incenso.
+
+[[v4-7-21]]
+
+^<<v4-7-21,21>>^ Apresentou ainda um novilho, um carneiro e um cordeiro de um ano como holocausto,
+
+[[v4-7-22]]
+
+^<<v4-7-22,22>>^ e um bode como oferta pelo pecado.
+
+[[v4-7-23]]
+
+^<<v4-7-23,23>>^ Para a oferta de paz, trouxe dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta apresentada por Natanael, filho de Zuar.
+
+[[v4-7-24]]
+
+^<<v4-7-24,24>>^ No terceiro dia, Eliabe, filho de Helom e líder da tribo de Zebulom, apresentou sua oferta.
+
+[[v4-7-25]]
+
+^<<v4-7-25,25>>^ Ela consistia em uma bandeja de prata que pesava 1.560 gramas e uma bacia de prata que pesava 840 gramas, com base no peso do siclo do santuário, ambas cheias de ofertas de cereal de farinha da melhor qualidade umedecida com azeite.
+
+[[v4-7-26]]
+
+^<<v4-7-26,26>>^ Trouxe também uma vasilha de ouro que pesava 120 gramas, cheia de incenso.
+
+[[v4-7-27]]
+
+^<<v4-7-27,27>>^ Apresentou ainda um novilho, um carneiro e um cordeiro de um ano como holocausto,
+
+[[v4-7-28]]
+
+^<<v4-7-28,28>>^ e um bode como oferta pelo pecado.
+
+[[v4-7-29]]
+
+^<<v4-7-29,29>>^ Para a oferta de paz, trouxe dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta apresentada por Eliabe, filho de Helom.
+
+[[v4-7-30]]
+
+^<<v4-7-30,30>>^ No quarto dia, Elizur, filho de Sedeur e líder da tribo de Rúben, apresentou sua oferta.
+
+[[v4-7-31]]
+
+^<<v4-7-31,31>>^ Ela consistia em uma bandeja de prata que pesava 1.560 gramas e uma bacia de prata que pesava 840 gramas, com base no peso do siclo do santuário, ambas cheias de ofertas de cereal de farinha da melhor qualidade umedecida com azeite.
+
+[[v4-7-32]]
+
+^<<v4-7-32,32>>^ Trouxe também uma vasilha de ouro que pesava 120 gramas, cheia de incenso.
+
+[[v4-7-33]]
+
+^<<v4-7-33,33>>^ Apresentou ainda um novilho, um carneiro e um cordeiro de um ano como holocausto,
+
+[[v4-7-34]]
+
+^<<v4-7-34,34>>^ e um bode como oferta pelo pecado.
+
+[[v4-7-35]]
+
+^<<v4-7-35,35>>^ Para a oferta de paz, trouxe dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta apresentada por Elizur, filho de Sedeur.
+
+[[v4-7-36]]
+
+^<<v4-7-36,36>>^ No quinto dia, Selumiel, filho de Zurisadai e líder da tribo de Simeão, apresentou sua oferta.
+
+[[v4-7-37]]
+
+^<<v4-7-37,37>>^ Ela consistia em uma bandeja de prata que pesava 1.560 gramas e uma bacia de prata que pesava 840 gramas, com base no peso do siclo do santuário, ambas cheias de ofertas de cereal de farinha da melhor qualidade umedecida com azeite.
+
+[[v4-7-38]]
+
+^<<v4-7-38,38>>^ Trouxe também uma vasilha de ouro que pesava 120 gramas, cheia de incenso.
+
+[[v4-7-39]]
+
+^<<v4-7-39,39>>^ Apresentou ainda um novilho, um carneiro e um cordeiro de um ano como holocausto,
+
+[[v4-7-40]]
+
+^<<v4-7-40,40>>^ e um bode como oferta pelo pecado.
+
+[[v4-7-41]]
+
+^<<v4-7-41,41>>^ Para a oferta de paz, trouxe dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta apresentada por Selumiel, filho de Zurisadai.
+
+[[v4-7-42]]
+
+^<<v4-7-42,42>>^ No sexto dia, Eliasafe, filho de Deuel e líder da tribo de Gade, apresentou sua oferta.
+
+[[v4-7-43]]
+
+^<<v4-7-43,43>>^ Ela consistia em uma bandeja de prata que pesava 1.560 gramas e uma bacia de prata que pesava 840 gramas, com base no peso do siclo do santuário, ambas cheias de ofertas de cereal de farinha da melhor qualidade umedecida com azeite.
+
+[[v4-7-44]]
+
+^<<v4-7-44,44>>^ Trouxe também uma vasilha de ouro que pesava 120 gramas, cheia de incenso.
+
+[[v4-7-45]]
+
+^<<v4-7-45,45>>^ Apresentou ainda um novilho, um carneiro e um cordeiro de um ano como holocausto,
+
+[[v4-7-46]]
+
+^<<v4-7-46,46>>^ e um bode como oferta pelo pecado.
+
+[[v4-7-47]]
+
+^<<v4-7-47,47>>^ Para a oferta de paz, trouxe dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta apresentada por Eliasafe, filho de Deuel.
+
+[[v4-7-48]]
+
+^<<v4-7-48,48>>^ No sétimo dia, Elisama, filho de Amiúde e líder da tribo de Efraim, apresentou sua oferta.
+
+[[v4-7-49]]
+
+^<<v4-7-49,49>>^ Ela consistia em uma bandeja de prata que pesava 1.560 gramas e uma bacia de prata que pesava 840 gramas, com base no peso do siclo do santuário, ambas cheias de ofertas de cereal de farinha da melhor qualidade umedecida com azeite.
+
+[[v4-7-50]]
+
+^<<v4-7-50,50>>^ Trouxe também uma vasilha de ouro que pesava 120 gramas, cheia de incenso.
+
+[[v4-7-51]]
+
+^<<v4-7-51,51>>^ Apresentou ainda um novilho, um carneiro e um cordeiro de um ano como holocausto,
+
+[[v4-7-52]]
+
+^<<v4-7-52,52>>^ e um bode como oferta pelo pecado.
+
+[[v4-7-53]]
+
+^<<v4-7-53,53>>^ Para a oferta de paz, trouxe dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta apresentada por Elisama, filho de Amiúde.
+
+[[v4-7-54]]
+
+^<<v4-7-54,54>>^ No oitavo dia, Gamaliel, filho de Pedazur e líder da tribo de Manassés, apresentou sua oferta.
+
+[[v4-7-55]]
+
+^<<v4-7-55,55>>^ Ela consistia em uma bandeja de prata que pesava 1.560 gramas e uma bacia de prata que pesava 840 gramas, com base no peso do siclo do santuário, ambas cheias de ofertas de cereal de farinha da melhor qualidade umedecida com azeite.
+
+[[v4-7-56]]
+
+^<<v4-7-56,56>>^ Trouxe também uma vasilha de ouro que pesava 120 gramas, cheia de incenso.
+
+[[v4-7-57]]
+
+^<<v4-7-57,57>>^ Apresentou ainda um novilho, um carneiro e um cordeiro de um ano como holocausto,
+
+[[v4-7-58]]
+
+^<<v4-7-58,58>>^ e um bode como oferta pelo pecado.
+
+[[v4-7-59]]
+
+^<<v4-7-59,59>>^ Para a oferta de paz, trouxe dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta apresentada por Gamaliel, filho de Pedazur.
+
+[[v4-7-60]]
+
+^<<v4-7-60,60>>^ No nono dia, Abidã, filho de Gideoni e líder da tribo de Benjamim, apresentou sua oferta.
+
+[[v4-7-61]]
+
+^<<v4-7-61,61>>^ Ela consistia em uma bandeja de prata que pesava 1.560 gramas e uma bacia de prata que pesava 840 gramas, com base no peso do siclo do santuário, ambas cheias de ofertas de cereal de farinha da melhor qualidade umedecida com azeite.
+
+[[v4-7-62]]
+
+^<<v4-7-62,62>>^ Trouxe também uma vasilha de ouro que pesava 120 gramas, cheia de incenso.
+
+[[v4-7-63]]
+
+^<<v4-7-63,63>>^ Apresentou ainda um novilho, um carneiro e um cordeiro de um ano como holocausto,
+
+[[v4-7-64]]
+
+^<<v4-7-64,64>>^ e um bode como oferta pelo pecado.
+
+[[v4-7-65]]
+
+^<<v4-7-65,65>>^ Para a oferta de paz, trouxe dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta apresentada por Abidã, filho de Gideoni.
+
+[[v4-7-66]]
+
+^<<v4-7-66,66>>^ No décimo dia, Aieser, filho de Amisadai e líder da tribo de Dã, apresentou sua oferta.
+
+[[v4-7-67]]
+
+^<<v4-7-67,67>>^ Ela consistia em uma bandeja de prata que pesava 1.560 gramas e uma bacia de prata que pesava 840 gramas, com base no peso do siclo do santuário, ambas cheias de ofertas de cereal de farinha da melhor qualidade umedecida com azeite.
+
+[[v4-7-68]]
+
+^<<v4-7-68,68>>^ Trouxe também uma vasilha de ouro que pesava 120 gramas, cheia de incenso.
+
+[[v4-7-69]]
+
+^<<v4-7-69,69>>^ Apresentou ainda um novilho, um carneiro e um cordeiro de um ano como holocausto,
+
+[[v4-7-70]]
+
+^<<v4-7-70,70>>^ e um bode como oferta pelo pecado.
+
+[[v4-7-71]]
+
+^<<v4-7-71,71>>^ Para a oferta de paz, trouxe dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta apresentada por Aieser, filho de Amisadai.
+
+[[v4-7-72]]
+
+^<<v4-7-72,72>>^ No décimo primeiro dia, Pagiel, filho de Ocrã e líder da tribo de Aser, apresentou sua oferta.
+
+[[v4-7-73]]
+
+^<<v4-7-73,73>>^ Ela consistia em uma bandeja de prata que pesava 1.560 gramas e uma bacia de prata que pesava 840 gramas, com base no peso do siclo do santuário, ambas cheias de ofertas de cereal de farinha da melhor qualidade umedecida com azeite.
+
+[[v4-7-74]]
+
+^<<v4-7-74,74>>^ Trouxe também uma vasilha de ouro que pesava 120 gramas, cheia de incenso.
+
+[[v4-7-75]]
+
+^<<v4-7-75,75>>^ Apresentou ainda um novilho, um carneiro e um cordeiro de um ano como holocausto,
+
+[[v4-7-76]]
+
+^<<v4-7-76,76>>^ e um bode como oferta pelo pecado.
+
+[[v4-7-77]]
+
+^<<v4-7-77,77>>^ Para a oferta de paz, trouxe dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta apresentada por Pagiel, filho de Ocrã.
+
+[[v4-7-78]]
+
+^<<v4-7-78,78>>^ No décimo segundo dia, Aira, filho de Enã e líder da tribo de Naftali, apresentou sua oferta.
+
+[[v4-7-79]]
+
+^<<v4-7-79,79>>^ Ela consistia em uma bandeja de prata que pesava 1.560 gramas e uma bacia de prata que pesava 840 gramas, com base no peso do siclo do santuário, ambas cheias de ofertas de cereal de farinha da melhor qualidade umedecida com azeite.
+
+[[v4-7-80]]
+
+^<<v4-7-80,80>>^ Trouxe também uma vasilha de ouro que pesava 120 gramas, cheia de incenso.
+
+[[v4-7-81]]
+
+^<<v4-7-81,81>>^ Apresentou ainda um novilho, um carneiro e um cordeiro de um ano como holocausto,
+
+[[v4-7-82]]
+
+^<<v4-7-82,82>>^ e um bode como oferta pelo pecado.
+
+[[v4-7-83]]
+
+^<<v4-7-83,83>>^ Para a oferta de paz, trouxe dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta apresentada por Aira, filho de Enã.
+
+[[v4-7-84]]
+
+^<<v4-7-84,84>>^ Estas foram as ofertas de consagração apresentadas pelos líderes de Israel quando o altar foi ungido: 12 bandejas de prata, 12 bacias de prata e 12 vasilhas de ouro com incenso.
+
+[[v4-7-85]]
+
+^<<v4-7-85,85>>^ Cada prato de prata pesava 1.560 gramas e cada bacia de prata pesava 840 gramas. Ao todo, os objetos de prata pesavam 28,8 quilos, com base no peso do siclo do santuário.
+
+[[v4-7-86]]
+
+^<<v4-7-86,86>>^ Cada uma das vasilhas de ouro cheias de incenso pesava 120 gramas, com base no peso do siclo do santuário. Ao todo, as vasilhas de ouro pesavam 1.440 gramas.
+
+[[v4-7-87]]
+
+^<<v4-7-87,87>>^ Para os holocaustos foram apresentados 12 novilhos, 12 carneiros e 12 cordeiros de um ano, junto com as ofertas obrigatórias de cereal. Para as ofertas pelo pecado, foram apresentados 12 bodes.
+
+[[v4-7-88]]
+
+^<<v4-7-88,88>>^ Para as ofertas de paz, foram apresentados 24 bois, 60 carneiros, 60 bodes e 60 cordeiros de um ano. Essas foram as ofertas para a consagração do altar depois que este foi ungido.
+
+[[v4-7-89]]
+
+^<<v4-7-89,89>>^ Cada vez que Moisés entrava na tenda do encontro para falar com o SENHOR, ouvia uma voz que falava com ele por entre os dois querubins em cima da tampa da arca, o lugar de expiação, que fica sobre a arca da aliança. De lá o SENHOR falava com Moisés.
+
+'''
+
+xref:004-numeros/004-numeros-006.adoc#v4-6-0[&#60; Capítulo Anterior] | <<v4-7-0,Topo>> | xref:004-numeros/004-numeros-008.adoc#v4-8-0[Próximo Capítulo &#62;]

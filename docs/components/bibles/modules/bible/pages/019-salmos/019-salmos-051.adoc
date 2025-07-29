@@ -1,0 +1,85 @@
+include::./index.adoc[]
+
+[[v19-51-0]]
+=== Salmos, 51
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-51-1]]
+
+^<<v19-51-1,1>>^ Tem misericórdia de mim, ó Deus, por causa do teu amor. Por causa da tua grande compaixão, apaga as manchas de minha rebeldia.
+
+[[v19-51-2]]
+
+^<<v19-51-2,2>>^ Lava-me de toda a minha culpa, purifica-me do meu pecado.
+
+[[v19-51-3]]
+
+^<<v19-51-3,3>>^ Pois reconheço minha rebeldia; meu pecado me persegue todo o tempo.
+
+[[v19-51-4]]
+
+^<<v19-51-4,4>>^ Pequei contra ti, somente contra ti; fiz o que é mau aos teus olhos. Por isso, tens razão no que dizes, e é justo teu julgamento contra mim.
+
+[[v19-51-5]]
+
+^<<v19-51-5,5>>^ Pois sou pecador desde que nasci, sim, desde que minha mãe me concebeu.
+
+[[v19-51-6]]
+
+^<<v19-51-6,6>>^ Tu, porém, desejas a verdade no íntimo e no coração me mostras a sabedoria.
+
+[[v19-51-7]]
+
+^<<v19-51-7,7>>^ Purifica-me de minha impureza, e ficarei limpo; lava-me, e ficarei mais branco que a neve.
+
+[[v19-51-8]]
+
+^<<v19-51-8,8>>^ Devolve-me a alegria e a felicidade! Tu me quebraste; agora, permite que eu exulte outra vez.
+
+[[v19-51-9]]
+
+^<<v19-51-9,9>>^ Não continues a olhar para meus pecados; remove as manchas de minha culpa.
+
+[[v19-51-10]]
+
+^<<v19-51-10,10>>^ Cria em mim, ó Deus, um coração puro; renova dentro de mim um espírito firme.
+
+[[v19-51-11]]
+
+^<<v19-51-11,11>>^ Não me expulses de tua presença e não retires de mim teu Santo Espírito.
+
+[[v19-51-12]]
+
+^<<v19-51-12,12>>^ Restaura em mim a alegria de tua salvação e torna-me disposto a te obedecer.
+
+[[v19-51-13]]
+
+^<<v19-51-13,13>>^ Então ensinarei teus caminhos aos rebeldes, e eles voltarão a ti.
+
+[[v19-51-14]]
+
+^<<v19-51-14,14>>^ Perdoa-me por ter derramado sangue, ó Deus de minha salvação; então, com alegria, anunciarei tua justiça.
+
+[[v19-51-15]]
+
+^<<v19-51-15,15>>^ Abre meus lábios, Senhor, para que minha boca te louve.
+
+[[v19-51-16]]
+
+^<<v19-51-16,16>>^ Tu não desejas sacrifícios, do contrário eu os ofereceria; também não queres holocaustos.
+
+[[v19-51-17]]
+
+^<<v19-51-17,17>>^ O sacrifício que desejas é um espírito quebrantado; não rejeitarás um coração humilde e arrependido.
+
+[[v19-51-18]]
+
+^<<v19-51-18,18>>^ Olha com favor para Sião e ajuda-a; reconstrói os muros de Jerusalém.
+
+[[v19-51-19]]
+
+^<<v19-51-19,19>>^ Então te agradarás dos sacrifícios de justiça, dos holocaustos e das ofertas queimadas; e sobre teu altar novilhos voltarão a ser sacrificados.
+
+'''
+
+xref:019-salmos/019-salmos-050.adoc#v19-50-0[&#60; Capítulo Anterior] | <<v19-51-0,Topo>> | xref:019-salmos/019-salmos-052.adoc#v19-52-0[Próximo Capítulo &#62;]

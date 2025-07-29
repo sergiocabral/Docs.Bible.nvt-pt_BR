@@ -1,0 +1,45 @@
+include::./index.adoc[]
+
+[[v19-28-0]]
+=== Salmos, 28
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-28-1]]
+
+^<<v19-28-1,1>>^ A ti eu clamo, ó SENHOR, minha rocha; não feches teus ouvidos para mim. Pois, se permaneceres calado, será melhor que eu desista e morra.
+
+[[v19-28-2]]
+
+^<<v19-28-2,2>>^ Ouve minha súplica por misericórdia, quando eu clamar por socorro, quando levantar as mãos para o teu santuário.
+
+[[v19-28-3]]
+
+^<<v19-28-3,3>>^ Não me arrastes com os perversos, com os que praticam o mal, que dirigem palavras amigáveis ao próximo, enquanto tramam maldades no coração.
+
+[[v19-28-4]]
+
+^<<v19-28-4,4>>^ Dá o castigo pelo que fizeram, segundo a medida de sua perversidade. Retribui-lhes por seus atos e faz que recebam o que merecem.
+
+[[v19-28-5]]
+
+^<<v19-28-5,5>>^ Eles não se importam com as obras do SENHOR, nem com o que suas mãos criaram. Por isso ele os derrubará, e nunca mais voltarão a se erguer.
+
+[[v19-28-6]]
+
+^<<v19-28-6,6>>^ Louvado seja o SENHOR, pois ouviu meu clamor por misericórdia!
+
+[[v19-28-7]]
+
+^<<v19-28-7,7>>^ O SENHOR é minha força e meu escudo; confio nele de todo o coração. Ele me ajuda, e meu coração se enche de alegria; por isso lhe dou graças com meus cânticos.
+
+[[v19-28-8]]
+
+^<<v19-28-8,8>>^ O SENHOR é a força de seu povo, fortaleza segura para seu ungido.
+
+[[v19-28-9]]
+
+^<<v19-28-9,9>>^ Salva o teu povo! Abençoa os que pertencem a ti! Conduze-os como pastor e leva-os em teus braços para sempre.
+
+'''
+
+xref:019-salmos/019-salmos-027.adoc#v19-27-0[&#60; Capítulo Anterior] | <<v19-28-0,Topo>> | xref:019-salmos/019-salmos-029.adoc#v19-29-0[Próximo Capítulo &#62;]

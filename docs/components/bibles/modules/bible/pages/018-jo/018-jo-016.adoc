@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v18-16-0]]
+=== Jó, 16
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v18-16-1]]
+
+^<<v18-16-1,1>>^ Então Jó falou novamente:
+
+[[v18-16-2]]
+
+^<<v18-16-2,2>>^ "Já ouvi tudo isso antes; que péssimos consoladores são vocês!
+
+[[v18-16-3]]
+
+^<<v18-16-3,3>>^ Será que nunca vão parar de tagarelar? Que perturbação os faz continuar falando?
+
+[[v18-16-4]]
+
+^<<v18-16-4,4>>^ Eu poderia dizer as mesmas coisas se estivessem em meu lugar, poderia berrar críticas e balançar a cabeça contra vocês.
+
+[[v18-16-5]]
+
+^<<v18-16-5,5>>^ Mas eu faria diferente: eu lhes daria ânimo e tentaria aliviar seu sofrimento.
+
+[[v18-16-6]]
+
+^<<v18-16-6,6>>^ Em vez disso, sofro se me defendo, e sofro igualmente se me recuso a falar.
+
+[[v18-16-7]]
+
+^<<v18-16-7,7>>^ "Ó Deus, tu me esgotaste e destruíste toda a minha família!
+
+[[v18-16-8]]
+
+^<<v18-16-8,8>>^ Reduziste-me a pele e osso, como para provar que pequei; minha magreza depõe contra mim.
+
+[[v18-16-9]]
+
+^<<v18-16-9,9>>^ Deus me odeia e, em sua ira, me despedaçou; range os dentes contra mim e me transpassa com seu olhar.
+
+[[v18-16-10]]
+
+^<<v18-16-10,10>>^ As pessoas zombam e riem de mim e, com desprezo, me dão tapas no rosto; sim, uma multidão se junta contra mim.
+
+[[v18-16-11]]
+
+^<<v18-16-11,11>>^ Deus me entregou aos pecadores, atirou-me nas mãos dos perversos.
+
+[[v18-16-12]]
+
+^<<v18-16-12,12>>^ "Eu vivia tranquilo, até que ele me despedaçou; pelo pescoço me agarrou e me quebrou ao meio. Fez de mim seu alvo,
+
+[[v18-16-13]]
+
+^<<v18-16-13,13>>^ e agora seus arqueiros me cercam. Suas flechas me perfuram sem misericórdia, e meu sangue molha o chão.
+
+[[v18-16-14]]
+
+^<<v18-16-14,14>>^ Repetidamente, ele se lança contra mim e me ataca como um guerreiro.
+
+[[v18-16-15]]
+
+^<<v18-16-15,15>>^ Em minha tristeza, visto pano de saco; meu orgulho se revolve no pó.
+
+[[v18-16-16]]
+
+^<<v18-16-16,16>>^ Meu rosto está vermelho de tanto chorar, e sombras escuras me circundam os olhos.
+
+[[v18-16-17]]
+
+^<<v18-16-17,17>>^ No entanto, nada fiz de errado, e minha oração é pura.
+
+[[v18-16-18]]
+
+^<<v18-16-18,18>>^ "Ó terra, não esconda meu sangue! Não permita que meu clamor permaneça oculto.
+
+[[v18-16-19]]
+
+^<<v18-16-19,19>>^ Agora mesmo, minha testemunha está nos céus, meu advogado está nas alturas.
+
+[[v18-16-20]]
+
+^<<v18-16-20,20>>^ Meus amigos me desprezam, mas derramo minhas lágrimas diante de Deus.
+
+[[v18-16-21]]
+
+^<<v18-16-21,21>>^ Preciso de um mediador entre mim e Deus, como alguém que intercede por seu amigo.
+
+[[v18-16-22]]
+
+^<<v18-16-22,22>>^ Pois em breve seguirei pelo caminho do qual jamais voltarei."
+
+'''
+
+xref:018-jo/018-jo-015.adoc#v18-15-0[&#60; Capítulo Anterior] | <<v18-16-0,Topo>> | xref:018-jo/018-jo-017.adoc#v18-17-0[Próximo Capítulo &#62;]

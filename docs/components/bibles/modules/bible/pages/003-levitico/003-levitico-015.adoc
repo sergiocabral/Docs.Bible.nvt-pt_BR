@@ -1,0 +1,141 @@
+include::./index.adoc[]
+
+[[v3-15-0]]
+=== Levítico, 15
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v3-15-1]]
+
+^<<v3-15-1,1>>^ O SENHOR disse a Moisés e a Arão:
+
+[[v3-15-2]]
+
+^<<v3-15-2,2>>^ "Deem as seguintes instruções ao povo de Israel. "Qualquer homem que tiver fluxo corporal estará cerimonialmente impuro.
+
+[[v3-15-3]]
+
+^<<v3-15-3,3>>^ A contaminação é causada pelo fluxo, prosseguindo ou não. De qualquer modo, o homem está impuro.
+
+[[v3-15-4]]
+
+^<<v3-15-4,4>>^ A cama onde o homem com o fluxo se deitar e qualquer coisa sobre a qual ele se sentar ficará cerimonialmente impura.
+
+[[v3-15-5]]
+
+^<<v3-15-5,5>>^ Se alguém tocar na cama dele, terá de lavar as roupas e banhar-se com água, e ficará impuro até o entardecer.
+
+[[v3-15-6]]
+
+^<<v3-15-6,6>>^ Se alguém se sentar onde ele se sentou, terá de lavar as roupas e banhar-se com água, e ficará impuro até o entardecer.
+
+[[v3-15-7]]
+
+^<<v3-15-7,7>>^ Se alguém tocar nesse homem que tiver fluxo, terá de lavar as roupas e banhar-se com água, e ficará impuro até o entardecer.
+
+[[v3-15-8]]
+
+^<<v3-15-8,8>>^ Se o homem cuspir em alguém cerimonialmente puro, essa pessoa terá de lavar as roupas e banhar-se com água, e ficará impura até o entardecer.
+
+[[v3-15-9]]
+
+^<<v3-15-9,9>>^ Qualquer manta de sela sobre a qual o homem se sentar quando cavalgar ficará cerimonialmente impura.
+
+[[v3-15-10]]
+
+^<<v3-15-10,10>>^ Se alguém tocar em qualquer coisa que tenha estado debaixo dele, ficará impuro até o entardecer; terá de lavar as roupas e banhar-se com água, e ficará impuro até o entardecer.
+
+[[v3-15-11]]
+
+^<<v3-15-11,11>>^ Se o homem tocar em alguém sem antes lavar as mãos, essa pessoa terá de lavar as roupas e banhar-se com água, e ficará impura até o entardecer.
+
+[[v3-15-12]]
+
+^<<v3-15-12,12>>^ Qualquer vasilha de barro em que o homem tocar terá de ser quebrada, e qualquer utensílio de madeira em que o homem tocar terá de ser lavado com água.
+
+[[v3-15-13]]
+
+^<<v3-15-13,13>>^ "Quando o fluxo do homem cessar, ele contará sete dias para o período de purificação. Em seguida, lavará suas roupas e se banhará em água limpa, e ficará cerimonialmente puro.
+
+[[v3-15-14]]
+
+^<<v3-15-14,14>>^ No oitavo dia, pegará duas rolinhas ou dois pombinhos, se apresentará diante do SENHOR à entrada da tenda do encontro e entregará suas ofertas ao sacerdote.
+
+[[v3-15-15]]
+
+^<<v3-15-15,15>>^ O sacerdote apresentará uma ave como oferta pelo pecado, e a outra, como holocausto. Desse modo, o sacerdote fará expiação pelo homem diante do SENHOR por causa do fluxo.
+
+[[v3-15-16]]
+
+^<<v3-15-16,16>>^ "Quando um homem expelir sêmen, lavará o corpo todo com água e ficará cerimonialmente impuro até o entardecer.
+
+[[v3-15-17]]
+
+^<<v3-15-17,17>>^ Qualquer peça de roupa ou de couro que tiver sêmen será lavada com água, e ficará impura até o entardecer.
+
+[[v3-15-18]]
+
+^<<v3-15-18,18>>^ Depois que um homem e uma mulher tiverem relações sexuais, ambos terão de banhar-se com água, e ficarão impuros até o entardecer.
+
+[[v3-15-19]]
+
+^<<v3-15-19,19>>^ "Quando uma mulher tiver sua menstruação, ficará cerimonialmente impura por sete dias. Quem tocar nela durante esse período ficará impuro até o entardecer.
+
+[[v3-15-20]]
+
+^<<v3-15-20,20>>^ Qualquer coisa sobre a qual a mulher se deitar ou se sentar durante a menstruação ficará cerimonialmente impura.
+
+[[v3-15-21]]
+
+^<<v3-15-21,21>>^ Se alguém tocar na cama dela, terá de lavar as roupas e banhar-se com água, e ficará impuro até o entardecer.
+
+[[v3-15-22]]
+
+^<<v3-15-22,22>>^ Se alguém tocar em alguma coisa sobre a qual ela se sentou, terá de lavar as roupas e banhar-se com água, e ficará impuro até o entardecer.
+
+[[v3-15-23]]
+
+^<<v3-15-23,23>>^ Isso inclui a cama e qualquer outro objeto sobre o qual ela tenha se sentado; se alguém os tocar, ficará impuro até o entardecer.
+
+[[v3-15-24]]
+
+^<<v3-15-24,24>>^ Se um homem tiver relações sexuais com ela e o sangue dela o tocar, a impureza menstrual será transmitida para ele; ficará impuro por sete dias, e qualquer cama onde ele se deitar ficará impura.
+
+[[v3-15-25]]
+
+^<<v3-15-25,25>>^ "Se uma mulher tiver por muitos dias um fluxo de sangue que não seja sua menstruação normal, ou se ela continuar a sangrar depois da menstruação normal, ficará cerimonialmente impura. Enquanto durar o sangramento, a mulher ficará impura, como acontece durante a menstruação.
+
+[[v3-15-26]]
+
+^<<v3-15-26,26>>^ Qualquer cama onde ela se deitar e qualquer objeto sobre o qual ela se sentar durante esse período ficará impuro, como em sua menstruação normal.
+
+[[v3-15-27]]
+
+^<<v3-15-27,27>>^ Se alguém tocar nessas coisas ficará cerimonialmente impuro. Terá de lavar as roupas e banhar-se com água, e ficará impuro até o entardecer.
+
+[[v3-15-28]]
+
+^<<v3-15-28,28>>^ "Quando o sangramento da mulher parar, ela contará sete dias e depois estará cerimonialmente pura.
+
+[[v3-15-29]]
+
+^<<v3-15-29,29>>^ No oitavo dia, tomará duas rolinhas ou dois pombinhos e os entregará ao sacerdote à entrada da tenda do encontro.
+
+[[v3-15-30]]
+
+^<<v3-15-30,30>>^ O sacerdote apresentará uma das aves como oferta pelo pecado, e a outra, como holocausto. Desse modo, o sacerdote fará expiação por ela diante do SENHOR por causa da impureza cerimonial causada pelo sangramento.
+
+[[v3-15-31]]
+
+^<<v3-15-31,31>>^ "Agindo assim, você manterá os israelitas separados da impureza cerimonial. Do contrário, eles morreriam, pois sua impureza contaminaria meu tabernáculo que está no meio deles.
+
+[[v3-15-32]]
+
+^<<v3-15-32,32>>^ Essas são as instruções referentes a qualquer pessoa que tenha um fluxo que sai do corpo, seja um homem que está impuro por expelir sêmen
+
+[[v3-15-33]]
+
+^<<v3-15-33,33>>^ ou uma mulher durante sua menstruação. Aplicam-se a qualquer homem ou mulher que tiver fluxo e ao homem que tiver relações sexuais com uma mulher cerimonialmente impura".
+
+'''
+
+xref:003-levitico/003-levitico-014.adoc#v3-14-0[&#60; Capítulo Anterior] | <<v3-15-0,Topo>> | xref:003-levitico/003-levitico-016.adoc#v3-16-0[Próximo Capítulo &#62;]

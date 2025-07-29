@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v21-10-0]]
+=== Eclesiastes, 10
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v21-10-1]]
+
+^<<v21-10-1,1>>^ Como moscas mortas produzem mau cheiro até num frasco de perfume, assim um pouco de insensatez estraga muita sabedoria e honra.
+
+[[v21-10-2]]
+
+^<<v21-10-2,2>>^ O sábio escolhe o caminho certo, mas o tolo toma o rumo errado.
+
+[[v21-10-3]]
+
+^<<v21-10-3,3>>^ Os tolos podem ser identificados apenas por seu modo de andar.
+
+[[v21-10-4]]
+
+^<<v21-10-4,4>>^ Se uma autoridade se irar contra você, não abandone seu posto; o espírito calmo pode superar até mesmo grandes erros.
+
+[[v21-10-5]]
+
+^<<v21-10-5,5>>^ Observei outro mal debaixo do sol. Governantes cometem um erro grave
+
+[[v21-10-6]]
+
+^<<v21-10-6,6>>^ quando dão grande autoridade aos tolos e colocam pessoas valorosas em cargos inferiores.
+
+[[v21-10-7]]
+
+^<<v21-10-7,7>>^ Cheguei a ver servos andando a cavalo, como príncipes, e príncipes andando a pé, como servos!
+
+[[v21-10-8]]
+
+^<<v21-10-8,8>>^ Quem cava um poço corre o risco de cair nele. Quem derruba um muro corre o risco de ser mordido por uma cobra.
+
+[[v21-10-9]]
+
+^<<v21-10-9,9>>^ Quem trabalha numa pedreira corre o risco de ser ferido pelas pedras. Quem corta lenha corre perigo a cada golpe do machado.
+
+[[v21-10-10]]
+
+^<<v21-10-10,10>>^ Trabalhar com um machado sem corte exige muito mais esforço; portanto, afie a lâmina. Esse é o valor da sabedoria: ela o ajuda a ser bem-sucedido.
+
+[[v21-10-11]]
+
+^<<v21-10-11,11>>^ Se a cobra morde antes de ser encantada, de que adianta ser encantador de serpentes?
+
+[[v21-10-12]]
+
+^<<v21-10-12,12>>^ As palavras do sábio trazem aprovação, mas o tolo é destruído por aquilo que ele mesmo diz.
+
+[[v21-10-13]]
+
+^<<v21-10-13,13>>^ O tolo baseia seus argumentos em ideias insensatas, por isso suas conclusões são perversa loucura;
+
+[[v21-10-14]]
+
+^<<v21-10-14,14>>^ mesmo assim, fala sem parar. Ninguém sabe de fato o que acontecerá; ninguém é capaz de prever o futuro.
+
+[[v21-10-15]]
+
+^<<v21-10-15,15>>^ O tolo fica tão exausto com seu trabalho que nem consegue encontrar o caminho de casa.
+
+[[v21-10-16]]
+
+^<<v21-10-16,16>>^ Como é triste a terra governada por uma pessoa imatura, cujas autoridades fazem banquetes logo de manhã.
+
+[[v21-10-17]]
+
+^<<v21-10-17,17>>^ Como é feliz a terra que tem como rei um líder nobre, cujas autoridades fazem banquetes no momento apropriado, para recuperarem as forças, e não para se embebedarem.
+
+[[v21-10-18]]
+
+^<<v21-10-18,18>>^ Por causa da preguiça, o telhado enverga; por causa do ócio, surgem goteiras na casa.
+
+[[v21-10-19]]
+
+^<<v21-10-19,19>>^ A festa proporciona riso, o vinho proporciona alegria, e o dinheiro proporciona isso tudo!
+
+[[v21-10-20]]
+
+^<<v21-10-20,20>>^ Nunca faça pouco do rei, nem mesmo em pensamento. Não zombe dos poderosos, nem mesmo em seu quarto. Pois um passarinho poderia contar a eles tudo que você disse.
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-009.adoc#v21-9-0[&#60; Capítulo Anterior] | <<v21-10-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-011.adoc#v21-11-0[Próximo Capítulo &#62;]

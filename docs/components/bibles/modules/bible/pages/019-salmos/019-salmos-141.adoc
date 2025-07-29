@@ -1,0 +1,49 @@
+include::./index.adoc[]
+
+[[v19-141-0]]
+=== Salmos, 141
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-141-1]]
+
+^<<v19-141-1,1>>^ Ó SENHOR, eu clamo a ti; vem depressa! Ouve quando peço tua ajuda.
+
+[[v19-141-2]]
+
+^<<v19-141-2,2>>^ Aceita minha oração, como incenso oferecido a ti, e minhas mãos levantadas, como oferta da tarde.
+
+[[v19-141-3]]
+
+^<<v19-141-3,3>>^ Assume o controle do que eu digo, SENHOR, e guarda meus lábios.
+
+[[v19-141-4]]
+
+^<<v19-141-4,4>>^ Não permitas que eu me desvie para o mal, ou me envolva em atos perversos. Não deixes que eu participe dos banquetes dos que praticam o mal.
+
+[[v19-141-5]]
+
+^<<v19-141-5,5>>^ Firam-me os justos! Será um favor! Se eles me corrigirem, será remédio que dá alívio; não permitas que eu o recuse. Contudo, oro constantemente, contra os perversos e tudo que eles fazem.
+
+[[v19-141-6]]
+
+^<<v19-141-6,6>>^ Quando seus líderes forem lançados num precipício, ouvirão minhas palavras e saberão que são verdadeiras.
+
+[[v19-141-7]]
+
+^<<v19-141-7,7>>^ Como pedras que o arado traz à superfície, seus ossos ficarão espalhados, sem que ninguém os enterre.
+
+[[v19-141-8]]
+
+^<<v19-141-8,8>>^ Espero por tua ajuda, SENHOR Soberano! És meu refúgio; não permitas que me matem.
+
+[[v19-141-9]]
+
+^<<v19-141-9,9>>^ Guarda-me das armadilhas que me prepararam, dos laços dos que praticam o mal.
+
+[[v19-141-10]]
+
+^<<v19-141-10,10>>^ Que os perversos caiam em suas próprias redes, mas que eu consiga escapar.
+
+'''
+
+xref:019-salmos/019-salmos-140.adoc#v19-140-0[&#60; Capítulo Anterior] | <<v19-141-0,Topo>> | xref:019-salmos/019-salmos-142.adoc#v19-142-0[Próximo Capítulo &#62;]

@@ -1,0 +1,145 @@
+include::./index.adoc[]
+
+[[v4-2-0]]
+=== Números, 2
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v4-2-1]]
+
+^<<v4-2-1,1>>^ Então o SENHOR deu as seguintes instruções a Moisés e Arão:
+
+[[v4-2-2]]
+
+^<<v4-2-2,2>>^ "Quando os israelitas acamparem, cada tribo terá sua própria área designada. As divisões das tribos acamparão ao redor de sua bandeira nos quatro lados da tenda do encontro, a certa distância.
+
+[[v4-2-3]]
+
+^<<v4-2-3,3>>^ As divisões da tribo de Judá acamparão na direção do nascer do sol, do lado leste, ao redor de sua bandeira. Naassom, filho de Aminadabe, será seu líder.
+
+[[v4-2-4]]
+
+^<<v4-2-4,4>>^ Seu número de soldados registrados é de 74.600.
+
+[[v4-2-5]]
+
+^<<v4-2-5,5>>^ A tribo de Issacar acampará ao lado da tribo de Judá. Natanael, filho de Zuar, será seu líder.
+
+[[v4-2-6]]
+
+^<<v4-2-6,6>>^ Seu número de soldados registrados é de 54.400.
+
+[[v4-2-7]]
+
+^<<v4-2-7,7>>^ A tribo de Zebulom acampará logo em seguida. Eliabe, filho de Helom, será seu líder.
+
+[[v4-2-8]]
+
+^<<v4-2-8,8>>^ Seu número de soldados registrados é de 57.400.
+
+[[v4-2-9]]
+
+^<<v4-2-9,9>>^ O total de soldados no acampamento do lado de Judá é de 186.400. Essas tribos marcharão sempre à frente.
+
+[[v4-2-10]]
+
+^<<v4-2-10,10>>^ As divisões da tribo de Rúben acamparão no lado sul da tenda do encontro, ao redor de sua bandeira. Elizur, filho de Sedeur, será seu líder.
+
+[[v4-2-11]]
+
+^<<v4-2-11,11>>^ Seu número de soldados registrados é de 46.500.
+
+[[v4-2-12]]
+
+^<<v4-2-12,12>>^ A tribo de Simeão acampará ao lado da tribo de Rúben. Selumiel, filho de Zurisadai, será seu líder.
+
+[[v4-2-13]]
+
+^<<v4-2-13,13>>^ Seu número de soldados registrados é de 59.300.
+
+[[v4-2-14]]
+
+^<<v4-2-14,14>>^ A tribo de Gade acampará logo em seguida. Eliasafe, filho de Deuel, será seu líder.
+
+[[v4-2-15]]
+
+^<<v4-2-15,15>>^ Seu número de soldados registrados é de 45.650.
+
+[[v4-2-16]]
+
+^<<v4-2-16,16>>^ O total de soldados no acampamento do lado de Rúben é de 151.450. Essas tribos marcharão sempre em segundo lugar.
+
+[[v4-2-17]]
+
+^<<v4-2-17,17>>^ "Em seguida, os levitas sairão do meio do acampamento transportando a tenda do encontro. Todas as tribos marcharão na mesma ordem em que acamparem, cada uma em sua posição, ao redor de sua bandeira.
+
+[[v4-2-18]]
+
+^<<v4-2-18,18>>^ As divisões da tribo de Efraim acamparão no lado oeste da tenda do encontro, ao redor de sua bandeira. Elisama, filho de Amiúde, será seu líder.
+
+[[v4-2-19]]
+
+^<<v4-2-19,19>>^ Seu número de soldados registrados é de 40.500.
+
+[[v4-2-20]]
+
+^<<v4-2-20,20>>^ A tribo de Manassés acampará ao lado da tribo de Efraim. Gamaliel, filho de Pedazur, será seu líder.
+
+[[v4-2-21]]
+
+^<<v4-2-21,21>>^ Seu número de soldados registrados é de 32.200.
+
+[[v4-2-22]]
+
+^<<v4-2-22,22>>^ A tribo de Benjamim acampará logo em seguida. Abidã, filho de Gideoni, será seu líder.
+
+[[v4-2-23]]
+
+^<<v4-2-23,23>>^ Seu número de soldados registrados é de 35.400.
+
+[[v4-2-24]]
+
+^<<v4-2-24,24>>^ O total de soldados no acampamento do lado de Efraim é de 108.100. Essas tribos marcharão sempre em terceiro lugar.
+
+[[v4-2-25]]
+
+^<<v4-2-25,25>>^ As divisões da tribo de Dã acamparão no lado norte da tenda do encontro, ao redor de sua bandeira. Aieser, filho de Amisadai, será seu líder.
+
+[[v4-2-26]]
+
+^<<v4-2-26,26>>^ Seu número de soldados registrados é de 62.700.
+
+[[v4-2-27]]
+
+^<<v4-2-27,27>>^ A tribo de Aser acampará ao lado da tribo de Dã. Pagiel, filho de Ocrã, será seu líder.
+
+[[v4-2-28]]
+
+^<<v4-2-28,28>>^ Seu número de soldados registrados é de 41.500.
+
+[[v4-2-29]]
+
+^<<v4-2-29,29>>^ A tribo de Naftali acampará logo em seguida. Aira, filho de Enã, será seu líder.
+
+[[v4-2-30]]
+
+^<<v4-2-30,30>>^ Seu número de soldados registrados é de 53.400.
+
+[[v4-2-31]]
+
+^<<v4-2-31,31>>^ O total de soldados no acampamento no lado de Dã é de 157.600. Essas tribos sempre marcharão por último e marcharão ao redor de sua respectiva bandeira".
+
+[[v4-2-32]]
+
+^<<v4-2-32,32>>^ Esses são os soldados registrados de acordo com suas famílias. O número de israelitas contados nos acampamentos, segundo suas divisões, totalizou 603.550.
+
+[[v4-2-33]]
+
+^<<v4-2-33,33>>^ Por ordem do SENHOR a Moisés, os levitas não foram incluídos no registro.
+
+[[v4-2-34]]
+
+^<<v4-2-34,34>>^ Os israelitas fizeram tudo conforme o SENHOR havia ordenado a Moisés. Cada clã e cada família acampavam e marchavam ao redor de sua bandeira.
+
+'''
+
+xref:004-numeros/004-numeros-001.adoc#v4-1-0[&#60; Capítulo Anterior] | <<v4-2-0,Topo>> | xref:004-numeros/004-numeros-003.adoc#v4-3-0[Próximo Capítulo &#62;]

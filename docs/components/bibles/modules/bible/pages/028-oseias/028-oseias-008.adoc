@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v28-8-0]]
+=== Oséias, 8
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v28-8-1]]
+
+^<<v28-8-1,1>>^ "Soem o alarme! O inimigo desce como águia sobre o templo do SENHOR. Pois o povo quebrou minha aliança e se rebelou contra minha lei.
+
+[[v28-8-2]]
+
+^<<v28-8-2,2>>^ Agora, Israel clama a mim: ‘Socorre-nos, pois és nosso Deus!’.
+
+[[v28-8-3]]
+
+^<<v28-8-3,3>>^ Mas os israelitas rejeitaram o bem, e agora o inimigo os persegue.
+
+[[v28-8-4]]
+
+^<<v28-8-4,4>>^ Nomearam reis sem que eu consentisse e escolheram príncipes sem minha aprovação. Fizeram para si ídolos de prata e ouro e assim provocaram a própria destruição.
+
+[[v28-8-5]]
+
+^<<v28-8-5,5>>^ "Ó Samaria, rejeito o bezerro que você fez! Minha ira arde contra você; até quando será incapaz de se manter inocente?
+
+[[v28-8-6]]
+
+^<<v28-8-6,6>>^ Esse bezerro que você adora, ó Israel, foi feito por suas próprias mãos; ele não é Deus! Portanto, deve ser despedaçado.
+
+[[v28-8-7]]
+
+^<<v28-8-7,7>>^ "Semearam ventos e colherão vendaval. Os talos de trigo murcharão e não produzirão alimento. E, mesmo que haja trigo, os estrangeiros o comerão.
+
+[[v28-8-8]]
+
+^<<v28-8-8,8>>^ O povo de Israel foi engolido; está abandonado entre as nações, como utensílio que ninguém quer.
+
+[[v28-8-9]]
+
+^<<v28-8-9,9>>^ Como jumento selvagem no cio, subiram até a Assíria. O povo de Israel se vendeu a muitos amantes.
+
+[[v28-8-10]]
+
+^<<v28-8-10,10>>^ Embora tenham se vendido às nações, agora eu os reunirei para o julgamento. Começarão a definhar sob a opressão do grande rei.
+
+[[v28-8-11]]
+
+^<<v28-8-11,11>>^ "O povo de Israel construiu muitos altares para remover o pecado, mas esses mesmos altares se tornaram lugares para pecar.
+
+[[v28-8-12]]
+
+^<<v28-8-12,12>>^ Embora eu lhes tenha dado minhas leis, agem como se elas não se aplicassem a eles.
+
+[[v28-8-13]]
+
+^<<v28-8-13,13>>^ Gostam de oferecer sacrifícios e comer de sua carne, mas eu não aceito esses sacrifícios. Pedirei conta de seus pecados e os castigarei; eles voltarão para o Egito.
+
+[[v28-8-14]]
+
+^<<v28-8-14,14>>^ Israel se esqueceu de seu Criador e construiu grandes palácios, e Judá fortificou suas cidades. Por isso, enviarei fogo sobre suas cidades e queimarei suas fortalezas."
+
+'''
+
+xref:028-oseias/028-oseias-007.adoc#v28-7-0[&#60; Capítulo Anterior] | <<v28-8-0,Topo>> | xref:028-oseias/028-oseias-009.adoc#v28-9-0[Próximo Capítulo &#62;]

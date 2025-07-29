@@ -1,0 +1,169 @@
+include::./index.adoc[]
+
+[[v19-37-0]]
+=== Salmos, 37
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-37-1]]
+
+^<<v19-37-1,1>>^ Não se preocupe com os perversos, nem tenha inveja dos que praticam o mal.
+
+[[v19-37-2]]
+
+^<<v19-37-2,2>>^ Pois, como o capim, logo secarão e, como a grama verde, logo murcharão.
+
+[[v19-37-3]]
+
+^<<v19-37-3,3>>^ Confie no SENHOR e faça o bem, e você viverá seguro na terra e prosperará.
+
+[[v19-37-4]]
+
+^<<v19-37-4,4>>^ Busque no SENHOR a sua alegria, e ele lhe dará os desejos de seu coração.
+
+[[v19-37-5]]
+
+^<<v19-37-5,5>>^ Entregue seu caminho ao SENHOR; confie nele, e ele o ajudará.
+
+[[v19-37-6]]
+
+^<<v19-37-6,6>>^ Tornará sua inocência radiante como o amanhecer, e a justiça de sua causa, como o sol do meio-dia.
+
+[[v19-37-7]]
+
+^<<v19-37-7,7>>^ Aquiete-se na presença do SENHOR, espere nele com paciência. Não se preocupe com o perverso que prospera, nem se aborreça com seus planos maldosos.
+
+[[v19-37-8]]
+
+^<<v19-37-8,8>>^ Deixe a ira de lado! Não se enfureça! Não perca a calma; isso só lhe trará prejuízo.
+
+[[v19-37-9]]
+
+^<<v19-37-9,9>>^ Pois os perversos serão destruídos, mas os que confiam no SENHOR possuirão a terra.
+
+[[v19-37-10]]
+
+^<<v19-37-10,10>>^ Em breve, o perverso desaparecerá; ainda que o procure, não o encontrará.
+
+[[v19-37-11]]
+
+^<<v19-37-11,11>>^ Os humildes possuirão a terra e viverão em paz e prosperidade.
+
+[[v19-37-12]]
+
+^<<v19-37-12,12>>^ O perverso trama contra o justo; rosna e lhe mostra os dentes.
+
+[[v19-37-13]]
+
+^<<v19-37-13,13>>^ Mas o Senhor ri, pois vê que o dia do julgamento se aproxima.
+
+[[v19-37-14]]
+
+^<<v19-37-14,14>>^ Os perversos puxam suas espadas e preparam seus arcos, para matar o pobre e o oprimido, para massacrar os que são corretos.
+
+[[v19-37-15]]
+
+^<<v19-37-15,15>>^ Suas espadas, porém, lhes atravessarão o próprio coração, e seus arcos serão quebrados.
+
+[[v19-37-16]]
+
+^<<v19-37-16,16>>^ Melhor ser justo e ter pouco que ser perverso e rico.
+
+[[v19-37-17]]
+
+^<<v19-37-17,17>>^ Pois a força dos perversos será despedaçada, mas o SENHOR sustenta os justos.
+
+[[v19-37-18]]
+
+^<<v19-37-18,18>>^ A cada dia, o SENHOR cuida dos íntegros; eles receberão uma herança que dura para sempre.
+
+[[v19-37-19]]
+
+^<<v19-37-19,19>>^ Em tempos de calamidade, não serão envergonhados; mesmo em dias de fome, terão mais que o suficiente.
+
+[[v19-37-20]]
+
+^<<v19-37-20,20>>^ Os perversos, contudo, morrerão; os inimigos do SENHOR são como flores do campo e desaparecerão como fumaça.
+
+[[v19-37-21]]
+
+^<<v19-37-21,21>>^ O perverso toma emprestado e nunca paga, mas o justo dá com generosidade.
+
+[[v19-37-22]]
+
+^<<v19-37-22,22>>^ Aqueles a quem o SENHOR abençoa possuirão a terra, mas aqueles a quem amaldiçoa serão destruídos.
+
+[[v19-37-23]]
+
+^<<v19-37-23,23>>^ O SENHOR dirige os passos do justo; ele se agrada de quem anda em seu caminho.
+
+[[v19-37-24]]
+
+^<<v19-37-24,24>>^ Ainda que tropece, não cairá, pois o SENHOR o segura pela mão.
+
+[[v19-37-25]]
+
+^<<v19-37-25,25>>^ Fui jovem e agora sou velho, mas nunca vi o justo ser abandonado, nem seus filhos mendigarem pão.
+
+[[v19-37-26]]
+
+^<<v19-37-26,26>>^ O justo é generoso e empresta de boa vontade, e seus filhos são uma bênção.
+
+[[v19-37-27]]
+
+^<<v19-37-27,27>>^ Afaste-se do mal e faça o bem, e você viverá na terra para sempre.
+
+[[v19-37-28]]
+
+^<<v19-37-28,28>>^ Pois o SENHOR ama a justiça e jamais abandonará seu povo fiel. Ele sempre os protegerá, mas os filhos dos perversos serão destruídos.
+
+[[v19-37-29]]
+
+^<<v19-37-29,29>>^ Os justos possuirão a terra e nela habitarão para sempre.
+
+[[v19-37-30]]
+
+^<<v19-37-30,30>>^ O justo oferece conselhos sábios e ensina o que é certo.
+
+[[v19-37-31]]
+
+^<<v19-37-31,31>>^ Guarda no coração a lei de Deus, por isso seus passos são firmes.
+
+[[v19-37-32]]
+
+^<<v19-37-32,32>>^ O perverso fica à espreita do justo e procura matá-lo.
+
+[[v19-37-33]]
+
+^<<v19-37-33,33>>^ O SENHOR, porém, não deixará que o perverso tenha sucesso, nem condenará o justo quando ele for julgado.
+
+[[v19-37-34]]
+
+^<<v19-37-34,34>>^ Ponha sua esperança no Senhor e ande com firmeza pelo caminho dele. Ele o honrará e lhe dará a terra, e você verá os perversos serem destruídos.
+
+[[v19-37-35]]
+
+^<<v19-37-35,35>>^ Vi pessoas más e cruéis florescerem como árvores em solo nativo.
+
+[[v19-37-36]]
+
+^<<v19-37-36,36>>^ Mas, quando voltei a olhar, tinham desaparecido; procurei por elas, mas não as encontrei.
+
+[[v19-37-37]]
+
+^<<v19-37-37,37>>^ Observe os que são íntegros e justos; um futuro maravilhoso espera os que amam a paz.
+
+[[v19-37-38]]
+
+^<<v19-37-38,38>>^ Os rebeldes, porém, serão destruídos de uma só vez; não têm futuro algum.
+
+[[v19-37-39]]
+
+^<<v19-37-39,39>>^ O SENHOR salva os justos; ele é sua fortaleza em tempos de aflição.
+
+[[v19-37-40]]
+
+^<<v19-37-40,40>>^ O SENHOR os socorre e os livra dos perversos. Ele os salva, porque nele se refugiam.
+
+'''
+
+xref:019-salmos/019-salmos-036.adoc#v19-36-0[&#60; Capítulo Anterior] | <<v19-37-0,Topo>> | xref:019-salmos/019-salmos-038.adoc#v19-38-0[Próximo Capítulo &#62;]

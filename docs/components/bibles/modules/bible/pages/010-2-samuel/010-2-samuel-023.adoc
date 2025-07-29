@@ -1,0 +1,165 @@
+include::./index.adoc[]
+
+[[v10-23-0]]
+=== 2 Samuel, 23
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v10-23-1]]
+
+^<<v10-23-1,1>>^ Estas são as últimas palavras de Davi: "Isto é o que diz Davi, filho de Jessé; Davi, que foi tão exaltado, Davi, o homem ungido pelo Deus de Jacó, Davi, o amável salmista de Israel.
+
+[[v10-23-2]]
+
+^<<v10-23-2,2>>^ "O Espírito do SENHOR fala por meu intermédio; suas palavras estão em minha língua.
+
+[[v10-23-3]]
+
+^<<v10-23-3,3>>^ O Deus de Israel falou, a Rocha de Israel me disse: ‘Aquele que governa com justiça, que governa no temor de Deus,
+
+[[v10-23-4]]
+
+^<<v10-23-4,4>>^ é como a luz da manhã ao nascer do sol, como a manhã sem nuvens, como o brilho do sol que faz crescer a grama nova depois da chuva’.
+
+[[v10-23-5]]
+
+^<<v10-23-5,5>>^ "Acaso não foi minha família que Deus escolheu? Sim, ele fez comigo uma aliança sem fim, bem definida e garantida nos mínimos detalhes; ele me dará segurança e êxito.
+
+[[v10-23-6]]
+
+^<<v10-23-6,6>>^ Os perversos, porém, são como espinhos lançados fora, pois ferem a mão de quem os toca.
+
+[[v10-23-7]]
+
+^<<v10-23-7,7>>^ É preciso usar ferramentas de ferro para cortá-los; serão inteiramente consumidos pelo fogo".
+
+[[v10-23-8]]
+
+^<<v10-23-8,8>>^ Estes são os nomes dos guerreiros mais valentes de Davi. O primeiro era Jabesão, o hacmonita, líder dos Três, isto é, dos três guerreiros mais valentes dentre os soldados de Davi. Certa ocasião, usou sua lança para matar oitocentos soldados inimigos numa só batalha.
+
+[[v10-23-9]]
+
+^<<v10-23-9,9>>^ O segundo era Eleazar, filho de Dodô, descendente de Aoí. Ele era um dos três guerreiros que estavam com Davi quando enfrentaram os filisteus depois que todo o exército israelita havia recuado.
+
+[[v10-23-10]]
+
+^<<v10-23-10,10>>^ Eleazar matou filisteus até que sua mão ficou cansada demais para levantar a espada, e o SENHOR lhe deu grande vitória naquele dia. Quando o exército voltou, os soldados só tiveram de recolher os despojos.
+
+[[v10-23-11]]
+
+^<<v10-23-11,11>>^ Depois dele vinha Samá, filho de Agé, de Harar. Certa ocasião, os filisteus se reuniram em Leí e atacaram os israelitas numa plantação de lentilhas. O exército israelita fugiu,
+
+[[v10-23-12]]
+
+^<<v10-23-12,12>>^ mas Samá permaneceu em sua posição no meio do campo e derrotou os filisteus. Desse modo, o SENHOR lhe deu grande vitória.
+
+[[v10-23-13]]
+
+^<<v10-23-13,13>>^ Durante a colheita, quando Davi estava na caverna de Adulão, o exército filisteu acampou no vale de Refaim. Os Três — que faziam parte dos Trinta, um grupo de elite entre os valentes de Davi — desceram para encontrá-lo em Adulão.
+
+[[v10-23-14]]
+
+^<<v10-23-14,14>>^ Nessa ocasião, Davi estava na fortaleza, e um destacamento filisteu havia ocupado a cidade de Belém.
+
+[[v10-23-15]]
+
+^<<v10-23-15,15>>^ Davi comentou: "Ah, como seria bom beber a água pura do poço que fica junto ao portão de Belém!".
+
+[[v10-23-16]]
+
+^<<v10-23-16,16>>^ Então os Três atravessaram as fileiras dos filisteus, tiraram água do poço e a trouxeram a Davi. Ele, porém, se recusou a bebê-la. Em vez disso, derramou-a no chão como oferta ao SENHOR.
+
+[[v10-23-17]]
+
+^<<v10-23-17,17>>^ "Que o SENHOR não permita que eu beba desta água!", exclamou. "Ela é tão preciosa quanto o sangue destes homens que arriscaram a vida para trazê-la." E Davi não a bebeu. Esses são exemplos dos feitos desses três guerreiros.
+
+[[v10-23-18]]
+
+^<<v10-23-18,18>>^ Abisai, filho de Zeruia, irmão de Joabe, era líder dos Trinta. Certa ocasião, usou sua lança para matar trezentos soldados inimigos numa só batalha. Foi por causa de feitos como esse que ele se tornou tão famoso quanto os Três.
+
+[[v10-23-19]]
+
+^<<v10-23-19,19>>^ Abisai era o mais conhecido dos Trinta e era seu comandante, embora não fosse um dos Três.
+
+[[v10-23-20]]
+
+^<<v10-23-20,20>>^ Também havia Benaia, filho de Joiada, soldado valente de Cabzeel. Realizou muitos feitos heroicos, como matar dois grandes guerreiros de Moabe. Em outra ocasião, num dia de neve, perseguiu um leão até uma cova e o matou.
+
+[[v10-23-21]]
+
+^<<v10-23-21,21>>^ Uma vez, com apenas um cajado, matou um imponente guerreiro egípcio armado com uma lança. Benaia arrancou a lança da mão do egípcio e com ela o matou.
+
+[[v10-23-22]]
+
+^<<v10-23-22,22>>^ Feitos como esses tornaram Benaia tão famoso quanto os três guerreiros mais valentes.
+
+[[v10-23-23]]
+
+^<<v10-23-23,23>>^ Foi mais honrado que qualquer outro membro dos Trinta, embora não fosse um dos Três. Davi o nomeou comandante de sua guarda pessoal.
+
+[[v10-23-24]]
+
+^<<v10-23-24,24>>^ Entre os Trinta estavam: Asael, irmão de Joabe; Elanã, filho de Dodô, de Belém;
+
+[[v10-23-25]]
+
+^<<v10-23-25,25>>^ Samá, de Harode; Elica, de Harode;
+
+[[v10-23-26]]
+
+^<<v10-23-26,26>>^ Helez, de Pelom; Ira, filho de Iques, de Tecoa;
+
+[[v10-23-27]]
+
+^<<v10-23-27,27>>^ Abiezer, de Anatote; Sibecai, de Husate;
+
+[[v10-23-28]]
+
+^<<v10-23-28,28>>^ Zalmom, de Aoí; Maarai, de Netofate;
+
+[[v10-23-29]]
+
+^<<v10-23-29,29>>^ Helede, filho de Baaná, de Netofate; Itai, filho de Ribai, de Gibeá, na terra de Benjamim;
+
+[[v10-23-30]]
+
+^<<v10-23-30,30>>^ Benaia, de Piratom; Hurai, de Naal-Gaás;
+
+[[v10-23-31]]
+
+^<<v10-23-31,31>>^ Abi-Albom, de Arbate; Azmavete, de Baurim;
+
+[[v10-23-32]]
+
+^<<v10-23-32,32>>^ Eliaba, de Saalbom; os filhos de Jasém; Jônatas,
+
+[[v10-23-33]]
+
+^<<v10-23-33,33>>^ filho de Sage, de Harar; Aião, filho de Sarar, de Harar;
+
+[[v10-23-34]]
+
+^<<v10-23-34,34>>^ Elifelete, filho de Aasbai, de Maaca; Eliã, filho de Aitofel, de Gilo;
+
+[[v10-23-35]]
+
+^<<v10-23-35,35>>^ Hezro, do Carmelo; Paarai, de Arba;
+
+[[v10-23-36]]
+
+^<<v10-23-36,36>>^ Igal, filho de Natã, de Zobá; Bani, de Gade;
+
+[[v10-23-37]]
+
+^<<v10-23-37,37>>^ Zeleque, de Amom; Naarai, de Beerote, escudeiro de Joabe, filho de Zeruia;
+
+[[v10-23-38]]
+
+^<<v10-23-38,38>>^ Ira, de Jatir; Garebe, de Jatir;
+
+[[v10-23-39]]
+
+^<<v10-23-39,39>>^ Urias, o hitita. Ao todo, eram 37.
+
+'''
+
+xref:010-2-samuel/010-2-samuel-022.adoc#v10-22-0[&#60; Capítulo Anterior] | <<v10-23-0,Topo>> | xref:010-2-samuel/010-2-samuel-024.adoc#v10-24-0[Próximo Capítulo &#62;]

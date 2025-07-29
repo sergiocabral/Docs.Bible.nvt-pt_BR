@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v19-49-0]]
+=== Salmos, 49
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-49-1]]
+
+^<<v19-49-1,1>>^ Ouçam isto, todos os povos! Escutem, todos os habitantes da terra!
+
+[[v19-49-2]]
+
+^<<v19-49-2,2>>^ Toda a humanidade, sem exceção, tanto ricos como pobres, prestem atenção!
+
+[[v19-49-3]]
+
+^<<v19-49-3,3>>^ Pois minhas palavras são sábias, e meus pensamentos, cheios de entendimento.
+
+[[v19-49-4]]
+
+^<<v19-49-4,4>>^ Ouço muitos provérbios com atenção e, ao som da harpa, explico enigmas.
+
+[[v19-49-5]]
+
+^<<v19-49-5,5>>^ Por que terei medo quando vierem as dificuldades, quando inimigos perversos me cercarem?
+
+[[v19-49-6]]
+
+^<<v19-49-6,6>>^ Eles confiam em seus bens e contam vantagem de suas grandes riquezas.
+
+[[v19-49-7]]
+
+^<<v19-49-7,7>>^ Mas não são capazes de se redimir da morte e pagar um resgate a Deus.
+
+[[v19-49-8]]
+
+^<<v19-49-8,8>>^ O preço para resgatar uma vida é altíssimo, e ninguém é capaz de pagar o suficiente
+
+[[v19-49-9]]
+
+^<<v19-49-9,9>>^ para viver para sempre e jamais ver a sepultura.
+
+[[v19-49-10]]
+
+^<<v19-49-10,10>>^ Os sábios, no fim, morrerão, como os tolos e os ignorantes, que deixam toda a sua riqueza para trás.
+
+[[v19-49-11]]
+
+^<<v19-49-11,11>>^ A sepultura é seu lar eterno, onde ficarão para sempre. Dão o próprio nome às suas terras,
+
+[[v19-49-12]]
+
+^<<v19-49-12,12>>^ mas a sua fama não durará; como os animais, eles também morrerão.
+
+[[v19-49-13]]
+
+^<<v19-49-13,13>>^ Esse é o destino dos tolos, embora sejam admirados pelo que dizem. Interlúdio
+
+[[v19-49-14]]
+
+^<<v19-49-14,14>>^ Como ovelhas, são levados à sepultura, onde a morte será seu pastor. Pela manhã, os justos governarão sobre eles; seus corpos apodrecerão na sepultura, longe de suas grandes propriedades.
+
+[[v19-49-15]]
+
+^<<v19-49-15,15>>^ Quanto a mim, Deus resgatará minha vida e me livrará do poder da sepultura. Interlúdio
+
+[[v19-49-16]]
+
+^<<v19-49-16,16>>^ Portanto, não desanimem quando o perverso enriquecer e sua casa se tornar ainda mais luxuosa.
+
+[[v19-49-17]]
+
+^<<v19-49-17,17>>^ Pois, quando morrer, nada levará consigo; sua riqueza não o acompanhará ao túmulo.
+
+[[v19-49-18]]
+
+^<<v19-49-18,18>>^ Nesta vida, ele se considera afortunado e é elogiado por seu sucesso.
+
+[[v19-49-19]]
+
+^<<v19-49-19,19>>^ Contudo, morrerá como todos os seus antepassados e nunca mais voltará a ver a luz do dia.
+
+[[v19-49-20]]
+
+^<<v19-49-20,20>>^ Os que contam vantagem de suas riquezas nada entendem; como os animais, também morrerão.
+
+'''
+
+xref:019-salmos/019-salmos-048.adoc#v19-48-0[&#60; Capítulo Anterior] | <<v19-49-0,Topo>> | xref:019-salmos/019-salmos-050.adoc#v19-50-0[Próximo Capítulo &#62;]

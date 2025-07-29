@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v52-3-0]]
+=== 1 Tessalonicenses, 3
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v52-3-1]]
+
+^<<v52-3-1,1>>^ Por isso, quando não pudemos mais suportar, resolvemos ficar sozinhos em Atenas
+
+[[v52-3-2]]
+
+^<<v52-3-2,2>>^ e enviamos Timóteo para visitá-los. Ele é nosso irmão e colaborador de Deus na proclamação das boas-novas de Cristo. Nós o enviamos para fortalecê-los e animá-los na fé,
+
+[[v52-3-3]]
+
+^<<v52-3-3,3>>^ para que as dificuldades não os abalem. Mas vocês sabem que estamos destinados a passar por elas.
+
+[[v52-3-4]]
+
+^<<v52-3-4,4>>^ Quando ainda estávamos com vocês, nós os advertimos de que as aflições em breve viriam, e foi o que aconteceu, como bem sabem.
+
+[[v52-3-5]]
+
+^<<v52-3-5,5>>^ Assim, quando não pude mais suportar, enviei Timóteo para saber se continuavam firmes na fé. Tinha receio de que o tentador os tivesse vencido e todo o nosso trabalho houvesse sido inútil.
+
+[[v52-3-6]]
+
+^<<v52-3-6,6>>^ Agora, porém, Timóteo voltou trazendo boas notícias a respeito de sua fé e seu amor. Ele nos contou que vocês se lembram sempre com alegria de nossa visita e que desejam nos ver tanto quanto nós queremos vê-los.
+
+[[v52-3-7]]
+
+^<<v52-3-7,7>>^ Por isso, irmãos, apesar de nossos sofrimentos e dificuldades, ficamos animados porque vocês permaneceram firmes na fé.
+
+[[v52-3-8]]
+
+^<<v52-3-8,8>>^ Agora, revivemos por saber que estão firmes no Senhor.
+
+[[v52-3-9]]
+
+^<<v52-3-9,9>>^ Sim, agradecemos a Deus por vocês! Por sua causa, temos grande alegria na presença de Deus.
+
+[[v52-3-10]]
+
+^<<v52-3-10,10>>^ Noite e dia oramos por vocês com fervor, pedindo que possamos vê-los novamente a fim de ajudá-los a aperfeiçoar a fé.
+
+[[v52-3-11]]
+
+^<<v52-3-11,11>>^ Que Deus, nosso Pai, e nosso Senhor Jesus nos encaminhem a vocês em breve.
+
+[[v52-3-12]]
+
+^<<v52-3-12,12>>^ E que o Senhor faça crescer e transbordar o amor que vocês têm uns pelos outros e por todos, da mesma forma que nosso amor transborda por vocês.
+
+[[v52-3-13]]
+
+^<<v52-3-13,13>>^ E, como resultado, que Deus, nosso Pai, torne seu coração forte, irrepreensível e santo diante dele para quando nosso Senhor Jesus voltar com todo o seu povo santo. Amém.
+
+'''
+
+xref:052-1-tessalonicenses/052-1-tessalonicenses-002.adoc#v52-2-0[&#60; Capítulo Anterior] | <<v52-3-0,Topo>> | xref:052-1-tessalonicenses/052-1-tessalonicenses-004.adoc#v52-4-0[Próximo Capítulo &#62;]

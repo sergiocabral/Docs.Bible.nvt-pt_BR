@@ -1,0 +1,137 @@
+include::./index.adoc[]
+
+[[v1-32-0]]
+=== Gênesis, 32
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v1-32-1]]
+
+^<<v1-32-1,1>>^ Quando Jacó seguiu viagem, anjos de Deus vieram encontrar-se com ele.
+
+[[v1-32-2]]
+
+^<<v1-32-2,2>>^ Ao vê-los, Jacó exclamou: "Este é o acampamento de Deus!". Por isso, chamou o lugar de Maanaim.
+
+[[v1-32-3]]
+
+^<<v1-32-3,3>>^ Então Jacó enviou adiante dele mensageiros a seu irmão Esaú, que vivia na região de Seir, na terra de Edom.
+
+[[v1-32-4]]
+
+^<<v1-32-4,4>>^ Disse-lhes: "Deem a seguinte mensagem ao meu senhor Esaú: ‘Assim diz seu servo Jacó: Até o momento, estava morando com nosso tio Labão
+
+[[v1-32-5]]
+
+^<<v1-32-5,5>>^ e, agora, tenho bois, jumentos, rebanhos de ovelhas e cabras, além de muitos servos e servas. Enviei estes mensageiros para informar meu senhor da minha chegada, na esperança de que me receba amistosamente".
+
+[[v1-32-6]]
+
+^<<v1-32-6,6>>^ Depois de transmitirem a mensagem, voltaram a Jacó e lhe disseram: "Estivemos com seu irmão Esaú, e ele está vindo ao seu encontro com um bando de quatrocentos homens!".
+
+[[v1-32-7]]
+
+^<<v1-32-7,7>>^ Quando ouviu a notícia, Jacó ficou apavorado. Dividiu em dois grupos sua família e seus servos, e também os rebanhos, os bois e os camelos,
+
+[[v1-32-8]]
+
+^<<v1-32-8,8>>^ pois pensou: "Se Esaú encontrar um dos grupos e atacá-lo, talvez o outro consiga escapar".
+
+[[v1-32-9]]
+
+^<<v1-32-9,9>>^ Então Jacó orou: "Ó Deus de meu avô, Abraão, e Deus de meu pai, Isaque; ó SENHOR, tu me disseste: ‘Volte para sua terra natal, para seus parentes’. E prometeste: ‘Tratarei bem de você’.
+
+[[v1-32-10]]
+
+^<<v1-32-10,10>>^ Não sou digno de toda a bondade e fidelidade que tens mostrado a mim, teu servo. Quando saí de casa e atravessei o rio Jordão, não possuía nada além de um cajado. Agora, minha família e meus servos formam duas caravanas!
+
+[[v1-32-11]]
+
+^<<v1-32-11,11>>^ Por favor, salva-me de meu irmão, Esaú. Estou com medo de que ele venha atacar tanto a mim quanto a minhas mulheres e meus filhos.
+
+[[v1-32-12]]
+
+^<<v1-32-12,12>>^ Mas tu prometeste: ‘Certamente tratarei bem de você e multiplicarei seus descendentes até que se tornem tão numerosos quanto a areia à beira do mar, que não se pode contar’".
+
+[[v1-32-13]]
+
+^<<v1-32-13,13>>^ Jacó passou a noite ali. Depois, escolheu entre seus bens os seguintes presentes para seu irmão, Esaú:
+
+[[v1-32-14]]
+
+^<<v1-32-14,14>>^ duzentas cabras, vinte bodes, duzentas ovelhas, vinte carneiros,
+
+[[v1-32-15]]
+
+^<<v1-32-15,15>>^ trinta fêmeas de camelo com seus filhotes, quarenta vacas, dez touros, vinte jumentas e dez jumentos.
+
+[[v1-32-16]]
+
+^<<v1-32-16,16>>^ Dividiu esses animais em rebanhos, entregou cada rebanho a um servo e lhes disse: "Vão à minha frente com os animais, mas mantenham certa distância entre os rebanhos".
+
+[[v1-32-17]]
+
+^<<v1-32-17,17>>^ Aos homens encarregados do primeiro grupo, deu as seguintes instruções: "Quando meu irmão, Esaú, se encontrar com vocês, ele perguntará: ‘De quem são servos? Para onde vão? Quem é o dono destes animais?’.
+
+[[v1-32-18]]
+
+^<<v1-32-18,18>>^ Respondam: ‘Eles pertencem ao seu servo Jacó, mas são um presente para Esaú, o senhor dele. Veja, ele está vindo atrás de nós’".
+
+[[v1-32-19]]
+
+^<<v1-32-19,19>>^ Jacó deu a mesma instrução aos encarregados do segundo e do terceiro grupo e a todos que seguiam os rebanhos: "Digam a mesma coisa a Esaú quando o encontrarem,
+
+[[v1-32-20]]
+
+^<<v1-32-20,20>>^ e não se esqueçam de acrescentar: ‘Veja, seu servo Jacó está vindo atrás de nós’". Jacó pensou: "Tentarei apaziguá-lo com os presentes que estou enviando à minha frente. Quando o vir, quem sabe ele me receberá amistosamente".
+
+[[v1-32-21]]
+
+^<<v1-32-21,21>>^ Assim, os presentes foram enviados à frente, enquanto Jacó passou aquela noite no acampamento.
+
+[[v1-32-22]]
+
+^<<v1-32-22,22>>^ Durante a noite, Jacó se levantou, tomou suas duas mulheres, suas duas servas e seus onze filhos e atravessou com eles o rio Jaboque.
+
+[[v1-32-23]]
+
+^<<v1-32-23,23>>^ Depois de levá-los para a outra margem, fez passar todos os seus bens.
+
+[[v1-32-24]]
+
+^<<v1-32-24,24>>^ Com isso, Jacó ficou sozinho no acampamento. Veio então um homem, que lutou com ele até o amanhecer.
+
+[[v1-32-25]]
+
+^<<v1-32-25,25>>^ Quando o homem viu que não poderia vencer, tocou a articulação do quadril de Jacó e a deslocou.
+
+[[v1-32-26]]
+
+^<<v1-32-26,26>>^ O homem disse: "Deixe-me ir, pois está amanhecendo!". Jacó, porém, respondeu: "Não o deixarei ir enquanto não me abençoar".
+
+[[v1-32-27]]
+
+^<<v1-32-27,27>>^ "Qual é seu nome?", perguntou o homem. "Jacó", respondeu ele.
+
+[[v1-32-28]]
+
+^<<v1-32-28,28>>^ O homem disse: "Seu nome não será mais Jacó. De agora em diante, você se chamará Israel, pois lutou com Deus e com os homens e venceu".
+
+[[v1-32-29]]
+
+^<<v1-32-29,29>>^ "Por favor, diga-me qual é seu nome", disse Jacó. "Por que quer saber meu nome?", replicou o homem. E abençoou Jacó ali.
+
+[[v1-32-30]]
+
+^<<v1-32-30,30>>^ Jacó chamou aquele lugar de Peniel, pois disse: "Vi Deus face a face e, no entanto, minha vida foi poupada".
+
+[[v1-32-31]]
+
+^<<v1-32-31,31>>^ O sol estava nascendo quando Jacó partiu de Peniel, mancando por causa do quadril deslocado.
+
+[[v1-32-32]]
+
+^<<v1-32-32,32>>^ (Até hoje, o povo de Israel não come o tendão perto da articulação do quadril, por causa do que aconteceu naquela noite em que o homem feriu o tendão do quadril de Jacó.)
+
+'''
+
+xref:001-genesis/001-genesis-031.adoc#v1-31-0[&#60; Capítulo Anterior] | <<v1-32-0,Topo>> | xref:001-genesis/001-genesis-033.adoc#v1-33-0[Próximo Capítulo &#62;]

@@ -1,0 +1,49 @@
+include::./index.adoc[]
+
+[[v17-7-0]]
+=== Ester, 7
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v17-7-1]]
+
+^<<v17-7-1,1>>^ O rei e Hamã foram ao banquete da rainha Ester.
+
+[[v17-7-2]]
+
+^<<v17-7-2,2>>^ Mais uma vez, enquanto bebiam vinho, o rei perguntou a Ester: "Diga-me o que deseja, rainha Ester. Qual é seu pedido? Eu atenderei, mesmo que peça metade do reino!".
+
+[[v17-7-3]]
+
+^<<v17-7-3,3>>^ A rainha Ester respondeu: "Se conto com o favor do rei, e se lhe parecer bem atender meu pedido, poupe minha vida e a vida de meu povo.
+
+[[v17-7-4]]
+
+^<<v17-7-4,4>>^ Pois eu e meu povo fomos vendidos para sermos destruídos, mortos e aniquilados. Se fosse apenas o caso de termos sido vendidos como escravos, eu teria permanecido calada, pois não teria cabimento perturbar o rei com um assunto de tão pouca importância".
+
+[[v17-7-5]]
+
+^<<v17-7-5,5>>^ "Quem faria uma coisa dessas?", perguntou o rei Xerxes. "Onde está o homem que teria a audácia de fazer isso?"
+
+[[v17-7-6]]
+
+^<<v17-7-6,6>>^ Ester respondeu: "Nosso inimigo e adversário é Hamã, este homem perverso". Hamã ficou apavorado diante do rei e da rainha.
+
+[[v17-7-7]]
+
+^<<v17-7-7,7>>^ Furioso, o rei se levantou e saiu para o jardim do palácio. Hamã, porém, ficou ali, implorando por sua vida à rainha Ester, pois sabia que o rei certamente o condenaria à morte.
+
+[[v17-7-8]]
+
+^<<v17-7-8,8>>^ Em desespero, atirou-se sobre o sofá onde a rainha Ester estava reclinada e, nesse exato momento, o rei voltou do jardim do palácio. O rei exclamou: "Ele se atreve até a violentar a rainha aqui no palácio, diante de meus próprios olhos?". E, assim que o rei falou, seus servos cobriram o rosto de Hamã.
+
+[[v17-7-9]]
+
+^<<v17-7-9,9>>^ Harbona, um dos eunucos do rei, disse: "Hamã construiu uma forca de mais de vinte metros no pátio da casa dele. Pretendia usá-la para enforcar Mardoqueu, o homem que salvou o rei de ser assassinado". "Usem-na para enforcar Hamã!", ordenou o rei.
+
+[[v17-7-10]]
+
+^<<v17-7-10,10>>^ Assim, executaram Hamã na forca que ele havia construído para Mardoqueu; e a ira do rei se acalmou.
+
+'''
+
+xref:017-ester/017-ester-006.adoc#v17-6-0[&#60; Capítulo Anterior] | <<v17-7-0,Topo>> | xref:017-ester/017-ester-008.adoc#v17-8-0[Próximo Capítulo &#62;]

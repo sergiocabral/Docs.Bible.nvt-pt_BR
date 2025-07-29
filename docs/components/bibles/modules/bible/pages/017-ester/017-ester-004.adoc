@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v17-4-0]]
+=== Ester, 4
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v17-4-1]]
+
+^<<v17-4-1,1>>^ Quando Mardoqueu soube de tudo que havia acontecido, rasgou suas roupas, vestiu-se de pano de saco, cobriu-se de cinzas e saiu pela cidade, chorando alto e amargamente.
+
+[[v17-4-2]]
+
+^<<v17-4-2,2>>^ Foi até a porta do palácio, mas ninguém que estivesse usando roupas de luto tinha permissão para entrar.
+
+[[v17-4-3]]
+
+^<<v17-4-3,3>>^ Quando a notícia do decreto chegou a todas as províncias, houve grande pranto entre os judeus. Jejuaram, choraram e lamentaram, e muitos se deitaram em pano de saco e em cinzas.
+
+[[v17-4-4]]
+
+^<<v17-4-4,4>>^ Quando as criadas de Ester e os eunucos vieram e lhe contaram sobre Mardoqueu, ela ficou muito angustiada. Enviou-lhe roupas para vestir em lugar do pano de saco, mas ele não aceitou.
+
+[[v17-4-5]]
+
+^<<v17-4-5,5>>^ Então Ester mandou chamar Hataque, um dos eunucos do rei que havia sido nomeado para servi-la. Ordenou que ele fosse até Mardoqueu e descobrisse o que o perturbava e por que ele estava de luto.
+
+[[v17-4-6]]
+
+^<<v17-4-6,6>>^ Hataque foi até Mardoqueu na praça da cidade, em frente à porta do palácio.
+
+[[v17-4-7]]
+
+^<<v17-4-7,7>>^ Mardoqueu lhe contou tudo e lhe informou a quantidade exata de prata que Hamã havia prometido pagar ao tesouro real pela destruição dos judeus.
+
+[[v17-4-8]]
+
+^<<v17-4-8,8>>^ Mardoqueu entregou a Hataque uma cópia do decreto publicado em Susã que ordenava o extermínio de todos os judeus. Pediu a Hataque que mostrasse o decreto a Ester e lhe explicasse a situação. Também pediu a Hataque que a orientasse a ir falar com o rei para implorar por misericórdia e interceder em favor de seu povo.
+
+[[v17-4-9]]
+
+^<<v17-4-9,9>>^ Hataque voltou a Ester com o recado de Mardoqueu.
+
+[[v17-4-10]]
+
+^<<v17-4-10,10>>^ Então Ester mandou Hataque dizer a Mardoqueu:
+
+[[v17-4-11]]
+
+^<<v17-4-11,11>>^ "Todos os oficiais do rei, e até mesmo o povo das províncias, sabem que qualquer pessoa que se apresenta diante do rei no pátio interno sem ter sido convidada está condenada a morrer, a menos que o rei lhe estenda seu cetro de ouro. Além do mais, há trinta dias o rei não me chama à sua presença".
+
+[[v17-4-12]]
+
+^<<v17-4-12,12>>^ E o recado de Ester foi transmitido a Mardoqueu.
+
+[[v17-4-13]]
+
+^<<v17-4-13,13>>^ Mardoqueu enviou esta resposta a Ester: "Não pense que por estar no palácio você escapará quando todos os outros judeus forem mortos.
+
+[[v17-4-14]]
+
+^<<v17-4-14,14>>^ Se ficar calada num momento como este, alívio e livramento virão de outra parte para os judeus, mas você e seus parentes morrerão. Quem sabe não foi justamente para uma ocasião como esta que você chegou à posição de rainha?".
+
+[[v17-4-15]]
+
+^<<v17-4-15,15>>^ Então Ester enviou esta resposta a Mardoqueu:
+
+[[v17-4-16]]
+
+^<<v17-4-16,16>>^ "Vá, reúna todos os judeus de Susã e jejuem por mim. Não comam nem bebam durante três dias e três noites. Minhas criadas e eu faremos o mesmo. Depois, irei à presença do rei, mesmo que seja contra a lei. Se eu tiver de morrer, morrerei".
+
+[[v17-4-17]]
+
+^<<v17-4-17,17>>^ Mardoqueu foi e fez tudo conforme as instruções de Ester.
+
+'''
+
+xref:017-ester/017-ester-003.adoc#v17-3-0[&#60; Capítulo Anterior] | <<v17-4-0,Topo>> | xref:017-ester/017-ester-005.adoc#v17-5-0[Próximo Capítulo &#62;]

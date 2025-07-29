@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v9-24-0]]
+=== 1 Samuel, 24
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v9-24-1]]
+
+^<<v9-24-1,1>>^ Depois que Saul voltou da luta contra os filisteus, foi informado de que Davi tinha ido para o deserto de En-Gedi.
+
+[[v9-24-2]]
+
+^<<v9-24-2,2>>^ Então Saul escolheu três mil dos melhores soldados de todo o Israel e foi à procura de Davi e seus homens perto das rochas onde viviam cabras selvagens.
+
+[[v9-24-3]]
+
+^<<v9-24-3,3>>^ No lugar onde a estrada passava por alguns currais, Saul entrou numa caverna para fazer suas necessidades. Aconteceu, porém, que Davi e seus homens estavam escondidos no fundo daquela mesma caverna.
+
+[[v9-24-4]]
+
+^<<v9-24-4,4>>^ "É sua oportunidade!", disseram os homens de Davi para ele. "Hoje o SENHOR lhe diz: ‘Certamente entregarei o inimigo em suas mãos, para que faça com ele o que quiser’." Então, com todo cuidado, Davi se aproximou e cortou um pedaço da borda do manto de Saul.
+
+[[v9-24-5]]
+
+^<<v9-24-5,5>>^ Sua consciência, porém, começou a perturbá-lo por ter cortado a borda do manto de Saul.
+
+[[v9-24-6]]
+
+^<<v9-24-6,6>>^ Por isso, disse a seus homens: "Que o SENHOR me livre de fazer tal coisa a meu senhor, o ungido do SENHOR, e atacar aquele que o SENHOR ungiu como rei".
+
+[[v9-24-7]]
+
+^<<v9-24-7,7>>^ Assim, Davi conteve seus homens e não deixou que matassem Saul. Depois que Saul deixou a caverna para seguir seu caminho,
+
+[[v9-24-8]]
+
+^<<v9-24-8,8>>^ Davi saiu e gritou para ele: "Ó meu senhor, o rei!". E, quando Saul olhou para trás, Davi se curvou com o rosto em terra.
+
+[[v9-24-9]]
+
+^<<v9-24-9,9>>^ Então ele gritou para Saul: "Por que o senhor dá ouvidos àqueles que dizem que eu procuro lhe fazer mal?
+
+[[v9-24-10]]
+
+^<<v9-24-10,10>>^ Hoje mesmo o rei pode ver com os próprios olhos que isso não é verdade. O SENHOR o entregou em minhas mãos na caverna. Alguns de meus homens me disseram que o matasse, mas eu o poupei, pois disse: ‘Jamais farei mal ao rei, pois ele é o ungido do SENHOR’.
+
+[[v9-24-11]]
+
+^<<v9-24-11,11>>^ Veja, meu pai, o que tenho em minha mão. É um pedaço da borda do seu manto! Cortei seu manto, mas não matei o rei. Isso prova que não procuro lhe fazer mal e que não me rebelei nem pequei contra o rei, embora esteja me perseguindo para me matar.
+
+[[v9-24-12]]
+
+^<<v9-24-12,12>>^ "Que o SENHOR julgue entre nós dois. Talvez o SENHOR castigue o rei por aquilo que procura fazer contra mim, mas eu jamais lhe farei mal.
+
+[[v9-24-13]]
+
+^<<v9-24-13,13>>^ Como diz o antigo provérbio: ‘De pessoas perversas vêm atos perversos’, por isso o rei pode estar certo de que eu jamais lhe farei mal.
+
+[[v9-24-14]]
+
+^<<v9-24-14,14>>^ Afinal de contas, a quem o rei de Israel procura capturar? A quem persegue? A um cão morto? A uma pulga?
+
+[[v9-24-15]]
+
+^<<v9-24-15,15>>^ Que o SENHOR julgue entre nós dois e mostre quem está certo! Que ele seja meu defensor e me livre de suas mãos!".
+
+[[v9-24-16]]
+
+^<<v9-24-16,16>>^ Quando Davi terminou de falar, Saul respondeu: "É você mesmo, meu filho Davi?". Então começou a chorar
+
+[[v9-24-17]]
+
+^<<v9-24-17,17>>^ e disse a Davi: "Você é mais justo que eu, pois me pagou o mal com o bem.
+
+[[v9-24-18]]
+
+^<<v9-24-18,18>>^ Sim, você foi extremamente bondoso comigo, pois o SENHOR me entregou em suas mãos, mas você não me matou.
+
+[[v9-24-19]]
+
+^<<v9-24-19,19>>^ Quem mais deixaria seu inimigo escapar quando o tinha em suas mãos? Que o SENHOR o recompense com o bem pela bondade que mostrou por mim hoje.
+
+[[v9-24-20]]
+
+^<<v9-24-20,20>>^ Agora vejo que certamente você será rei, e que o reino de Israel prosperará sob seu governo.
+
+[[v9-24-21]]
+
+^<<v9-24-21,21>>^ Jure-me pelo SENHOR que, quando isso acontecer, você não eliminará minha família nem destruirá meus descendentes!".
+
+[[v9-24-22]]
+
+^<<v9-24-22,22>>^ Então Davi fez a Saul esse juramento. Saul voltou para casa, mas Davi e seus homens foram para sua fortaleza.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-023.adoc#v9-23-0[&#60; Capítulo Anterior] | <<v9-24-0,Topo>> | xref:009-1-samuel/009-1-samuel-025.adoc#v9-25-0[Próximo Capítulo &#62;]

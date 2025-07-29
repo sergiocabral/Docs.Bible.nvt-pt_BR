@@ -1,0 +1,49 @@
+include::./index.adoc[]
+
+[[v6-16-0]]
+=== Josué, 16
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v6-16-1]]
+
+^<<v6-16-1,1>>^ As terras distribuídas por sorteio aos descendentes de José se estendiam desde o rio Jordão, perto de Jericó, a leste das águas de Jericó, passando pelo deserto, até a região montanhosa de Betel.
+
+[[v6-16-2]]
+
+^<<v6-16-2,2>>^ De Betel (isto é, Luz), seguiam para Atarote, no território dos arquitas.
+
+[[v6-16-3]]
+
+^<<v6-16-3,3>>^ Depois desciam em direção ao oeste, para o território dos jafletitas, até Bete-Horom Baixa e dali para Gezer, até o mar Mediterrâneo.
+
+[[v6-16-4]]
+
+^<<v6-16-4,4>>^ Essa foi a herança designada às famílias de Manassés e Efraim, filhos de José.
+
+[[v6-16-5]]
+
+^<<v6-16-5,5>>^ A seguinte herança foi designada aos clãs da tribo de Efraim: Sua divisa começava em Atarote-Adar, a leste. Dali se estendia para Bete-Horom Alta,
+
+[[v6-16-6]]
+
+^<<v6-16-6,6>>^ e depois para o mar Mediterrâneo. De Micmetá, ao norte, fazia uma curva para o leste e passava por Taanate-Siló, a leste de Janoa.
+
+[[v6-16-7]]
+
+^<<v6-16-7,7>>^ De Janoa fazia uma curva para o sul, até Atarote e Naarate, chegava até Jericó e terminava no rio Jordão.
+
+[[v6-16-8]]
+
+^<<v6-16-8,8>>^ De Tapua, a divisa se estendia para o oeste, em direção ao vale de Caná, e dali chegava até o mar Mediterrâneo. Essa foi a porção de terra designada como herança para os clãs da tribo de Efraim.
+
+[[v6-16-9]]
+
+^<<v6-16-9,9>>^ Além disso, algumas cidades, com os povoados ao redor, no território designado como herança à meia tribo de Manassés, foram separadas para a tribo de Efraim.
+
+[[v6-16-10]]
+
+^<<v6-16-10,10>>^ Eles não expulsaram os cananeus de Gezer, de modo que os habitantes de Gezer vivem até hoje no meio de Efraim, submetidos a trabalhos forçados.
+
+'''
+
+xref:006-josue/006-josue-015.adoc#v6-15-0[&#60; Capítulo Anterior] | <<v6-16-0,Topo>> | xref:006-josue/006-josue-017.adoc#v6-17-0[Próximo Capítulo &#62;]

@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v19-103-0]]
+=== Salmos, 103
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-103-1]]
+
+^<<v19-103-1,1>>^ Todo o meu ser louve o SENHOR; louvarei seu santo nome de todo o coração.
+
+[[v19-103-2]]
+
+^<<v19-103-2,2>>^ Todo o meu ser louve o SENHOR; que eu jamais me esqueça de suas bênçãos.
+
+[[v19-103-3]]
+
+^<<v19-103-3,3>>^ Ele perdoa todos os meus pecados e cura todas as minhas doenças.
+
+[[v19-103-4]]
+
+^<<v19-103-4,4>>^ Ele me resgata da morte e me coroa de amor e misericórdia.
+
+[[v19-103-5]]
+
+^<<v19-103-5,5>>^ Ele enche minha vida de coisas boas; minha juventude é renovada como a águia!
+
+[[v19-103-6]]
+
+^<<v19-103-6,6>>^ O SENHOR faz justiça e defende a causa dos oprimidos.
+
+[[v19-103-7]]
+
+^<<v19-103-7,7>>^ Revelou seus planos a Moisés e seus feitos, aos israelitas.
+
+[[v19-103-8]]
+
+^<<v19-103-8,8>>^ O SENHOR é compassivo e misericordioso, lento para se irar e cheio de amor.
+
+[[v19-103-9]]
+
+^<<v19-103-9,9>>^ Não nos acusará o tempo todo, nem permanecerá irado para sempre.
+
+[[v19-103-10]]
+
+^<<v19-103-10,10>>^ Não nos castiga por nossos pecados, nem nos trata como merecemos.
+
+[[v19-103-11]]
+
+^<<v19-103-11,11>>^ Pois seu amor por aqueles que o temem é imenso como a distância entre os céus e a terra.
+
+[[v19-103-12]]
+
+^<<v19-103-12,12>>^ De nós ele afastou nossos pecados, tanto como o Oriente está longe do Ocidente.
+
+[[v19-103-13]]
+
+^<<v19-103-13,13>>^ O SENHOR é como um pai para seus filhos, bondoso e compassivo para os que o temem.
+
+[[v19-103-14]]
+
+^<<v19-103-14,14>>^ Pois ele sabe como somos fracos; lembra que não passamos de pó.
+
+[[v19-103-15]]
+
+^<<v19-103-15,15>>^ Nossos dias na terra são como o capim; como as flores do campo, desabrochamos.
+
+[[v19-103-16]]
+
+^<<v19-103-16,16>>^ O vento sopra, porém, e desaparecemos, como se nunca tivéssemos existido.
+
+[[v19-103-17]]
+
+^<<v19-103-17,17>>^ Mas o amor do SENHOR por aqueles que o temem dura de eternidade a eternidade. Sua justiça se estende até os filhos dos filhos
+
+[[v19-103-18]]
+
+^<<v19-103-18,18>>^ dos que guardam sua aliança, dos que obedecem a seus mandamentos.
+
+[[v19-103-19]]
+
+^<<v19-103-19,19>>^ O SENHOR fez dos céus o seu trono, de onde reina sobre todas as coisas.
+
+[[v19-103-20]]
+
+^<<v19-103-20,20>>^ Louvem o SENHOR todos os anjos, os poderosos que executam seus planos, os que cumprem cada uma de suas ordens.
+
+[[v19-103-21]]
+
+^<<v19-103-21,21>>^ Sim, louvem o SENHOR os exércitos de anjos, os que o servem e fazem sua vontade.
+
+[[v19-103-22]]
+
+^<<v19-103-22,22>>^ Louve o SENHOR tudo o que ele criou, todas as coisas em todo o seu reino. Todo o meu ser louve o SENHOR.
+
+'''
+
+xref:019-salmos/019-salmos-102.adoc#v19-102-0[&#60; Capítulo Anterior] | <<v19-103-0,Topo>> | xref:019-salmos/019-salmos-104.adoc#v19-104-0[Próximo Capítulo &#62;]

@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v21-7-0]]
+=== Eclesiastes, 7
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v21-7-1]]
+
+^<<v21-7-1,1>>^ Uma boa reputação vale mais que perfume caro, e o dia da morte é melhor que o do nascimento.
+
+[[v21-7-2]]
+
+^<<v21-7-2,2>>^ É melhor ir a funerais que ir a festas; afinal, todos morrem, e é bom que os vivos se lembrem disso.
+
+[[v21-7-3]]
+
+^<<v21-7-3,3>>^ A tristeza é melhor que o riso, pois aperfeiçoa o coração.
+
+[[v21-7-4]]
+
+^<<v21-7-4,4>>^ O sábio pensa na morte com frequência, enquanto o tolo só pensa em se divertir.
+
+[[v21-7-5]]
+
+^<<v21-7-5,5>>^ É melhor ouvir a repreensão do sábio que o elogio do tolo.
+
+[[v21-7-6]]
+
+^<<v21-7-6,6>>^ O riso do tolo some depressa, como espinhos que estalam no fogo; isso também não faz sentido.
+
+[[v21-7-7]]
+
+^<<v21-7-7,7>>^ A extorsão transforma o sábio em tolo, e os subornos corrompem o coração.
+
+[[v21-7-8]]
+
+^<<v21-7-8,8>>^ Terminar algo é melhor que começar; a paciência é melhor que o orgulho.
+
+[[v21-7-9]]
+
+^<<v21-7-9,9>>^ Não se ire facilmente, pois a raiva é a marca dos tolos.
+
+[[v21-7-10]]
+
+^<<v21-7-10,10>>^ Não viva saudoso dos "bons e velhos tempos"; isso não é sábio.
+
+[[v21-7-11]]
+
+^<<v21-7-11,11>>^ A sabedoria é ainda melhor quando acompanhada do dinheiro; ambos são proveitosos debaixo do sol.
+
+[[v21-7-12]]
+
+^<<v21-7-12,12>>^ Tanto sabedoria como dinheiro dão proteção, mas somente a sabedoria preserva a vida.
+
+[[v21-7-13]]
+
+^<<v21-7-13,13>>^ Aceite o modo como Deus faz as coisas; afinal, quem é capaz de endireitar o que ele fez torto?
+
+[[v21-7-14]]
+
+^<<v21-7-14,14>>^ Desfrute a prosperidade enquanto pode, mas, quando chegarem os tempos difíceis, reconheça que ambos vêm de Deus; lembre-se de que nada é garantido nesta vida.
+
+[[v21-7-15]]
+
+^<<v21-7-15,15>>^ Vi de tudo nesta vida sem sentido, incluindo justos que morrem cedo e perversos que têm vida longa.
+
+[[v21-7-16]]
+
+^<<v21-7-16,16>>^ Portanto, não seja justo nem sábio demais! Por que destruir a si mesmo?
+
+[[v21-7-17]]
+
+^<<v21-7-17,17>>^ Tampouco seja perverso demais. Não seja tolo; por que morrer antes da hora?
+
+[[v21-7-18]]
+
+^<<v21-7-18,18>>^ Preste atenção a estas instruções, pois quem teme a Deus evita os dois extremos.
+
+[[v21-7-19]]
+
+^<<v21-7-19,19>>^ A sabedoria torna o sábio mais poderoso que dez líderes de uma cidade.
+
+[[v21-7-20]]
+
+^<<v21-7-20,20>>^ Não há uma única pessoa na terra que sempre faça o bem e nunca peque.
+
+[[v21-7-21]]
+
+^<<v21-7-21,21>>^ Não escute a conversa alheia às escondidas; pode ser que ouça seu servo falar mal a seu respeito.
+
+[[v21-7-22]]
+
+^<<v21-7-22,22>>^ Pois você sabe que muitas vezes você mesmo falou mal de outros.
+
+[[v21-7-23]]
+
+^<<v21-7-23,23>>^ Sempre me esforcei para que a sabedoria guiasse meus pensamentos e ações. Disse a mim mesmo: "Serei sábio", mas não adiantou.
+
+[[v21-7-24]]
+
+^<<v21-7-24,24>>^ A sabedoria está sempre distante e é difícil de encontrar.
+
+[[v21-7-25]]
+
+^<<v21-7-25,25>>^ Procurei por toda parte, decidido a encontrar sabedoria e entender a razão dos acontecimentos. Resolvi provar a mim mesmo que a perversidade é tolice, e a insensatez, loucura.
+
+[[v21-7-26]]
+
+^<<v21-7-26,26>>^ Descobri que a mulher sedutora é mais amarga que a morte. Sua paixão é um laço, e suas mãos são correntes. Quem agrada a Deus escapará dela, mas o pecador será pego em sua armadilha.
+
+[[v21-7-27]]
+
+^<<v21-7-27,27>>^ "Esta é a minha conclusão", diz o Mestre. "Descobri isso depois de analisar a questão por todos os ângulos.
+
+[[v21-7-28]]
+
+^<<v21-7-28,28>>^ Embora tenha procurado repetidamente, ainda não encontrei o que busco. Entre mil homens, somente um é sábio; mas entre as mulheres não achei uma sequer!
+
+[[v21-7-29]]
+
+^<<v21-7-29,29>>^ Foi isto, porém, que descobri: Deus criou os seres humanos para serem justos, mas eles buscaram todo tipo de maldade."
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-006.adoc#v21-6-0[&#60; Capítulo Anterior] | <<v21-7-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-008.adoc#v21-8-0[Próximo Capítulo &#62;]

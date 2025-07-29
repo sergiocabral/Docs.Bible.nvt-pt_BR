@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v18-30-0]]
+=== Jó, 30
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v18-30-1]]
+
+^<<v18-30-1,1>>^ "Agora, porém, os mais jovens zombam de mim, rapazes cujos pais não são dignos de correr com meus cães pastores.
+
+[[v18-30-2]]
+
+^<<v18-30-2,2>>^ De que me serve a força deles? Seu vigor já desapareceu!
+
+[[v18-30-3]]
+
+^<<v18-30-3,3>>^ Enfraquecidos pela pobreza e pela fome, roem a terra seca, em regiões sombrias e desoladas.
+
+[[v18-30-4]]
+
+^<<v18-30-4,4>>^ Colhem ervas silvestres entre os arbustos e comem as raízes das giestas.
+
+[[v18-30-5]]
+
+^<<v18-30-5,5>>^ São expulsos, aos gritos, da companhia das pessoas, como se fossem ladrões.
+
+[[v18-30-6]]
+
+^<<v18-30-6,6>>^ Agora, moram em desfiladeiros medonhos, em cavernas e entre as rochas.
+
+[[v18-30-7]]
+
+^<<v18-30-7,7>>^ Uivam como animais no meio dos arbustos e ajuntam-se debaixo dos espinheiros.
+
+[[v18-30-8]]
+
+^<<v18-30-8,8>>^ São gente insensata, sem nome nem valor; foram expulsos da terra.
+
+[[v18-30-9]]
+
+^<<v18-30-9,9>>^ "Agora, divertem-se às minhas custas! Sou alvo de piadas e canções vulgares.
+
+[[v18-30-10]]
+
+^<<v18-30-10,10>>^ Desprezam-me e ficam longe de mim; só se aproximam para cuspir em meu rosto.
+
+[[v18-30-11]]
+
+^<<v18-30-11,11>>^ Pois Deus cortou a corda de meu arco; já que ele me humilhou, eles não se refreiam mais.
+
+[[v18-30-12]]
+
+^<<v18-30-12,12>>^ Essa gente desprezível se opõe a mim abertamente; lançam-me de um lado para o outro e planejam minha desgraça.
+
+[[v18-30-13]]
+
+^<<v18-30-13,13>>^ Bloqueiam meu caminho e fazem de tudo para me destruir. Sabem que não tenho quem me ajude;
+
+[[v18-30-14]]
+
+^<<v18-30-14,14>>^ atacam-me de todos os lados. Quando estou caído, lançam-se sobre mim;
+
+[[v18-30-15]]
+
+^<<v18-30-15,15>>^ vivo aterrorizado. O vento carregou minha honra; minha prosperidade passou como uma nuvem.
+
+[[v18-30-16]]
+
+^<<v18-30-16,16>>^ "Agora, minha vida se esvai; a aflição me persegue durante o dia.
+
+[[v18-30-17]]
+
+^<<v18-30-17,17>>^ A noite corrói meus ossos; a dor que me atormenta não descansa.
+
+[[v18-30-18]]
+
+^<<v18-30-18,18>>^ Com mão forte, Deus agarra minha roupa; pega-me pela gola de minha túnica.
+
+[[v18-30-19]]
+
+^<<v18-30-19,19>>^ Lança-me na lama; não passo de pó e cinza.
+
+[[v18-30-20]]
+
+^<<v18-30-20,20>>^ "Clamo a ti, ó Deus, e não me respondes; fico em pé diante de ti, mas não me dás atenção.
+
+[[v18-30-21]]
+
+^<<v18-30-21,21>>^ Tu me tratas com crueldade e usas teu poder para me perseguir.
+
+[[v18-30-22]]
+
+^<<v18-30-22,22>>^ Tu me lanças no redemoinho e me destróis na tempestade.
+
+[[v18-30-23]]
+
+^<<v18-30-23,23>>^ E sei que me envias para a morte, para o destino de todos os que vivem.
+
+[[v18-30-24]]
+
+^<<v18-30-24,24>>^ "Por certo, ninguém se voltaria contra os necessitados, quando clamam por socorro em suas dificuldades.
+
+[[v18-30-25]]
+
+^<<v18-30-25,25>>^ Acaso eu não chorava pelos aflitos? Não me angustiava pelos pobres?
+
+[[v18-30-26]]
+
+^<<v18-30-26,26>>^ Esperava o bem, mas em seu lugar veio o mal; aguardava a luz, mas em seu lugar veio a escuridão.
+
+[[v18-30-27]]
+
+^<<v18-30-27,27>>^ Meu coração está agitado e não sossega; dias de aflição me atormentam.
+
+[[v18-30-28]]
+
+^<<v18-30-28,28>>^ Ando nas sombras, sem a luz do sol; levanto-me em praça pública e clamo por socorro.
+
+[[v18-30-29]]
+
+^<<v18-30-29,29>>^ Contudo, sou considerado irmão dos chacais e companheiro das corujas.
+
+[[v18-30-30]]
+
+^<<v18-30-30,30>>^ Minha pele escureceu, e meus ossos ardem de febre.
+
+[[v18-30-31]]
+
+^<<v18-30-31,31>>^ Minha harpa toca canções fúnebres, e minha flauta acompanha os que choram."
+
+'''
+
+xref:018-jo/018-jo-029.adoc#v18-29-0[&#60; Capítulo Anterior] | <<v18-30-0,Topo>> | xref:018-jo/018-jo-031.adoc#v18-31-0[Próximo Capítulo &#62;]

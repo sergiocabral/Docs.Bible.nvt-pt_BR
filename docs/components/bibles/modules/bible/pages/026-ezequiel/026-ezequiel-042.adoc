@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v26-42-0]]
+=== Ezequiel, 42
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v26-42-1]]
+
+^<<v26-42-1,1>>^ Então o homem me levou ao pátio do templo, passando pela porta norte. Entramos no pátio externo e chegamos a um edifício com salas junto à parede do pátio interno.
+
+[[v26-42-2]]
+
+^<<v26-42-2,2>>^ Esse edifício, cuja entrada dava para o norte, tinha 50 metros de comprimento e 25 metros de largura.
+
+[[v26-42-3]]
+
+^<<v26-42-3,3>>^ Um conjunto de salas dava para o espaço do pátio interno, que tinha 10 metros de largura. Outro conjunto de salas dava para a calçada do pátio externo. Os dois conjuntos tinham três andares e ficavam um de frente para o outro.
+
+[[v26-42-4]]
+
+^<<v26-42-4,4>>^ Entre os dois conjuntos de salas havia uma passagem com 5 metros de largura. Estendia-se ao longo dos 50 metros do edifício, e todas as portas davam para o norte.
+
+[[v26-42-5]]
+
+^<<v26-42-5,5>>^ Cada um dos dois andares superiores com salas era mais estreito que o andar abaixo, pois nos andares superiores precisava haver espaço para passagens na frente de cada um.
+
+[[v26-42-6]]
+
+^<<v26-42-6,6>>^ Uma vez que havia três andares e eles não tinham colunas de sustentação como os pátios, cada andar superior era recuado em relação ao andar abaixo.
+
+[[v26-42-7]]
+
+^<<v26-42-7,7>>^ Havia uma parede externa que servia de divisória entre as salas e o pátio externo e que tinha 25 metros de comprimento.
+
+[[v26-42-8]]
+
+^<<v26-42-8,8>>^ Essa parede acrescentava comprimento ao conjunto externo de salas, que se estendia por apenas 25 metros, enquanto o conjunto interno, cujas salas eram voltadas para o templo, tinha 50 metros de comprimento.
+
+[[v26-42-9]]
+
+^<<v26-42-9,9>>^ Havia uma entrada pelo lado leste do pátio externo para essas salas.
+
+[[v26-42-10]]
+
+^<<v26-42-10,10>>^ Do lado sul do templo havia dois conjuntos de salas ao sul do pátio interno, entre o templo e o pátio externo. A disposição dessas salas era semelhante à das salas do lado norte.
+
+[[v26-42-11]]
+
+^<<v26-42-11,11>>^ Havia uma passagem entre os dois conjuntos de salas, como do lado norte do templo. Esse conjunto de salas tinha o mesmo comprimento do outro, e também as mesmas entradas e portas. As dimensões deles eram idênticas.
+
+[[v26-42-12]]
+
+^<<v26-42-12,12>>^ Havia, portanto, uma entrada na parede voltada para o conjunto interno de salas e outra na extremidade leste da passagem interior.
+
+[[v26-42-13]]
+
+^<<v26-42-13,13>>^ Então o homem me disse: "Estas salas ao norte e ao sul que dão para o pátio do templo são santas. Aqui os sacerdotes que oferecem sacrifícios ao SENHOR comerão as ofertas santíssimas. E, porque as salas são santas, serão usadas para guardar as ofertas sagradas: as ofertas de cereal, as ofertas pelo pecado e as ofertas pela culpa.
+
+[[v26-42-14]]
+
+^<<v26-42-14,14>>^ Quando os sacerdotes saírem do santuário, não irão diretamente para o pátio externo. Primeiro, removerão as roupas que usaram enquanto serviam no templo, pois elas são santas. Vestirão outras roupas antes de entrar nas dependências abertas para o povo".
+
+[[v26-42-15]]
+
+^<<v26-42-15,15>>^ Quando o homem terminou de medir a área interna do templo, ele me levou para fora pela porta leste a fim de medir toda a área ao redor.
+
+[[v26-42-16]]
+
+^<<v26-42-16,16>>^ Mediu o lado leste com a vara de medir, e tinha 250 metros de comprimento.
+
+[[v26-42-17]]
+
+^<<v26-42-17,17>>^ Mediu o lado norte, e também tinha 250 metros.
+
+[[v26-42-18]]
+
+^<<v26-42-18,18>>^ O lado sul tinha 250 metros,
+
+[[v26-42-19]]
+
+^<<v26-42-19,19>>^ e o lado oeste também tinha 250 metros.
+
+[[v26-42-20]]
+
+^<<v26-42-20,20>>^ Portanto, a área tinha 250 metros de cada lado e um muro ao redor para separar o santo do comum.
+
+'''
+
+xref:026-ezequiel/026-ezequiel-041.adoc#v26-41-0[&#60; Capítulo Anterior] | <<v26-42-0,Topo>> | xref:026-ezequiel/026-ezequiel-043.adoc#v26-43-0[Próximo Capítulo &#62;]

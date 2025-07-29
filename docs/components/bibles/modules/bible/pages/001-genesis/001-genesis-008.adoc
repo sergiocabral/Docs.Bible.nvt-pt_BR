@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v1-8-0]]
+=== Gênesis, 8
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v1-8-1]]
+
+^<<v1-8-1,1>>^ Então Deus se lembrou de Noé e de todos os animais selvagens e domésticos que estavam com ele na arca. Deus fez soprar um vento sobre a terra, e as águas do dilúvio começaram a baixar.
+
+[[v1-8-2]]
+
+^<<v1-8-2,2>>^ As fontes subterrâneas pararam de jorrar, e as chuvas torrenciais cessaram.
+
+[[v1-8-3]]
+
+^<<v1-8-3,3>>^ As águas do dilúvio foram baixando aos poucos. Depois de 150 dias,
+
+[[v1-8-4]]
+
+^<<v1-8-4,4>>^ exatamente cinco meses depois do início do dilúvio, a arca repousou sobre as montanhas de Ararate.
+
+[[v1-8-5]]
+
+^<<v1-8-5,5>>^ Dois meses e meio depois, à medida que as águas continuaram a baixar, apareceram os picos de outras montanhas.
+
+[[v1-8-6]]
+
+^<<v1-8-6,6>>^ Passados mais quarenta dias, Noé abriu a janela que havia feito na arca
+
+[[v1-8-7]]
+
+^<<v1-8-7,7>>^ e soltou um corvo, que ia e voltava até as águas do dilúvio secarem sobre a terra.
+
+[[v1-8-8]]
+
+^<<v1-8-8,8>>^ Noé também soltou uma pomba para ver se as águas tinham baixado e se ela encontraria terra seca,
+
+[[v1-8-9]]
+
+^<<v1-8-9,9>>^ mas a pomba não encontrou lugar para pousar, pois a água ainda cobria todo o solo. Então a pomba retornou à arca, e Noé estendeu a mão e a trouxe de volta para dentro.
+
+[[v1-8-10]]
+
+^<<v1-8-10,10>>^ Depois de esperar mais sete dias, Noé soltou a pomba mais uma vez.
+
+[[v1-8-11]]
+
+^<<v1-8-11,11>>^ Quando ela voltou ao entardecer, trouxe no bico uma folha nova de oliveira. Noé concluiu que restava pouca água do dilúvio.
+
+[[v1-8-12]]
+
+^<<v1-8-12,12>>^ Esperou outros sete dias e soltou a pomba novamente. Dessa vez, ela não voltou.
+
+[[v1-8-13]]
+
+^<<v1-8-13,13>>^ Noé tinha completado 601 anos. No primeiro dia do novo ano, dez meses e meio depois do início do dilúvio, quase não havia mais água sobre a terra. Noé levantou a cobertura da arca e viu que o solo estava praticamente seco.
+
+[[v1-8-14]]
+
+^<<v1-8-14,14>>^ Mais dois meses se passaram e, por fim, a terra estava completamente seca.
+
+[[v1-8-15]]
+
+^<<v1-8-15,15>>^ Então Deus disse a Noé:
+
+[[v1-8-16]]
+
+^<<v1-8-16,16>>^ "Saiam da arca, você, sua mulher, seus filhos e as mulheres deles.
+
+[[v1-8-17]]
+
+^<<v1-8-17,17>>^ Solte todos os animais, as aves, os animais domésticos e os animais que rastejam pelo chão, para que sejam férteis e se multipliquem na terra".
+
+[[v1-8-18]]
+
+^<<v1-8-18,18>>^ Noé, sua mulher, seus filhos e as mulheres deles desembarcaram.
+
+[[v1-8-19]]
+
+^<<v1-8-19,19>>^ Todos os animais, grandes e pequenos, e as aves saíram da arca, um casal de cada vez.
+
+[[v1-8-20]]
+
+^<<v1-8-20,20>>^ Em seguida, Noé construiu um altar ao SENHOR e ali ofereceu como holocaustos alguns animais e aves puros.
+
+[[v1-8-21]]
+
+^<<v1-8-21,21>>^ O aroma do sacrifício agradou ao SENHOR, que disse consigo: "Nunca mais amaldiçoarei a terra por causa do ser humano, embora todos os seus pensamentos e seus propósitos se inclinem para o mal desde a infância. Nunca mais destruirei todos os seres vivos.
+
+[[v1-8-22]]
+
+^<<v1-8-22,22>>^ Enquanto durar a terra, haverá plantio e colheita, frio e calor, verão e inverno, dia e noite".
+
+'''
+
+xref:001-genesis/001-genesis-007.adoc#v1-7-0[&#60; Capítulo Anterior] | <<v1-8-0,Topo>> | xref:001-genesis/001-genesis-009.adoc#v1-9-0[Próximo Capítulo &#62;]

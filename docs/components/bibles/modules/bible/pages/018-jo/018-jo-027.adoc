@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v18-27-0]]
+=== Jó, 27
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v18-27-1]]
+
+^<<v18-27-1,1>>^ Jó continuou a falar:
+
+[[v18-27-2]]
+
+^<<v18-27-2,2>>^ "Juro pelo Deus vivo, que tirou de mim meus direitos, pelo Todo-poderoso, que me encheu a alma de amargura:
+
+[[v18-27-3]]
+
+^<<v18-27-3,3>>^ enquanto eu viver e tiver o fôlego de Deus nas narinas,
+
+[[v18-27-4]]
+
+^<<v18-27-4,4>>^ meus lábios não pronunciarão maldades, e minha língua não falará mentiras.
+
+[[v18-27-5]]
+
+^<<v18-27-5,5>>^ Jamais darei razão a vocês; defenderei até a morte minha integridade.
+
+[[v18-27-6]]
+
+^<<v18-27-6,6>>^ Afirmarei minha inocência sem hesitar; por toda a vida, terei a consciência limpa.
+
+[[v18-27-7]]
+
+^<<v18-27-7,7>>^ "Que meu inimigo seja castigado como os perversos, e meu adversário, como os que praticam o mal.
+
+[[v18-27-8]]
+
+^<<v18-27-8,8>>^ Pois que esperança têm os ímpios quando Deus os elimina, quando ele lhes tira a vida?
+
+[[v18-27-9]]
+
+^<<v18-27-9,9>>^ Acaso Deus lhes ouvirá o clamor quando vier sobre eles o sofrimento?
+
+[[v18-27-10]]
+
+^<<v18-27-10,10>>^ Acaso se alegram no Todo-poderoso? Podem clamar a Deus a qualquer momento?
+
+[[v18-27-11]]
+
+^<<v18-27-11,11>>^ Eu lhes ensinarei sobre o poder de Deus; não esconderei nada a respeito do Todo-poderoso.
+
+[[v18-27-12]]
+
+^<<v18-27-12,12>>^ Vocês, porém, já viram tudo isso e, no entanto, dizem essas coisas inúteis.
+
+[[v18-27-13]]
+
+^<<v18-27-13,13>>^ "Isto é o que os perversos receberão de Deus, esta é a herança que o Todo-poderoso dará aos opressores.
+
+[[v18-27-14]]
+
+^<<v18-27-14,14>>^ Pode ser que tenham grandes famílias, mas seus filhos morrerão em guerras ou de fome.
+
+[[v18-27-15]]
+
+^<<v18-27-15,15>>^ Uma praga eliminará os que sobreviverem, e nem mesmo suas viúvas chorarão por eles.
+
+[[v18-27-16]]
+
+^<<v18-27-16,16>>^ "Pode ser que os perversos tenham muita riqueza e acumulem montes de roupas,
+
+[[v18-27-17]]
+
+^<<v18-27-17,17>>^ mas os justos vestirão essas roupas, e os inocentes repartirão essas riquezas.
+
+[[v18-27-18]]
+
+^<<v18-27-18,18>>^ Os perversos constroem casas frágeis como teias de aranha, precárias como o abrigo temporário do vigia.
+
+[[v18-27-19]]
+
+^<<v18-27-19,19>>^ Os perversos são ricos quando vão dormir, mas, ao acordar, veem que toda a sua riqueza se foi.
+
+[[v18-27-20]]
+
+^<<v18-27-20,20>>^ O terror os encobre, como uma inundação, e são arrastados pelas tempestades da noite.
+
+[[v18-27-21]]
+
+^<<v18-27-21,21>>^ Um vento do leste os carrega, e desaparecem; arranca-os de seu lugar.
+
+[[v18-27-22]]
+
+^<<v18-27-22,22>>^ Sopra violentamente sobre eles, sem piedade; lutam para escapar de seu poder.
+
+[[v18-27-23]]
+
+^<<v18-27-23,23>>^ Então todos batem palmas e riem deles com desprezo."
+
+'''
+
+xref:018-jo/018-jo-026.adoc#v18-26-0[&#60; Capítulo Anterior] | <<v18-27-0,Topo>> | xref:018-jo/018-jo-028.adoc#v18-28-0[Próximo Capítulo &#62;]

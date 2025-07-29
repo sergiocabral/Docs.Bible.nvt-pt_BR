@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v46-13-0]]
+=== 1 Coríntios, 13
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v46-13-1]]
+
+^<<v46-13-1,1>>^ Se eu falasse as línguas dos homens e dos anjos, mas não tivesse amor, seria como um sino que ressoa ou um címbalo que retine.
+
+[[v46-13-2]]
+
+^<<v46-13-2,2>>^ Se eu tivesse o dom de profecias, se entendesse todos os mistérios de Deus e tivesse todo o conhecimento, e se tivesse uma fé que me permitisse mover montanhas, mas não tivesse amor, eu nada seria.
+
+[[v46-13-3]]
+
+^<<v46-13-3,3>>^ Se desse tudo que tenho aos pobres e até entregasse meu corpo para ser queimado, e não tivesse amor, de nada me adiantaria.
+
+[[v46-13-4]]
+
+^<<v46-13-4,4>>^ O amor é paciente e bondoso. O amor não é ciumento, nem presunçoso. Não é orgulhoso,
+
+[[v46-13-5]]
+
+^<<v46-13-5,5>>^ nem grosseiro. Não exige que as coisas sejam à sua maneira. Não é irritável, nem rancoroso.
+
+[[v46-13-6]]
+
+^<<v46-13-6,6>>^ Não se alegra com a injustiça, mas sim com a verdade.
+
+[[v46-13-7]]
+
+^<<v46-13-7,7>>^ O amor nunca desiste, nunca perde a fé, sempre tem esperança e sempre se mantém firme.
+
+[[v46-13-8]]
+
+^<<v46-13-8,8>>^ Um dia, profecia, línguas e conhecimento desaparecerão e cessarão, mas o amor durará para sempre.
+
+[[v46-13-9]]
+
+^<<v46-13-9,9>>^ Agora nosso conhecimento é parcial e incompleto, e até mesmo o dom da profecia revela apenas uma parte do todo.
+
+[[v46-13-10]]
+
+^<<v46-13-10,10>>^ Mas, quando vier o que é perfeito, essas coisas imperfeitas desaparecerão.
+
+[[v46-13-11]]
+
+^<<v46-13-11,11>>^ Quando eu era criança, falava, pensava e raciocinava como criança. Mas, quando me tornei homem, deixei para trás as coisas de criança.
+
+[[v46-13-12]]
+
+^<<v46-13-12,12>>^ Agora vemos de modo imperfeito, como um reflexo no espelho, mas então veremos tudo face a face. Tudo que sei agora é parcial e incompleto, mas conhecerei tudo plenamente, assim como Deus já me conhece plenamente.
+
+[[v46-13-13]]
+
+^<<v46-13-13,13>>^ Três coisas, na verdade, permanecerão: a fé, a esperança e o amor, e a maior delas é o amor.
+
+'''
+
+xref:046-1-corintios/046-1-corintios-012.adoc#v46-12-0[&#60; Capítulo Anterior] | <<v46-13-0,Topo>> | xref:046-1-corintios/046-1-corintios-014.adoc#v46-14-0[Próximo Capítulo &#62;]

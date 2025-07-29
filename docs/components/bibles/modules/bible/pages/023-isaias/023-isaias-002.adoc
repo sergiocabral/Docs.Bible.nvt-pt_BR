@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v23-2-0]]
+=== Isaías, 2
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v23-2-1]]
+
+^<<v23-2-1,1>>^ Esta é uma visão que Isaías, filho de Amoz, teve acerca de Judá e Jerusalém:
+
+[[v23-2-2]]
+
+^<<v23-2-2,2>>^ Nos últimos dias, o monte da casa do Senhor será o mais alto de todos. Será elevado acima de todos os outros montes, e povos de todo o mundo irão até lá para adorar.
+
+[[v23-2-3]]
+
+^<<v23-2-3,3>>^ Gente de muitas nações virá e dirá: "Venham, vamos subir ao monte do SENHOR, à casa do Deus de Jacó. Ali ele nos ensinará seus caminhos, e neles andaremos". Pois a lei do SENHOR sairá de Sião; sua palavra virá de Jerusalém.
+
+[[v23-2-4]]
+
+^<<v23-2-4,4>>^ O SENHOR será mediador entre os povos e resolverá os conflitos das nações. Os povos transformarão suas espadas em arados e suas lanças em podadeiras. As nações deixarão de lutar entre si e já não treinarão para a guerra.
+
+[[v23-2-5]]
+
+^<<v23-2-5,5>>^ Venham, descendentes de Jacó, vamos andar na luz do SENHOR!
+
+[[v23-2-6]]
+
+^<<v23-2-6,6>>^ Pois tu, SENHOR, rejeitaste teu povo, os descendentes de Jacó, porque encheram a terra com práticas do oriente e feiticeiros, como é costume dos filisteus; sim, fizeram acordos com nações estrangeiras.
+
+[[v23-2-7]]
+
+^<<v23-2-7,7>>^ Israel está cheia de prata e ouro; seus tesouros são incontáveis. Sua terra está cheia de cavalos de guerra; seus carros de combate não têm fim.
+
+[[v23-2-8]]
+
+^<<v23-2-8,8>>^ Sua terra está cheia de ídolos; o povo adora objetos que fez com as próprias mãos.
+
+[[v23-2-9]]
+
+^<<v23-2-9,9>>^ Por isso, agora serão humilhados, e todos serão rebaixados; não os perdoes!
+
+[[v23-2-10]]
+
+^<<v23-2-10,10>>^ Escondam-se em cavernas no meio das rochas, escondam-se no pó, para escaparem do terror do Senhor e da glória de sua majestade.
+
+[[v23-2-11]]
+
+^<<v23-2-11,11>>^ O orgulho humano será rebaixado, a arrogância humana será humilhada. Somente o SENHOR será exaltado naquele dia de julgamento.
+
+[[v23-2-12]]
+
+^<<v23-2-12,12>>^ Pois o SENHOR dos Exércitos tem um dia de acerto de contas. Ele castigará os orgulhosos e os poderosos e derrubará tudo que se exalta.
+
+[[v23-2-13]]
+
+^<<v23-2-13,13>>^ Cortará os cedros imponentes do Líbano e os grandes carvalhos de Basã.
+
+[[v23-2-14]]
+
+^<<v23-2-14,14>>^ Arrasará os montes altos e as colinas elevadas.
+
+[[v23-2-15]]
+
+^<<v23-2-15,15>>^ Derrubará as torres altas e os muros fortificados.
+
+[[v23-2-16]]
+
+^<<v23-2-16,16>>^ Afundará os grandes navios mercantes e todas as magníficas embarcações.
+
+[[v23-2-17]]
+
+^<<v23-2-17,17>>^ O orgulho humano será humilhado, a arrogância humana será rebaixada. Somente o SENHOR será exaltado naquele dia de julgamento.
+
+[[v23-2-18]]
+
+^<<v23-2-18,18>>^ Os ídolos desaparecerão por completo.
+
+[[v23-2-19]]
+
+^<<v23-2-19,19>>^ Quando o SENHOR se levantar para sacudir a terra, seus inimigos rastejarão para dentro de buracos no chão. Em cavernas no meio das rochas, se esconderão do terror do Senhor e da glória de sua majestade.
+
+[[v23-2-20]]
+
+^<<v23-2-20,20>>^ Naquele dia, abandonarão os ídolos de ouro e prata que eles próprios fizeram para adorar. Deixarão seus deuses para roedores e morcegos,
+
+[[v23-2-21]]
+
+^<<v23-2-21,21>>^ enquanto rastejam para dentro de cavernas e se escondem entre as rochas dos desfiladeiros. Tentarão escapar do terror do Senhor e da glória de sua majestade quando ele se levantar para sacudir a terra.
+
+[[v23-2-22]]
+
+^<<v23-2-22,22>>^ Não ponham sua confiança em simples mortais; são frágeis como um sopro. Que valor eles têm?
+
+'''
+
+xref:023-isaias/023-isaias-001.adoc#v23-1-0[&#60; Capítulo Anterior] | <<v23-2-0,Topo>> | xref:023-isaias/023-isaias-003.adoc#v23-3-0[Próximo Capítulo &#62;]

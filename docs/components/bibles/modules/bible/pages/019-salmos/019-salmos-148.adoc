@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v19-148-0]]
+=== Salmos, 148
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-148-1]]
+
+^<<v19-148-1,1>>^ Louvado seja o SENHOR! Louvem o SENHOR desde os céus! Louvem-no desde as alturas!
+
+[[v19-148-2]]
+
+^<<v19-148-2,2>>^ Louvem-no, todos os seus anjos! Louvem-no, todos os exércitos celestiais!
+
+[[v19-148-3]]
+
+^<<v19-148-3,3>>^ Louvem-no, sol e lua! Louvem-no, todas as estrelas brilhantes!
+
+[[v19-148-4]]
+
+^<<v19-148-4,4>>^ Louvem-no, altos céus! Louvem-no, vapores acima das nuvens!
+
+[[v19-148-5]]
+
+^<<v19-148-5,5>>^ Todas as coisas criadas louvem o nome do SENHOR, pois ele ordenou, e elas vieram a existir.
+
+[[v19-148-6]]
+
+^<<v19-148-6,6>>^ Ele as pôs em seu lugar para todo o sempre; seu decreto jamais será revogado.
+
+[[v19-148-7]]
+
+^<<v19-148-7,7>>^ Louvem o SENHOR desde a terra, vocês criaturas das profundezas do oceano,
+
+[[v19-148-8]]
+
+^<<v19-148-8,8>>^ fogo e granizo, neve e nuvens, ventos tempestuosos que lhe obedecem,
+
+[[v19-148-9]]
+
+^<<v19-148-9,9>>^ montanhas e colinas, árvores frutíferas e cedros,
+
+[[v19-148-10]]
+
+^<<v19-148-10,10>>^ animais selvagens e domésticos, seres que rastejam e os que voam,
+
+[[v19-148-11]]
+
+^<<v19-148-11,11>>^ reis da terra e todos os povos, governantes e juízes da terra,
+
+[[v19-148-12]]
+
+^<<v19-148-12,12>>^ rapazes e moças, idosos e crianças.
+
+[[v19-148-13]]
+
+^<<v19-148-13,13>>^ Louvem todos o nome do SENHOR, pois exaltado é seu nome; sua glória está acima da terra e dos céus!
+
+[[v19-148-14]]
+
+^<<v19-148-14,14>>^ Ele deu força a seu povo e honra a seus fiéis, o povo de Israel, que lhe é chegado. Louvado seja o SENHOR!
+
+'''
+
+xref:019-salmos/019-salmos-147.adoc#v19-147-0[&#60; Capítulo Anterior] | <<v19-148-0,Topo>> | xref:019-salmos/019-salmos-149.adoc#v19-149-0[Próximo Capítulo &#62;]

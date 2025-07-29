@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v18-12-0]]
+=== Jó, 12
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v18-12-1]]
+
+^<<v18-12-1,1>>^ Então Jó falou novamente:
+
+[[v18-12-2]]
+
+^<<v18-12-2,2>>^ "Vocês de fato sabem tudo, não é? Mas, quando morrerem, a sabedoria morrerá com vocês!
+
+[[v18-12-3]]
+
+^<<v18-12-3,3>>^ Pois bem, eu também sei algumas coisas, e vocês não são melhores que eu; qualquer um sabe aquilo que me disseram.
+
+[[v18-12-4]]
+
+^<<v18-12-4,4>>^ Meus amigos, contudo, riem de mim, pois clamo a Deus e espero uma resposta. Sou justo e íntegro, e, no entanto, eles riem de mim.
+
+[[v18-12-5]]
+
+^<<v18-12-5,5>>^ Quem está tranquilo zomba de quem sofre; dá um empurrão em quem tropeça.
+
+[[v18-12-6]]
+
+^<<v18-12-6,6>>^ Os ladrões, porém, são deixados em paz, e os que provocam a Deus vivem em segurança, embora Deus os mantenha sob o seu poder.
+
+[[v18-12-7]]
+
+^<<v18-12-7,7>>^ "Pergunte aos animais, e eles lhe ensinarão; pergunte às aves do céu, e elas lhe dirão.
+
+[[v18-12-8]]
+
+^<<v18-12-8,8>>^ Fale com a terra, e ela o instruirá; deixe que os peixes do mar o informem.
+
+[[v18-12-9]]
+
+^<<v18-12-9,9>>^ Pois todos eles sabem que meu sofrimento veio da mão do SENHOR.
+
+[[v18-12-10]]
+
+^<<v18-12-10,10>>^ Em suas mãos está a vida de todas as criaturas e o fôlego de toda a humanidade.
+
+[[v18-12-11]]
+
+^<<v18-12-11,11>>^ O ouvido prova as palavras que ouve, assim como a língua distingue os sabores.
+
+[[v18-12-12]]
+
+^<<v18-12-12,12>>^ A sabedoria pertence aos idosos, e o entendimento, aos mais velhos.
+
+[[v18-12-13]]
+
+^<<v18-12-13,13>>^ "Em Deus, porém, estão a sabedoria e o poder; a ele pertencem o conselho e o entendimento.
+
+[[v18-12-14]]
+
+^<<v18-12-14,14>>^ Ninguém pode reconstruir o que ele derruba, ninguém pode libertar quem ele aprisiona.
+
+[[v18-12-15]]
+
+^<<v18-12-15,15>>^ Se ele retém a chuva, a terra se transforma em deserto; se ele libera as águas, há inundações em toda parte.
+
+[[v18-12-16]]
+
+^<<v18-12-16,16>>^ Sim, a ele pertencem a força e a sabedoria; enganadores e enganados estão sob seu poder.
+
+[[v18-12-17]]
+
+^<<v18-12-17,17>>^ Ele destitui os conselheiros e os dispensa; faz de tolos juízes sábios.
+
+[[v18-12-18]]
+
+^<<v18-12-18,18>>^ Tira o manto dos reis e lhes amarra uma corda na cintura.
+
+[[v18-12-19]]
+
+^<<v18-12-19,19>>^ Destitui os sacerdotes e os dispensa; derruba os que estão no poder há muitos anos.
+
+[[v18-12-20]]
+
+^<<v18-12-20,20>>^ Silencia o conselheiro de confiança e retira o entendimento dos anciãos.
+
+[[v18-12-21]]
+
+^<<v18-12-21,21>>^ Derrama desonra sobre os príncipes e deixa os fortes desarmados.
+
+[[v18-12-22]]
+
+^<<v18-12-22,22>>^ "Ele revela mistérios ocultos nas trevas e ilumina a escuridão mais profunda.
+
+[[v18-12-23]]
+
+^<<v18-12-23,23>>^ Exalta nações e as destrói, expande nações e as abandona.
+
+[[v18-12-24]]
+
+^<<v18-12-24,24>>^ Despoja os reis de entendimento e os deixa vagar por um deserto sem caminhos.
+
+[[v18-12-25]]
+
+^<<v18-12-25,25>>^ Andam tateando na escuridão, sem luz; ele os faz cambalear como bêbados."
+
+'''
+
+xref:018-jo/018-jo-011.adoc#v18-11-0[&#60; Capítulo Anterior] | <<v18-12-0,Topo>> | xref:018-jo/018-jo-013.adoc#v18-13-0[Próximo Capítulo &#62;]

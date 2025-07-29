@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v40-4-0]]
+=== Mateus, 4
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v40-4-1]]
+
+^<<v40-4-1,1>>^ Em seguida, Jesus foi conduzido pelo Espírito ao deserto para ser tentado pelo diabo.
+
+[[v40-4-2]]
+
+^<<v40-4-2,2>>^ Depois de passar quarenta dias e quarenta noites sem comer, teve fome.
+
+[[v40-4-3]]
+
+^<<v40-4-3,3>>^ O tentador veio e lhe disse: "Se você é o Filho de Deus, ordene que estas pedras se transformem em pães".
+
+[[v40-4-4]]
+
+^<<v40-4-4,4>>^ Jesus, porém, respondeu: "As Escrituras dizem: ‘Uma pessoa não vive só de pão, mas de toda palavra que vem da boca de Deus’".
+
+[[v40-4-5]]
+
+^<<v40-4-5,5>>^ Então o diabo o levou à cidade santa, até o ponto mais alto do templo,
+
+[[v40-4-6]]
+
+^<<v40-4-6,6>>^ e disse: "Se você é o Filho de Deus, salte daqui. Pois as Escrituras dizem: ‘Ele ordenará a seus anjos que o protejam. Eles o sustentarão com as mãos, para que não machuque o pé em alguma pedra’".
+
+[[v40-4-7]]
+
+^<<v40-4-7,7>>^ Jesus respondeu: "As Escrituras também dizem: ‘Não ponha à prova o Senhor, seu Deus’".
+
+[[v40-4-8]]
+
+^<<v40-4-8,8>>^ Em seguida, o diabo o levou até um monte muito alto e lhe mostrou todos os reinos do mundo e sua glória.
+
+[[v40-4-9]]
+
+^<<v40-4-9,9>>^ "Eu lhe darei tudo isto", declarou. "Basta ajoelhar-se e adorar-me."
+
+[[v40-4-10]]
+
+^<<v40-4-10,10>>^ "Saia daqui, Satanás!", disse Jesus. "Pois as Escrituras dizem: ‘Adore o Senhor, seu Deus, e sirva somente a ele’."
+
+[[v40-4-11]]
+
+^<<v40-4-11,11>>^ Então o diabo foi embora, e anjos vieram e serviram Jesus.
+
+[[v40-4-12]]
+
+^<<v40-4-12,12>>^ Quando Jesus soube que João havia sido preso, voltou à Galileia.
+
+[[v40-4-13]]
+
+^<<v40-4-13,13>>^ Saindo de Nazaré, mudou-se para Cafarnaum, junto ao mar da Galileia, na região de Zebulom e Naftali.
+
+[[v40-4-14]]
+
+^<<v40-4-14,14>>^ Cumpriu-se, desse modo, o que foi dito por meio do profeta Isaías:
+
+[[v40-4-15]]
+
+^<<v40-4-15,15>>^ "Na terra de Zebulom e Naftali, junto ao mar, além do rio Jordão, na Galileia, onde vivem tantos gentios,
+
+[[v40-4-16]]
+
+^<<v40-4-16,16>>^ o povo que vivia na escuridão viu uma grande luz, e sobre os que viviam na terra onde a morte lança sua sombra, uma luz brilhou".
+
+[[v40-4-17]]
+
+^<<v40-4-17,17>>^ A partir de então, Jesus começou a anunciar sua mensagem: "Arrependam-se, pois o reino dos céus está próximo".
+
+[[v40-4-18]]
+
+^<<v40-4-18,18>>^ Enquanto andava à beira do mar da Galileia, Jesus viu dois irmãos, Simão, também chamado Pedro, e André. Jogavam redes ao mar, pois viviam da pesca.
+
+[[v40-4-19]]
+
+^<<v40-4-19,19>>^ Jesus lhes disse: "Sigam-me, e eu farei de vocês pescadores de gente".
+
+[[v40-4-20]]
+
+^<<v40-4-20,20>>^ No mesmo instante, deixaram suas redes e o seguiram.
+
+[[v40-4-21]]
+
+^<<v40-4-21,21>>^ Pouco adiante, Jesus viu outros dois irmãos, Tiago e João, consertando redes num barco com o pai, Zebedeu. Jesus os chamou,
+
+[[v40-4-22]]
+
+^<<v40-4-22,22>>^ e eles também o seguiram de imediato, deixando para trás o barco e o pai.
+
+[[v40-4-23]]
+
+^<<v40-4-23,23>>^ Jesus viajou por toda a região da Galileia, ensinando nas sinagogas, anunciando as boas-novas do reino e curando as pessoas de todo tipo de doenças.
+
+[[v40-4-24]]
+
+^<<v40-4-24,24>>^ As notícias a seu respeito se espalharam até a Síria, e logo o povo começou a lhe trazer todos que estavam enfermos. Qualquer que fosse a enfermidade ou dor, quer estivessem possuídos por demônio, quer sofressem de convulsões, quer fossem paralíticos, Jesus os curava.
+
+[[v40-4-25]]
+
+^<<v40-4-25,25>>^ Grandes multidões o seguiam, gente da Galileia, das Dez Cidades, de Jerusalém, de toda a Judeia e da região a leste do rio Jordão.
+
+'''
+
+xref:040-mateus/040-mateus-003.adoc#v40-3-0[&#60; Capítulo Anterior] | <<v40-4-0,Topo>> | xref:040-mateus/040-mateus-005.adoc#v40-5-0[Próximo Capítulo &#62;]

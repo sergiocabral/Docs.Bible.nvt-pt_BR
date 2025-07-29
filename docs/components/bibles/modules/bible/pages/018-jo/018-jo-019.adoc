@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v18-19-0]]
+=== Jó, 19
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v18-19-1]]
+
+^<<v18-19-1,1>>^ Então Jó falou novamente:
+
+[[v18-19-2]]
+
+^<<v18-19-2,2>>^ "Até quando vocês vão me atormentar? Até quando vão me esmagar com suas palavras?
+
+[[v18-19-3]]
+
+^<<v18-19-3,3>>^ Dez vezes já me insultaram; deveriam se envergonhar de me tratar tão mal.
+
+[[v18-19-4]]
+
+^<<v18-19-4,4>>^ Ainda que eu tivesse pecado, seria problema meu, e não de vocês.
+
+[[v18-19-5]]
+
+^<<v18-19-5,5>>^ Pensam que são melhores que eu; usam minha humilhação como prova de meu pecado.
+
+[[v18-19-6]]
+
+^<<v18-19-6,6>>^ Mas Deus é que foi injusto comigo e me prendeu em sua rede.
+
+[[v18-19-7]]
+
+^<<v18-19-7,7>>^ "Clamo: ‘Socorro!’, mas ninguém responde; grito em protesto, mas não há justiça.
+
+[[v18-19-8]]
+
+^<<v18-19-8,8>>^ Deus fechou meu caminho para eu não passar e cobriu de escuridão minha estrada.
+
+[[v18-19-9]]
+
+^<<v18-19-9,9>>^ Despojou-me de minha honra e removeu a coroa de minha cabeça.
+
+[[v18-19-10]]
+
+^<<v18-19-10,10>>^ Destruiu-me por todos os lados, e estou acabado; como se eu fosse uma árvore, arrancou minha esperança pela raiz.
+
+[[v18-19-11]]
+
+^<<v18-19-11,11>>^ Sua ira arde contra mim; ele me considera seu inimigo.
+
+[[v18-19-12]]
+
+^<<v18-19-12,12>>^ Suas tropas avançam e abrem caminhos para me atacar; acampam ao redor de minha tenda.
+
+[[v18-19-13]]
+
+^<<v18-19-13,13>>^ "Meus irmãos se mantêm afastados, meus conhecidos se voltaram contra mim.
+
+[[v18-19-14]]
+
+^<<v18-19-14,14>>^ Minha família se foi, meus amigos chegados me esqueceram.
+
+[[v18-19-15]]
+
+^<<v18-19-15,15>>^ Meus hóspedes e criadas me consideram um estranho; para eles, sou como um estrangeiro.
+
+[[v18-19-16]]
+
+^<<v18-19-16,16>>^ Quando chamo meu servo, ele não vem; tenho de suplicar!
+
+[[v18-19-17]]
+
+^<<v18-19-17,17>>^ Meu hálito enoja minha esposa; sou rejeitado pela própria família.
+
+[[v18-19-18]]
+
+^<<v18-19-18,18>>^ Até as crianças me desprezam; quando me levanto para falar, me dão as costas.
+
+[[v18-19-19]]
+
+^<<v18-19-19,19>>^ Meus amigos chegados me detestam; aqueles que eu amo se voltaram contra mim.
+
+[[v18-19-20]]
+
+^<<v18-19-20,20>>^ Fui reduzido a pele e osso; escapei da morte por um triz.
+
+[[v18-19-21]]
+
+^<<v18-19-21,21>>^ "Tenham misericórdia de mim, meus amigos! Tenham misericórdia, pois a mão de Deus me feriu.
+
+[[v18-19-22]]
+
+^<<v18-19-22,22>>^ Será que também precisam me perseguir, como Deus me persegue? Já não me criticaram o suficiente?
+
+[[v18-19-23]]
+
+^<<v18-19-23,23>>^ "Quem dera minhas palavras fossem registradas! Quem dera fossem escritas num monumento,
+
+[[v18-19-24]]
+
+^<<v18-19-24,24>>^ entalhadas com um cinzel de ferro e preenchidas com chumbo, gravadas para sempre na rocha!
+
+[[v18-19-25]]
+
+^<<v18-19-25,25>>^ "Quanto a mim, sei que meu Redentor vive e que um dia, por fim, ele se levantará sobre a terra.
+
+[[v18-19-26]]
+
+^<<v18-19-26,26>>^ E, depois que meu corpo tiver se decomposto, ainda assim, em meu corpo, verei a Deus!
+
+[[v18-19-27]]
+
+^<<v18-19-27,27>>^ Eu o verei por mim mesmo, sim, o verei com meus próprios olhos; meu coração muito anseia por esse dia!
+
+[[v18-19-28]]
+
+^<<v18-19-28,28>>^ "Como vocês se atrevem a me perseguir e dizer: ‘É culpa dele’?
+
+[[v18-19-29]]
+
+^<<v18-19-29,29>>^ Deveriam temer o castigo, pois sua atitude merece ser punida; então saberão que há juízo".
+
+'''
+
+xref:018-jo/018-jo-018.adoc#v18-18-0[&#60; Capítulo Anterior] | <<v18-19-0,Topo>> | xref:018-jo/018-jo-020.adoc#v18-20-0[Próximo Capítulo &#62;]

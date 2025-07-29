@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v18-8-0]]
+=== Jó, 8
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v18-8-1]]
+
+^<<v18-8-1,1>>^ Então Bildade, de Suá, respondeu a Jó:
+
+[[v18-8-2]]
+
+^<<v18-8-2,2>>^ "Até quando continuará a falar assim? Suas palavras parecem um vendaval!
+
+[[v18-8-3]]
+
+^<<v18-8-3,3>>^ Acaso Deus perverte o que é justo? O Todo-poderoso distorce o que é certo?
+
+[[v18-8-4]]
+
+^<<v18-8-4,4>>^ Certamente seus filhos pecaram contra ele e, por isso, receberam o castigo devido.
+
+[[v18-8-5]]
+
+^<<v18-8-5,5>>^ Mas, se você buscar a Deus e clamar ao Todo-poderoso,
+
+[[v18-8-6]]
+
+^<<v18-8-6,6>>^ e, se for puro e íntegro, ele sem demora agirá em seu favor e devolverá o que por direito lhe pertence.
+
+[[v18-8-7]]
+
+^<<v18-8-7,7>>^ E, embora tenha começado com pouco, no final você terá muito.
+
+[[v18-8-8]]
+
+^<<v18-8-8,8>>^ "Pergunte às gerações anteriores, atente à experiência dos antepassados.
+
+[[v18-8-9]]
+
+^<<v18-8-9,9>>^ Pois nós nascemos ontem e nada sabemos; nossos dias na terra passam como uma sombra.
+
+[[v18-8-10]]
+
+^<<v18-8-10,10>>^ Mas os que vieram antes de nós o instruirão; eles lhe ensinarão a sabedoria de outrora.
+
+[[v18-8-11]]
+
+^<<v18-8-11,11>>^ "Pode o papiro crescer fora do brejo? O junco se desenvolve sem água?
+
+[[v18-8-12]]
+
+^<<v18-8-12,12>>^ Quando ainda estão florescendo, antes de ser cortados, começam a secar mais depressa que a grama.
+
+[[v18-8-13]]
+
+^<<v18-8-13,13>>^ O mesmo acontece com todos que se esquecem de Deus; as esperanças do ímpio se evaporam.
+
+[[v18-8-14]]
+
+^<<v18-8-14,14>>^ A confiança dele está por um fio; apoia-se numa teia de aranha.
+
+[[v18-8-15]]
+
+^<<v18-8-15,15>>^ Busca segurança no lar, mas ela não durará; tenta agarrá-la com força, mas ela não permanecerá.
+
+[[v18-8-16]]
+
+^<<v18-8-16,16>>^ O ímpio é como a planta verdejante que cresce ao sol; seus ramos se espalham pelo jardim,
+
+[[v18-8-17]]
+
+^<<v18-8-17,17>>^ suas raízes se aprofundam por entre um montão de pedras e num leito de rochas se firmam.
+
+[[v18-8-18]]
+
+^<<v18-8-18,18>>^ Mas, quando a planta é arrancada, é como se nunca houvesse existido!
+
+[[v18-8-19]]
+
+^<<v18-8-19,19>>^ Esse é o fim de sua vida, e do solo brotam outras plantas que tomam seu lugar.
+
+[[v18-8-20]]
+
+^<<v18-8-20,20>>^ "Mas uma coisa é certa: Deus não rejeitará o íntegro, nem estenderá a mão ao perverso.
+
+[[v18-8-21]]
+
+^<<v18-8-21,21>>^ Voltará a encher sua boca de riso, e seus lábios, de gritos de alegria.
+
+[[v18-8-22]]
+
+^<<v18-8-22,22>>^ Os que odeiam você serão cobertos de vergonha, e o lar dos perversos será destruído".
+
+'''
+
+xref:018-jo/018-jo-007.adoc#v18-7-0[&#60; Capítulo Anterior] | <<v18-8-0,Topo>> | xref:018-jo/018-jo-009.adoc#v18-9-0[Próximo Capítulo &#62;]

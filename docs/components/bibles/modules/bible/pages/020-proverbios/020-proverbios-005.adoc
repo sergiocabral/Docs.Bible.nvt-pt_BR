@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v20-5-0]]
+=== Provérbios, 5
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v20-5-1]]
+
+^<<v20-5-1,1>>^ Meu filho, preste atenção à minha sabedoria; ouça bem meu conselho prudente.
+
+[[v20-5-2]]
+
+^<<v20-5-2,2>>^ Assim você mostrará discernimento, e seus lábios expressarão o que aprendeu.
+
+[[v20-5-3]]
+
+^<<v20-5-3,3>>^ Pois os lábios da mulher imoral são doces como mel, e sua boca é mais suave que azeite.
+
+[[v20-5-4]]
+
+^<<v20-5-4,4>>^ No fim, porém, ela é amarga como veneno e afiada como uma espada de dois gumes.
+
+[[v20-5-5]]
+
+^<<v20-5-5,5>>^ Seus pés descem para a morte; seus passos conduzem direto à sepultura.
+
+[[v20-5-6]]
+
+^<<v20-5-6,6>>^ Pois ela não se interessa pelo caminho da vida; não se dá conta de que anda sem rumo por uma trilha tortuosa.
+
+[[v20-5-7]]
+
+^<<v20-5-7,7>>^ Portanto, meu filho, preste atenção; nunca se desvie do que irei lhe dizer.
+
+[[v20-5-8]]
+
+^<<v20-5-8,8>>^ Mantenha distância dessa mulher; não se aproxime da porta de sua casa!
+
+[[v20-5-9]]
+
+^<<v20-5-9,9>>^ Se o fizer, perderá sua honra e entregará a homens impiedosos tudo que conquistou.
+
+[[v20-5-10]]
+
+^<<v20-5-10,10>>^ Estranhos consumirão sua riqueza, e outros desfrutarão o fruto de seu trabalho.
+
+[[v20-5-11]]
+
+^<<v20-5-11,11>>^ No final, você gemerá de angústia, quando a doença lhe consumir o corpo.
+
+[[v20-5-12]]
+
+^<<v20-5-12,12>>^ Dirá: "Como odiei a disciplina! Se ao menos não tivesse desprezado as advertências!
+
+[[v20-5-13]]
+
+^<<v20-5-13,13>>^ Por que não ouvi meus mestres? Por que não dei atenção aos que me instruíam?
+
+[[v20-5-14]]
+
+^<<v20-5-14,14>>^ Cheguei à beira da ruína total, e agora todos saberão de minha vergonha!".
+
+[[v20-5-15]]
+
+^<<v20-5-15,15>>^ Beba a água de sua própria cisterna, compartilhe seu amor somente com sua esposa.
+
+[[v20-5-16]]
+
+^<<v20-5-16,16>>^ Por que derramar pelas ruas a água de suas fontes, ao ter sexo com qualquer mulher?
+
+[[v20-5-17]]
+
+^<<v20-5-17,17>>^ Reserve essa água apenas para vocês; não a reparta com estranhos.
+
+[[v20-5-18]]
+
+^<<v20-5-18,18>>^ Seja abençoada a sua fonte! Alegre-se com a mulher de sua juventude!
+
+[[v20-5-19]]
+
+^<<v20-5-19,19>>^ Ela é gazela amorosa, corça graciosa; que os seios de sua esposa o satisfaçam sempre e você seja cativado por seu amor todo o tempo!
+
+[[v20-5-20]]
+
+^<<v20-5-20,20>>^ Por que, meu filho, se deixar cativar pela mulher imoral, ou acariciar os seios da promíscua?
+
+[[v20-5-21]]
+
+^<<v20-5-21,21>>^ Pois o SENHOR vê com clareza o que o homem faz e examina todos os seus caminhos.
+
+[[v20-5-22]]
+
+^<<v20-5-22,22>>^ O perverso é cativo dos próprios pecados; são cordas que o apanham e o prendem.
+
+[[v20-5-23]]
+
+^<<v20-5-23,23>>^ Ele morrerá por falta de disciplina e se perderá por sua grande insensatez.
+
+'''
+
+xref:020-proverbios/020-proverbios-004.adoc#v20-4-0[&#60; Capítulo Anterior] | <<v20-5-0,Topo>> | xref:020-proverbios/020-proverbios-006.adoc#v20-6-0[Próximo Capítulo &#62;]

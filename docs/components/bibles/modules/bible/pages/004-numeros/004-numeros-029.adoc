@@ -1,0 +1,169 @@
+include::./index.adoc[]
+
+[[v4-29-0]]
+=== Números, 29
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v4-29-1]]
+
+^<<v4-29-1,1>>^ "No primeiro dia do sétimo mês, celebrem a Festa das Trombetas. Convoquem um dia oficial de reunião sagrada, no qual não farão nenhum trabalho habitual.
+
+[[v4-29-2]]
+
+^<<v4-29-2,2>>^ Nesse dia, apresentem um holocausto como aroma agradável ao SENHOR. O sacrifício será constituído de um novilho, um carneiro e sete cordeiros de um ano, todos sem defeito.
+
+[[v4-29-3]]
+
+^<<v4-29-3,3>>^ Será acompanhado de ofertas de cereal de farinha da melhor qualidade umedecida com azeite: seis quilos para o novilho, quatro quilos para o carneiro
+
+[[v4-29-4]]
+
+^<<v4-29-4,4>>^ e dois quilos para cada um dos sete cordeiros.
+
+[[v4-29-5]]
+
+^<<v4-29-5,5>>^ Apresentem também um bode como oferta pelo pecado para fazer expiação por vocês.
+
+[[v4-29-6]]
+
+^<<v4-29-6,6>>^ Esses sacrifícios especiais são um acréscimo aos holocaustos mensais e habituais e serão apresentados com as ofertas de cereal e as ofertas derramadas prescritas que os acompanham. São uma oferta especial, um aroma agradável ao SENHOR."
+
+[[v4-29-7]]
+
+^<<v4-29-7,7>>^ "No décimo dia do sétimo mês, convoquem outra reunião sagrada. Nesse dia, o Dia da Expiação, vocês se humilharão e não farão nenhum trabalho habitual.
+
+[[v4-29-8]]
+
+^<<v4-29-8,8>>^ Apresentem um holocausto como aroma agradável ao SENHOR. Será constituído de um novilho, um carneiro e sete cordeiros de um ano, todos sem defeito.
+
+[[v4-29-9]]
+
+^<<v4-29-9,9>>^ Os sacrifícios serão acompanhados de ofertas de cereal de farinha da melhor qualidade umedecida com azeite: seis quilos de farinha da melhor qualidade para o novilho, quatro quilos de farinha da melhor qualidade para o carneiro
+
+[[v4-29-10]]
+
+^<<v4-29-10,10>>^ e dois quilos de farinha da melhor qualidade para cada um dos sete cordeiros.
+
+[[v4-29-11]]
+
+^<<v4-29-11,11>>^ Apresentem também um bode como oferta pelo pecado. Essa oferta é um acréscimo à oferta pelo pecado apresentada para fazer expiação e ao holocausto habitual com a oferta de cereal e as ofertas derramadas que o acompanham."
+
+[[v4-29-12]]
+
+^<<v4-29-12,12>>^ "No décimo quinto dia do sétimo mês, convoquem outra reunião sagrada. Nesse dia, não façam nenhum trabalho habitual. É o início da Festa das Cabanas, uma festa de sete dias em homenagem ao SENHOR.
+
+[[v4-29-13]]
+
+^<<v4-29-13,13>>^ No primeiro dia da festa, apresentem um holocausto como oferta especial, um aroma agradável ao SENHOR. Será constituído de treze novilhos, dois carneiros e catorze cordeiros de um ano, todos sem defeito.
+
+[[v4-29-14]]
+
+^<<v4-29-14,14>>^ Cada um desses sacrifícios será acompanhado de uma oferta de cereal de farinha da melhor qualidade umedecida com azeite: seis quilos para cada um dos treze novilhos, quatro quilos para cada um dos dois carneiros
+
+[[v4-29-15]]
+
+^<<v4-29-15,15>>^ e dois quilos para cada um dos catorze cordeiros.
+
+[[v4-29-16]]
+
+^<<v4-29-16,16>>^ Apresentem também um bode como oferta pelo pecado, além do holocausto habitual com a oferta de cereal e a oferta derramada que o acompanham.
+
+[[v4-29-17]]
+
+^<<v4-29-17,17>>^ "No segundo dia da festa, sacrifiquem doze novilhos, dois carneiros e catorze cordeiros de um ano, todos sem defeito.
+
+[[v4-29-18]]
+
+^<<v4-29-18,18>>^ Cada um desses sacrifícios de novilhos, carneiros e cordeiros será acompanhado de sua oferta de cereal e de sua oferta derramada, conforme o número prescrito.
+
+[[v4-29-19]]
+
+^<<v4-29-19,19>>^ Apresentem também um bode como oferta pelo pecado, além do holocausto habitual com a oferta de cereal e a oferta derramada que o acompanham.
+
+[[v4-29-20]]
+
+^<<v4-29-20,20>>^ "No terceiro dia da festa, sacrifiquem onze novilhos, dois carneiros e catorze cordeiros de um ano, todos sem defeito.
+
+[[v4-29-21]]
+
+^<<v4-29-21,21>>^ Cada um desses sacrifícios de novilhos, carneiros e cordeiros será acompanhado de sua oferta de cereal e de sua oferta derramada, conforme o número prescrito.
+
+[[v4-29-22]]
+
+^<<v4-29-22,22>>^ Apresentem também um bode como oferta pelo pecado, além do holocausto habitual com a oferta de cereal e a oferta derramada que o acompanham.
+
+[[v4-29-23]]
+
+^<<v4-29-23,23>>^ "No quarto dia da festa, sacrifiquem dez novilhos, dois carneiros e catorze cordeiros de um ano, todos sem defeito.
+
+[[v4-29-24]]
+
+^<<v4-29-24,24>>^ Cada um desses sacrifícios de novilhos, carneiros e cordeiros será acompanhado de sua oferta de cereal e de sua oferta derramada, conforme o número prescrito.
+
+[[v4-29-25]]
+
+^<<v4-29-25,25>>^ Apresentem também um bode como oferta pelo pecado, além do holocausto habitual com a oferta de cereal e a oferta derramada que o acompanham.
+
+[[v4-29-26]]
+
+^<<v4-29-26,26>>^ "No quinto dia da festa, sacrifiquem nove novilhos, dois carneiros e catorze cordeiros de um ano, todos sem defeito.
+
+[[v4-29-27]]
+
+^<<v4-29-27,27>>^ Cada um desses sacrifícios de novilhos, carneiros e cordeiros será acompanhado de sua oferta de cereal e de sua oferta derramada, conforme o número prescrito.
+
+[[v4-29-28]]
+
+^<<v4-29-28,28>>^ Apresentem também um bode como oferta pelo pecado, além do sacrifício habitual com a oferta de cereal e a oferta derramada que o acompanham.
+
+[[v4-29-29]]
+
+^<<v4-29-29,29>>^ "No sexto dia da festa, sacrifiquem oito novilhos, dois carneiros e catorze cordeiros de um ano, todos sem defeito.
+
+[[v4-29-30]]
+
+^<<v4-29-30,30>>^ Cada um desses sacrifícios de novilhos, carneiros e cordeiros será acompanhado de sua oferta de cereal e de sua oferta derramada, conforme o número prescrito.
+
+[[v4-29-31]]
+
+^<<v4-29-31,31>>^ Apresentem também um bode como oferta pelo pecado, além do holocausto habitual com a oferta de cereal e a oferta derramada que o acompanham.
+
+[[v4-29-32]]
+
+^<<v4-29-32,32>>^ "No sétimo dia da festa, sacrifiquem sete novilhos, dois carneiros e catorze cordeiros de um ano, todos sem defeito.
+
+[[v4-29-33]]
+
+^<<v4-29-33,33>>^ Cada um desses sacrifícios de novilhos, carneiros e cordeiros será acompanhado de sua oferta de cereal e de sua oferta derramada, conforme o número prescrito.
+
+[[v4-29-34]]
+
+^<<v4-29-34,34>>^ Apresentem também um bode como oferta pelo pecado, além do holocausto habitual com a oferta de cereal e a oferta derramada que o acompanham.
+
+[[v4-29-35]]
+
+^<<v4-29-35,35>>^ "No oitavo dia da festa, declarem uma reunião solene. Não façam nenhum trabalho habitual nesse dia.
+
+[[v4-29-36]]
+
+^<<v4-29-36,36>>^ Apresentem um holocausto como oferta especial, um aroma agradável ao SENHOR. O sacrifício consistirá em um novilho, um carneiro e sete cordeiros de um ano, todos sem defeito.
+
+[[v4-29-37]]
+
+^<<v4-29-37,37>>^ Cada um desses sacrifícios será acompanhado de sua oferta de cereal e de sua oferta derramada, conforme o número prescrito.
+
+[[v4-29-38]]
+
+^<<v4-29-38,38>>^ Apresentem também um bode como oferta pelo pecado, além do holocausto habitual com a oferta de cereal e a oferta derramada que o acompanham.
+
+[[v4-29-39]]
+
+^<<v4-29-39,39>>^ "Apresentem essas ofertas ao SENHOR em suas festas anuais. São um acréscimo aos sacrifícios e ofertas que vocês apresentam ao cumprirem votos ou ao realizarem ofertas voluntárias, holocaustos, ofertas de cereal, ofertas derramadas e ofertas de paz".
+
+[[v4-29-40]]
+
+^<<v4-29-40,40>>^ Moisés transmitiu todas essas instruções aos israelitas, conforme o SENHOR lhe havia ordenado.
+
+'''
+
+xref:004-numeros/004-numeros-028.adoc#v4-28-0[&#60; Capítulo Anterior] | <<v4-29-0,Topo>> | xref:004-numeros/004-numeros-030.adoc#v4-30-0[Próximo Capítulo &#62;]

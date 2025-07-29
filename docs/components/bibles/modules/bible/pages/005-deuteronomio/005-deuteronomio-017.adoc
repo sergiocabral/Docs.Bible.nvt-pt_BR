@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v5-17-0]]
+=== Deuteronômio, 17
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v5-17-1]]
+
+^<<v5-17-1,1>>^ "Nunca sacrifiquem ao SENHOR, seu Deus, bois ou ovelhas doentes ou defeituosos, pois esse tipo de oferta é detestável para ele.
+
+[[v5-17-2]]
+
+^<<v5-17-2,2>>^ "Quando vocês começarem a viver nas cidades que o SENHOR, seu Deus, lhes dá, poderá acontecer de um homem ou uma mulher do povo fazer algo mau aos olhos do SENHOR, seu Deus, e quebrar a aliança.
+
+[[v5-17-3]]
+
+^<<v5-17-3,3>>^ Pode ser que essa pessoa sirva outros deuses ou adore o sol, a lua ou qualquer das estrelas, o exército do céu, algo que eu proibi expressamente.
+
+[[v5-17-4]]
+
+^<<v5-17-4,4>>^ Quando ficarem sabendo disso, façam uma investigação cuidadosa. Se for verdade que se fez tal coisa detestável em Israel,
+
+[[v5-17-5]]
+
+^<<v5-17-5,5>>^ levem o homem ou a mulher que cometeu esse ato perverso até as portas da cidade e executem essa pessoa por apedrejamento.
+
+[[v5-17-6]]
+
+^<<v5-17-6,6>>^ Jamais executem alguém com base no depoimento de apenas uma testemunha. Deve sempre haver duas ou três testemunhas.
+
+[[v5-17-7]]
+
+^<<v5-17-7,7>>^ As testemunhas jogarão as primeiras pedras e, em seguida, todo o povo participará da execução. Desse modo, vocês eliminarão o mal do seu meio.
+
+[[v5-17-8]]
+
+^<<v5-17-8,8>>^ "Se um caso muito difícil de resolver chegar a um tribunal local, como, por exemplo, uma decisão sobre que tipo de homicídio aconteceu, ou entre diferentes ações judiciais, ou entre tipos diferentes de agressão, levem esse caso ao lugar que o SENHOR, seu Deus, escolher.
+
+[[v5-17-9]]
+
+^<<v5-17-9,9>>^ Apresentem o caso aos sacerdotes levitas ou aos juízes que estiverem de serviço na ocasião, e eles ouvirão o caso e declararão o veredicto.
+
+[[v5-17-10]]
+
+^<<v5-17-10,10>>^ Executem o veredicto que eles declararem no lugar que o SENHOR escolher. Façam exatamente o que eles mandarem.
+
+[[v5-17-11]]
+
+^<<v5-17-11,11>>^ Depois que eles tiverem interpretado a lei e declarado o veredicto, executem em sua totalidade a sentença que eles pronunciarem; não façam modificação alguma.
+
+[[v5-17-12]]
+
+^<<v5-17-12,12>>^ Quem for arrogante a ponto de rejeitar o veredicto do sacerdote ou do juiz que representa o SENHOR, seu Deus, naquele lugar deverá ser morto. Desse modo, vocês eliminarão o mal do meio de Israel.
+
+[[v5-17-13]]
+
+^<<v5-17-13,13>>^ Então todo o povo ficará sabendo o que aconteceu e terá medo de agir novamente com tamanha arrogância."
+
+[[v5-17-14]]
+
+^<<v5-17-14,14>>^ "Vocês estão prestes a entrar na terra que o SENHOR, seu Deus, lhes dá. Quando a conquistarem, se estabelecerem nela e pensarem: ‘Devemos escolher um rei para nos governar, como as outras nações ao nosso redor’,
+
+[[v5-17-15]]
+
+^<<v5-17-15,15>>^ tenham cuidado de nomear como rei o homem que o SENHOR, seu Deus, escolher. Deverá ser um irmão israelita; não pode ser estrangeiro.
+
+[[v5-17-16]]
+
+^<<v5-17-16,16>>^ "O rei não terá muitos cavalos, nem enviará seu povo ao Egito para comprar cavalos, pois o SENHOR lhes disse: ‘Jamais voltem ao Egito’.
+
+[[v5-17-17]]
+
+^<<v5-17-17,17>>^ O rei não tomará para si muitas esposas, pois elas afastarão seu coração do SENHOR. Também não acumulará para si grandes quantidades de prata e de ouro.
+
+[[v5-17-18]]
+
+^<<v5-17-18,18>>^ "Quando sentar-se no trono para reinar, copiará esta lei para si num rolo, na presença dos sacerdotes levitas.
+
+[[v5-17-19]]
+
+^<<v5-17-19,19>>^ Trará essa cópia sempre consigo e a lerá todos os dias enquanto viver. Assim, aprenderá a temer o SENHOR, seu Deus, cumprindo todos os termos desta lei e destes decretos.
+
+[[v5-17-20]]
+
+^<<v5-17-20,20>>^ Isso o impedirá de tornar-se orgulhoso e agir como se estivesse acima de seus irmãos israelitas. Evitará também que ele se desvie, por menos que seja, destes mandamentos, e garantirá que ele e seus descendentes tenham longos reinados em Israel."
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-016.adoc#v5-16-0[&#60; Capítulo Anterior] | <<v5-17-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-018.adoc#v5-18-0[Próximo Capítulo &#62;]

@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v55-1-0]]
+=== 2 Timóteo, 1
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v55-1-1]]
+
+^<<v55-1-1,1>>^ Eu, Paulo, apóstolo de Cristo Jesus pela vontade de Deus, enviado para anunciar a vida que ele prometeu por meio da fé em Cristo Jesus,
+
+[[v55-1-2]]
+
+^<<v55-1-2,2>>^ escrevo esta carta a Timóteo, meu filho amado. Que Deus, o Pai, e Cristo Jesus, nosso Senhor, lhe deem graça, misericórdia e paz.
+
+[[v55-1-3]]
+
+^<<v55-1-3,3>>^ Dou graças por você ao Deus que sirvo com a consciência limpa, como o serviram meus antepassados. Sempre me lembro de você em minhas orações, noite e dia.
+
+[[v55-1-4]]
+
+^<<v55-1-4,4>>^ Quero muito revê-lo, pois me lembro de suas lágrimas. Nosso reencontro me encherá de alegria.
+
+[[v55-1-5]]
+
+^<<v55-1-5,5>>^ Lembro-me de sua fé sincera, como era a de sua avó, Loide, e de sua mãe, Eunice, e sei que em você essa mesma fé continua firme.
+
+[[v55-1-6]]
+
+^<<v55-1-6,6>>^ Por isso quero lembrá-lo de avivar a chama do dom que Deus lhe deu quando impus minhas mãos sobre você.
+
+[[v55-1-7]]
+
+^<<v55-1-7,7>>^ Pois Deus não nos deu um Espírito que produz temor e covardia, mas sim que nos dá poder, amor e autocontrole.
+
+[[v55-1-8]]
+
+^<<v55-1-8,8>>^ Portanto, jamais se envergonhe de falar a outros sobre nosso Senhor. E também não se envergonhe de mim, que estou preso por causa dele. Com a força que Deus lhe dá, esteja pronto para sofrer comigo por causa das boas-novas.
+
+[[v55-1-9]]
+
+^<<v55-1-9,9>>^ Pois Deus nos salvou e nos chamou para uma vida santa, não porque merecêssemos, mas porque este era seu plano desde os tempos eternos: mostrar sua graça por meio de Cristo Jesus.
+
+[[v55-1-10]]
+
+^<<v55-1-10,10>>^ E agora ele tornou tudo isso claro para nós com a vinda de Cristo Jesus, nosso Salvador, que destruiu o poder da morte e iluminou o caminho para a vida e a imortalidade por meio das boas-novas,
+
+[[v55-1-11]]
+
+^<<v55-1-11,11>>^ das quais Deus me escolheu para ser pregador, apóstolo e mestre.
+
+[[v55-1-12]]
+
+^<<v55-1-12,12>>^ Por isso estou sofrendo assim. Mas não me envergonho, pois conheço aquele em quem creio e tenho certeza de que ele é capaz de guardar o que me foi confiado até o dia de sua volta.
+
+[[v55-1-13]]
+
+^<<v55-1-13,13>>^ Apegue-se, com fé e amor em Cristo Jesus, ao modelo do ensino verdadeiro que aprendeu de mim.
+
+[[v55-1-14]]
+
+^<<v55-1-14,14>>^ Pelo poder do Espírito Santo que habita em nós, guarde a verdade preciosa que lhe foi confiada.
+
+[[v55-1-15]]
+
+^<<v55-1-15,15>>^ Como você sabe, todos os da província da Ásia me abandonaram, incluindo Fígelo e Hermógenes.
+
+[[v55-1-16]]
+
+^<<v55-1-16,16>>^ Que o Senhor demonstre misericórdia a Onesíforo e sua família, pois muitas vezes me animou em suas visitas e nunca se envergonhou por eu estar na prisão.
+
+[[v55-1-17]]
+
+^<<v55-1-17,17>>^ Pelo contrário, quando veio a Roma, procurou-me diligentemente até me encontrar.
+
+[[v55-1-18]]
+
+^<<v55-1-18,18>>^ Que o Senhor lhe mostre misericórdia no dia da volta de Cristo. E você sabe muito bem quanto ele me ajudou em Éfeso.
+
+'''
+
+xref:054-1-timoteo/054-1-timoteo-006.adoc#v54-6-0[&#60; Capítulo Anterior] | <<v55-1-0,Topo>> | xref:055-2-timoteo/055-2-timoteo-002.adoc#v55-2-0[Próximo Capítulo &#62;]

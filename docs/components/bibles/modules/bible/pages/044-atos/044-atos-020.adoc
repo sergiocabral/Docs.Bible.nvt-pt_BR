@@ -1,0 +1,161 @@
+include::./index.adoc[]
+
+[[v44-20-0]]
+=== Atos, 20
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v44-20-1]]
+
+^<<v44-20-1,1>>^ Passado o tumulto, Paulo mandou chamar os discípulos e os encorajou. Então se despediu e partiu para a Macedônia.
+
+[[v44-20-2]]
+
+^<<v44-20-2,2>>^ Enquanto estava lá, encorajou os discípulos em todas as cidades por onde passou. Em seguida, desceu à Grécia,
+
+[[v44-20-3]]
+
+^<<v44-20-3,3>>^ onde ficou por três meses. Quando se preparava para navegar de volta à Síria, descobriu que alguns judeus conspiravam contra sua vida e decidiu voltar pela Macedônia.
+
+[[v44-20-4]]
+
+^<<v44-20-4,4>>^ Alguns homens viajavam com ele: Sópatro, filho de Pirro, de Bereia; Aristarco e Secundo, de Tessalônica; Gaio, de Derbe; Timóteo; e Tíquico e Trófimo, da província da Ásia.
+
+[[v44-20-5]]
+
+^<<v44-20-5,5>>^ Eles foram adiante e esperaram por nós em Trôade.
+
+[[v44-20-6]]
+
+^<<v44-20-6,6>>^ Terminada a Festa dos Pães sem Fermento, embarcamos num navio em Filipos e, cinco dias depois, nos reencontramos em Trôade, onde ficamos uma semana.
+
+[[v44-20-7]]
+
+^<<v44-20-7,7>>^ No primeiro dia da semana, nos reunimos com os irmãos de lá para o partir do pão. Paulo começou a falar ao povo e, como pretendia embarcar no dia seguinte, continuou até a meia-noite.
+
+[[v44-20-8]]
+
+^<<v44-20-8,8>>^ A sala no andar superior onde estávamos reunidos era iluminada por muitas lamparinas.
+
+[[v44-20-9]]
+
+^<<v44-20-9,9>>^ O discurso de Paulo se estendeu por horas, e um jovem chamado Êutico, que estava sentado no parapeito da janela, ficou muito sonolento. Por fim, adormeceu profundamente, caiu de uma altura de três andares e morreu.
+
+[[v44-20-10]]
+
+^<<v44-20-10,10>>^ Paulo desceu, inclinou-se sobre o jovem e o abraçou. "Não se desesperem", disse ele. "O rapaz está vivo!"
+
+[[v44-20-11]]
+
+^<<v44-20-11,11>>^ Então todos subiram novamente, partiram o pão e comeram juntos. Paulo continuou a lhes falar até o amanhecer e depois partiu.
+
+[[v44-20-12]]
+
+^<<v44-20-12,12>>^ Enquanto isso, o jovem foi levado para casa vivo, e todos sentiram grande alívio.
+
+[[v44-20-13]]
+
+^<<v44-20-13,13>>^ Paulo foi por terra até Assôs, onde havia definido que devíamos esperar por ele, enquanto nós fomos de navio.
+
+[[v44-20-14]]
+
+^<<v44-20-14,14>>^ Encontrou-se conosco em Assôs e navegamos juntos até Mitilene.
+
+[[v44-20-15]]
+
+^<<v44-20-15,15>>^ No dia seguinte, passamos em frente à ilha de Quios. No outro dia, atravessamos para a ilha de Samos e, um dia depois, chegamos a Mileto.
+
+[[v44-20-16]]
+
+^<<v44-20-16,16>>^ Paulo havia decidido não aportar em Éfeso, pois não queria passar mais tempo na província da Ásia. Tinha pressa de chegar a Jerusalém, se possível, para a Festa de Pentecostes.
+
+[[v44-20-17]]
+
+^<<v44-20-17,17>>^ Por isso, em Mileto, mandou chamar os presbíteros da igreja de Éfeso.
+
+[[v44-20-18]]
+
+^<<v44-20-18,18>>^ Quando chegaram, ele lhes disse: "Vocês sabem que, desde o dia em que pisei na província da Ásia até agora,
+
+[[v44-20-19]]
+
+^<<v44-20-19,19>>^ fiz o trabalho do Senhor humildemente e com muitas lágrimas. Suportei as provações decorrentes das intrigas dos judeus
+
+[[v44-20-20]]
+
+^<<v44-20-20,20>>^ e jamais deixei de dizer a vocês o que precisavam ouvir, seja publicamente, seja em seus lares.
+
+[[v44-20-21]]
+
+^<<v44-20-21,21>>^ Anunciei uma única mensagem tanto para judeus como para gregos: é necessário que se arrependam, se voltem para Deus e tenham fé em nosso Senhor Jesus.
+
+[[v44-20-22]]
+
+^<<v44-20-22,22>>^ "Agora, impelido pelo Espírito, vou a Jerusalém. Não sei o que me espera ali,
+
+[[v44-20-23]]
+
+^<<v44-20-23,23>>^ senão que o Espírito Santo me diz, em todas as cidades, que tenho pela frente prisão e sofrimento.
+
+[[v44-20-24]]
+
+^<<v44-20-24,24>>^ Mas minha vida não vale coisa alguma para mim, a menos que eu a use para completar minha carreira e a missão que me foi confiada pelo Senhor Jesus: dar testemunho das boas-novas da graça de Deus.
+
+[[v44-20-25]]
+
+^<<v44-20-25,25>>^ "Agora sei que nenhum de vocês, a quem anunciei o reino, me verá outra vez.
+
+[[v44-20-26]]
+
+^<<v44-20-26,26>>^ Por isso, declaro hoje que, se alguém se perder, não será por minha culpa,
+
+[[v44-20-27]]
+
+^<<v44-20-27,27>>^ pois não deixei de anunciar tudo que Deus quer que vocês saibam.
+
+[[v44-20-28]]
+
+^<<v44-20-28,28>>^ "Portanto, cuidem de si mesmos e do rebanho sobre o qual o Espírito Santo os colocou como bispos, a fim de pastorearem sua igreja, comprada com seu próprio sangue.
+
+[[v44-20-29]]
+
+^<<v44-20-29,29>>^ Sei que depois de minha partida surgirão em seu meio falsos mestres, lobos ferozes que não pouparão o rebanho.
+
+[[v44-20-30]]
+
+^<<v44-20-30,30>>^ Até mesmo entre vocês se levantarão homens que distorcerão a verdade a fim de conquistar seguidores.
+
+[[v44-20-31]]
+
+^<<v44-20-31,31>>^ Portanto, vigiem! Lembrem-se dos três anos que estive com vocês, de como dia e noite nunca deixei de aconselhar com lágrimas cada um de vocês.
+
+[[v44-20-32]]
+
+^<<v44-20-32,32>>^ "E, agora, eu os entrego a Deus e à mensagem de sua graça que pode edificá-los e dar-lhes uma herança junto com todos que ele separou para si.
+
+[[v44-20-33]]
+
+^<<v44-20-33,33>>^ "Jamais cobicei a prata, o ouro ou as roupas de alguém.
+
+[[v44-20-34]]
+
+^<<v44-20-34,34>>^ Vocês sabem que estas minhas mãos trabalharam para prover as minhas necessidades e as dos que estavam comigo.
+
+[[v44-20-35]]
+
+^<<v44-20-35,35>>^ Fui exemplo constante de como podemos, com trabalho árduo, ajudar os necessitados, lembrando as palavras do Senhor Jesus: ‘Há bênção maior em dar que em receber’".
+
+[[v44-20-36]]
+
+^<<v44-20-36,36>>^ Quando Paulo terminou de falar, ajoelhou-se e orou com eles.
+
+[[v44-20-37]]
+
+^<<v44-20-37,37>>^ Todos choraram muito enquanto se despediam dele com abraços e beijos.
+
+[[v44-20-38]]
+
+^<<v44-20-38,38>>^ O que mais os entristeceu foi ele ter dito que nunca mais o veriam. Então eles o acompanharam até o navio.
+
+'''
+
+xref:044-atos/044-atos-019.adoc#v44-19-0[&#60; Capítulo Anterior] | <<v44-20-0,Topo>> | xref:044-atos/044-atos-021.adoc#v44-21-0[Próximo Capítulo &#62;]

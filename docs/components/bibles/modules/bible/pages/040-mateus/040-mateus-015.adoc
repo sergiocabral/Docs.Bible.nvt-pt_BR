@@ -1,0 +1,165 @@
+include::./index.adoc[]
+
+[[v40-15-0]]
+=== Mateus, 15
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v40-15-1]]
+
+^<<v40-15-1,1>>^ Então alguns fariseus e mestres da lei chegaram de Jerusalém para ver Jesus e lhe perguntaram:
+
+[[v40-15-2]]
+
+^<<v40-15-2,2>>^ "Por que seus discípulos desobedecem à tradição dos líderes religiosos? Eles não respeitam a cerimônia de lavar as mãos antes de comer!".
+
+[[v40-15-3]]
+
+^<<v40-15-3,3>>^ Jesus respondeu: "E por que vocês, com suas tradições, desobedecem ao mandamento de Deus?
+
+[[v40-15-4]]
+
+^<<v40-15-4,4>>^ Pois Deus ordenou: ‘Honre seu pai e sua mãe’ e ‘Quem insultar seu pai ou sua mãe será executado’.
+
+[[v40-15-5]]
+
+^<<v40-15-5,5>>^ Em vez disso, vocês ensinam que, se alguém disser a seus pais: ‘Sinto muito, mas não posso ajudá-los; jurei entregar como oferta a Deus aquilo que eu teria dado a vocês’,
+
+[[v40-15-6]]
+
+^<<v40-15-6,6>>^ não precisará mais honrar seus pais. Com isso, vocês anulam a palavra de Deus em favor de sua própria tradição.
+
+[[v40-15-7]]
+
+^<<v40-15-7,7>>^ Hipócritas! Isaías tinha razão quando assim profetizou a seu respeito:
+
+[[v40-15-8]]
+
+^<<v40-15-8,8>>^ ‘Este povo me honra com os lábios, mas o coração está longe de mim.
+
+[[v40-15-9]]
+
+^<<v40-15-9,9>>^ Sua adoração é uma farsa, pois ensinam ideias humanas como se fossem mandamentos divinos’".
+
+[[v40-15-10]]
+
+^<<v40-15-10,10>>^ Jesus chamou a multidão para perto de si e disse: "Ouçam e procurem entender.
+
+[[v40-15-11]]
+
+^<<v40-15-11,11>>^ Não é o que entra pela boca que os contamina; vocês se contaminam com as palavras que saem dela".
+
+[[v40-15-12]]
+
+^<<v40-15-12,12>>^ Então os discípulos vieram e perguntaram: "O senhor sabe que ofendeu os fariseus com isso que acabou de dizer?".
+
+[[v40-15-13]]
+
+^<<v40-15-13,13>>^ Jesus respondeu: "Toda planta que meu Pai celestial não plantou será arrancada pela raiz.
+
+[[v40-15-14]]
+
+^<<v40-15-14,14>>^ Portanto, não façam caso deles. São guias cegos conduzindo cegos e, se um cego conduzir outro, ambos cairão numa vala".
+
+[[v40-15-15]]
+
+^<<v40-15-15,15>>^ Então Pedro disse: "Explique-nos a parábola de que as pessoas não são contaminadas pelo que comem".
+
+[[v40-15-16]]
+
+^<<v40-15-16,16>>^ "Ainda não entendem?", perguntou Jesus.
+
+[[v40-15-17]]
+
+^<<v40-15-17,17>>^ "Tudo que comem passa pelo estômago e vai para o esgoto,
+
+[[v40-15-18]]
+
+^<<v40-15-18,18>>^ mas as palavras vêm do coração, e é isso que os contamina.
+
+[[v40-15-19]]
+
+^<<v40-15-19,19>>^ Pois do coração vêm maus pensamentos, homicídio, adultério, imoralidade sexual, roubo, mentiras e calúnias.
+
+[[v40-15-20]]
+
+^<<v40-15-20,20>>^ São essas coisas que os contaminam. Comer sem lavar as mãos não os contaminará."
+
+[[v40-15-21]]
+
+^<<v40-15-21,21>>^ Então Jesus deixou a Galileia, rumo ao norte, para a região de Tiro e Sidom.
+
+[[v40-15-22]]
+
+^<<v40-15-22,22>>^ Uma mulher cananeia que ali morava veio a ele, suplicando: "Senhor, Filho de Davi, tenha misericórdia de mim! Minha filha está possuída por um demônio que a atormenta terrivelmente".
+
+[[v40-15-23]]
+
+^<<v40-15-23,23>>^ Jesus não disse uma só palavra em resposta. Então os discípulos insistiram com ele: "Mande-a embora; ela não para de gritar atrás de nós".
+
+[[v40-15-24]]
+
+^<<v40-15-24,24>>^ Jesus disse à mulher: "Fui enviado para ajudar apenas as ovelhas perdidas do povo de Israel".
+
+[[v40-15-25]]
+
+^<<v40-15-25,25>>^ A mulher, porém, aproximou-se, ajoelhou-se diante dele e implorou mais uma vez: "Senhor, ajude-me!".
+
+[[v40-15-26]]
+
+^<<v40-15-26,26>>^ Jesus respondeu: "Não é certo tirar comida das crianças e jogá-la aos cachorros".
+
+[[v40-15-27]]
+
+^<<v40-15-27,27>>^ "Senhor, é verdade", disse a mulher. "No entanto, até os cachorros comem as migalhas que caem da mesa de seus donos."
+
+[[v40-15-28]]
+
+^<<v40-15-28,28>>^ "Mulher, sua fé é grande", disse-lhe Jesus. "Seu pedido será atendido." E, no mesmo instante, a filha dela foi curada.
+
+[[v40-15-29]]
+
+^<<v40-15-29,29>>^ Deixando aquele lugar, Jesus voltou ao mar da Galileia e subiu a um monte, onde se sentou.
+
+[[v40-15-30]]
+
+^<<v40-15-30,30>>^ Uma grande multidão veio e colocou diante dele aleijados, cegos, paralíticos, mudos e muitos outros, e ele curou a todos.
+
+[[v40-15-31]]
+
+^<<v40-15-31,31>>^ As pessoas ficavam admiradas e louvavam o Deus de Israel, pois os que eram mudos agora falavam, os paralíticos estavam curados, os aleijados andavam e os cegos podiam ver.
+
+[[v40-15-32]]
+
+^<<v40-15-32,32>>^ Então Jesus chamou seus discípulos e disse: "Tenho compaixão dessa gente. Estão aqui comigo há três dias e não têm mais nada para comer. Se eu os mandar embora com fome, podem desmaiar no caminho".
+
+[[v40-15-33]]
+
+^<<v40-15-33,33>>^ Os discípulos disseram: "Onde conseguiríamos comida suficiente para tamanha multidão neste lugar deserto?".
+
+[[v40-15-34]]
+
+^<<v40-15-34,34>>^ Jesus perguntou: "Quantos pães vocês têm?". "Sete, e alguns peixinhos", responderam eles.
+
+[[v40-15-35]]
+
+^<<v40-15-35,35>>^ Então Jesus mandou todo o povo sentar-se no chão.
+
+[[v40-15-36]]
+
+^<<v40-15-36,36>>^ Tomou os sete pães e os peixes, agradeceu a Deus e os partiu em pedaços. Em seguida, entregou-os aos discípulos, que os distribuíram à multidão.
+
+[[v40-15-37]]
+
+^<<v40-15-37,37>>^ Todos comeram à vontade, e os discípulos recolheram, ainda, sete cestos grandes com as sobras.
+
+[[v40-15-38]]
+
+^<<v40-15-38,38>>^ Os que comeram foram quatro mil homens, sem contar mulheres e crianças.
+
+[[v40-15-39]]
+
+^<<v40-15-39,39>>^ Então Jesus os mandou para casa, entrou num barco e atravessou para a região de Magadã.
+
+'''
+
+xref:040-mateus/040-mateus-014.adoc#v40-14-0[&#60; Capítulo Anterior] | <<v40-15-0,Topo>> | xref:040-mateus/040-mateus-016.adoc#v40-16-0[Próximo Capítulo &#62;]

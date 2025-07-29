@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v19-55-0]]
+=== Salmos, 55
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-55-1]]
+
+^<<v19-55-1,1>>^ Ouve minha oração, ó Deus! Não ignores meu clamor por socorro!
+
+[[v19-55-2]]
+
+^<<v19-55-2,2>>^ Ouve-me e responde-me, pois estou sobrecarregado e confuso.
+
+[[v19-55-3]]
+
+^<<v19-55-3,3>>^ Meus inimigos gritam contra mim e fazem ameaças perversas. Sobre mim trazem desgraças e me perseguem furiosamente.
+
+[[v19-55-4]]
+
+^<<v19-55-4,4>>^ Dentro do peito, meu coração acelera; o terror da morte se apodera de mim.
+
+[[v19-55-5]]
+
+^<<v19-55-5,5>>^ Sou tomado de medo e pânico, e não consigo parar de tremer.
+
+[[v19-55-6]]
+
+^<<v19-55-6,6>>^ Quem dera eu tivesse asas como a pomba; voaria para longe e encontraria descanso.
+
+[[v19-55-7]]
+
+^<<v19-55-7,7>>^ Sim, fugiria para bem longe, para o sossego do deserto. Interlúdio
+
+[[v19-55-8]]
+
+^<<v19-55-8,8>>^ Sim, eu me apressaria em escapar para um lugar distante do vendaval e da tempestade.
+
+[[v19-55-9]]
+
+^<<v19-55-9,9>>^ Confunde-os, Senhor, e frustra seus planos, pois vejo violência e conflito na cidade.
+
+[[v19-55-10]]
+
+^<<v19-55-10,10>>^ Dia e noite os muros são guardados de invasores, mas a perversidade e a maldade estão do lado de dentro.
+
+[[v19-55-11]]
+
+^<<v19-55-11,11>>^ Tudo está desmoronando; ameaça e engano correm soltos pelas ruas.
+
+[[v19-55-12]]
+
+^<<v19-55-12,12>>^ Não é meu inimigo que me insulta; se fosse, eu poderia suportar. Não são meus adversários que se levantam contra mim; deles eu poderia me esconder.
+
+[[v19-55-13]]
+
+^<<v19-55-13,13>>^ Antes, é você, meu igual, meu companheiro e amigo chegado.
+
+[[v19-55-14]]
+
+^<<v19-55-14,14>>^ Como era agradável a comunhão que desfrutávamos quando acompanhávamos a multidão à casa de Deus!
+
+[[v19-55-15]]
+
+^<<v19-55-15,15>>^ Que a morte apanhe meus inimigos de surpresa; que desçam vivos à sepultura, pois a maldade mora dentro deles.
+
+[[v19-55-16]]
+
+^<<v19-55-16,16>>^ Eu, porém, invocarei a Deus, e o SENHOR me livrará.
+
+[[v19-55-17]]
+
+^<<v19-55-17,17>>^ Pela manhã, ao meio-dia e à noite, clamo angustiado, e ele ouve minha voz.
+
+[[v19-55-18]]
+
+^<<v19-55-18,18>>^ Ele me resgata e me mantém a salvo na batalha, embora muitos ainda estejam contra mim.
+
+[[v19-55-19]]
+
+^<<v19-55-19,19>>^ Deus, que governa desde a eternidade, me ouvirá e lhes dará o que merecem. Interlúdio Pois meus inimigos não querem mudar sua conduta; eles não temem a Deus.
+
+[[v19-55-20]]
+
+^<<v19-55-20,20>>^ Quanto a meu companheiro, ele traiu seus amigos e não cumpriu suas promessas.
+
+[[v19-55-21]]
+
+^<<v19-55-21,21>>^ Sua fala é macia como manteiga, mas em seu coração há guerra. Suas palavras são suaves como azeite, mas na verdade são punhais.
+
+[[v19-55-22]]
+
+^<<v19-55-22,22>>^ Entregue suas aflições ao SENHOR, e ele cuidará de você; jamais permitirá que o justo tropece e caia.
+
+[[v19-55-23]]
+
+^<<v19-55-23,23>>^ Tu, porém, ó Deus, lançarás os perversos no abismo de destruição. Assassinos e mentirosos morrerão ainda jovens, mas eu sempre confiarei em ti.
+
+'''
+
+xref:019-salmos/019-salmos-054.adoc#v19-54-0[&#60; Capítulo Anterior] | <<v19-55-0,Topo>> | xref:019-salmos/019-salmos-056.adoc#v19-56-0[Próximo Capítulo &#62;]

@@ -1,0 +1,53 @@
+include::./index.adoc[]
+
+[[v19-58-0]]
+=== Salmos, 58
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-58-1]]
+
+^<<v19-58-1,1>>^ Vocês, governantes, sabem o que significa justiça? Acaso julgam o povo com imparcialidade?
+
+[[v19-58-2]]
+
+^<<v19-58-2,2>>^ De modo algum! Tramam injustiça em seu coração e espalham violência por toda a terra.
+
+[[v19-58-3]]
+
+^<<v19-58-3,3>>^ Os perversos são pecadores desde o ventre materno; mentem e se corrompem desde o nascimento.
+
+[[v19-58-4]]
+
+^<<v19-58-4,4>>^ São venenosos como serpentes, como cobras que se fazem de surdas,
+
+[[v19-58-5]]
+
+^<<v19-58-5,5>>^ para não ouvir a música dos encantadores, ainda que eles toquem com habilidade.
+
+[[v19-58-6]]
+
+^<<v19-58-6,6>>^ Quebra os dentes dos perversos, ó Deus! Despedaça, SENHOR, a mandíbula desses leões!
+
+[[v19-58-7]]
+
+^<<v19-58-7,7>>^ Que desapareçam como água em terra sedenta, que se tornem inúteis as armas em suas mãos.
+
+[[v19-58-8]]
+
+^<<v19-58-8,8>>^ Que sejam como a lesma que se desmancha em lodo, como a criança que nasce morta e nunca verá o sol.
+
+[[v19-58-9]]
+
+^<<v19-58-9,9>>^ Deus os eliminará, tanto os jovens como os velhos, mais depressa que um fogo de espinhos esquenta uma panela.
+
+[[v19-58-10]]
+
+^<<v19-58-10,10>>^ O justo se alegrará quando vir a vingança contra a injustiça; no sangue do perverso, lavará os pés.
+
+[[v19-58-11]]
+
+^<<v19-58-11,11>>^ Então, por fim, alguém dirá: "De fato, há recompensa para o justo; com certeza há um Deus que faz justiça na terra".
+
+'''
+
+xref:019-salmos/019-salmos-057.adoc#v19-57-0[&#60; Capítulo Anterior] | <<v19-58-0,Topo>> | xref:019-salmos/019-salmos-059.adoc#v19-59-0[Próximo Capítulo &#62;]

@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v20-26-0]]
+=== Provérbios, 26
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v20-26-1]]
+
+^<<v20-26-1,1>>^ Como neve no verão e chuva na colheita, assim a honra é imprópria para o tolo.
+
+[[v20-26-2]]
+
+^<<v20-26-2,2>>^ Como o pardal que alça voo e a andorinha que atravessa o céu, a maldição imerecida não pousa sobre quem ela é dirigida.
+
+[[v20-26-3]]
+
+^<<v20-26-3,3>>^ Conduza o cavalo com o chicote, o jumento com o freio e o tolo com a vara nas costas.
+
+[[v20-26-4]]
+
+^<<v20-26-4,4>>^ Não responda aos argumentos insensatos do tolo, para que não se torne tolo como ele.
+
+[[v20-26-5]]
+
+^<<v20-26-5,5>>^ Responda aos argumentos insensatos do tolo, para que ele não se considere sábio.
+
+[[v20-26-6]]
+
+^<<v20-26-6,6>>^ Confiar ao tolo a responsabilidade de transmitir uma mensagem é como cortar o próprio pé ou beber veneno.
+
+[[v20-26-7]]
+
+^<<v20-26-7,7>>^ Um provérbio na boca do tolo é tão inútil quanto uma perna paralisada.
+
+[[v20-26-8]]
+
+^<<v20-26-8,8>>^ Honrar o tolo é tão insensato quanto amarrar a pedra à atiradeira.
+
+[[v20-26-9]]
+
+^<<v20-26-9,9>>^ Um provérbio na boca do tolo é como um ramo cheio de espinhos na mão de um bêbado.
+
+[[v20-26-10]]
+
+^<<v20-26-10,10>>^ Quem contrata um tolo ou o primeiro que passa é como o arqueiro que atira ao acaso.
+
+[[v20-26-11]]
+
+^<<v20-26-11,11>>^ Como o cão volta a seu vômito, assim o tolo repete sua insensatez.
+
+[[v20-26-12]]
+
+^<<v20-26-12,12>>^ Há mais esperança para o tolo que para aquele que se considera sábio.
+
+[[v20-26-13]]
+
+^<<v20-26-13,13>>^ O preguiçoso diz: "Há um leão no caminho! Tenho certeza de que há um leão lá fora!".
+
+[[v20-26-14]]
+
+^<<v20-26-14,14>>^ Como a porta gira nas dobradiças, assim o preguiçoso se revira na cama.
+
+[[v20-26-15]]
+
+^<<v20-26-15,15>>^ O preguiçoso pega a comida na mão, mas não se dá o trabalho de levá-la à boca.
+
+[[v20-26-16]]
+
+^<<v20-26-16,16>>^ O preguiçoso se considera mais esperto que sete conselheiros sábios.
+
+[[v20-26-17]]
+
+^<<v20-26-17,17>>^ Meter-se em discussão alheia é como puxar um cachorro pelas orelhas.
+
+[[v20-26-18]]
+
+^<<v20-26-18,18>>^ O louco que atira com arma mortal causa tanto estrago
+
+[[v20-26-19]]
+
+^<<v20-26-19,19>>^ quanto quem mente para um amigo e depois diz: "Estava só brincando!".
+
+[[v20-26-20]]
+
+^<<v20-26-20,20>>^ Sem lenha, o fogo apaga; sem intrigas, as brigas cessam.
+
+[[v20-26-21]]
+
+^<<v20-26-21,21>>^ Como as brasas acendem o carvão e o fogo acende a lenha, assim o briguento provoca conflitos.
+
+[[v20-26-22]]
+
+^<<v20-26-22,22>>^ Calúnias são como petiscos saborosos que descem até o íntimo de quem ouve.
+
+[[v20-26-23]]
+
+^<<v20-26-23,23>>^ Palavras suaves podem esconder um coração perverso, como uma camada de esmalte cobre o vaso de barro.
+
+[[v20-26-24]]
+
+^<<v20-26-24,24>>^ As pessoas podem encobrir o ódio com palavras agradáveis, mas isso não passa de engano.
+
+[[v20-26-25]]
+
+^<<v20-26-25,25>>^ Ainda que pareçam amáveis, não acredite nelas; seu coração está cheio de maldade.
+
+[[v20-26-26]]
+
+^<<v20-26-26,26>>^ Mesmo que escondam o ódio dissimuladamente, sua maldade será exposta em público.
+
+[[v20-26-27]]
+
+^<<v20-26-27,27>>^ Quem prepara uma armadilha para outros nela cairá; quem rola uma pedra sobre outros por ela será esmagado.
+
+[[v20-26-28]]
+
+^<<v20-26-28,28>>^ A língua mentirosa odeia suas vítimas; palavras bajuladoras causam ruína.
+
+'''
+
+xref:020-proverbios/020-proverbios-025.adoc#v20-25-0[&#60; Capítulo Anterior] | <<v20-26-0,Topo>> | xref:020-proverbios/020-proverbios-027.adoc#v20-27-0[Próximo Capítulo &#62;]

@@ -1,0 +1,129 @@
+include::./index.adoc[]
+
+[[v44-22-0]]
+=== Atos, 22
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v44-22-1]]
+
+^<<v44-22-1,1>>^ "Irmãos e pais", disse Paulo. "Ouçam-me enquanto apresento minha defesa."
+
+[[v44-22-2]]
+
+^<<v44-22-2,2>>^ Quando o ouviram falar em aramaico, o silêncio foi ainda maior.
+
+[[v44-22-3]]
+
+^<<v44-22-3,3>>^ Então Paulo disse: "Sou judeu, nascido em Tarso, cidade da Cilícia. Fui criado aqui em Jerusalém e educado por Gamaliel. Como aluno dele, fui instruído rigorosamente em nossas leis e nos costumes judaicos. Tornei-me muito zeloso de honrar a Deus em tudo que fazia, como vocês são hoje.
+
+[[v44-22-4]]
+
+^<<v44-22-4,4>>^ E fui ao encalço dos seguidores do Caminho, perseguindo alguns até a morte, prendendo homens e mulheres e lançando-os na prisão.
+
+[[v44-22-5]]
+
+^<<v44-22-5,5>>^ O sumo sacerdote e todo o conselho dos líderes do povo podem confirmar isso. Recebi deles cartas para nossos irmãos judeus em Damasco que me autorizavam a trazer os seguidores do Caminho de lá para Jerusalém, em cadeias, para serem castigados.
+
+[[v44-22-6]]
+
+^<<v44-22-6,6>>^ "Quando me aproximava de Damasco, por volta do meio-dia, de repente uma luz muito intensa brilhou ao meu redor.
+
+[[v44-22-7]]
+
+^<<v44-22-7,7>>^ Caí no chão e ouvi uma voz que me disse: ‘Saulo, Saulo, por que você me persegue?’.
+
+[[v44-22-8]]
+
+^<<v44-22-8,8>>^ "‘Quem és tu, Senhor?’, perguntei. "E a voz respondeu: ‘Sou Jesus, o nazareno, a quem você persegue’.
+
+[[v44-22-9]]
+
+^<<v44-22-9,9>>^ Os que me acompanhavam viram a luz, mas não entenderam a voz daquele que falava comigo.
+
+[[v44-22-10]]
+
+^<<v44-22-10,10>>^ "Então perguntei: ‘Que devo fazer, Senhor?’. "E o Senhor me disse: ‘Levante-se e entre em Damasco, onde lhe dirão tudo que você deve fazer’.
+
+[[v44-22-11]]
+
+^<<v44-22-11,11>>^ "A luz intensa havia me deixado cego, e meus companheiros tiveram de levar-me pela mão a Damasco.
+
+[[v44-22-12]]
+
+^<<v44-22-12,12>>^ Vivia ali Ananias, um homem devoto, dedicado à lei e muito respeitado por todos os judeus da cidade.
+
+[[v44-22-13]]
+
+^<<v44-22-13,13>>^ Ele veio, colocou-se ao meu lado e disse: ‘Irmão Saulo, volte a enxergar’. E, naquele mesmo instante, pude vê-lo.
+
+[[v44-22-14]]
+
+^<<v44-22-14,14>>^ "Então ele disse: ‘O Deus de nossos antepassados escolheu você para conhecer a vontade dele e para ver o Justo e ouvi-lo falar.
+
+[[v44-22-15]]
+
+^<<v44-22-15,15>>^ Você será testemunha dele, dizendo a todos o que viu e ouviu.
+
+[[v44-22-16]]
+
+^<<v44-22-16,16>>^ O que está esperando? Levante-se e seja batizado! Fique limpo de seus pecados invocando o nome do Senhor’.
+
+[[v44-22-17]]
+
+^<<v44-22-17,17>>^ "Depois que voltei a Jerusalém, estava orando no templo e tive uma visão,
+
+[[v44-22-18]]
+
+^<<v44-22-18,18>>^ na qual o Senhor me dizia: ‘Depressa! Saia de Jerusalém, pois o povo daqui não aceitará seu testemunho a meu respeito’.
+
+[[v44-22-19]]
+
+^<<v44-22-19,19>>^ "E eu respondi: ‘Senhor, sem dúvida eles sabem que em cada sinagoga eu prendia e açoitava aqueles que criam em ti.
+
+[[v44-22-20]]
+
+^<<v44-22-20,20>>^ E quando Estêvão, tua testemunha, foi morto, eu estava inteiramente de acordo. Fiquei ali e guardei os mantos que eles tiraram quando foram apedrejá-lo’.
+
+[[v44-22-21]]
+
+^<<v44-22-21,21>>^ "Mas o Senhor me disse: ‘Vá, pois eu o enviarei para longe, para os gentios’".
+
+[[v44-22-22]]
+
+^<<v44-22-22,22>>^ A multidão ouviu Paulo até ele dizer essa palavra. Então começaram a gritar: "Fora com esse sujeito! Ele não merece viver!".
+
+[[v44-22-23]]
+
+^<<v44-22-23,23>>^ Gritavam, arrancavam seus mantos e jogavam poeira para o alto.
+
+[[v44-22-24]]
+
+^<<v44-22-24,24>>^ O comandante trouxe Paulo para dentro e ordenou que ele fosse açoitado e interrogado a fim de descobrir por que a multidão tinha ficado tão furiosa.
+
+[[v44-22-25]]
+
+^<<v44-22-25,25>>^ Quando amarravam Paulo para açoitá-lo, ele disse ao oficial que estava ali: "A lei permite açoitar um cidadão romano sem que ele tenha sido julgado?".
+
+[[v44-22-26]]
+
+^<<v44-22-26,26>>^ Ao ouvir isso, o oficial foi ao comandante e perguntou: "O que o senhor está fazendo? Este homem é cidadão romano!".
+
+[[v44-22-27]]
+
+^<<v44-22-27,27>>^ O comandante perguntou a Paulo: "Diga-me, você é cidadão romano?". Ele respondeu: "Sim, eu sou".
+
+[[v44-22-28]]
+
+^<<v44-22-28,28>>^ "Eu também", disse o comandante. "E paguei caro por minha cidadania!" Paulo respondeu: "Mas eu sou cidadão de nascimento".
+
+[[v44-22-29]]
+
+^<<v44-22-29,29>>^ Quando os soldados que estavam prestes a interrogar Paulo ouviram que ele era cidadão romano, retiraram-se de imediato. Até mesmo o comandante ficou com medo ao saber que Paulo era cidadão romano, pois tinha mandado amarrá-lo.
+
+[[v44-22-30]]
+
+^<<v44-22-30,30>>^ No dia seguinte, o comandante ordenou que os principais sacerdotes se reunissem com o conselho dos líderes do povo. Queria descobrir exatamente qual era o problema, por isso soltou Paulo e mandou que o trouxessem diante deles.
+
+'''
+
+xref:044-atos/044-atos-021.adoc#v44-21-0[&#60; Capítulo Anterior] | <<v44-22-0,Topo>> | xref:044-atos/044-atos-023.adoc#v44-23-0[Próximo Capítulo &#62;]

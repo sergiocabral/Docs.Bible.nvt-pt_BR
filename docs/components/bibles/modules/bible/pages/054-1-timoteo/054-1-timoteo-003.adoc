@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v54-3-0]]
+=== 1 Timóteo, 3
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v54-3-1]]
+
+^<<v54-3-1,1>>^ Esta é uma afirmação digna de confiança: "Se alguém deseja ser bispo, deseja uma tarefa honrosa".
+
+[[v54-3-2]]
+
+^<<v54-3-2,2>>^ Portanto, o bispo deve ter uma vida irrepreensível. Deve ser marido de uma só mulher, ter autocontrole, viver sabiamente e ter boa reputação. Deve ser hospitaleiro e apto a ensinar.
+
+[[v54-3-3]]
+
+^<<v54-3-3,3>>^ Não deve beber vinho em excesso, nem ser violento. Antes, deve ser amável, pacífico e desapegado do dinheiro.
+
+[[v54-3-4]]
+
+^<<v54-3-4,4>>^ Deve liderar bem a própria família e ter filhos que o respeitem e lhe obedeçam.
+
+[[v54-3-5]]
+
+^<<v54-3-5,5>>^ Pois, se um homem não é capaz de liderar a própria família, como poderá cuidar da igreja de Deus?
+
+[[v54-3-6]]
+
+^<<v54-3-6,6>>^ Não deve ser recém-convertido, pois poderia se tornar orgulhoso, e o diabo o faria cair.
+
+[[v54-3-7]]
+
+^<<v54-3-7,7>>^ Além disso, os que são de fora devem falar bem dele, para que não seja desacreditado e caia na armadilha do diabo.
+
+[[v54-3-8]]
+
+^<<v54-3-8,8>>^ Da mesma forma, os diáconos devem ser respeitáveis e ter integridade. Não devem beber vinho em excesso, nem se deixar conduzir pela ganância.
+
+[[v54-3-9]]
+
+^<<v54-3-9,9>>^ Devem ser comprometidos com o segredo da fé e viver com a consciência limpa.
+
+[[v54-3-10]]
+
+^<<v54-3-10,10>>^ Antes de serem nomeados diáconos, é necessário que se faça uma avaliação cuidadosa. Se forem aprovados, então que exerçam a função de diáconos.
+
+[[v54-3-11]]
+
+^<<v54-3-11,11>>^ De igual modo, as mulheres devem ser respeitáveis e não caluniar ninguém. Devem ter autocontrole e ser fiéis em tudo que fazem.
+
+[[v54-3-12]]
+
+^<<v54-3-12,12>>^ O diácono deve ser marido de uma só mulher e liderar bem seus filhos e sua casa.
+
+[[v54-3-13]]
+
+^<<v54-3-13,13>>^ Aqueles que exercerem bem a função de diáconos serão recompensados com o respeito de outros e terão cada vez mais convicção de sua fé em Cristo Jesus.
+
+[[v54-3-14]]
+
+^<<v54-3-14,14>>^ Embora espere vê-lo em breve, escrevo-lhe estas coisas agora,
+
+[[v54-3-15]]
+
+^<<v54-3-15,15>>^ para que, se eu demorar, você saiba como as pessoas devem se comportar na casa de Deus. Ela é a igreja do Deus vivo, coluna e alicerce da verdade.
+
+[[v54-3-16]]
+
+^<<v54-3-16,16>>^ Sem dúvida, este é o grande segredo de nossa fé: Cristo foi revelado em corpo humano, justificado pelo Espírito, visto por anjos, anunciado às nações, crido em todo o mundo e levado para o céu em glória.
+
+'''
+
+xref:054-1-timoteo/054-1-timoteo-002.adoc#v54-2-0[&#60; Capítulo Anterior] | <<v54-3-0,Topo>> | xref:054-1-timoteo/054-1-timoteo-004.adoc#v54-4-0[Próximo Capítulo &#62;]

@@ -1,0 +1,113 @@
+include::./index.adoc[]
+
+[[v18-3-0]]
+=== Jó, 3
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v18-3-1]]
+
+^<<v18-3-1,1>>^ Por fim, Jó falou e amaldiçoou o dia de seu nascimento.
+
+[[v18-3-2]]
+
+^<<v18-3-2,2>>^ Disse ele:
+
+[[v18-3-3]]
+
+^<<v18-3-3,3>>^ "Apagado seja o dia em que nasci e a noite em que fui concebido.
+
+[[v18-3-4]]
+
+^<<v18-3-4,4>>^ Transforme-se esse dia em escuridão; Deus, lá do alto, o ignore, e luz nenhuma brilhe sobre ele.
+
+[[v18-3-5]]
+
+^<<v18-3-5,5>>^ Domine esse dia a escuridão absoluta; uma nuvem negra o cubra, e densa escuridão o encha de terror.
+
+[[v18-3-6]]
+
+^<<v18-3-6,6>>^ Apodere-se dessa noite a escuridão; nunca mais seja contada entre os dias do ano, nunca mais seja incluída entre os meses.
+
+[[v18-3-7]]
+
+^<<v18-3-7,7>>^ Sim, estéril seja essa noite, desprovida de toda a alegria.
+
+[[v18-3-8]]
+
+^<<v18-3-8,8>>^ Amaldiçoem esse dia os que vivem a amaldiçoar, aqueles que podem despertar o Leviatã.
+
+[[v18-3-9]]
+
+^<<v18-3-9,9>>^ Escureçam-se suas estrelas matutinas; espere o dia pela luz, mas em vão, e jamais veja a luz do amanhecer.
+
+[[v18-3-10]]
+
+^<<v18-3-10,10>>^ Amaldiçoado seja esse dia por não fechar o ventre de minha mãe, por permitir que eu nascesse, para presenciar todo este sofrimento.
+
+[[v18-3-11]]
+
+^<<v18-3-11,11>>^ "Por que eu não nasci morto? Por que não morri ao sair do ventre?
+
+[[v18-3-12]]
+
+^<<v18-3-12,12>>^ Por que me deitaram no colo de minha mãe? Por que ela me amamentou no seio?
+
+[[v18-3-13]]
+
+^<<v18-3-13,13>>^ Se eu tivesse morrido ao nascer, agora estaria em paz; sim, dormiria e repousaria.
+
+[[v18-3-14]]
+
+^<<v18-3-14,14>>^ Descansaria com os reis da terra e seus conselheiros, cujos edifícios agora estão em ruínas.
+
+[[v18-3-15]]
+
+^<<v18-3-15,15>>^ Descansaria com os príncipes, ricos em ouro, cujos palácios eram cheios de prata.
+
+[[v18-3-16]]
+
+^<<v18-3-16,16>>^ Por que não me sepultaram como uma criança que nasceu morta, como um bebê que nunca viu a luz?
+
+[[v18-3-17]]
+
+^<<v18-3-17,17>>^ Pois na morte os perversos já não causam problemas, e os cansados repousam.
+
+[[v18-3-18]]
+
+^<<v18-3-18,18>>^ Até mesmo os cativos encontram sossego nela, onde não há capatazes para ameaçá-los.
+
+[[v18-3-19]]
+
+^<<v18-3-19,19>>^ Os ricos e os pobres estão ali, e o escravo se vê livre de seu senhor.
+
+[[v18-3-20]]
+
+^<<v18-3-20,20>>^ "Por que conceder luz aos miseráveis e vida aos amargurados?
+
+[[v18-3-21]]
+
+^<<v18-3-21,21>>^ Anseiam pela morte, e ela não vem; cavam à procura dela mais que de tesouros ocultos.
+
+[[v18-3-22]]
+
+^<<v18-3-22,22>>^ Enchem-se de alegria quando enfim morrem e exultam quando chegam ao túmulo.
+
+[[v18-3-23]]
+
+^<<v18-3-23,23>>^ Por que conceder luz aos que não têm futuro, aos que Deus cercou de todos os lados?
+
+[[v18-3-24]]
+
+^<<v18-3-24,24>>^ De tanto gemer, não consigo comer; meus gritos de dor se derramam como água.
+
+[[v18-3-25]]
+
+^<<v18-3-25,25>>^ O que sempre temi veio sobre mim, o que tanto receava me aconteceu.
+
+[[v18-3-26]]
+
+^<<v18-3-26,26>>^ Não tenho paz, nem sossego; não tenho descanso, só aflição".
+
+'''
+
+xref:018-jo/018-jo-002.adoc#v18-2-0[&#60; Capítulo Anterior] | <<v18-3-0,Topo>> | xref:018-jo/018-jo-004.adoc#v18-4-0[Próximo Capítulo &#62;]

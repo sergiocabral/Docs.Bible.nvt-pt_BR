@@ -1,0 +1,45 @@
+include::./index.adoc[]
+
+[[v28-14-0]]
+=== Oséias, 14
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v28-14-1]]
+
+^<<v28-14-1,1>>^ Volte, ó Israel, para o SENHOR, seu Deus, pois seus pecados causaram sua queda.
+
+[[v28-14-2]]
+
+^<<v28-14-2,2>>^ Tragam suas confissões e voltem para o SENHOR. Digam-lhe: "Perdoa nossos pecados e recebe-nos com bondade, para que possamos oferecer-te nossos louvores.
+
+[[v28-14-3]]
+
+^<<v28-14-3,3>>^ A Assíria não pode nos salvar, nossos cavalos de guerra também não. Nunca mais diremos aos ídolos que fizemos: ‘Vocês são nossos deuses’. Somente em ti os órfãos encontram misericórdia".
+
+[[v28-14-4]]
+
+^<<v28-14-4,4>>^ "Então eu os curarei de sua infidelidade e os amarei com todo o meu ser, pois minha ira desaparecerá para sempre.
+
+[[v28-14-5]]
+
+^<<v28-14-5,5>>^ Serei para Israel como o orvalho refrescante. Israel florescerá como o lírio; lançará raízes profundas no solo, como os cedros do Líbano.
+
+[[v28-14-6]]
+
+^<<v28-14-6,6>>^ Seus ramos se estenderão como belas oliveiras, perfumados como os cedros do Líbano.
+
+[[v28-14-7]]
+
+^<<v28-14-7,7>>^ Meu povo viverá novamente à minha sombra; crescerá como o trigo e florescerá como a videira. Seu aroma será agradável, como o dos vinhos do Líbano.
+
+[[v28-14-8]]
+
+^<<v28-14-8,8>>^ "Ó Israel, fique longe dos ídolos! Sou eu que respondo às suas orações e cuido de vocês. Sou como a árvore sempre verde; todos os seus frutos vêm de mim."
+
+[[v28-14-9]]
+
+^<<v28-14-9,9>>^ Quem for sábio, entenda estas coisas; quem tiver discernimento, ouça com atenção. Os caminhos do SENHOR são retos, e neles andam os justos. Mas, nesses mesmos caminhos, os pecadores tropeçam e caem.
+
+'''
+
+xref:028-oseias/028-oseias-013.adoc#v28-13-0[&#60; Capítulo Anterior] | <<v28-14-0,Topo>> | xref:029-joel/029-joel-001.adoc#v29-1-0[Próximo Capítulo &#62;]

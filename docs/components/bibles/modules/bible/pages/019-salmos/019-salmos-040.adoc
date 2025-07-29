@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v19-40-0]]
+=== Salmos, 40
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-40-1]]
+
+^<<v19-40-1,1>>^ Esperei com paciência pelo SENHOR; ele se voltou para mim e ouviu meu clamor.
+
+[[v19-40-2]]
+
+^<<v19-40-2,2>>^ Tirou-me de um poço de desespero, de um atoleiro de lama. Pôs meus pés sobre uma rocha e firmou meus passos.
+
+[[v19-40-3]]
+
+^<<v19-40-3,3>>^ Deu-me um novo cântico para entoar, um hino de louvor a nosso Deus. Muitos verão o que ele fez, temerão e confiarão no SENHOR.
+
+[[v19-40-4]]
+
+^<<v19-40-4,4>>^ Como é feliz o que confia no SENHOR, que não depende dos arrogantes, nem dos que se desviam para a mentira!
+
+[[v19-40-5]]
+
+^<<v19-40-5,5>>^ SENHOR, meu Deus, tu nos fizeste muitas maravilhas, e teus planos para nós são tantos que não se pode contá-los; não há ninguém igual a ti. Se eu tentasse relatar todos os teus feitos, jamais chegaria ao fim.
+
+[[v19-40-6]]
+
+^<<v19-40-6,6>>^ Não tens prazer em ofertas nem em sacrifícios; agora que me fizeste ouvir, compreendo: tu não exiges holocaustos nem ofertas pelo pecado.
+
+[[v19-40-7]]
+
+^<<v19-40-7,7>>^ Então eu disse: "Aqui estou, conforme está escrito a meu respeito no livro.
+
+[[v19-40-8]]
+
+^<<v19-40-8,8>>^ Tenho prazer em fazer tua vontade, meu Deus, pois a tua lei está em meu coração".
+
+[[v19-40-9]]
+
+^<<v19-40-9,9>>^ Anunciei a tua justiça a toda a comunidade; não tive medo de falar, como bem sabes, ó SENHOR.
+
+[[v19-40-10]]
+
+^<<v19-40-10,10>>^ Não escondi em meu coração a tua justiça; falei de tua fidelidade e de tua salvação. Proclamei a toda a comunidade o teu amor e a tua verdade.
+
+[[v19-40-11]]
+
+^<<v19-40-11,11>>^ SENHOR, não retenhas de mim a tua compaixão; que o teu amor e a tua verdade sempre me protejam.
+
+[[v19-40-12]]
+
+^<<v19-40-12,12>>^ Pois as dificuldades me cercam; são tantas que não se pode contá-las. Meus pecados se acumularam de tal modo que não consigo enxergar saída. São mais numerosos que os cabelos de minha cabeça; por isso, perdi todo o ânimo.
+
+[[v19-40-13]]
+
+^<<v19-40-13,13>>^ Por favor, SENHOR, livra-me! Vem depressa, SENHOR, e ajuda-me!
+
+[[v19-40-14]]
+
+^<<v19-40-14,14>>^ Sejam envergonhados e humilhados os que procuram me matar. Voltem atrás em desonra os que se alegram com a minha desgraça.
+
+[[v19-40-15]]
+
+^<<v19-40-15,15>>^ Recuem horrorizados com a própria vergonha, pois disseram: "Ah! Agora o pegamos!".
+
+[[v19-40-16]]
+
+^<<v19-40-16,16>>^ Alegrem-se e exultem, porém, todos que te buscam. Todos que amam tua salvação, digam sempre: "Grande é o SENHOR!".
+
+[[v19-40-17]]
+
+^<<v19-40-17,17>>^ Quanto a mim, pobre e aflito, que o Senhor me mantenha em seus pensamentos. Tu és meu auxílio e minha salvação; ó meu Deus, não te demores!
+
+'''
+
+xref:019-salmos/019-salmos-039.adoc#v19-39-0[&#60; Capítulo Anterior] | <<v19-40-0,Topo>> | xref:019-salmos/019-salmos-041.adoc#v19-41-0[Próximo Capítulo &#62;]

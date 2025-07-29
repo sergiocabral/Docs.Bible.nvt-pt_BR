@@ -1,0 +1,113 @@
+include::./index.adoc[]
+
+[[v44-3-0]]
+=== Atos, 3
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v44-3-1]]
+
+^<<v44-3-1,1>>^ Certo dia, por volta das três da tarde, Pedro e João foram ao templo orar.
+
+[[v44-3-2]]
+
+^<<v44-3-2,2>>^ Um homem, aleijado de nascença, estava sendo carregado. Todos os dias, ele era colocado ao lado da porta chamada Formosa, para pedir esmolas a quem entrasse no templo.
+
+[[v44-3-3]]
+
+^<<v44-3-3,3>>^ Quando ele viu que Pedro e João iam entrar, pediu-lhes dinheiro.
+
+[[v44-3-4]]
+
+^<<v44-3-4,4>>^ Pedro e João se voltaram para ele. "Olhe para nós!", disse Pedro.
+
+[[v44-3-5]]
+
+^<<v44-3-5,5>>^ O homem fixou o olhar neles, esperando receber alguma esmola.
+
+[[v44-3-6]]
+
+^<<v44-3-6,6>>^ Pedro, no entanto, disse: "Não tenho prata nem ouro, mas lhe dou o que tenho. Em nome de Jesus Cristo, o nazareno, levante-se e ande!".
+
+[[v44-3-7]]
+
+^<<v44-3-7,7>>^ Então Pedro segurou o aleijado pela mão e o ajudou a levantar-se. No mesmo instante, os pés e os tornozelos do homem foram curados e fortalecidos.
+
+[[v44-3-8]]
+
+^<<v44-3-8,8>>^ De um salto, ele se levantou e começou a andar. Em seguida, caminhando, saltando e louvando a Deus, entrou no templo com eles.
+
+[[v44-3-9]]
+
+^<<v44-3-9,9>>^ Quando o viram caminhar e o ouviram louvar a Deus,
+
+[[v44-3-10]]
+
+^<<v44-3-10,10>>^ todos perceberam que era o mesmo mendigo que tantas vezes tinham visto na porta Formosa, e ficaram perplexos.
+
+[[v44-3-11]]
+
+^<<v44-3-11,11>>^ Admirados, correram todos para o Pórtico de Salomão, onde o homem permanecia com Pedro e João e não se afastava deles.
+
+[[v44-3-12]]
+
+^<<v44-3-12,12>>^ Pedro, percebendo o que ocorria, dirigiu-se à multidão. "Povo de Israel, por que ficam surpresos com isso?", disse ele. "Por que olham para nós como se tivéssemos feito este homem andar por nosso próprio poder ou devoção?
+
+[[v44-3-13]]
+
+^<<v44-3-13,13>>^ Pois foi o Deus de Abraão, de Isaque e de Jacó, o Deus de nossos antepassados, quem glorificou seu Servo Jesus, a quem vocês traíram e rejeitaram diante de Pilatos, apesar de ele ter decidido soltá-lo.
+
+[[v44-3-14]]
+
+^<<v44-3-14,14>>^ Vocês rejeitaram o Santo e Justo e, em seu lugar, exigiram que um assassino fosse liberto.
+
+[[v44-3-15]]
+
+^<<v44-3-15,15>>^ Mataram o autor da vida, mas Deus o ressuscitou dos mortos. E nós somos testemunhas desse fato!
+
+[[v44-3-16]]
+
+^<<v44-3-16,16>>^ "Pela fé no nome de Jesus, este homem que vocês veem e conhecem foi curado. A fé no nome de Jesus o curou diante de seus olhos.
+
+[[v44-3-17]]
+
+^<<v44-3-17,17>>^ "Irmãos, sei que vocês e seus líderes agiram por ignorância.
+
+[[v44-3-18]]
+
+^<<v44-3-18,18>>^ Mas Deus assim cumpriu o que todos os profetas haviam predito acerca do Cristo, que era necessário ele sofrer essas coisas.
+
+[[v44-3-19]]
+
+^<<v44-3-19,19>>^ Agora, arrependam-se e voltem-se para Deus, para que seus pecados sejam apagados.
+
+[[v44-3-20]]
+
+^<<v44-3-20,20>>^ Então, da presença do Senhor virão tempos de renovação, e ele enviará novamente Jesus, o Cristo que lhes foi designado.
+
+[[v44-3-21]]
+
+^<<v44-3-21,21>>^ Pois ele deve permanecer no céu até o tempo da restauração final de todas as coisas, conforme Deus prometeu há muito tempo por meio de seus santos profetas.
+
+[[v44-3-22]]
+
+^<<v44-3-22,22>>^ Moisés disse: ‘O Senhor, seu Deus, levantará para vocês um profeta como eu, do meio de seu povo. Ouçam com atenção tudo que ele lhes disser.
+
+[[v44-3-23]]
+
+^<<v44-3-23,23>>^ Quem não der ouvidos a esse profeta será eliminado do meio do povo’.
+
+[[v44-3-24]]
+
+^<<v44-3-24,24>>^ "A começar por Samuel, todos os profetas falaram sobre o que está acontecendo hoje.
+
+[[v44-3-25]]
+
+^<<v44-3-25,25>>^ Vocês são descendentes desses profetas e estão incluídos na aliança que Deus fez com seus antepassados ao dizer a Abraão: ‘Por meio de sua descendência, todas as famílias da terra serão abençoadas’.
+
+[[v44-3-26]]
+
+^<<v44-3-26,26>>^ Quando Deus ressuscitou seu Servo, ele o enviou primeiro a vocês, o povo de Israel, para abençoá-los, fazendo cada um de vocês se afastar de seus caminhos pecaminosos."
+
+'''
+
+xref:044-atos/044-atos-002.adoc#v44-2-0[&#60; Capítulo Anterior] | <<v44-3-0,Topo>> | xref:044-atos/044-atos-004.adoc#v44-4-0[Próximo Capítulo &#62;]

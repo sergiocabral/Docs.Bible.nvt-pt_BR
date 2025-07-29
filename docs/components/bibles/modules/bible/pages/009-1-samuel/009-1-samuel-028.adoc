@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v9-28-0]]
+=== 1 Samuel, 28
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v9-28-1]]
+
+^<<v9-28-1,1>>^ Naqueles dias, os filisteus reuniram suas tropas para outra guerra contra Israel. O rei Aquis disse a Davi: "Saiba que você e seus homens sairão à batalha comigo".
+
+[[v9-28-2]]
+
+^<<v9-28-2,2>>^ "Está bem", disse Davi. "Agora o senhor verá por si mesmo o que somos capazes de fazer." Então Aquis disse a Davi: "Colocarei você como meu guarda pessoal enquanto eu viver".
+
+[[v9-28-3]]
+
+^<<v9-28-3,3>>^ Nesse tempo, Samuel já havia morrido, e todo o Israel tinha chorado sua morte. Estava sepultado em Ramá, sua cidade natal. Saul havia expulsado da nação todos os médiuns e todos os que consultam os espíritos dos mortos.
+
+[[v9-28-4]]
+
+^<<v9-28-4,4>>^ Os filisteus acamparam em Suném, e Saul reuniu todo o exército israelita e acampou em Gilboa.
+
+[[v9-28-5]]
+
+^<<v9-28-5,5>>^ Quando Saul viu o imenso exército dos filisteus, entrou em pânico.
+
+[[v9-28-6]]
+
+^<<v9-28-6,6>>^ Consultou o SENHOR a respeito do que deveria fazer, mas o SENHOR não lhe respondeu, nem por sonhos, nem pelo Urim, nem por profetas.
+
+[[v9-28-7]]
+
+^<<v9-28-7,7>>^ Então Saul disse a seus conselheiros: "Procurem uma mulher que seja médium, para que eu pergunte a ela o que fazer". Seus conselheiros responderam: "Há uma médium em En-Dor".
+
+[[v9-28-8]]
+
+^<<v9-28-8,8>>^ Então Saul se disfarçou com roupas comuns e, acompanhado de dois de seus homens, foi à noite à casa da mulher. "Preciso falar com um homem que está morto", disse ele à mulher. "Você pode invocar o espírito dele para mim?"
+
+[[v9-28-9]]
+
+^<<v9-28-9,9>>^ "Quer que me matem?", respondeu ela. "Você sabe que Saul expulsou todos os médiuns e todos os que consultam os espíritos dos mortos. Por que prepara uma armadilha contra a minha vida?"
+
+[[v9-28-10]]
+
+^<<v9-28-10,10>>^ Saul, porém, jurou em nome do SENHOR e prometeu: "Tão certo como vive o SENHOR, nenhum mal lhe acontecerá por isso".
+
+[[v9-28-11]]
+
+^<<v9-28-11,11>>^ Por fim, a mulher disse: "De quem é o espírito que devo invocar?". "De Samuel", respondeu Saul.
+
+[[v9-28-12]]
+
+^<<v9-28-12,12>>^ Quando a mulher viu Samuel, gritou: "Você me enganou! Você é Saul!".
+
+[[v9-28-13]]
+
+^<<v9-28-13,13>>^ "Não tenha medo", disse o rei. "O que você vê?" "Vejo um deus subindo da terra", disse a mulher.
+
+[[v9-28-14]]
+
+^<<v9-28-14,14>>^ "Qual é a aparência dele?", perguntou Saul. "É um ancião envolto num manto", respondeu ela. Saul entendeu que era Samuel e se curvou diante dele com o rosto em terra.
+
+[[v9-28-15]]
+
+^<<v9-28-15,15>>^ Então Samuel perguntou a Saul: "Por que me perturba, chamando-me de volta?". "Porque estou muito angustiado", respondeu Saul. "Os filisteus estão em guerra contra mim! Deus me abandonou e não me responde por meio de profetas nem por sonhos. Por isso chamei o senhor, para que me diga o que fazer."
+
+[[v9-28-16]]
+
+^<<v9-28-16,16>>^ Samuel, porém, disse: "Por que me consultar, se o SENHOR o abandonou e se tornou seu inimigo?
+
+[[v9-28-17]]
+
+^<<v9-28-17,17>>^ O SENHOR fez exatamente conforme tinha dito por meu intermédio. Rasgou de suas mãos o reino e o entregou a outro, Davi.
+
+[[v9-28-18]]
+
+^<<v9-28-18,18>>^ O SENHOR lhe fez isso hoje porque você se recusou a executar a ira ardente dele contra os amalequitas.
+
+[[v9-28-19]]
+
+^<<v9-28-19,19>>^ Além disso, o SENHOR entregará você e o exército de Israel nas mãos dos filisteus e, amanhã, você e seus filhos estarão aqui comigo. O SENHOR entregará o exército de Israel nas mãos dos filisteus".
+
+[[v9-28-20]]
+
+^<<v9-28-20,20>>^ No mesmo instante, Saul caiu estendido no chão, paralisado de terror com as palavras de Samuel. Estava fraco de fome, pois não havia comido nada durante todo aquele dia e toda aquela noite.
+
+[[v9-28-21]]
+
+^<<v9-28-21,21>>^ Quando a mulher viu quanto ele estava perturbado, disse: "Meu senhor, obedeci à sua ordem e arrisquei minha vida.
+
+[[v9-28-22]]
+
+^<<v9-28-22,22>>^ Agora, faça o que digo e deixe que eu lhe dê alguma coisa para comer, a fim de que recupere as forças para a viagem de volta".
+
+[[v9-28-23]]
+
+^<<v9-28-23,23>>^ Mas Saul se recusou a comer. Seus servos também insistiram para que ele se alimentasse, até que, por fim, ele concordou. Então ele se levantou do chão e foi sentar-se na cama.
+
+[[v9-28-24]]
+
+^<<v9-28-24,24>>^ A mulher estava engordando um bezerro, de modo que saiu depressa e o matou. Pegou um punhado de farinha, preparou a massa e assou um pão sem fermento.
+
+[[v9-28-25]]
+
+^<<v9-28-25,25>>^ Trouxe a refeição para Saul e seus conselheiros, e eles comeram. Depois, saíram naquela mesma noite.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-027.adoc#v9-27-0[&#60; Capítulo Anterior] | <<v9-28-0,Topo>> | xref:009-1-samuel/009-1-samuel-029.adoc#v9-29-0[Próximo Capítulo &#62;]

@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v20-25-0]]
+=== Provérbios, 25
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v20-25-1]]
+
+^<<v20-25-1,1>>^ Estes são mais provérbios de Salomão, reunidos pelos conselheiros de Ezequias, rei de Judá.
+
+[[v20-25-2]]
+
+^<<v20-25-2,2>>^ É direito de Deus ocultar certas coisas, e é direito do rei tentar descobri-las.
+
+[[v20-25-3]]
+
+^<<v20-25-3,3>>^ Ninguém consegue compreender a altura do céu e a profundidade da terra; de igual modo, ninguém sabe o que se passa na mente do rei.
+
+[[v20-25-4]]
+
+^<<v20-25-4,4>>^ Remova as impurezas da prata, e o ourives poderá com ela criar um vaso.
+
+[[v20-25-5]]
+
+^<<v20-25-5,5>>^ Remova os perversos da corte do rei, e seu reinado se firmará na justiça.
+
+[[v20-25-6]]
+
+^<<v20-25-6,6>>^ Não chame atenção para si diante do rei, nem exija um lugar entre as pessoas importantes.
+
+[[v20-25-7]]
+
+^<<v20-25-7,7>>^ É melhor esperar até ser convidado perante os nobres que ser mandado embora e humilhado em público. Só porque você viu algo,
+
+[[v20-25-8]]
+
+^<<v20-25-8,8>>^ não se apresse em ir ao tribunal. Pois o que você fará no final se seu oponente lhe provar que está errado?
+
+[[v20-25-9]]
+
+^<<v20-25-9,9>>^ Quando discutir com o próximo, não revele os segredos de outra pessoa.
+
+[[v20-25-10]]
+
+^<<v20-25-10,10>>^ Do contrário, você ganhará má fama e nunca mais se livrará dela.
+
+[[v20-25-11]]
+
+^<<v20-25-11,11>>^ O conselho oferecido na hora certa é agradável como maçãs de ouro numa bandeja de prata.
+
+[[v20-25-12]]
+
+^<<v20-25-12,12>>^ Para quem se dispõe a ouvir, a crítica construtiva é como brinco de ouro ou joia de ouro puro.
+
+[[v20-25-13]]
+
+^<<v20-25-13,13>>^ O mensageiro confiável é como a neve no verão; reanima o espírito de seu senhor.
+
+[[v20-25-14]]
+
+^<<v20-25-14,14>>^ A pessoa que promete um presente, mas não o entrega, é como nuvens e ventos que não trazem chuva.
+
+[[v20-25-15]]
+
+^<<v20-25-15,15>>^ A paciência pode convencer o príncipe, e palavras suaves podem quebrar ossos.
+
+[[v20-25-16]]
+
+^<<v20-25-16,16>>^ Se você encontrar mel, não coma demais, para não enjoar e vomitar.
+
+[[v20-25-17]]
+
+^<<v20-25-17,17>>^ Não visite seu vizinho com muita frequência, pois deixará de ser bem-vindo.
+
+[[v20-25-18]]
+
+^<<v20-25-18,18>>^ Mentir a respeito de outra pessoa faz tanto mal quanto agredi-la com um pedaço de pau, feri-la com uma espada ou atingi-la com uma flecha afiada.
+
+[[v20-25-19]]
+
+^<<v20-25-19,19>>^ Confiar numa pessoa desleal em tempos de dificuldade é como mastigar com um dente quebrado ou caminhar com um pé aleijado.
+
+[[v20-25-20]]
+
+^<<v20-25-20,20>>^ Entoar canções alegres para uma pessoa com o coração aflito é como tirar o agasalho de alguém num dia de frio ou derramar vinagre sobre uma ferida.
+
+[[v20-25-21]]
+
+^<<v20-25-21,21>>^ Se seus inimigos tiverem fome, dê-lhes de comer; se tiverem sede, dê-lhes de beber.
+
+[[v20-25-22]]
+
+^<<v20-25-22,22>>^ Você amontoará brasas vivas sobre a cabeça deles, e o SENHOR o recompensará.
+
+[[v20-25-23]]
+
+^<<v20-25-23,23>>^ Tão certo como o vento do norte traz chuva, a língua que espalha boatos provoca a ira.
+
+[[v20-25-24]]
+
+^<<v20-25-24,24>>^ É melhor viver sozinho no canto de um sótão que morar com uma esposa briguenta numa bela casa.
+
+[[v20-25-25]]
+
+^<<v20-25-25,25>>^ Boas notícias vindas de uma terra distante são como água fresca para o sedento.
+
+[[v20-25-26]]
+
+^<<v20-25-26,26>>^ O justo que cede à pressão do perverso é como nascente poluída ou fonte cheia de lama.
+
+[[v20-25-27]]
+
+^<<v20-25-27,27>>^ Não faz bem comer mel demais, nem é bom procurar honras para si.
+
+[[v20-25-28]]
+
+^<<v20-25-28,28>>^ Quem não tem domínio próprio é como uma cidade sem muros.
+
+'''
+
+xref:020-proverbios/020-proverbios-024.adoc#v20-24-0[&#60; Capítulo Anterior] | <<v20-25-0,Topo>> | xref:020-proverbios/020-proverbios-026.adoc#v20-26-0[Próximo Capítulo &#62;]

@@ -1,0 +1,141 @@
+include::./index.adoc[]
+
+[[v20-16-0]]
+=== Provérbios, 16
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v20-16-1]]
+
+^<<v20-16-1,1>>^ É da natureza humana fazer planos, mas a resposta certa vem do SENHOR.
+
+[[v20-16-2]]
+
+^<<v20-16-2,2>>^ Ainda que as pessoas se considerem puras, o SENHOR examina as intenções de cada um.
+
+[[v20-16-3]]
+
+^<<v20-16-3,3>>^ Confie ao SENHOR tudo que você faz, e seus planos serão bem-sucedidos.
+
+[[v20-16-4]]
+
+^<<v20-16-4,4>>^ O SENHOR fez tudo com propósito, até mesmo o perverso para o dia da calamidade.
+
+[[v20-16-5]]
+
+^<<v20-16-5,5>>^ Os orgulhosos são detestáveis para o SENHOR; certamente serão castigados.
+
+[[v20-16-6]]
+
+^<<v20-16-6,6>>^ Amor e fidelidade fazem expiação pelo pecado; o temor do SENHOR evita o mal.
+
+[[v20-16-7]]
+
+^<<v20-16-7,7>>^ Quando a vida de uma pessoa agrada o SENHOR, até seus inimigos vivem em paz com ela.
+
+[[v20-16-8]]
+
+^<<v20-16-8,8>>^ É melhor ter pouco com justiça que ser rico com desonestidade.
+
+[[v20-16-9]]
+
+^<<v20-16-9,9>>^ É da natureza humana fazer planos, mas é o SENHOR quem dirige nossos passos.
+
+[[v20-16-10]]
+
+^<<v20-16-10,10>>^ As decisões do rei têm grande autoridade; ele nunca deve julgar de modo injusto.
+
+[[v20-16-11]]
+
+^<<v20-16-11,11>>^ O SENHOR exige balanças e pesos exatos; ele determina os padrões da imparcialidade.
+
+[[v20-16-12]]
+
+^<<v20-16-12,12>>^ A maldade é detestável para o rei, pois seu governo é estabelecido sobre a justiça.
+
+[[v20-16-13]]
+
+^<<v20-16-13,13>>^ O rei se agrada de palavras que vêm de lábios justos e ama quem fala o que é certo.
+
+[[v20-16-14]]
+
+^<<v20-16-14,14>>^ A ira do rei é como uma sentença de morte, mas o sábio procura acalmá-lo.
+
+[[v20-16-15]]
+
+^<<v20-16-15,15>>^ Quando o rei sorri, há vida; seu favor refresca como chuva de primavera.
+
+[[v20-16-16]]
+
+^<<v20-16-16,16>>^ É melhor adquirir sabedoria que ouro, e é melhor obter discernimento que prata.
+
+[[v20-16-17]]
+
+^<<v20-16-17,17>>^ O caminho dos justos os afasta do mal; quem segue esse caminho está seguro.
+
+[[v20-16-18]]
+
+^<<v20-16-18,18>>^ O orgulho precede a destruição; a arrogância precede a queda.
+
+[[v20-16-19]]
+
+^<<v20-16-19,19>>^ É melhor viver humildemente com os pobres que repartir o despojo com os orgulhosos.
+
+[[v20-16-20]]
+
+^<<v20-16-20,20>>^ Quem ouve a instrução prospera; quem confia no SENHOR é feliz.
+
+[[v20-16-21]]
+
+^<<v20-16-21,21>>^ O sábio é conhecido por seu discernimento; palavras agradáveis são convincentes.
+
+[[v20-16-22]]
+
+^<<v20-16-22,22>>^ A sensatez é fonte de vida para quem a possui, mas é desperdício disciplinar os insensatos.
+
+[[v20-16-23]]
+
+^<<v20-16-23,23>>^ Da mente sábia vêm conselhos sábios; as palavras dos sábios são convincentes.
+
+[[v20-16-24]]
+
+^<<v20-16-24,24>>^ Palavras bondosas são como mel: doces para a alma e saudáveis para o corpo.
+
+[[v20-16-25]]
+
+^<<v20-16-25,25>>^ Há caminhos que a pessoa considera corretos, mas acabam levando à estrada da morte.
+
+[[v20-16-26]]
+
+^<<v20-16-26,26>>^ É bom que os trabalhadores tenham apetite; o estômago vazio os impulsiona.
+
+[[v20-16-27]]
+
+^<<v20-16-27,27>>^ A pessoa sem caráter cria problemas; suas palavras são fogo destruidor.
+
+[[v20-16-28]]
+
+^<<v20-16-28,28>>^ O perverso semeia discórdia; o difamador separa até os melhores amigos.
+
+[[v20-16-29]]
+
+^<<v20-16-29,29>>^ A pessoa violenta engana os companheiros e os leva para o mau caminho.
+
+[[v20-16-30]]
+
+^<<v20-16-30,30>>^ Com olhos semicerrados as pessoas tramam o mal; com sorriso malicioso o põem em prática.
+
+[[v20-16-31]]
+
+^<<v20-16-31,31>>^ Os cabelos brancos são coroa de glória, para quem andou nos caminhos da justiça.
+
+[[v20-16-32]]
+
+^<<v20-16-32,32>>^ É melhor ser paciente que poderoso; é melhor ter autocontrole que conquistar uma cidade.
+
+[[v20-16-33]]
+
+^<<v20-16-33,33>>^ As pessoas podem lançar as sortes, mas quem determina o resultado é o SENHOR.
+
+'''
+
+xref:020-proverbios/020-proverbios-015.adoc#v20-15-0[&#60; Capítulo Anterior] | <<v20-16-0,Topo>> | xref:020-proverbios/020-proverbios-017.adoc#v20-17-0[Próximo Capítulo &#62;]

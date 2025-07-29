@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v19-38-0]]
+=== Salmos, 38
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-38-1]]
+
+^<<v19-38-1,1>>^ Ó SENHOR, não me repreendas em tua ira, nem me disciplines em tua fúria!
+
+[[v19-38-2]]
+
+^<<v19-38-2,2>>^ Tuas flechas se cravam fundo em mim, e o peso de tua mão me esmaga.
+
+[[v19-38-3]]
+
+^<<v19-38-3,3>>^ Por causa de tua ira, todo o meu corpo adoece; minha saúde está arruinada, por causa de meu pecado.
+
+[[v19-38-4]]
+
+^<<v19-38-4,4>>^ Minha culpa me sufoca; é um fardo pesado e insuportável.
+
+[[v19-38-5]]
+
+^<<v19-38-5,5>>^ Minhas feridas infeccionaram e cheiram mal, por causa de minha insensatez.
+
+[[v19-38-6]]
+
+^<<v19-38-6,6>>^ Estou encurvado e atormentado; entristecido, ando o dia todo de um lado para o outro.
+
+[[v19-38-7]]
+
+^<<v19-38-7,7>>^ Meu corpo arde em febre, minha saúde está arruinada.
+
+[[v19-38-8]]
+
+^<<v19-38-8,8>>^ Estou exausto e abatido; meus gemidos vêm de um coração angustiado.
+
+[[v19-38-9]]
+
+^<<v19-38-9,9>>^ Tu conheces meus desejos, Senhor, e ouves cada um de meus suspiros.
+
+[[v19-38-10]]
+
+^<<v19-38-10,10>>^ Meu coração bate depressa, minhas forças se esvaem, e a luz de meus olhos se apaga.
+
+[[v19-38-11]]
+
+^<<v19-38-11,11>>^ Amigos e conhecidos se afastam de mim, por causa de minha doença, e até minha família se mantém distante.
+
+[[v19-38-12]]
+
+^<<v19-38-12,12>>^ Meus inimigos preparam armadilhas para me matar; os que desejam meu mal tramam para me arruinar e passam o dia planejando sua traição.
+
+[[v19-38-13]]
+
+^<<v19-38-13,13>>^ Eu, porém, me faço de surdo para suas ameaças; como mudo, permaneço calado diante deles.
+
+[[v19-38-14]]
+
+^<<v19-38-14,14>>^ Escolhi nada ouvir e nada responder.
+
+[[v19-38-15]]
+
+^<<v19-38-15,15>>^ Pois espero por ti, ó SENHOR; responde por mim, Senhor, meu Deus.
+
+[[v19-38-16]]
+
+^<<v19-38-16,16>>^ Orei: "Não deixes que meus inimigos zombem de mim, nem que se divirtam com minha queda".
+
+[[v19-38-17]]
+
+^<<v19-38-17,17>>^ Estou à beira de um colapso; enfrento dor constante.
+
+[[v19-38-18]]
+
+^<<v19-38-18,18>>^ Confesso, porém, minha culpa; sinto profundo lamento do que fiz.
+
+[[v19-38-19]]
+
+^<<v19-38-19,19>>^ Meus inimigos são muitos e fortes; eles me odeiam sem razão.
+
+[[v19-38-20]]
+
+^<<v19-38-20,20>>^ Pagam o bem com o mal e opõem-se a mim porque procuro o bem.
+
+[[v19-38-21]]
+
+^<<v19-38-21,21>>^ Não me abandones, SENHOR; não permaneças distante, meu Deus.
+
+[[v19-38-22]]
+
+^<<v19-38-22,22>>^ Vem depressa me ajudar, ó Senhor, meu salvador!
+
+'''
+
+xref:019-salmos/019-salmos-037.adoc#v19-37-0[&#60; Capítulo Anterior] | <<v19-38-0,Topo>> | xref:019-salmos/019-salmos-039.adoc#v19-39-0[Próximo Capítulo &#62;]

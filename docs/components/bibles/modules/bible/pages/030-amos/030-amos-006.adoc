@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v30-6-0]]
+=== Amós, 6
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v30-6-1]]
+
+^<<v30-6-1,1>>^ Que aflição espera vocês que vivem sossegados em Jerusalém e vocês que se sentem seguros em Samaria! São líderes famosos em Israel, e as pessoas recorrem a vocês.
+
+[[v30-6-2]]
+
+^<<v30-6-2,2>>^ Vão, porém, a Calné e vejam o que aconteceu ali. Depois, vão à grande cidade de Hamate e desçam à cidade filisteia de Gate. Vocês não são melhores que elas, e vejam como foram destruídas.
+
+[[v30-6-3]]
+
+^<<v30-6-3,3>>^ Vocês afastam qualquer pensamento de calamidade vindoura, mas suas ações só apressam o dia do castigo.
+
+[[v30-6-4]]
+
+^<<v30-6-4,4>>^ Que aflição espera vocês que se deitam em camas de marfim e se espreguiçam em seus sofás, comendo a carne de cordeiros do rebanho e dos novilhos engordados no estábulo.
+
+[[v30-6-5]]
+
+^<<v30-6-5,5>>^ Entoam canções ao som da harpa e pensam ser grandes músicos, como Davi.
+
+[[v30-6-6]]
+
+^<<v30-6-6,6>>^ Bebem vinho em taças enormes e se perfumam com os melhores óleos aromáticos; não se importam com a ruína da nação.
+
+[[v30-6-7]]
+
+^<<v30-6-7,7>>^ Por isso, serão os primeiros levados para o exílio; as festas dos que viviam sossegados cessarão.
+
+[[v30-6-8]]
+
+^<<v30-6-8,8>>^ O SENHOR Soberano jurou por seu próprio nome, e é isto que ele, o SENHOR, o Deus dos Exércitos, diz: "Não suporto a arrogância de Israel e odeio suas fortalezas. Entregarei esta cidade e tudo que nela há a seus inimigos".
+
+[[v30-6-9]]
+
+^<<v30-6-9,9>>^ (Se restarem dez homens numa casa, todos morrerão.
+
+[[v30-6-10]]
+
+^<<v30-6-10,10>>^ E, quando um parente responsável por sepultar os mortos entrar na casa para tirá-los de lá, perguntará ao que restou: "Há mais alguém com você?". E, quando o sobrevivente começar a responder: "Não, eu juro pelo…", o parente o interromperá e dirá: "Pare! Nem sequer mencione o nome do SENHOR".)
+
+[[v30-6-11]]
+
+^<<v30-6-11,11>>^ Quando o SENHOR der a ordem, as casas, grandes e pequenas, serão despedaçadas.
+
+[[v30-6-12]]
+
+^<<v30-6-12,12>>^ Acaso os cavalos podem galopar sobre as rochas? Alguém pode ará-las com bois? Vocês transformam a retidão em veneno e o fruto da justiça, em amargura.
+
+[[v30-6-13]]
+
+^<<v30-6-13,13>>^ Contam vantagem pela conquista de Lo-Debar: "Acaso não conquistamos Carnaim com nossa própria força?".
+
+[[v30-6-14]]
+
+^<<v30-6-14,14>>^ "Ó povo de Israel, estou prestes a trazer contra vocês uma nação", diz o SENHOR, o Deus dos Exércitos. "Ela os oprimirá em toda a sua terra, desde Lebo-Hamate, ao norte, até o vale de Arabá, ao sul."
+
+'''
+
+xref:030-amos/030-amos-005.adoc#v30-5-0[&#60; Capítulo Anterior] | <<v30-6-0,Topo>> | xref:030-amos/030-amos-007.adoc#v30-7-0[Próximo Capítulo &#62;]

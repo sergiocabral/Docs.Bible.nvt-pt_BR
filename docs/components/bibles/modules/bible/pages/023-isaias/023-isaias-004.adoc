@@ -1,0 +1,33 @@
+include::./index.adoc[]
+
+[[v23-4-0]]
+=== Isaías, 4
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v23-4-1]]
+
+^<<v23-4-1,1>>^ Naquele dia, restarão tão poucos homens que sete mulheres brigarão por um só e dirão: "Deixe que todas nós nos casemos com você! Providenciaremos nossa comida e nossas roupas. Só queremos seu sobrenome, para que não zombem de nós!".
+
+[[v23-4-2]]
+
+^<<v23-4-2,2>>^ Naquele dia, porém, o renovo do Senhor será belo e glorioso; o fruto da terra será o orgulho e o esplendor de todos que sobreviverem em Israel.
+
+[[v23-4-3]]
+
+^<<v23-4-3,3>>^ Todos que restarem em Sião serão um povo santo, aqueles que permanecerem em Jerusalém, que estiverem registrados entre os vivos.
+
+[[v23-4-4]]
+
+^<<v23-4-4,4>>^ O Senhor lavará a imundície da bela Sião; removerá de Jerusalém as manchas de sangue com o quente sopro de julgamento abrasador.
+
+[[v23-4-5]]
+
+^<<v23-4-5,5>>^ Então o SENHOR proverá sombra para o monte Sião, e todos se reunirão ali. Durante o dia, proverá uma camada de nuvem e, à noite, de fumaça e fogo ardente, que cobrirá a terra gloriosa.
+
+[[v23-4-6]]
+
+^<<v23-4-6,6>>^ Será abrigo contra o calor do dia e esconderijo contra tempestades e chuvas.
+
+'''
+
+xref:023-isaias/023-isaias-003.adoc#v23-3-0[&#60; Capítulo Anterior] | <<v23-4-0,Topo>> | xref:023-isaias/023-isaias-005.adoc#v23-5-0[Próximo Capítulo &#62;]

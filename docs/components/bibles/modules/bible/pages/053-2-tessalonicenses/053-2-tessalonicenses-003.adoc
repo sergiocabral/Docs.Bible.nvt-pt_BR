@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v53-3-0]]
+=== 2 Tessalonicenses, 3
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v53-3-1]]
+
+^<<v53-3-1,1>>^ Finalmente, irmãos, pedimos que orem por nós. Orem para que a mensagem do Senhor se espalhe rapidamente e seja honrada por onde quer que vá, como aconteceu quando chegou a vocês.
+
+[[v53-3-2]]
+
+^<<v53-3-2,2>>^ Orem também para que sejamos libertos dos perversos e maus, pois nem todos têm fé.
+
+[[v53-3-3]]
+
+^<<v53-3-3,3>>^ Mas o Senhor é fiel; ele os fortalecerá e os guardará do maligno.
+
+[[v53-3-4]]
+
+^<<v53-3-4,4>>^ E confiamos no Senhor que vocês estão fazendo e continuarão a fazer aquilo que lhes ordenamos.
+
+[[v53-3-5]]
+
+^<<v53-3-5,5>>^ Que o Senhor conduza o coração de vocês ao amor de Deus e à perseverança que vem de Cristo.
+
+[[v53-3-6]]
+
+^<<v53-3-6,6>>^ E agora, irmãos, nós lhes damos a seguinte ordem em nome de nosso Senhor Jesus Cristo: mantenham-se afastados de todos os irmãos que vivem ociosamente e não seguem a tradição que receberam de nós.
+
+[[v53-3-7]]
+
+^<<v53-3-7,7>>^ Pois vocês sabem que devem seguir nosso exemplo. Não ficamos ociosos quando estivemos com vocês,
+
+[[v53-3-8]]
+
+^<<v53-3-8,8>>^ nem nos alimentamos às custas dos outros. Trabalhamos arduamente dia e noite, a fim de não sermos um peso para nenhum de vocês.
+
+[[v53-3-9]]
+
+^<<v53-3-9,9>>^ Embora tivéssemos o direito de pedir que nos alimentassem, queríamos lhes dar o exemplo.
+
+[[v53-3-10]]
+
+^<<v53-3-10,10>>^ Quando ainda estávamos com vocês, lhes ordenamos: "Quem não quiser trabalhar não deve comer".
+
+[[v53-3-11]]
+
+^<<v53-3-11,11>>^ Contudo, soubemos que alguns de vocês estão vivendo ociosamente, recusando-se a trabalhar e intrometendo-se em assuntos alheios.
+
+[[v53-3-12]]
+
+^<<v53-3-12,12>>^ Ordenamos e insistimos em nome do Senhor Jesus Cristo que sosseguem e trabalhem para obter o próprio sustento.
+
+[[v53-3-13]]
+
+^<<v53-3-13,13>>^ Quanto a vocês, irmãos, nunca se cansem de fazer o bem.
+
+[[v53-3-14]]
+
+^<<v53-3-14,14>>^ Observem quem se recusa a obedecer àquilo que lhes digo nesta carta. Afastem-se dele, para que se sinta envergonhado.
+
+[[v53-3-15]]
+
+^<<v53-3-15,15>>^ Não o considerem como inimigo, mas advirtam-no como a um irmão.
+
+[[v53-3-16]]
+
+^<<v53-3-16,16>>^ Que o próprio Senhor da paz lhes dê paz em todos os momentos e situações. Que o Senhor esteja com todos vocês.
+
+[[v53-3-17]]
+
+^<<v53-3-17,17>>^ Aqui está minha saudação de próprio punho: Paulo. Assim faço em todas as minhas cartas para provar que eu mesmo as escrevi.
+
+[[v53-3-18]]
+
+^<<v53-3-18,18>>^ Que a graça de nosso Senhor Jesus Cristo esteja com todos vocês.
+
+'''
+
+xref:053-2-tessalonicenses/053-2-tessalonicenses-002.adoc#v53-2-0[&#60; Capítulo Anterior] | <<v53-3-0,Topo>> | xref:054-1-timoteo/054-1-timoteo-001.adoc#v54-1-0[Próximo Capítulo &#62;]

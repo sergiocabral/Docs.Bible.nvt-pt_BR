@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v2-1-0]]
+=== Êxodo, 1
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v2-1-1]]
+
+^<<v2-1-1,1>>^ Estes são os nomes dos filhos de Israel que se mudaram para o Egito com Jacó, cada um com sua família:
+
+[[v2-1-2]]
+
+^<<v2-1-2,2>>^ Rúben, Simeão, Levi, Judá,
+
+[[v2-1-3]]
+
+^<<v2-1-3,3>>^ Issacar, Zebulom, Benjamim,
+
+[[v2-1-4]]
+
+^<<v2-1-4,4>>^ Dã, Naftali, Gade e Aser.
+
+[[v2-1-5]]
+
+^<<v2-1-5,5>>^ Ao todo, desceram ao Egito setenta descendentes de Jacó, incluindo José, que já estava lá.
+
+[[v2-1-6]]
+
+^<<v2-1-6,6>>^ Com o tempo, José e seus irmãos morreram, e toda aquela geração chegou ao fim.
+
+[[v2-1-7]]
+
+^<<v2-1-7,7>>^ Mas seus descendentes, os israelitas, tiveram muitos filhos e netos. Multiplicaram-se tanto que se fortaleceram e encheram a terra.
+
+[[v2-1-8]]
+
+^<<v2-1-8,8>>^ Por fim, subiu ao poder no Egito um novo rei, que não sabia coisa alguma sobre José.
+
+[[v2-1-9]]
+
+^<<v2-1-9,9>>^ O rei disse a seu povo: "Vejam, agora o povo de Israel é mais numeroso e mais forte que nós.
+
+[[v2-1-10]]
+
+^<<v2-1-10,10>>^ Precisamos tramar um plano para evitar que se tornem ainda mais numerosos. Se não o fizermos e houver guerra, eles se unirão a nossos inimigos, lutarão contra nós e depois fugirão desta terra".
+
+[[v2-1-11]]
+
+^<<v2-1-11,11>>^ Assim, os egípcios nomearam capatazes para dirigir o trabalho do povo. Sob opressão, os israelitas construíram Pitom e Ramessés, duas cidades que serviam de centros de armazenamento para o faraó.
+
+[[v2-1-12]]
+
+^<<v2-1-12,12>>^ Porém, quanto mais eram oprimidos, mais os israelitas se multiplicavam e se espalhavam, e mais preocupados os egípcios ficavam.
+
+[[v2-1-13]]
+
+^<<v2-1-13,13>>^ Por isso, os egípcios os forçavam com crueldade a trabalhar pesado.
+
+[[v2-1-14]]
+
+^<<v2-1-14,14>>^ Tornaram a vida deles amarga, obrigando-os a preparar argamassa, produzir tijolos e fazer todo o trabalho nos campos. Eram cruéis em todas as suas exigências.
+
+[[v2-1-15]]
+
+^<<v2-1-15,15>>^ O faraó, rei do Egito, deu a seguinte ordem às parteiras hebreias Sifrá e Puá:
+
+[[v2-1-16]]
+
+^<<v2-1-16,16>>^ "Quando ajudarem as hebreias a dar à luz, prestem atenção durante o parto. Se for menino, matem o bebê; se for menina, deixem que viva".
+
+[[v2-1-17]]
+
+^<<v2-1-17,17>>^ Mas as parteiras temiam a Deus e se recusaram a obedecer à ordem do rei; assim, deixaram os meninos viver.
+
+[[v2-1-18]]
+
+^<<v2-1-18,18>>^ Então o rei do Egito mandou chamar as parteiras e lhes perguntou: "Por que fizeram isso? Por que deixaram os meninos viver?".
+
+[[v2-1-19]]
+
+^<<v2-1-19,19>>^ "As mulheres hebreias não são como as egípcias", responderam as parteiras ao faraó. "São mais vigorosas e dão à luz com tanta rapidez que não conseguimos chegar a tempo."
+
+[[v2-1-20]]
+
+^<<v2-1-20,20>>^ Deus foi bondoso com as parteiras, e os israelitas continuaram a multiplicar-se e tornaram-se cada vez mais fortes.
+
+[[v2-1-21]]
+
+^<<v2-1-21,21>>^ E, porque as parteiras temeram a Deus, ele deu a cada uma delas a sua própria família.
+
+[[v2-1-22]]
+
+^<<v2-1-22,22>>^ Então o faraó deu a seguinte ordem a todo o seu povo: "Lancem no rio Nilo todos os meninos hebreus recém-nascidos, mas deixem as meninas viver".
+
+'''
+
+xref:001-genesis/001-genesis-050.adoc#v1-50-0[&#60; Capítulo Anterior] | <<v2-1-0,Topo>> | xref:002-exodo/002-exodo-002.adoc#v2-2-0[Próximo Capítulo &#62;]

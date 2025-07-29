@@ -1,0 +1,237 @@
+include::./index.adoc[]
+
+[[v1-41-0]]
+=== Gênesis, 41
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v1-41-1]]
+
+^<<v1-41-1,1>>^ Dois anos inteiros se passaram, e o faraó sonhou que estava em pé na margem do rio Nilo.
+
+[[v1-41-2]]
+
+^<<v1-41-2,2>>^ Em seu sonho, viu sete vacas gordas e saudáveis saírem do rio e começarem a pastar no meio dos juncos.
+
+[[v1-41-3]]
+
+^<<v1-41-3,3>>^ Em seguida, viu outras sete vacas saírem do Nilo. Eram feias e magras e pararam junto das vacas gordas à beira do rio.
+
+[[v1-41-4]]
+
+^<<v1-41-4,4>>^ Então as vacas feias e magras comeram as sete vacas gordas e saudáveis. Nessa parte do sonho, o faraó acordou.
+
+[[v1-41-5]]
+
+^<<v1-41-5,5>>^ Depois, voltou a dormir e teve outro sonho. Dessa vez, viu sete espigas de trigo, cheias e boas, que cresciam em um só talo.
+
+[[v1-41-6]]
+
+^<<v1-41-6,6>>^ Em seguida, apareceram mais sete espigas, mas elas eram murchas e ressequidas pelo vento do leste.
+
+[[v1-41-7]]
+
+^<<v1-41-7,7>>^ Então as espigas miúdas engoliram as sete espigas cheias e bem formadas. O faraó acordou novamente e percebeu que era um sonho.
+
+[[v1-41-8]]
+
+^<<v1-41-8,8>>^ Na manhã seguinte, perturbado com os sonhos, o faraó chamou todos os magos e os sábios do Egito. Contou-lhes os sonhos, mas ninguém conseguiu interpretá-los.
+
+[[v1-41-9]]
+
+^<<v1-41-9,9>>^ Por fim, o chefe dos copeiros se pronunciou. "Hoje eu me lembrei do meu erro", disse ao faraó.
+
+[[v1-41-10]]
+
+^<<v1-41-10,10>>^ "Algum tempo atrás, o senhor se irou com o chefe dos padeiros e comigo e mandou prender-nos no palácio do capitão da guarda.
+
+[[v1-41-11]]
+
+^<<v1-41-11,11>>^ Certa noite, o chefe dos padeiros e eu tivemos, cada um, um sonho, e cada sonho tinha o seu significado.
+
+[[v1-41-12]]
+
+^<<v1-41-12,12>>^ Estava conosco na prisão um rapaz hebreu que era escravo do capitão da guarda. Contamos a ele nossos sonhos, e ele explicou o que cada um significava.
+
+[[v1-41-13]]
+
+^<<v1-41-13,13>>^ E tudo aconteceu exatamente como ele havia previsto. Fui restaurado ao meu cargo de chefe dos copeiros, e o chefe dos padeiros foi enforcado em público."
+
+[[v1-41-14]]
+
+^<<v1-41-14,14>>^ Na mesma hora, o faraó mandou chamar José, e ele foi trazido depressa da prisão. Depois de barbear-se e trocar de roupa, apresentou-se ao faraó.
+
+[[v1-41-15]]
+
+^<<v1-41-15,15>>^ Disse o faraó a José: "Tive um sonho esta noite e ninguém aqui conseguiu me dizer o que ele significa. Soube, porém, que ao ouvir um sonho você é capaz de interpretá-lo".
+
+[[v1-41-16]]
+
+^<<v1-41-16,16>>^ José respondeu: "Essa capacidade não está em minhas mãos, mas Deus pode revelar o significado ao faraó e acalmá-lo".
+
+[[v1-41-17]]
+
+^<<v1-41-17,17>>^ Então o faraó contou o sonho a José: "Em meu sonho, eu estava em pé na margem do rio Nilo
+
+[[v1-41-18]]
+
+^<<v1-41-18,18>>^ e vi sete vacas gordas e saudáveis saírem do rio e começarem a pastar no meio dos juncos.
+
+[[v1-41-19]]
+
+^<<v1-41-19,19>>^ Em seguida, vi saírem do rio sete vacas feias e magras que pareciam doentes. Nunca vi animais tão horríveis em toda a terra do Egito.
+
+[[v1-41-20]]
+
+^<<v1-41-20,20>>^ Essas vacas feias e magras comeram as sete vacas gordas.
+
+[[v1-41-21]]
+
+^<<v1-41-21,21>>^ Contudo, não parecia que haviam acabado de comer as outras vacas, pois continuavam tão magras e feias quanto antes. Então, acordei.
+
+[[v1-41-22]]
+
+^<<v1-41-22,22>>^ "Em meu sonho, também vi sete espigas de trigo, cheias e boas, que cresciam em um só talo.
+
+[[v1-41-23]]
+
+^<<v1-41-23,23>>^ Em seguida, apareceram outras sete espigas, mas elas eram murchas, miúdas e ressequidas pelo vento do leste.
+
+[[v1-41-24]]
+
+^<<v1-41-24,24>>^ As espigas miúdas engoliram as sete espigas saudáveis. Contei os sonhos aos magos, mas ninguém foi capaz de dizer o que significam".
+
+[[v1-41-25]]
+
+^<<v1-41-25,25>>^ José respondeu: "Os dois sonhos do faraó significam a mesma coisa. Deus está dizendo ao faraó de antemão o que ele vai fazer.
+
+[[v1-41-26]]
+
+^<<v1-41-26,26>>^ As sete vacas saudáveis e as sete espigas de trigo cheias representam sete anos de prosperidade.
+
+[[v1-41-27]]
+
+^<<v1-41-27,27>>^ As sete vacas feias e magras e as sete espigas miúdas e ressequidas pelo vento do leste representam sete anos de fome.
+
+[[v1-41-28]]
+
+^<<v1-41-28,28>>^ "Acontecerá exatamente como eu descrevi, pois Deus revelou ao faraó de antemão o que ele vai fazer.
+
+[[v1-41-29]]
+
+^<<v1-41-29,29>>^ Os próximos sete anos serão um período de grande prosperidade em toda a terra do Egito.
+
+[[v1-41-30]]
+
+^<<v1-41-30,30>>^ Depois, haverá sete anos de fome tão grande que toda essa prosperidade será esquecida no Egito, pois a fome destruirá a terra.
+
+[[v1-41-31]]
+
+^<<v1-41-31,31>>^ A escassez de alimento será tão terrível que apagará até a lembrança dos anos de fartura.
+
+[[v1-41-32]]
+
+^<<v1-41-32,32>>^ Quanto ao fato de terem sido dois sonhos parecidos, significa que esses acontecimentos foram decretados por Deus, e ele os fará ocorrer em breve.
+
+[[v1-41-33]]
+
+^<<v1-41-33,33>>^ "Portanto, o faraó deve encontrar um homem inteligente e sábio e encarregá-lo de administrar o Egito.
+
+[[v1-41-34]]
+
+^<<v1-41-34,34>>^ O faraó também deve nomear supervisores sobre a terra, para que recolham um quinto de todas as colheitas durante os sete anos de fartura.
+
+[[v1-41-35]]
+
+^<<v1-41-35,35>>^ Encarregue-os de juntar todo o alimento produzido nos anos bons que virão e levá-lo para os armazéns do faraó. Mande-os estocar e guardar os cereais, para que haja mantimento nas cidades.
+
+[[v1-41-36]]
+
+^<<v1-41-36,36>>^ Desse modo, quando os sete anos de fome vierem sobre a terra do Egito, haverá comida suficiente. Assim, a fome não destruirá a terra".
+
+[[v1-41-37]]
+
+^<<v1-41-37,37>>^ O faraó e seus oficiais gostaram das sugestões de José.
+
+[[v1-41-38]]
+
+^<<v1-41-38,38>>^ Por isso, o faraó perguntou aos oficiais: "Será que encontraremos alguém como este homem? Sem dúvida, há nele o espírito de Deus!".
+
+[[v1-41-39]]
+
+^<<v1-41-39,39>>^ Então o faraó disse a José: "Uma vez que Deus lhe revelou o significado dos sonhos, é evidente que não há ninguém tão inteligente ou sábio quanto você.
+
+[[v1-41-40]]
+
+^<<v1-41-40,40>>^ Ficará encarregado de minha corte, e todo o meu povo obedecerá às suas ordens. Apenas eu, que ocupo o trono, terei uma posição superior à sua".
+
+[[v1-41-41]]
+
+^<<v1-41-41,41>>^ O faraó acrescentou: "Eu o coloco oficialmente no comando de toda a terra do Egito".
+
+[[v1-41-42]]
+
+^<<v1-41-42,42>>^ Então o faraó tirou do dedo o seu anel com o selo real e o pôs no dedo de José. Mandou vesti-lo com roupas de linho fino e pôs uma corrente de ouro em seu pescoço.
+
+[[v1-41-43]]
+
+^<<v1-41-43,43>>^ Também o fez andar na carruagem reservada para quem era o segundo no poder, e, por onde José passava, gritava-se a ordem: "Ajoelhem-se!". Assim, o faraó colocou José no comando de todo o Egito
+
+[[v1-41-44]]
+
+^<<v1-41-44,44>>^ e lhe disse: "Eu sou o faraó, mas ninguém levantará a mão ou o pé em toda a terra do Egito sem a sua permissão".
+
+[[v1-41-45]]
+
+^<<v1-41-45,45>>^ O faraó deu a José um nome egípcio: Zafenate-Paneia. Também lhe deu uma mulher, que se chamava Azenate. Ela era filha de Potífera, sacerdote de Om. Assim, José recebeu autoridade sobre todo o Egito.
+
+[[v1-41-46]]
+
+^<<v1-41-46,46>>^ Tinha 30 anos quando começou a servir na corte do faraó, o rei do Egito. Depois de sair da presença do faraó, José foi inspecionar toda a terra do Egito.
+
+[[v1-41-47]]
+
+^<<v1-41-47,47>>^ Como previsto, durante sete anos a terra produziu fartas colheitas.
+
+[[v1-41-48]]
+
+^<<v1-41-48,48>>^ Ao longo desse tempo, José juntou todas as colheitas do Egito e armazenou nas cidades os cereais produzidos nos campos ao redor.
+
+[[v1-41-49]]
+
+^<<v1-41-49,49>>^ Armazenou uma quantidade imensa de cereais, como a areia do mar. Por fim, parou de manter registros, pois havia demais para medir.
+
+[[v1-41-50]]
+
+^<<v1-41-50,50>>^ Durante esse tempo, antes do primeiro ano de fome, José e sua mulher, Azenate, filha de Potífera, sacerdote de Om, tiveram dois filhos.
+
+[[v1-41-51]]
+
+^<<v1-41-51,51>>^ José chamou o filho mais velho de Manassés, pois disse: "Deus me fez esquecer todas as minhas dificuldades e toda a família de meu pai".
+
+[[v1-41-52]]
+
+^<<v1-41-52,52>>^ José chamou o segundo filho de Efraim, pois disse: "Deus me fez prosperar na terra da minha aflição".
+
+[[v1-41-53]]
+
+^<<v1-41-53,53>>^ Por fim, terminaram os sete anos de colheitas fartas em toda a terra do Egito,
+
+[[v1-41-54]]
+
+^<<v1-41-54,54>>^ e começaram os sete anos de fome, como José havia previsto. A fome também afetou as regiões vizinhas, mas havia alimento de sobra em todo o Egito.
+
+[[v1-41-55]]
+
+^<<v1-41-55,55>>^ Depois de algum tempo, porém, a fome também se espalhou pelo Egito. Quando o povo clamou ao faraó para que lhe desse alimento, ele respondeu a todos os egípcios: "Dirijam-se a José e sigam as instruções dele".
+
+[[v1-41-56]]
+
+^<<v1-41-56,56>>^ Quando faltou alimento em toda parte, José mandou abrir os armazéns e vendeu cereais aos egípcios, pois a fome era terrível em toda a terra do Egito.
+
+[[v1-41-57]]
+
+^<<v1-41-57,57>>^ Gente de todos os lugares ia ao Egito comprar cereais de José, pois a fome era terrível no mundo inteiro.
+
+'''
+
+xref:001-genesis/001-genesis-040.adoc#v1-40-0[&#60; Capítulo Anterior] | <<v1-41-0,Topo>> | xref:001-genesis/001-genesis-042.adoc#v1-42-0[Próximo Capítulo &#62;]

@@ -1,0 +1,169 @@
+include::./index.adoc[]
+
+[[v13-8-0]]
+=== 1 Crônicas, 8
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v13-8-1]]
+
+^<<v13-8-1,1>>^ O primeiro filho de Benjamim foi Belá, o segundo, Asbel, o terceiro, Aará,
+
+[[v13-8-2]]
+
+^<<v13-8-2,2>>^ o quarto, Noá, e o quinto, Rafa.
+
+[[v13-8-3]]
+
+^<<v13-8-3,3>>^ Os filhos de Belá foram: Adar, Gera, Abiúde,
+
+[[v13-8-4]]
+
+^<<v13-8-4,4>>^ Abisua, Naamã, Aoá,
+
+[[v13-8-5]]
+
+^<<v13-8-5,5>>^ Gera, Sefufá e Hurão.
+
+[[v13-8-6]]
+
+^<<v13-8-6,6>>^ Os filhos de Eúde, chefes dos clãs que habitavam em Geba, foram deportados para Maanate.
+
+[[v13-8-7]]
+
+^<<v13-8-7,7>>^ Os filhos de Eúde foram: Naamã, Aías e Gera. Gera, que os exilou, foi o pai de Uzá e Aiúde.
+
+[[v13-8-8]]
+
+^<<v13-8-8,8>>^ Depois que Saarim se divorciou de suas esposas Husim e Baara, teve filhos na terra de Moabe.
+
+[[v13-8-9]]
+
+^<<v13-8-9,9>>^ Hodes, sua esposa, deu à luz Jobabe, Zíbia, Messa, Malcã,
+
+[[v13-8-10]]
+
+^<<v13-8-10,10>>^ Jeús, Saquias e Mirma. Todos esses filhos foram chefes de clãs.
+
+[[v13-8-11]]
+
+^<<v13-8-11,11>>^ Husim, esposa de Saarim, deu à luz Abitube e Elpaal.
+
+[[v13-8-12]]
+
+^<<v13-8-12,12>>^ Os filhos de Elpaal foram Héber, Misã, Semede (que construiu as cidades de Ono e Lode, com seus povoados),
+
+[[v13-8-13]]
+
+^<<v13-8-13,13>>^ Berias e Sema. Todos eles foram chefes de clãs que habitavam em Aijalom; eles expulsaram os moradores de Gate.
+
+[[v13-8-14]]
+
+^<<v13-8-14,14>>^ Aiô, Sasaque, Jeremote,
+
+[[v13-8-15]]
+
+^<<v13-8-15,15>>^ Zebadias, Arade, Éder,
+
+[[v13-8-16]]
+
+^<<v13-8-16,16>>^ Micael, Ispa e Joá foram os filhos de Berias.
+
+[[v13-8-17]]
+
+^<<v13-8-17,17>>^ Zebadias, Mesulão, Hizqui, Héber,
+
+[[v13-8-18]]
+
+^<<v13-8-18,18>>^ Ismerai, Izlias e Jobabe foram filhos de Elpaal.
+
+[[v13-8-19]]
+
+^<<v13-8-19,19>>^ Jaquim, Zicri, Zabdi,
+
+[[v13-8-20]]
+
+^<<v13-8-20,20>>^ Elienai, Ziletai, Eliel,
+
+[[v13-8-21]]
+
+^<<v13-8-21,21>>^ Adaías, Beraías e Sinrate foram filhos de Simei.
+
+[[v13-8-22]]
+
+^<<v13-8-22,22>>^ Ispã, Héber, Eliel,
+
+[[v13-8-23]]
+
+^<<v13-8-23,23>>^ Abdom, Zicri, Hanã,
+
+[[v13-8-24]]
+
+^<<v13-8-24,24>>^ Hananias, Elão, Antotias,
+
+[[v13-8-25]]
+
+^<<v13-8-25,25>>^ Ifdeias e Penuel foram filhos de Sasaque.
+
+[[v13-8-26]]
+
+^<<v13-8-26,26>>^ Sanserai, Searias, Atalias,
+
+[[v13-8-27]]
+
+^<<v13-8-27,27>>^ Jaaresias, Elias e Zicri foram filhos de Jeroão.
+
+[[v13-8-28]]
+
+^<<v13-8-28,28>>^ Esses foram os chefes dos clãs, conforme listados em seus registros genealógicos; todos moravam em Jerusalém.
+
+[[v13-8-29]]
+
+^<<v13-8-29,29>>^ Jeiel, pai de Gibeom, morava em Gibeom. Sua esposa se chamava Maaca,
+
+[[v13-8-30]]
+
+^<<v13-8-30,30>>^ e seu filho mais velho, Abdom. Os outros filhos de Jeiel foram: Zur, Quis, Baal, Ner, Nadabe,
+
+[[v13-8-31]]
+
+^<<v13-8-31,31>>^ Gedor, Aiô, Zacarias
+
+[[v13-8-32]]
+
+^<<v13-8-32,32>>^ e Miclote, que gerou Simeão. Todos moravam com suas famílias, próximos uns dos outros, em Jerusalém.
+
+[[v13-8-33]]
+
+^<<v13-8-33,33>>^ Ner gerou Quis. Quis gerou Saul. Os filhos de Saul foram: Jônatas, Malquisua, Abinadabe e Isbosete.
+
+[[v13-8-34]]
+
+^<<v13-8-34,34>>^ O filho de Jônatas se chamava Mefibosete. Mefibosete gerou Mica.
+
+[[v13-8-35]]
+
+^<<v13-8-35,35>>^ Os filhos de Mica foram: Pitom, Meleque, Tareia e Acaz.
+
+[[v13-8-36]]
+
+^<<v13-8-36,36>>^ Acaz gerou Jadá. Os filhos de Jadá foram: Alemete, Azmavete e Zinri. Zinri gerou Moza.
+
+[[v13-8-37]]
+
+^<<v13-8-37,37>>^ Moza gerou Bineá. Bineá gerou Refaías. Refaías gerou Eleasá. Eleasá gerou Azel.
+
+[[v13-8-38]]
+
+^<<v13-8-38,38>>^ Azel teve seis filhos: Azricão, Bocru, Ismael, Searias, Obadias e Hanã. Todos esses foram filhos de Azel.
+
+[[v13-8-39]]
+
+^<<v13-8-39,39>>^ Eseque, irmão de Azel, teve três filhos: o primeiro se chamava Ulão, o segundo, Jeús, e o terceiro, Elifelete.
+
+[[v13-8-40]]
+
+^<<v13-8-40,40>>^ Todos os filhos de Ulão foram guerreiros valentes e arqueiros habilidosos. Tiveram muitos filhos e netos, 150 ao todo. Todos esses foram descendentes de Benjamim.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-007.adoc#v13-7-0[&#60; Capítulo Anterior] | <<v13-8-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-009.adoc#v13-9-0[Próximo Capítulo &#62;]

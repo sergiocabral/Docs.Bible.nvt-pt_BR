@@ -1,0 +1,149 @@
+include::./index.adoc[]
+
+[[v20-3-0]]
+=== Provérbios, 3
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v20-3-1]]
+
+^<<v20-3-1,1>>^ Meu filho, não se esqueça de minhas instruções; guarde meus mandamentos em seu coração.
+
+[[v20-3-2]]
+
+^<<v20-3-2,2>>^ Se assim fizer, viverá muitos anos, e sua vida será cheia de paz.
+
+[[v20-3-3]]
+
+^<<v20-3-3,3>>^ Não permita que a bondade e a lealdade o abandonem; prenda-as ao redor do pescoço e escreva-as no fundo do coração.
+
+[[v20-3-4]]
+
+^<<v20-3-4,4>>^ Então você conseguirá favor e boa reputação, diante de Deus e das pessoas.
+
+[[v20-3-5]]
+
+^<<v20-3-5,5>>^ Confie no SENHOR de todo o coração; não dependa de seu próprio entendimento.
+
+[[v20-3-6]]
+
+^<<v20-3-6,6>>^ Busque a vontade dele em tudo que fizer, e ele lhe mostrará o caminho que deve seguir.
+
+[[v20-3-7]]
+
+^<<v20-3-7,7>>^ Não se impressione com sua própria sabedoria; tema o SENHOR e afaste-se do mal.
+
+[[v20-3-8]]
+
+^<<v20-3-8,8>>^ Então você terá saúde para o corpo e força para os ossos.
+
+[[v20-3-9]]
+
+^<<v20-3-9,9>>^ Honre o SENHOR com suas riquezas e com a melhor parte de tudo que produzir.
+
+[[v20-3-10]]
+
+^<<v20-3-10,10>>^ Então seus celeiros se encherão de cereais, e seus tonéis transbordarão de vinho.
+
+[[v20-3-11]]
+
+^<<v20-3-11,11>>^ Meu filho, não rejeite a disciplina do SENHOR; não desanime quando ele o corrigir.
+
+[[v20-3-12]]
+
+^<<v20-3-12,12>>^ Pois o SENHOR corrige quem ele ama, assim como o pai corrige o filho a quem ele quer bem.
+
+[[v20-3-13]]
+
+^<<v20-3-13,13>>^ Feliz é a pessoa que encontra sabedoria, aquela que adquire entendimento.
+
+[[v20-3-14]]
+
+^<<v20-3-14,14>>^ Pois a sabedoria dá mais lucro que a prata e rende mais que o ouro.
+
+[[v20-3-15]]
+
+^<<v20-3-15,15>>^ A sabedoria vale muito mais que rubis; nada do que você deseja se compara a ela.
+
+[[v20-3-16]]
+
+^<<v20-3-16,16>>^ Com a mão direita, ela oferece vida longa; com a esquerda, riqueza e honra.
+
+[[v20-3-17]]
+
+^<<v20-3-17,17>>^ Ela o guiará por estradas agradáveis; todos os seus caminhos levam a uma vida de paz.
+
+[[v20-3-18]]
+
+^<<v20-3-18,18>>^ A sabedoria é árvore de vida para quem dela toma posse; felizes os que se apegam a ela com firmeza.
+
+[[v20-3-19]]
+
+^<<v20-3-19,19>>^ Por meio da sabedoria, o SENHOR fundou a terra; por meio do entendimento, estabeleceu os céus.
+
+[[v20-3-20]]
+
+^<<v20-3-20,20>>^ Por seu conhecimento, brotam as fontes profundas e do céu cai o orvalho durante a noite.
+
+[[v20-3-21]]
+
+^<<v20-3-21,21>>^ Meu filho, não perca de vista o bom senso e o discernimento; apegue-se a eles,
+
+[[v20-3-22]]
+
+^<<v20-3-22,22>>^ pois darão vigor à sua alma e serão como joias em seu pescoço.
+
+[[v20-3-23]]
+
+^<<v20-3-23,23>>^ Eles o manterão seguro em seu caminho, e seus pés não tropeçarão.
+
+[[v20-3-24]]
+
+^<<v20-3-24,24>>^ Quando for dormir, não sentirá medo; quando se deitar, terá sono tranquilo.
+
+[[v20-3-25]]
+
+^<<v20-3-25,25>>^ Não precisará temer o desastre repentino, nem a destruição que vem sobre os perversos.
+
+[[v20-3-26]]
+
+^<<v20-3-26,26>>^ Pois o SENHOR será sua segurança; não permitirá que seu pé fique preso numa armadilha.
+
+[[v20-3-27]]
+
+^<<v20-3-27,27>>^ Não deixe de fazer o bem àqueles que precisarem, sempre que isso estiver ao seu alcance.
+
+[[v20-3-28]]
+
+^<<v20-3-28,28>>^ Se você pode ajudar seu próximo agora, não lhe diga: "Volte amanhã, e lhe darei algo".
+
+[[v20-3-29]]
+
+^<<v20-3-29,29>>^ Não planeje o mal contra seu próximo, pois quem mora por perto confia em você.
+
+[[v20-3-30]]
+
+^<<v20-3-30,30>>^ Não procure motivos para brigar, se ninguém lhe fez mal.
+
+[[v20-3-31]]
+
+^<<v20-3-31,31>>^ Não tenha inveja dos violentos, nem imite sua conduta.
+
+[[v20-3-32]]
+
+^<<v20-3-32,32>>^ Esses perversos são detestáveis para o SENHOR, mas aos justos ele oferece sua amizade.
+
+[[v20-3-33]]
+
+^<<v20-3-33,33>>^ O SENHOR amaldiçoa a casa dos perversos, mas abençoa o lar dos justos.
+
+[[v20-3-34]]
+
+^<<v20-3-34,34>>^ O SENHOR zomba dos zombadores, mas concede graça aos humildes.
+
+[[v20-3-35]]
+
+^<<v20-3-35,35>>^ Os sábios recebem honra como herança, mas os tolos são envergonhados em público.
+
+'''
+
+xref:020-proverbios/020-proverbios-002.adoc#v20-2-0[&#60; Capítulo Anterior] | <<v20-3-0,Topo>> | xref:020-proverbios/020-proverbios-004.adoc#v20-4-0[Próximo Capítulo &#62;]

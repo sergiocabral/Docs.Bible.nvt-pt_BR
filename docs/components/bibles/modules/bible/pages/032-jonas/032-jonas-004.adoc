@@ -1,0 +1,53 @@
+include::./index.adoc[]
+
+[[v32-4-0]]
+=== Jonas, 4
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v32-4-1]]
+
+^<<v32-4-1,1>>^ Isso tudo deixou Jonas aborrecido e muito irado.
+
+[[v32-4-2]]
+
+^<<v32-4-2,2>>^ Então, orou ao SENHOR: "Antes de eu sair de casa, não foi isso que eu disse que tu farias, ó SENHOR? Por esse motivo fugi para Társis! Sabia que és Deus misericordioso e compassivo, lento para se irar e cheio de amor. Estás pronto a voltar atrás e não trazer calamidade.
+
+[[v32-4-3]]
+
+^<<v32-4-3,3>>^ Agora tira minha vida, SENHOR! Para mim é melhor morrer que viver desse modo".
+
+[[v32-4-4]]
+
+^<<v32-4-4,4>>^ O SENHOR respondeu: "Você acha certo ficar tão irado assim?".
+
+[[v32-4-5]]
+
+^<<v32-4-5,5>>^ Então Jonas foi até um lugar a leste de Nínive e construiu um abrigo para sentar-se à sua sombra enquanto esperava para ver o que aconteceria à cidade.
+
+[[v32-4-6]]
+
+^<<v32-4-6,6>>^ O SENHOR Deus fez crescer ali uma planta, que logo espalhou suas folhas grandes sobre a cabeça de Jonas e o protegeu do sol. Isso aliviou o desconforto de Jonas, e ele ficou muito grato pela planta.
+
+[[v32-4-7]]
+
+^<<v32-4-7,7>>^ No dia seguinte, porém, ao amanhecer, Deus também mandou uma lagarta. Ela comeu o talo da planta, que secou.
+
+[[v32-4-8]]
+
+^<<v32-4-8,8>>^ Quando o calor do sol se intensificou, Deus mandou um vento leste quente soprar sobre Jonas. O sol bateu em sua cabeça até ele sentir-se tão fraco que desejou morrer. "Para mim é melhor morrer que viver desse modo", disse ele.
+
+[[v32-4-9]]
+
+^<<v32-4-9,9>>^ Deus perguntou a Jonas: "Você acha certo ficar tão irado por causa da planta?". Jonas respondeu: "Sim, acho certo ficar tão irado a ponto de querer morrer!".
+
+[[v32-4-10]]
+
+^<<v32-4-10,10>>^ Então o SENHOR disse: "Você tem compaixão de uma planta, embora não tenha feito coisa alguma para que ela crescesse. Ela depressa apareceu e depressa murchou.
+
+[[v32-4-11]]
+
+^<<v32-4-11,11>>^ Nínive, porém, tem mais de 120 mil pessoas que não sabem decidir entre o certo e o errado, sem falar de muitos animais. Acaso não devo ter compaixão dessa grande cidade?".
+
+'''
+
+xref:032-jonas/032-jonas-003.adoc#v32-3-0[&#60; Capítulo Anterior] | <<v32-4-0,Topo>> | xref:033-miqueias/033-miqueias-001.adoc#v33-1-0[Próximo Capítulo &#62;]

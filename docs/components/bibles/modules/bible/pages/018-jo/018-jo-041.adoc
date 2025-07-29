@@ -1,0 +1,145 @@
+include::./index.adoc[]
+
+[[v18-41-0]]
+=== Jó, 41
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v18-41-1]]
+
+^<<v18-41-1,1>>^ "Você é capaz de pegar o Leviatã com um anzol ou prender sua língua com um laço?
+
+[[v18-41-2]]
+
+^<<v18-41-2,2>>^ É capaz de amarrá-lo, passando uma corda por seu nariz, ou atravessar seu queixo com um gancho?
+
+[[v18-41-3]]
+
+^<<v18-41-3,3>>^ Acaso ele implorará por misericórdia ou suplicará por piedade?
+
+[[v18-41-4]]
+
+^<<v18-41-4,4>>^ Aceitará trabalhar para você e ser seu escravo para o resto da vida?
+
+[[v18-41-5]]
+
+^<<v18-41-5,5>>^ Fará dele um animal de estimação, como um pássaro, ou deixará que suas meninas brinquem com ele?
+
+[[v18-41-6]]
+
+^<<v18-41-6,6>>^ Comerciantes o comprarão para vendê-lo no mercado?
+
+[[v18-41-7]]
+
+^<<v18-41-7,7>>^ É possível furar sua pele com lanças ou ferir sua cabeça com arpões?
+
+[[v18-41-8]]
+
+^<<v18-41-8,8>>^ Se você encostar a mão nele, o resultado será uma batalha que você não esquecerá, e nunca mais tentará fazê-lo!
+
+[[v18-41-9]]
+
+^<<v18-41-9,9>>^ Não! É inútil procurar capturá-lo; o caçador que tentar será derrubado.
+
+[[v18-41-10]]
+
+^<<v18-41-10,10>>^ E, visto que ninguém ousa perturbá-lo, quem será capaz de me enfrentar?
+
+[[v18-41-11]]
+
+^<<v18-41-11,11>>^ Quem me deu alguma coisa, para que eu precise retribuir depois? Tudo debaixo do céu me pertence.
+
+[[v18-41-12]]
+
+^<<v18-41-12,12>>^ "Quero destacar as pernas do Leviatã, sua enorme força e sua forma perfeita.
+
+[[v18-41-13]]
+
+^<<v18-41-13,13>>^ Quem é capaz de arrancar seu couro? Quem pode atravessar sua couraça dupla?
+
+[[v18-41-14]]
+
+^<<v18-41-14,14>>^ Quem é capaz de fazê-lo abrir a boca? Seus dentes são aterrorizantes!
+
+[[v18-41-15]]
+
+^<<v18-41-15,15>>^ As escamas de suas costas são como fileiras de escudos firmemente unidos uns aos outros.
+
+[[v18-41-16]]
+
+^<<v18-41-16,16>>^ São tão próximas umas às outras que nem mesmo ar passa entre elas.
+
+[[v18-41-17]]
+
+^<<v18-41-17,17>>^ Cada escama é presa à vizinha; são entrelaçadas e nada pode atravessá-las.
+
+[[v18-41-18]]
+
+^<<v18-41-18,18>>^ "Seu forte sopro atira lampejos de luz, seus olhos são como o sol do amanhecer.
+
+[[v18-41-19]]
+
+^<<v18-41-19,19>>^ De sua boca saltam relâmpagos; saem chamas de fogo.
+
+[[v18-41-20]]
+
+^<<v18-41-20,20>>^ Suas narinas soltam fumaça, como vapor de uma panela aquecida numa fogueira de juncos.
+
+[[v18-41-21]]
+
+^<<v18-41-21,21>>^ Seu hálito faria acender carvão, pois chamas saltam de sua boca.
+
+[[v18-41-22]]
+
+^<<v18-41-22,22>>^ "A força tremenda do pescoço do Leviatã espalha terror por onde ele passa.
+
+[[v18-41-23]]
+
+^<<v18-41-23,23>>^ Sua carne é dura e firme e não se pode atravessá-la.
+
+[[v18-41-24]]
+
+^<<v18-41-24,24>>^ Seu coração é duro como rocha, como pedra de moinho.
+
+[[v18-41-25]]
+
+^<<v18-41-25,25>>^ Quando ele se levanta, os valentes se enchem de medo e são tomados de pavor.
+
+[[v18-41-26]]
+
+^<<v18-41-26,26>>^ Nenhuma espada pode detê-lo, nem lança, nem dardo, nem arpão.
+
+[[v18-41-27]]
+
+^<<v18-41-27,27>>^ Para essa criatura, ferro é como palha, e bronze, como madeira podre.
+
+[[v18-41-28]]
+
+^<<v18-41-28,28>>^ Flechas não o levam a fugir, pedras lançadas de uma funda são como ciscos.
+
+[[v18-41-29]]
+
+^<<v18-41-29,29>>^ Bastões são como folhas de capim, e ele ri do zunido das lanças.
+
+[[v18-41-30]]
+
+^<<v18-41-30,30>>^ Sua barriga é coberta de escamas afiadas como vidro; quando ela se arrasta na lama, escava como um arado.
+
+[[v18-41-31]]
+
+^<<v18-41-31,31>>^ "O Leviatã faz as profundezas se agitarem como uma panela e o mar se revolver como um pote de óleo.
+
+[[v18-41-32]]
+
+^<<v18-41-32,32>>^ Deixa na água um rastro luminoso, que faz o mar parecer branco.
+
+[[v18-41-33]]
+
+^<<v18-41-33,33>>^ Não há nada na terra semelhante a ele, nenhuma criatura tão destemida.
+
+[[v18-41-34]]
+
+^<<v18-41-34,34>>^ De todas as criaturas, ele é a mais imponente; é o rei de todos os animais selvagens".
+
+'''
+
+xref:018-jo/018-jo-040.adoc#v18-40-0[&#60; Capítulo Anterior] | <<v18-41-0,Topo>> | xref:018-jo/018-jo-042.adoc#v18-42-0[Próximo Capítulo &#62;]

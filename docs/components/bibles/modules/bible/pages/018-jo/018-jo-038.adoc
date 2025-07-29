@@ -1,0 +1,173 @@
+include::./index.adoc[]
+
+[[v18-38-0]]
+=== Jó, 38
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v18-38-1]]
+
+^<<v18-38-1,1>>^ Então, do meio de um redemoinho, o SENHOR respondeu a Jó:
+
+[[v18-38-2]]
+
+^<<v18-38-2,2>>^ "Quem é esse que questiona minha sabedoria com palavras tão ignorantes?
+
+[[v18-38-3]]
+
+^<<v18-38-3,3>>^ Prepare-se como um guerreiro, pois lhe farei algumas perguntas, e você me responderá.
+
+[[v18-38-4]]
+
+^<<v18-38-4,4>>^ "Onde você estava quando eu lancei os alicerces do mundo? Diga-me, já que sabe tanto.
+
+[[v18-38-5]]
+
+^<<v18-38-5,5>>^ Quem definiu suas dimensões e estendeu a linha de medir? Vamos, você deve saber.
+
+[[v18-38-6]]
+
+^<<v18-38-6,6>>^ O que sustenta seus alicerces e quem lançou sua pedra angular,
+
+[[v18-38-7]]
+
+^<<v18-38-7,7>>^ enquanto as estrelas da manhã cantavam juntas, e os anjos davam gritos de alegria?
+
+[[v18-38-8]]
+
+^<<v18-38-8,8>>^ "Quem estabeleceu os limites do mar quando do ventre ele brotou,
+
+[[v18-38-9]]
+
+^<<v18-38-9,9>>^ quando eu o vesti com nuvens e o envolvi em escuridão profunda?
+
+[[v18-38-10]]
+
+^<<v18-38-10,10>>^ Pois o contive atrás de portas com trancas, para delimitar seus litorais.
+
+[[v18-38-11]]
+
+^<<v18-38-11,11>>^ Disse: ‘Daqui não pode passar; aqui suas ondas orgulhosas devem parar!’.
+
+[[v18-38-12]]
+
+^<<v18-38-12,12>>^ "Você alguma vez deu ordem para que a manhã aparecesse e fez o amanhecer se levantar no leste?
+
+[[v18-38-13]]
+
+^<<v18-38-13,13>>^ Fez a luz do dia se espalhar até os confins da terra, para acabar com a perversidade da noite?
+
+[[v18-38-14]]
+
+^<<v18-38-14,14>>^ À medida que a luz se aproxima, a terra toma forma, como o barro sob um anel de selar; como uma veste, seus contornos se mostram.
+
+[[v18-38-15]]
+
+^<<v18-38-15,15>>^ A luz incomoda os perversos e detém o braço levantado para cometer violência.
+
+[[v18-38-16]]
+
+^<<v18-38-16,16>>^ "Você explorou as nascentes do mar? Percorreu suas profundezas?
+
+[[v18-38-17]]
+
+^<<v18-38-17,17>>^ Sabe onde ficam as portas da morte? Viu as portas da escuridão absoluta?
+
+[[v18-38-18]]
+
+^<<v18-38-18,18>>^ Tem ideia da extensão da terra? Responda-me, se é que você sabe!
+
+[[v18-38-19]]
+
+^<<v18-38-19,19>>^ "De onde vem a luz, e para onde vai a escuridão?
+
+[[v18-38-20]]
+
+^<<v18-38-20,20>>^ Você é capaz de levar cada uma a seu lugar? Sabe como chegar lá?
+
+[[v18-38-21]]
+
+^<<v18-38-21,21>>^ Claro que sabe de tudo isso! Afinal, já havia nascido antes de tudo ser criado e tem muita experiência!
+
+[[v18-38-22]]
+
+^<<v18-38-22,22>>^ "Você alguma vez visitou os depósitos de neve ou viu onde fica guardado o granizo?
+
+[[v18-38-23]]
+
+^<<v18-38-23,23>>^ Eu os reservo como armas para os tempos de angústia, para o dia de batalha e guerra.
+
+[[v18-38-24]]
+
+^<<v18-38-24,24>>^ Onde os relâmpagos se dividem? De onde se dispersa o vento leste?
+
+[[v18-38-25]]
+
+^<<v18-38-25,25>>^ "Quem abriu um canal para as chuvas torrenciais? Quem definiu o percurso dos relâmpagos?
+
+[[v18-38-26]]
+
+^<<v18-38-26,26>>^ Quem faz a chuva cair sobre a terra árida, no deserto, onde ninguém habita?
+
+[[v18-38-27]]
+
+^<<v18-38-27,27>>^ Quem envia a chuva para saciar a terra seca e fazer brotar o capim novo?
+
+[[v18-38-28]]
+
+^<<v18-38-28,28>>^ "Acaso a chuva tem pai? Quem gera o orvalho?
+
+[[v18-38-29]]
+
+^<<v18-38-29,29>>^ Quem é a mãe do gelo? Quem dá à luz a geada que vem do céu?
+
+[[v18-38-30]]
+
+^<<v18-38-30,30>>^ Pois a água se transforma em gelo, duro como pedra, e a superfície das águas profundas se congela.
+
+[[v18-38-31]]
+
+^<<v18-38-31,31>>^ "Você é capaz de controlar as estrelas e amarrar o grupo das Plêiades ou afrouxar as cordas do Órion?
+
+[[v18-38-32]]
+
+^<<v18-38-32,32>>^ Pode fazer aparecer no tempo exato as constelações, ou guiar a Ursa e seus filhotes pelo céu?
+
+[[v18-38-33]]
+
+^<<v18-38-33,33>>^ Conhece as leis do universo? Pode usá-las para governar a terra?
+
+[[v18-38-34]]
+
+^<<v18-38-34,34>>^ "Pode gritar para as nuvens e fazer chover?
+
+[[v18-38-35]]
+
+^<<v18-38-35,35>>^ Pode fazer os raios aparecerem e lhes dizer onde cair?
+
+[[v18-38-36]]
+
+^<<v18-38-36,36>>^ Quem dá intuição ao coração e instinto à mente?
+
+[[v18-38-37]]
+
+^<<v18-38-37,37>>^ Quem é sábio o suficiente para contar todas as nuvens? Quem pode inclinar as vasilhas de água do céu,
+
+[[v18-38-38]]
+
+^<<v18-38-38,38>>^ quando a terra está seca e o solo se endureceu em torrões?
+
+[[v18-38-39]]
+
+^<<v18-38-39,39>>^ "Acaso você pode caçar a presa para a leoa e saciar a fome dos leõezinhos,
+
+[[v18-38-40]]
+
+^<<v18-38-40,40>>^ enquanto eles se agacham na toca ou ficam à espreita no mato?
+
+[[v18-38-41]]
+
+^<<v18-38-41,41>>^ Quem providencia alimento para os corvos quando seus filhotes clamam a Deus e, famintos, andam de um lado para o outro?"
+
+'''
+
+xref:018-jo/018-jo-037.adoc#v18-37-0[&#60; Capítulo Anterior] | <<v18-38-0,Topo>> | xref:018-jo/018-jo-039.adoc#v18-39-0[Próximo Capítulo &#62;]

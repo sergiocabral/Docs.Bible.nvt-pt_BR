@@ -1,0 +1,137 @@
+include::./index.adoc[]
+
+[[v20-10-0]]
+=== Provérbios, 10
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v20-10-1]]
+
+^<<v20-10-1,1>>^ Os provérbios de Salomão: O filho sábio alegra seu pai, o filho tolo entristece sua mãe.
+
+[[v20-10-2]]
+
+^<<v20-10-2,2>>^ As riquezas de origem desonesta não têm valor duradouro, mas uma vida justa livra da morte.
+
+[[v20-10-3]]
+
+^<<v20-10-3,3>>^ O SENHOR não deixa o justo passar fome, mas se recusa a satisfazer o desejo dos perversos.
+
+[[v20-10-4]]
+
+^<<v20-10-4,4>>^ O preguiçoso logo empobrece, mas os que trabalham com dedicação enriquecem.
+
+[[v20-10-5]]
+
+^<<v20-10-5,5>>^ O jovem sábio faz a colheita no verão, mas o que dorme durante a colheita é uma vergonha.
+
+[[v20-10-6]]
+
+^<<v20-10-6,6>>^ O justo é coberto de bênçãos, mas as palavras dos perversos ocultam violência.
+
+[[v20-10-7]]
+
+^<<v20-10-7,7>>^ O justo deixa boas lembranças, mas o nome dos perversos apodrece.
+
+[[v20-10-8]]
+
+^<<v20-10-8,8>>^ O sábio recebe os mandamentos de bom grado, mas as palavras do insensato causam sua ruína.
+
+[[v20-10-9]]
+
+^<<v20-10-9,9>>^ Quem anda em integridade anda em segurança; quem segue caminhos tortuosos será exposto.
+
+[[v20-10-10]]
+
+^<<v20-10-10,10>>^ Quem fecha os olhos para a maldade causa problemas, mas a repreensão clara promove a paz.
+
+[[v20-10-11]]
+
+^<<v20-10-11,11>>^ As palavras do justo são fonte de vida; as palavras dos perversos ocultam intenções violentas.
+
+[[v20-10-12]]
+
+^<<v20-10-12,12>>^ O ódio provoca brigas, mas o amor cobre todas as ofensas.
+
+[[v20-10-13]]
+
+^<<v20-10-13,13>>^ Palavras sábias vêm dos lábios de quem tem entendimento, mas quem não tem juízo é castigado com a vara.
+
+[[v20-10-14]]
+
+^<<v20-10-14,14>>^ Os sábios guardam o conhecimento como um tesouro, mas a conversa do insensato só conduz à desgraça.
+
+[[v20-10-15]]
+
+^<<v20-10-15,15>>^ A riqueza do rico é sua fortaleza; a pobreza dos pobres é sua destruição.
+
+[[v20-10-16]]
+
+^<<v20-10-16,16>>^ O salário do justo produz vida, mas o dinheiro do perverso o conduz ao pecado.
+
+[[v20-10-17]]
+
+^<<v20-10-17,17>>^ Quem aceita a disciplina está no caminho da vida, mas o que despreza a repreensão se desvia dele.
+
+[[v20-10-18]]
+
+^<<v20-10-18,18>>^ Quem esconde o ódio se torna mentiroso; quem espalha calúnias é tolo.
+
+[[v20-10-19]]
+
+^<<v20-10-19,19>>^ Quem fala demais acaba pecando; quem é prudente fica de boca fechada.
+
+[[v20-10-20]]
+
+^<<v20-10-20,20>>^ As palavras do justo são como a fina prata; o coração do perverso não tem valor algum.
+
+[[v20-10-21]]
+
+^<<v20-10-21,21>>^ As palavras do justo dão ânimo a muitos, mas os insensatos são destruídos por falta de juízo.
+
+[[v20-10-22]]
+
+^<<v20-10-22,22>>^ A bênção do SENHOR traz riqueza, e ele não permite que a tristeza a acompanhe.
+
+[[v20-10-23]]
+
+^<<v20-10-23,23>>^ O tolo se diverte em fazer o mal, mas o sensato tem prazer em viver com sabedoria.
+
+[[v20-10-24]]
+
+^<<v20-10-24,24>>^ Os temores do perverso se tornarão realidade; as esperanças dos justos lhe serão concedidas.
+
+[[v20-10-25]]
+
+^<<v20-10-25,25>>^ As tempestades da vida levam embora o perverso, mas o justo tem alicerce duradouro.
+
+[[v20-10-26]]
+
+^<<v20-10-26,26>>^ Como vinagre nos dentes ou fumaça nos olhos, assim o preguiçoso irrita seus chefes.
+
+[[v20-10-27]]
+
+^<<v20-10-27,27>>^ O temor do SENHOR prolonga a vida, mas os dias dos perversos são encurtados.
+
+[[v20-10-28]]
+
+^<<v20-10-28,28>>^ As esperanças dos justos resultam em alegria; as expectativas dos perversos não dão em nada.
+
+[[v20-10-29]]
+
+^<<v20-10-29,29>>^ O caminho do SENHOR é fortaleza para os íntegros, mas é destruição para os que praticam o mal.
+
+[[v20-10-30]]
+
+^<<v20-10-30,30>>^ O justo jamais será abalado, mas os perversos serão removidos da terra.
+
+[[v20-10-31]]
+
+^<<v20-10-31,31>>^ A boca do justo oferece conselhos sábios, mas a língua que engana será cortada.
+
+[[v20-10-32]]
+
+^<<v20-10-32,32>>^ Dos lábios do justo vêm palavras proveitosas, mas da boca dos perversos só vêm palavras más.
+
+'''
+
+xref:020-proverbios/020-proverbios-009.adoc#v20-9-0[&#60; Capítulo Anterior] | <<v20-10-0,Topo>> | xref:020-proverbios/020-proverbios-011.adoc#v20-11-0[Próximo Capítulo &#62;]

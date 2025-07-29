@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v18-29-0]]
+=== Jó, 29
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v18-29-1]]
+
+^<<v18-29-1,1>>^ Jó continuou a falar:
+
+[[v18-29-2]]
+
+^<<v18-29-2,2>>^ "Tenho saudade dos tempos que passaram, dos dias em que Deus cuidava de mim.
+
+[[v18-29-3]]
+
+^<<v18-29-3,3>>^ Ele iluminava o caminho à minha frente, e eu andava em segurança em meio à escuridão.
+
+[[v18-29-4]]
+
+^<<v18-29-4,4>>^ Na flor de minha idade, a amizade de Deus estava presente em meu lar.
+
+[[v18-29-5]]
+
+^<<v18-29-5,5>>^ O Todo-poderoso ainda estava comigo, e eu tinha meus filhos ao redor.
+
+[[v18-29-6]]
+
+^<<v18-29-6,6>>^ Meus pés eram lavados em leite, e ribeiros de azeite corriam das rochas para mim.
+
+[[v18-29-7]]
+
+^<<v18-29-7,7>>^ "Naquele tempo, eu ia até a porta da cidade e tomava meu lugar entre os líderes.
+
+[[v18-29-8]]
+
+^<<v18-29-8,8>>^ Os jovens abriam caminho ao me ver, e até os idosos se punham em pé.
+
+[[v18-29-9]]
+
+^<<v18-29-9,9>>^ As autoridades se calavam e colocavam a mão sobre a boca.
+
+[[v18-29-10]]
+
+^<<v18-29-10,10>>^ Os mais altos oficiais da cidade faziam silêncio e refreavam a língua em sinal de respeito.
+
+[[v18-29-11]]
+
+^<<v18-29-11,11>>^ "Todos que me ouviam me elogiavam, todos que me viam falavam bem de mim.
+
+[[v18-29-12]]
+
+^<<v18-29-12,12>>^ Pois eu auxiliava os pobres que pediam ajuda e os órfãos que precisavam de socorro.
+
+[[v18-29-13]]
+
+^<<v18-29-13,13>>^ Os que estavam à beira da morte me abençoavam; eu trazia alegria ao coração das viúvas.
+
+[[v18-29-14]]
+
+^<<v18-29-14,14>>^ Era honesto em tudo que fazia; a retidão me cobria como manto, e a justiça eu usava como turbante.
+
+[[v18-29-15]]
+
+^<<v18-29-15,15>>^ Servia de olhos para os cegos e de pés para os aleijados.
+
+[[v18-29-16]]
+
+^<<v18-29-16,16>>^ Era um pai para os pobres e defendia a causa dos estrangeiros.
+
+[[v18-29-17]]
+
+^<<v18-29-17,17>>^ Quebrava as mandíbulas dos ímpios e de seus dentes resgatava as vítimas.
+
+[[v18-29-18]]
+
+^<<v18-29-18,18>>^ ‘Por certo morrerei rodeado por minha família’, pensava, ‘depois de uma vida longa e boa.
+
+[[v18-29-19]]
+
+^<<v18-29-19,19>>^ Pois sou como a árvore cujas raízes chegam até a água, cujos ramos são refrescados pelo orvalho.
+
+[[v18-29-20]]
+
+^<<v18-29-20,20>>^ Recebo sempre novas honras, e minha força vive renovada.’
+
+[[v18-29-21]]
+
+^<<v18-29-21,21>>^ "Todos escutavam meus conselhos; ficavam em silêncio e esperavam que eu falasse.
+
+[[v18-29-22]]
+
+^<<v18-29-22,22>>^ E, depois que eu falava, nada tinham a acrescentar, pois o que eu dizia os satisfazia.
+
+[[v18-29-23]]
+
+^<<v18-29-23,23>>^ Esperavam minhas palavras como quem espera a chuva; bebiam-nas como chuva de primavera.
+
+[[v18-29-24]]
+
+^<<v18-29-24,24>>^ Quando estavam desanimados, eu sorria para eles; valorizavam meu olhar de aprovação.
+
+[[v18-29-25]]
+
+^<<v18-29-25,25>>^ Como um líder, eu lhes dizia o que fazer; vivia como rei entre suas tropas e consolava os que choravam."
+
+'''
+
+xref:018-jo/018-jo-028.adoc#v18-28-0[&#60; Capítulo Anterior] | <<v18-29-0,Topo>> | xref:018-jo/018-jo-030.adoc#v18-30-0[Próximo Capítulo &#62;]

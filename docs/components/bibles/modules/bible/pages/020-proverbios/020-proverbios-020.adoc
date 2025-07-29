@@ -1,0 +1,129 @@
+include::./index.adoc[]
+
+[[v20-20-0]]
+=== Provérbios, 20
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v20-20-1]]
+
+^<<v20-20-1,1>>^ O vinho produz zombadores; o álcool leva a brigas; quem é dominado pela bebida não é sábio.
+
+[[v20-20-2]]
+
+^<<v20-20-2,2>>^ O furor do rei é como o rugido do leão; quem provoca sua ira põe a vida em risco.
+
+[[v20-20-3]]
+
+^<<v20-20-3,3>>^ Evitar contendas é sinal de honra; apenas o insensato insiste em brigar.
+
+[[v20-20-4]]
+
+^<<v20-20-4,4>>^ Quem tem preguiça de arar a terra na época certa não terá comida no tempo da colheita.
+
+[[v20-20-5]]
+
+^<<v20-20-5,5>>^ Os bons conselhos ficam no fundo do coração, mas a pessoa sensata os traz à tona.
+
+[[v20-20-6]]
+
+^<<v20-20-6,6>>^ Muitos se dizem amigos leais, mas quem pode encontrar alguém realmente confiável?
+
+[[v20-20-7]]
+
+^<<v20-20-7,7>>^ O justo anda em integridade; felizes os filhos que seguem seus passos.
+
+[[v20-20-8]]
+
+^<<v20-20-8,8>>^ Quando o rei se senta para julgar, analisa todas as provas e distingue entre o mal e o bem.
+
+[[v20-20-9]]
+
+^<<v20-20-9,9>>^ Quem pode dizer: "Purifiquei o coração; estou limpo e sem pecado"?
+
+[[v20-20-10]]
+
+^<<v20-20-10,10>>^ Dois pesos e duas medidas: toda espécie de desonestidade é detestável para o SENHOR.
+
+[[v20-20-11]]
+
+^<<v20-20-11,11>>^ Até crianças mostram quem são, por sua conduta, se agem de modo puro e correto.
+
+[[v20-20-12]]
+
+^<<v20-20-12,12>>^ Ouvidos para ouvir e olhos para ver: ambos são dádivas do SENHOR.
+
+[[v20-20-13]]
+
+^<<v20-20-13,13>>^ Se você ama o sono, acabará pobre; mantenha os olhos abertos e terá fartura de alimento!
+
+[[v20-20-14]]
+
+^<<v20-20-14,14>>^ O comprador pechincha e diz: "Não vale nada", mas depois conta vantagem de seu bom negócio.
+
+[[v20-20-15]]
+
+^<<v20-20-15,15>>^ As palavras que transmitem conhecimento são mais valiosas que grandes quantidades de ouro e rubis.
+
+[[v20-20-16]]
+
+^<<v20-20-16,16>>^ Quem aceita ser fiador de um desconhecido perderá a roupa do corpo; ela ficará como pagamento de quem garante a dívida do estranho.
+
+[[v20-20-17]]
+
+^<<v20-20-17,17>>^ Pão roubado tem sabor doce, mas depois será como areia na boca.
+
+[[v20-20-18]]
+
+^<<v20-20-18,18>>^ Com bons conselhos os planos são bem-sucedidos; não saia para a guerra sem boas orientações.
+
+[[v20-20-19]]
+
+^<<v20-20-19,19>>^ O fofoqueiro vive espalhando segredos; portanto, evite a companhia de quem fala demais.
+
+[[v20-20-20]]
+
+^<<v20-20-20,20>>^ Quem insulta o pai ou a mãe terá sua luz apagada na mais absoluta escuridão.
+
+[[v20-20-21]]
+
+^<<v20-20-21,21>>^ A herança obtida antes da hora acaba não sendo bênção no final.
+
+[[v20-20-22]]
+
+^<<v20-20-22,22>>^ Não diga: "Vou me vingar deste mal"; espere o SENHOR resolver a questão.
+
+[[v20-20-23]]
+
+^<<v20-20-23,23>>^ A desonestidade é detestável para o SENHOR; ele não se agrada de balanças adulteradas.
+
+[[v20-20-24]]
+
+^<<v20-20-24,24>>^ É o SENHOR que dirige nossos passos; então por que tentar entender tudo ao longo do caminho?
+
+[[v20-20-25]]
+
+^<<v20-20-25,25>>^ É uma armadilha prometer algo a Deus apressadamente e só depois calcular o custo.
+
+[[v20-20-26]]
+
+^<<v20-20-26,26>>^ O rei sábio espalha os perversos como trigo e passa sobre eles a roda de debulhar.
+
+[[v20-20-27]]
+
+^<<v20-20-27,27>>^ A luz do SENHOR penetra o espírito humano e revela todas as intenções ocultas.
+
+[[v20-20-28]]
+
+^<<v20-20-28,28>>^ Bondade e fidelidade protegem o rei; seu trono é firmado pelo amor.
+
+[[v20-20-29]]
+
+^<<v20-20-29,29>>^ A glória dos jovens está em sua força, e o esplendor dos idosos, em seus cabelos brancos.
+
+[[v20-20-30]]
+
+^<<v20-20-30,30>>^ O castigo físico elimina o mal; essa disciplina purifica o coração.
+
+'''
+
+xref:020-proverbios/020-proverbios-019.adoc#v20-19-0[&#60; Capítulo Anterior] | <<v20-20-0,Topo>> | xref:020-proverbios/020-proverbios-021.adoc#v20-21-0[Próximo Capítulo &#62;]

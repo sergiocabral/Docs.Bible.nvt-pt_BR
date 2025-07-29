@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v4-34-0]]
+=== Números, 34
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v4-34-1]]
+
+^<<v4-34-1,1>>^ Então o SENHOR disse a Moisés:
+
+[[v4-34-2]]
+
+^<<v4-34-2,2>>^ "Dê as seguintes instruções ao povo de Israel. Quando entrarem na terra de Canaã, que eu lhes dou como sua propriedade especial, estas serão as fronteiras.
+
+[[v4-34-3]]
+
+^<<v4-34-3,3>>^ A região sul se estenderá desde o deserto de Zim, ao longo da divisa com Edom. A fronteira sul começará no leste, na extremidade do mar Morto.
+
+[[v4-34-4]]
+
+^<<v4-34-4,4>>^ Ela se estenderá pelo sul, passando pela ladeira do Escorpião, em direção a Zim. Seu extremo ao sul será Cades-Barneia, de onde seguirá até Hazar-Adar e, de lá, até Azmom.
+
+[[v4-34-5]]
+
+^<<v4-34-5,5>>^ De Azmom, a fronteira fará uma curva em direção ao ribeiro do Egito e terminará no mar Mediterrâneo.
+
+[[v4-34-6]]
+
+^<<v4-34-6,6>>^ "A fronteira oeste será o litoral do mar Mediterrâneo.
+
+[[v4-34-7]]
+
+^<<v4-34-7,7>>^ "A fronteira norte começará no mar Mediterrâneo e se estenderá para o leste até o monte Hor
+
+[[v4-34-8]]
+
+^<<v4-34-8,8>>^ e, de lá, até Lebo-Hamate, seguindo em direção a Zedade,
+
+[[v4-34-9]]
+
+^<<v4-34-9,9>>^ e continuando até Zifrom e, daí, até Hazar-Enã. Essa será a fronteira norte.
+
+[[v4-34-10]]
+
+^<<v4-34-10,10>>^ "A fronteira leste começará em Hazar-Enã, se estenderá para o sul até Sefã
+
+[[v4-34-11]]
+
+^<<v4-34-11,11>>^ e descerá até Ribla, do lado leste de Aim. De lá, descerá beirando o lado leste do mar da Galileia
+
+[[v4-34-12]]
+
+^<<v4-34-12,12>>^ e, depois, acompanhando o rio Jordão até o mar Morto. Essas são as fronteiras de sua terra".
+
+[[v4-34-13]]
+
+^<<v4-34-13,13>>^ Então Moisés disse aos israelitas: "Este território é a herança que vocês repartirão entre si por sorteio. O SENHOR ordenou que a terra seja dividida entre as nove tribos e meia restantes.
+
+[[v4-34-14]]
+
+^<<v4-34-14,14>>^ As famílias das tribos de Rúben e Gade e da metade da tribo de Manassés já receberam suas porções de terra
+
+[[v4-34-15]]
+
+^<<v4-34-15,15>>^ do lado leste do Jordão, do lado oposto de Jericó, na direção do nascer do sol".
+
+[[v4-34-16]]
+
+^<<v4-34-16,16>>^ O SENHOR disse a Moisés:
+
+[[v4-34-17]]
+
+^<<v4-34-17,17>>^ "O sacerdote Eleazar e Josué, filho de Num, são os homens escolhidos para repartir a terra entre o povo.
+
+[[v4-34-18]]
+
+^<<v4-34-18,18>>^ Nomeiem um líder de cada tribo para ajudá-los com a tarefa.
+
+[[v4-34-19]]
+
+^<<v4-34-19,19>>^ Estas são as tribos e os nomes dos líderes: da tribo de Judá, Calebe, filho de Jefoné;
+
+[[v4-34-20]]
+
+^<<v4-34-20,20>>^ da tribo de Simeão, Samuel, filho de Amiúde;
+
+[[v4-34-21]]
+
+^<<v4-34-21,21>>^ da tribo de Benjamim, Elidade, filho de Quislom;
+
+[[v4-34-22]]
+
+^<<v4-34-22,22>>^ da tribo de Dã, Buqui, filho de Jogli;
+
+[[v4-34-23]]
+
+^<<v4-34-23,23>>^ da tribo de Manassés, filho de José, Haniel, filho de Éfode;
+
+[[v4-34-24]]
+
+^<<v4-34-24,24>>^ da tribo de Efraim, filho de José, Quemuel, filho de Siftã;
+
+[[v4-34-25]]
+
+^<<v4-34-25,25>>^ da tribo de Zebulom, Elisafã, filho de Parnaque;
+
+[[v4-34-26]]
+
+^<<v4-34-26,26>>^ da tribo de Issacar, Paltiel, filho de Azã;
+
+[[v4-34-27]]
+
+^<<v4-34-27,27>>^ da tribo de Aser, Aiúde, filho de Selomi;
+
+[[v4-34-28]]
+
+^<<v4-34-28,28>>^ da tribo de Naftali, Pedael, filho de Amiúde.
+
+[[v4-34-29]]
+
+^<<v4-34-29,29>>^ Esses são os homens que o SENHOR nomeou para repartir as porções da terra de Canaã entre os israelitas".
+
+'''
+
+xref:004-numeros/004-numeros-033.adoc#v4-33-0[&#60; Capítulo Anterior] | <<v4-34-0,Topo>> | xref:004-numeros/004-numeros-035.adoc#v4-35-0[Próximo Capítulo &#62;]

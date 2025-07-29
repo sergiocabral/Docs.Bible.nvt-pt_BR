@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v25-4-0]]
+=== Lamentações, 4
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v25-4-1]]
+
+^<<v25-4-1,1>>^ Como o ouro perdeu seu brilho! Até o ouro mais puro ficou embaçado. As pedras sagradas estão espalhadas pelas ruas.
+
+[[v25-4-2]]
+
+^<<v25-4-2,2>>^ Vejam como os filhos preciosos de Sião, que valem seu peso em ouro puro, são tratados como vasos de barro feitos por um oleiro qualquer.
+
+[[v25-4-3]]
+
+^<<v25-4-3,3>>^ Até os chacais amamentam seus filhotes, mas meu povo não age assim. Como as avestruzes no deserto, ignora cruelmente o clamor de seus filhos.
+
+[[v25-4-4]]
+
+^<<v25-4-4,4>>^ A língua seca dos bebês gruda no céu da boca, por causa da sede. As crianças imploram por um pedaço de pão, mas ninguém as atende.
+
+[[v25-4-5]]
+
+^<<v25-4-5,5>>^ Os que antes comiam as comidas mais finas agora morrem de fome nas ruas. Os que antes vestiam roupas da melhor qualidade agora reviram os montes de lixo.
+
+[[v25-4-6]]
+
+^<<v25-4-6,6>>^ A culpa de meu povo é maior que a de Sodoma, que foi destruída de repente, e ninguém ofereceu ajuda.
+
+[[v25-4-7]]
+
+^<<v25-4-7,7>>^ Nossos príncipes eram radiantes de saúde, mais brilhantes que a neve e mais brancos que o leite. Seu rosto era rosado como rubis, e sua aparência, como safiras.
+
+[[v25-4-8]]
+
+^<<v25-4-8,8>>^ Agora, porém, seu rosto está mais escuro que fuligem; ninguém os reconhece nas ruas. Sua pele está pegada aos ossos, seca como madeira.
+
+[[v25-4-9]]
+
+^<<v25-4-9,9>>^ Os que morreram pela espada foram mais felizes que os que morrem de inanição. Famintos, definham por falta de alimento dos campos.
+
+[[v25-4-10]]
+
+^<<v25-4-10,10>>^ Mulheres de bom coração cozinharam os próprios filhos. Elas os comeram para sobreviver ao cerco.
+
+[[v25-4-11]]
+
+^<<v25-4-11,11>>^ Agora, porém, a ira do SENHOR está satisfeita; sua ira ardente foi derramada. Em Sião ele acendeu um fogo que queimou a cidade até seus alicerces.
+
+[[v25-4-12]]
+
+^<<v25-4-12,12>>^ Nenhum rei em toda a terra, ninguém no mundo inteiro, poderia imaginar que o inimigo entraria pelas portas de Jerusalém.
+
+[[v25-4-13]]
+
+^<<v25-4-13,13>>^ Mas foi o que aconteceu por causa do pecado de seus profetas e da maldade de seus sacerdotes, que profanaram a cidade ao derramar sangue inocente.
+
+[[v25-4-14]]
+
+^<<v25-4-14,14>>^ Andavam sem destino pelas ruas, como cegos, tão contaminados de sangue que ninguém se atrevia a tocar neles.
+
+[[v25-4-15]]
+
+^<<v25-4-15,15>>^ "Afastem-se!", gritavam para eles. "Estão contaminados! Não toquem em nós!" Fugiram para terras distantes e andaram sem rumo entre as nações, mas nenhuma permitiu que ficassem.
+
+[[v25-4-16]]
+
+^<<v25-4-16,16>>^ O SENHOR, em sua ira, os espalhou e deixou de ajudá-los. Ninguém mais respeita os sacerdotes nem honra os líderes.
+
+[[v25-4-17]]
+
+^<<v25-4-17,17>>^ Esperamos em vão que nossos aliados viessem nos socorrer. Buscamos a ajuda de nações incapazes de nos livrar.
+
+[[v25-4-18]]
+
+^<<v25-4-18,18>>^ Não podíamos sair às ruas, pois nossos passos eram vigiados. Nosso fim se aproximava, nossos dias estavam contados; estávamos condenados!
+
+[[v25-4-19]]
+
+^<<v25-4-19,19>>^ Nossos inimigos eram mais rápidos que as águias no céu; fugimos para as montanhas, mas eles nos perseguiram. No deserto nos escondemos, mas eles estavam ali, esperando por nós.
+
+[[v25-4-20]]
+
+^<<v25-4-20,20>>^ Nosso rei, o ungido do SENHOR, a vida de nossa nação, foi capturado nos laços deles. E nós pensávamos que sua sombra nos protegeria de qualquer nação da terra!
+
+[[v25-4-21]]
+
+^<<v25-4-21,21>>^ Ó povo de Edom, você se alegra e exulta na terra de Uz? Mas você também beberá do cálice da ira do SENHOR; também ficará embriagado e será despido.
+
+[[v25-4-22]]
+
+^<<v25-4-22,22>>^ Ó bela Sião, o castigo de sua maldade chegará ao fim; logo voltará do exílio. Mas para você, Edom, o castigo está só começando; logo seus muitos pecados serão expostos.
+
+'''
+
+xref:025-lamentacoes/025-lamentacoes-003.adoc#v25-3-0[&#60; Capítulo Anterior] | <<v25-4-0,Topo>> | xref:025-lamentacoes/025-lamentacoes-005.adoc#v25-5-0[Próximo Capítulo &#62;]

@@ -1,0 +1,45 @@
+include::./index.adoc[]
+
+[[v6-20-0]]
+=== Josué, 20
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v6-20-1]]
+
+^<<v6-20-1,1>>^ O SENHOR disse a Josué:
+
+[[v6-20-2]]
+
+^<<v6-20-2,2>>^ "Diga aos israelitas que designem as cidades de refúgio, de acordo com as instruções que dei a Moisés.
+
+[[v6-20-3]]
+
+^<<v6-20-3,3>>^ Qualquer um que matar alguém acidentalmente e sem intenção poderá fugir para uma dessas cidades; serão lugares de proteção contra os parentes da vítima que quiserem vingar sua morte.
+
+[[v6-20-4]]
+
+^<<v6-20-4,4>>^ "Ao chegar a uma dessas cidades, a pessoa que tirou a vida de alguém comparecerá diante das autoridades à porta da cidade e apresentará seu caso. Eles permitirão que essa pessoa entre na cidade e lhe darão um lugar para habitar no meio deles.
+
+[[v6-20-5]]
+
+^<<v6-20-5,5>>^ Se os parentes da vítima forem até lá para vingar sua morte, as autoridades não entregarão o acusado, pois ele matou alguém sem intenção e sem hostilidade anterior.
+
+[[v6-20-6]]
+
+^<<v6-20-6,6>>^ O acusado, porém, deve permanecer na cidade e ser julgado pela comunidade, que dará o veredicto. Continuará a viver na cidade até a morte daquele que era o sumo sacerdote na época do acidente. Depois disso, terá liberdade de voltar para sua casa na cidade de onde fugiu".
+
+[[v6-20-7]]
+
+^<<v6-20-7,7>>^ Estas foram as cidades designadas como cidades de refúgio: Quedes, na Galileia, na região montanhosa de Naftali; Siquém, na região montanhosa de Efraim; e Quiriate-Arba (isto é, Hebrom), na região montanhosa de Judá.
+
+[[v6-20-8]]
+
+^<<v6-20-8,8>>^ Estas foram as cidades designadas no lado leste do rio Jordão, em frente de Jericó: Bezer, no planalto desértico da tribo de Rúben; Ramote, em Gileade, no território da tribo de Gade; e Golã, em Basã, no território da tribo de Manassés.
+
+[[v6-20-9]]
+
+^<<v6-20-9,9>>^ Essas cidades foram separadas para todos os israelitas, e também para os estrangeiros que viviam entre eles. Qualquer um que matasse alguém acidentalmente poderia se refugiar numa dessas cidades. Assim, não seria morto por vingança antes de comparecer a julgamento perante a comunidade.
+
+'''
+
+xref:006-josue/006-josue-019.adoc#v6-19-0[&#60; Capítulo Anterior] | <<v6-20-0,Topo>> | xref:006-josue/006-josue-021.adoc#v6-21-0[Próximo Capítulo &#62;]

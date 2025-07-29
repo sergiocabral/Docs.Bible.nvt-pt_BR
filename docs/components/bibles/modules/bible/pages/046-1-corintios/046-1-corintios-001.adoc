@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v46-1-0]]
+=== 1 Coríntios, 1
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v46-1-1]]
+
+^<<v46-1-1,1>>^ Eu, Paulo, chamado para ser apóstolo de Cristo Jesus pela vontade de Deus, escrevo esta carta, com nosso irmão Sóstenes,
+
+[[v46-1-2]]
+
+^<<v46-1-2,2>>^ à igreja de Deus em Corinto, àqueles que ele santificou por meio de Cristo Jesus. Vocês foram chamados por Deus para ser seu povo santo junto com todos que, em toda parte, invocam o nome de nosso Senhor Jesus Cristo, Senhor deles e nosso.
+
+[[v46-1-3]]
+
+^<<v46-1-3,3>>^ Que Deus, nosso Pai, e o Senhor Jesus Cristo lhes deem graça e paz.
+
+[[v46-1-4]]
+
+^<<v46-1-4,4>>^ Sempre agradeço a meu Deus por vocês e pela graça que ele lhes tem dado em Cristo Jesus.
+
+[[v46-1-5]]
+
+^<<v46-1-5,5>>^ Por meio dele Deus os enriqueceu em tudo, em toda capacidade de expressão e em todo entendimento.
+
+[[v46-1-6]]
+
+^<<v46-1-6,6>>^ A mensagem a respeito de Cristo de fato se firmou em vocês,
+
+[[v46-1-7]]
+
+^<<v46-1-7,7>>^ uma vez que nenhum dom espiritual lhes falta enquanto esperam ansiosamente pela volta de nosso Senhor Jesus Cristo.
+
+[[v46-1-8]]
+
+^<<v46-1-8,8>>^ Ele os manterá firmes até o fim, para que estejam livres de toda a culpa no dia de nosso Senhor Jesus Cristo.
+
+[[v46-1-9]]
+
+^<<v46-1-9,9>>^ Deus é fiel, e ele os convidou a ter comunhão com seu Filho Jesus Cristo, nosso Senhor.
+
+[[v46-1-10]]
+
+^<<v46-1-10,10>>^ Irmãos, suplico-lhes em nome de nosso Senhor Jesus Cristo que vivam em harmonia uns com os outros e ponham fim às divisões entre vocês. Antes, tenham o mesmo parecer, unidos em pensamento e propósito.
+
+[[v46-1-11]]
+
+^<<v46-1-11,11>>^ Pois alguns membros da família de Cloe me informaram dos desentendimentos entre vocês, meus irmãos.
+
+[[v46-1-12]]
+
+^<<v46-1-12,12>>^ Refiro-me ao fato de alguns dizerem: "Eu sigo Paulo", enquanto outros afirmam: "Eu sigo Apolo", ou "Eu sigo Pedro", ou ainda, "Eu sigo Cristo".
+
+[[v46-1-13]]
+
+^<<v46-1-13,13>>^ Acaso Cristo foi dividido? Será que eu, Paulo, fui crucificado em favor de vocês? Alguém foi batizado em nome de Paulo?
+
+[[v46-1-14]]
+
+^<<v46-1-14,14>>^ Graças a Deus, não batizei nenhum de vocês, exceto Crispo e Gaio,
+
+[[v46-1-15]]
+
+^<<v46-1-15,15>>^ de modo que ninguém pode dizer que foi batizado em meu nome.
+
+[[v46-1-16]]
+
+^<<v46-1-16,16>>^ Sim, também batizei a família de Estéfanas, mas não me lembro de ter batizado mais ninguém.
+
+[[v46-1-17]]
+
+^<<v46-1-17,17>>^ Pois Cristo não me enviou para batizar, mas para anunciar as boas-novas, e não com palavras de sabedoria humana, para que a cruz de Cristo não perca seu poder.
+
+[[v46-1-18]]
+
+^<<v46-1-18,18>>^ A mensagem da cruz é loucura para os que se encaminham para a destruição, mas para nós que estamos sendo salvos ela é o poder de Deus.
+
+[[v46-1-19]]
+
+^<<v46-1-19,19>>^ Como dizem as Escrituras: "Destruirei a sabedoria dos sábios e rejeitarei a inteligência dos inteligentes".
+
+[[v46-1-20]]
+
+^<<v46-1-20,20>>^ Diante disso, onde ficam os sábios, os eruditos e os argumentadores desta era? Deus fez a sabedoria deste mundo parecer loucura.
+
+[[v46-1-21]]
+
+^<<v46-1-21,21>>^ Visto que Deus, em sua sabedoria, providenciou que o mundo não o conhecesse por meio de sabedoria humana, usou a loucura de nossa pregação para salvar os que creem.
+
+[[v46-1-22]]
+
+^<<v46-1-22,22>>^ Pois os judeus pedem sinais, e os gentios buscam sabedoria.
+
+[[v46-1-23]]
+
+^<<v46-1-23,23>>^ Assim, quando pregamos que o Cristo foi crucificado, os judeus se ofendem, e os gentios dizem que é tolice.
+
+[[v46-1-24]]
+
+^<<v46-1-24,24>>^ Mas, para os que foram chamados para a salvação, tanto judeus como gentios, Cristo é o poder de Deus e a sabedoria de Deus.
+
+[[v46-1-25]]
+
+^<<v46-1-25,25>>^ Pois a "loucura" de Deus é mais sábia que a sabedoria humana, e a "fraqueza" de Deus é mais forte que a força humana.
+
+[[v46-1-26]]
+
+^<<v46-1-26,26>>^ Lembrem-se, irmãos, de que poucos de vocês eram sábios aos olhos do mundo ou poderosos ou ricos quando foram chamados.
+
+[[v46-1-27]]
+
+^<<v46-1-27,27>>^ Pelo contrário, Deus escolheu as coisas que o mundo considera loucura para envergonhar os sábios, assim como escolheu as coisas fracas para envergonhar os poderosos.
+
+[[v46-1-28]]
+
+^<<v46-1-28,28>>^ Deus escolheu coisas desprezadas pelo mundo, tidas como insignificantes, e as usou para reduzir a nada aquilo que o mundo considera importante.
+
+[[v46-1-29]]
+
+^<<v46-1-29,29>>^ Portanto, ninguém jamais se orgulhe na presença de Deus.
+
+[[v46-1-30]]
+
+^<<v46-1-30,30>>^ Foi por iniciativa de Deus que vocês estão em Cristo Jesus, que se tornou a sabedoria de Deus em nosso favor, nos declarou justos diante de Deus, nos santificou e nos libertou do pecado.
+
+[[v46-1-31]]
+
+^<<v46-1-31,31>>^ Portanto, como dizem as Escrituras: "Quem quiser orgulhar-se, orgulhe-se somente no Senhor".
+
+'''
+
+xref:045-romanos/045-romanos-016.adoc#v45-16-0[&#60; Capítulo Anterior] | <<v46-1-0,Topo>> | xref:046-1-corintios/046-1-corintios-002.adoc#v46-2-0[Próximo Capítulo &#62;]

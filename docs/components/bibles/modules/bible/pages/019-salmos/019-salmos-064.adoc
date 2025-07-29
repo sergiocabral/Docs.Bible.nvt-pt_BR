@@ -1,0 +1,49 @@
+include::./index.adoc[]
+
+[[v19-64-0]]
+=== Salmos, 64
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-64-1]]
+
+^<<v19-64-1,1>>^ Ó Deus, ouve minha queixa; protege-me das ameaças de meus inimigos.
+
+[[v19-64-2]]
+
+^<<v19-64-2,2>>^ Esconde-me das tramas dessa multidão perversa, do tumulto dos que praticam o mal.
+
+[[v19-64-3]]
+
+^<<v19-64-3,3>>^ Eles afiam a língua como espada e apontam palavras amargas como flechas.
+
+[[v19-64-4]]
+
+^<<v19-64-4,4>>^ De emboscadas, atiram nos inocentes; atacam de repente, sem medo algum.
+
+[[v19-64-5]]
+
+^<<v19-64-5,5>>^ Animam uns aos outros a fazer o mal e planejam como preparar armadilhas em segredo. "Quem nos verá?", perguntam.
+
+[[v19-64-6]]
+
+^<<v19-64-6,6>>^ Enquanto tramam seus crimes, dizem: "Criamos o plano perfeito!". Sim, o coração e a mente do ser humano são astutos.
+
+[[v19-64-7]]
+
+^<<v19-64-7,7>>^ Deus, porém, os atingirá com suas flechas e repentinamente os derrubará.
+
+[[v19-64-8]]
+
+^<<v19-64-8,8>>^ A própria língua os levará à ruína, e todos que os virem balançarão a cabeça em desprezo.
+
+[[v19-64-9]]
+
+^<<v19-64-9,9>>^ Quando isso acontecer, todos temerão; proclamarão as obras de Deus e entenderão o que ele faz.
+
+[[v19-64-10]]
+
+^<<v19-64-10,10>>^ Os justos se alegrarão no Senhor e nele encontrarão refúgio, e os que têm coração íntegro o louvarão.
+
+'''
+
+xref:019-salmos/019-salmos-063.adoc#v19-63-0[&#60; Capítulo Anterior] | <<v19-64-0,Topo>> | xref:019-salmos/019-salmos-065.adoc#v19-65-0[Próximo Capítulo &#62;]

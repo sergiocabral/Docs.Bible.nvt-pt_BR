@@ -1,0 +1,129 @@
+include::./index.adoc[]
+
+[[v18-39-0]]
+=== Jó, 39
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v18-39-1]]
+
+^<<v18-39-1,1>>^ "Você sabe quando as cabras monteses dão à luz? Viu as corças nascerem?
+
+[[v18-39-2]]
+
+^<<v18-39-2,2>>^ Sabe quantos meses dura sua gestação? Sabe qual é o momento do parto?
+
+[[v18-39-3]]
+
+^<<v18-39-3,3>>^ Elas se agacham para dar à luz seus filhotes, e assim suas crias nascem.
+
+[[v18-39-4]]
+
+^<<v18-39-4,4>>^ Os filhotes crescem nos campos abertos e vão embora, para nunca mais voltar.
+
+[[v18-39-5]]
+
+^<<v18-39-5,5>>^ "Quem deu ao jumento sua liberdade? Quem desatou suas cordas?
+
+[[v18-39-6]]
+
+^<<v18-39-6,6>>^ Eu o coloquei no deserto; as terras estéreis são seu lar.
+
+[[v18-39-7]]
+
+^<<v18-39-7,7>>^ Ele despreza o barulho da cidade e não faz caso dos gritos do condutor.
+
+[[v18-39-8]]
+
+^<<v18-39-8,8>>^ Os montes são seu pasto, onde ele procura o capim.
+
+[[v18-39-9]]
+
+^<<v18-39-9,9>>^ "Acaso o boi selvagem aceitará ser domado? Passará a noite no curral?
+
+[[v18-39-10]]
+
+^<<v18-39-10,10>>^ Você consegue prendê-lo ao arado? Acaso ele lavrará um campo para você?
+
+[[v18-39-11]]
+
+^<<v18-39-11,11>>^ Sendo ele muito forte, pode-se confiar nele? Você pode ir embora, certo de que ele fará seu trabalho?
+
+[[v18-39-12]]
+
+^<<v18-39-12,12>>^ Pode depender dele para recolher o trigo e levá-lo ao lugar de debulhar os grãos?
+
+[[v18-39-13]]
+
+^<<v18-39-13,13>>^ "A avestruz bate as asas, alegre, mas não tem a plumagem da cegonha.
+
+[[v18-39-14]]
+
+^<<v18-39-14,14>>^ Ela põe seus ovos na terra, para que sejam aquecidos no pó.
+
+[[v18-39-15]]
+
+^<<v18-39-15,15>>^ Não se preocupa que alguém possa pisá-los ou que um animal selvagem os destrua.
+
+[[v18-39-16]]
+
+^<<v18-39-16,16>>^ Trata seus filhotes com dureza, como se não fossem seus; não se importa se eles morrem.
+
+[[v18-39-17]]
+
+^<<v18-39-17,17>>^ Pois Deus não lhe deu sabedoria, nem lhe concedeu entendimento.
+
+[[v18-39-18]]
+
+^<<v18-39-18,18>>^ Quando, porém, ela se levanta para correr, zomba até mesmo do cavalo mais veloz e seu cavaleiro.
+
+[[v18-39-19]]
+
+^<<v18-39-19,19>>^ "Acaso você deu força ao cavalo ou lhe cobriu o pescoço com a crina?
+
+[[v18-39-20]]
+
+^<<v18-39-20,20>>^ Deu-lhe a habilidade de pular como um gafanhoto? Seu bufar majestoso é assustador!
+
+[[v18-39-21]]
+
+^<<v18-39-21,21>>^ Ele revolve o chão com as patas e alegra-se em sua força quando corre para a batalha.
+
+[[v18-39-22]]
+
+^<<v18-39-22,22>>^ Ri do medo e nada teme; não foge da espada.
+
+[[v18-39-23]]
+
+^<<v18-39-23,23>>^ Flechas voam ao seu redor, lanças e dardos faíscam.
+
+[[v18-39-24]]
+
+^<<v18-39-24,24>>^ Agitado e enfurecido, devora o caminho; lança-se à batalha quando a trombeta ressoa.
+
+[[v18-39-25]]
+
+^<<v18-39-25,25>>^ Relincha ao toque da trombeta e fareja de longe a batalha, à espera das ordens do capitão e do ruído de luta.
+
+[[v18-39-26]]
+
+^<<v18-39-26,26>>^ "Acaso é sua sabedoria que faz o falcão voar alto e abrir as asas para o sul?
+
+[[v18-39-27]]
+
+^<<v18-39-27,27>>^ É por ordem sua que a águia se eleva e faz o ninho lá no alto?
+
+[[v18-39-28]]
+
+^<<v18-39-28,28>>^ Ela mora nos rochedos; constrói seu ninho nas pedras mais altas.
+
+[[v18-39-29]]
+
+^<<v18-39-29,29>>^ Dali, ela caça sua presa; de longe, seus olhos a avistam.
+
+[[v18-39-30]]
+
+^<<v18-39-30,30>>^ Seus filhotes bebem sangue; onde há um animal morto, ali ela está".
+
+'''
+
+xref:018-jo/018-jo-038.adoc#v18-38-0[&#60; Capítulo Anterior] | <<v18-39-0,Topo>> | xref:018-jo/018-jo-040.adoc#v18-40-0[Próximo Capítulo &#62;]

@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v2-3-0]]
+=== Êxodo, 3
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v2-3-1]]
+
+^<<v2-3-1,1>>^ Certo dia, Moisés estava cuidando do rebanho de seu sogro, Jetro, sacerdote de Midiã. Ele levou o rebanho para o deserto e chegou ao Sinai, o monte de Deus.
+
+[[v2-3-2]]
+
+^<<v2-3-2,2>>^ Ali, o anjo do SENHOR lhe apareceu no fogo que ardia no meio de um arbusto. Moisés olhou admirado, pois embora o arbusto estivesse envolto em chamas, o fogo não o consumia.
+
+[[v2-3-3]]
+
+^<<v2-3-3,3>>^ "Que coisa espantosa!", pensou ele. "Por que o fogo não consome o arbusto? Preciso ver isso de perto."
+
+[[v2-3-4]]
+
+^<<v2-3-4,4>>^ Quando o SENHOR viu Moisés se aproximar para observar melhor, Deus o chamou do meio do arbusto: "Moisés! Moisés!". "Aqui estou!", respondeu ele.
+
+[[v2-3-5]]
+
+^<<v2-3-5,5>>^ "Não se aproxime mais", o SENHOR advertiu. "Tire as sandálias, pois você está pisando em terra santa.
+
+[[v2-3-6]]
+
+^<<v2-3-6,6>>^ Eu sou o Deus de seu pai, o Deus de Abraão, o Deus de Isaque e o Deus de Jacó." Quando Moisés ouviu isso, cobriu o rosto, porque teve medo de olhar para Deus.
+
+[[v2-3-7]]
+
+^<<v2-3-7,7>>^ Então o SENHOR lhe disse: "Por certo, tenho visto a opressão do meu povo no Egito. Tenho ouvido seu clamor por causa de seus capatazes. Sei bem quanto eles têm sofrido.
+
+[[v2-3-8]]
+
+^<<v2-3-8,8>>^ Por isso, desci para libertá-los do poder dos egípcios e levá-los do Egito a uma terra fértil e espaçosa. É uma terra que produz leite e mel com fartura, onde hoje habitam os cananeus, os hititas, os amorreus, os ferezeus, os heveus e os jebuseus.
+
+[[v2-3-9]]
+
+^<<v2-3-9,9>>^ Sim, o clamor do povo de Israel chegou até mim, e eu tenho visto como os egípcios os tratam cruelmente.
+
+[[v2-3-10]]
+
+^<<v2-3-10,10>>^ Agora vá, pois eu o envio ao faraó. Você deve tirar meu povo, Israel, do Egito".
+
+[[v2-3-11]]
+
+^<<v2-3-11,11>>^ Moisés, porém, disse a Deus: "Quem sou eu para me apresentar ao faraó? Quem sou eu para tirar o povo de Israel do Egito?"
+
+[[v2-3-12]]
+
+^<<v2-3-12,12>>^ Deus respondeu: "Eu estarei com você. Este é o sinal de que eu sou aquele que o envia: depois que você tirar o povo do Egito, vocês adorarão a Deus neste monte".
+
+[[v2-3-13]]
+
+^<<v2-3-13,13>>^ Moisés disse a Deus: "Se eu for aos israelitas e lhes disser: ‘O Deus de seus antepassados me enviou a vocês’, eles perguntarão: ‘Qual é o nome dele?’. O que devo dizer?".
+
+[[v2-3-14]]
+
+^<<v2-3-14,14>>^ Deus respondeu a Moisés: "Eu Sou o que Sou. Diga ao povo de Israel: Eu Sou me enviou a vocês".
+
+[[v2-3-15]]
+
+^<<v2-3-15,15>>^ Deus também instruiu Moisés: "Diga ao povo de Israel: Javé, o Deus de seus antepassados, o Deus de Abraão, o Deus de Isaque e o Deus de Jacó, me enviou a vocês. Esse é meu nome para sempre, o nome pelo qual serei lembrado de geração em geração.
+
+[[v2-3-16]]
+
+^<<v2-3-16,16>>^ "Agora vá e reúna os líderes de Israel. Diga-lhes que Javé, o Deus de seus antepassados, o Deus de Abraão, Isaque e Jacó, lhe apareceu e disse: ‘Tenho observado atentamente e vejo como os egípcios os têm tratado.
+
+[[v2-3-17]]
+
+^<<v2-3-17,17>>^ Prometi libertá-los da opressão no Egito e levá-los a uma terra que produz leite e mel com fartura, onde hoje habitam os cananeus, os hititas, os amorreus, os ferezeus, os heveus e os jebuseus’.
+
+[[v2-3-18]]
+
+^<<v2-3-18,18>>^ "Os líderes de Israel aceitarão sua mensagem. Em seguida, você e eles se apresentarão ao rei do Egito e lhe dirão: ‘O SENHOR, o Deus dos hebreus, veio ao nosso encontro. Agora, pedimos que nos permita fazer uma viagem de três dias ao deserto para oferecermos sacrifícios ao SENHOR, nosso Deus’.
+
+[[v2-3-19]]
+
+^<<v2-3-19,19>>^ "Eu sei que o rei do Egito não os deixará ir, a não ser que uma mão poderosa o force.
+
+[[v2-3-20]]
+
+^<<v2-3-20,20>>^ Por isso, levantarei minha mão e ferirei os egípcios com todo tipo de milagres que farei no meio deles. Então, por fim, o faraó os deixará ir.
+
+[[v2-3-21]]
+
+^<<v2-3-21,21>>^ Farei que os egípcios sejam bondosos com os israelitas, e assim vocês não sairão do Egito de mãos vazias.
+
+[[v2-3-22]]
+
+^<<v2-3-22,22>>^ Toda mulher israelita pedirá de suas vizinhas egípcias e das mulheres que as visitam artigos de ouro e prata e roupas caras, com as quais vestirão seus filhos e suas filhas. Desse modo, vocês tomarão para si as riquezas dos egípcios".
+
+'''
+
+xref:002-exodo/002-exodo-002.adoc#v2-2-0[&#60; Capítulo Anterior] | <<v2-3-0,Topo>> | xref:002-exodo/002-exodo-004.adoc#v2-4-0[Próximo Capítulo &#62;]

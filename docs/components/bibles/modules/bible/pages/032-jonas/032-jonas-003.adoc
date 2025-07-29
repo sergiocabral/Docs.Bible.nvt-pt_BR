@@ -1,0 +1,49 @@
+include::./index.adoc[]
+
+[[v32-3-0]]
+=== Jonas, 3
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v32-3-1]]
+
+^<<v32-3-1,1>>^ Depois disso, o SENHOR falou com Jonas pela segunda vez:
+
+[[v32-3-2]]
+
+^<<v32-3-2,2>>^ "Apronte-se, vá à grande cidade de Nínive e transmita a mensagem que eu lhe dei".
+
+[[v32-3-3]]
+
+^<<v32-3-3,3>>^ Dessa vez, Jonas obedeceu à ordem do SENHOR e foi a Nínive, uma cidade tão grande que eram necessários três dias para percorrê-la inteira.
+
+[[v32-3-4]]
+
+^<<v32-3-4,4>>^ No dia em que Jonas entrou na cidade, proclamou às multidões: "Daqui a quarenta dias Nínive será destruída!".
+
+[[v32-3-5]]
+
+^<<v32-3-5,5>>^ Os habitantes de Nínive creram em Deus e, desde o mais importante até o mais humilde, declararam um jejum e se vestiram de pano de saco.
+
+[[v32-3-6]]
+
+^<<v32-3-6,6>>^ Quando o rei de Nínive ouviu o que Jonas dizia, desceu do trono, tirou as vestes reais, vestiu-se de pano de saco e sentou-se sobre um monte de cinzas.
+
+[[v32-3-7]]
+
+^<<v32-3-7,7>>^ Então o rei e seus nobres enviaram este decreto a toda a cidade: "Ninguém, nem mesmo os animais de seu gado e de seus rebanhos, poderá comer ou beber coisa alguma.
+
+[[v32-3-8]]
+
+^<<v32-3-8,8>>^ Tanto as pessoas como os animais devem se cobrir de pano de saco, e todos devem orar fervorosamente ao SENHOR. Devem deixar seus maus caminhos e toda a sua violência.
+
+[[v32-3-9]]
+
+^<<v32-3-9,9>>^ Quem sabe Deus voltará atrás, conterá sua ira ardente e não nos destruirá".
+
+[[v32-3-10]]
+
+^<<v32-3-10,10>>^ Quando Deus viu o que fizeram e como deixaram seus maus caminhos, voltou atrás e não os destruiu como havia ameaçado.
+
+'''
+
+xref:032-jonas/032-jonas-002.adoc#v32-2-0[&#60; Capítulo Anterior] | <<v32-3-0,Topo>> | xref:032-jonas/032-jonas-004.adoc#v32-4-0[Próximo Capítulo &#62;]

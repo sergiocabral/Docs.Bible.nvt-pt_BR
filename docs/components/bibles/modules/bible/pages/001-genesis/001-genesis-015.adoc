@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v1-15-0]]
+=== Gênesis, 15
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v1-15-1]]
+
+^<<v1-15-1,1>>^ Algum tempo depois, o SENHOR falou a Abrão em uma visão e lhe disse: "Não tenha medo, Abrão, pois eu serei seu escudo, e sua recompensa será muito grande".
+
+[[v1-15-2]]
+
+^<<v1-15-2,2>>^ Abrão, porém, respondeu: "Ó SENHOR Soberano, de que me adiantam todas as tuas bênçãos se eu nem mesmo tenho um filho? Uma vez que não me deste filhos, Eliézer de Damasco, servo em minha casa, herdará toda a minha riqueza.
+
+[[v1-15-3]]
+
+^<<v1-15-3,3>>^ Não me deste nenhum descendente próprio e, por isso, um dos meus servos será meu herdeiro".
+
+[[v1-15-4]]
+
+^<<v1-15-4,4>>^ O SENHOR lhe disse: "Não, não será esse o seu herdeiro; você terá seu próprio filho, e ele será seu herdeiro".
+
+[[v1-15-5]]
+
+^<<v1-15-5,5>>^ Em seguida, levou Abrão para fora e lhe disse: "Olhe para o céu e conte as estrelas, se for capaz. Este é o número de descendentes que você terá".
+
+[[v1-15-6]]
+
+^<<v1-15-6,6>>^ Abrão creu no SENHOR, e assim foi considerado justo.
+
+[[v1-15-7]]
+
+^<<v1-15-7,7>>^ Então o SENHOR lhe disse: "Eu sou o SENHOR, que o tirei de Ur dos caldeus para lhe dar esta terra como posse".
+
+[[v1-15-8]]
+
+^<<v1-15-8,8>>^ Abrão perguntou: "Ó SENHOR Soberano, como posso ter certeza de que a possuirei de fato?".
+
+[[v1-15-9]]
+
+^<<v1-15-9,9>>^ O SENHOR respondeu: "Traga-me uma novilha, uma cabra e um carneiro, todos com três anos, mais uma rolinha e um pombinho".
+
+[[v1-15-10]]
+
+^<<v1-15-10,10>>^ Abrão lhe apresentou todos esses animais e os matou. Em seguida, cortou cada um deles ao meio e colocou as metades lado a lado; as aves, porém, não cortou ao meio.
+
+[[v1-15-11]]
+
+^<<v1-15-11,11>>^ Aves de rapina mergulharam para comer as carcaças, mas Abrão as afugentou.
+
+[[v1-15-12]]
+
+^<<v1-15-12,12>>^ Enquanto o sol se punha, Abrão caiu em sono profundo, e uma escuridão apavorante desceu sobre ele.
+
+[[v1-15-13]]
+
+^<<v1-15-13,13>>^ Então o SENHOR disse a Abrão: "Esteja certo de que seus descendentes serão forasteiros em terra alheia, onde sofrerão opressão como escravos por quatrocentos anos.
+
+[[v1-15-14]]
+
+^<<v1-15-14,14>>^ Mas eu castigarei a nação que os escravizar e, por fim, eles sairão de lá com grande riqueza.
+
+[[v1-15-15]]
+
+^<<v1-15-15,15>>^ (Você, por sua vez, morrerá em paz e será sepultado em idade avançada.)
+
+[[v1-15-16]]
+
+^<<v1-15-16,16>>^ Depois de quatro gerações, seus descendentes voltarão a esta terra, pois a maldade dos amorreus ainda não chegou ao ponto de provocar meu castigo".
+
+[[v1-15-17]]
+
+^<<v1-15-17,17>>^ Quando o sol se pôs e veio a escuridão, Abrão viu um fogareiro fumegante e uma tocha ardente passarem por entre as metades das carcaças.
+
+[[v1-15-18]]
+
+^<<v1-15-18,18>>^ Então o SENHOR fez uma aliança com Abrão naquele dia e disse: "Dei esta terra a seus descendentes, desde a fronteira com o Egito até o grande rio Eufrates,
+
+[[v1-15-19]]
+
+^<<v1-15-19,19>>^ a terra hoje ocupada pelos queneus, quenezeus, cadmoneus,
+
+[[v1-15-20]]
+
+^<<v1-15-20,20>>^ hititas, ferezeus, refains,
+
+[[v1-15-21]]
+
+^<<v1-15-21,21>>^ amorreus, cananeus, girgaseus e jebuseus".
+
+'''
+
+xref:001-genesis/001-genesis-014.adoc#v1-14-0[&#60; Capítulo Anterior] | <<v1-15-0,Topo>> | xref:001-genesis/001-genesis-016.adoc#v1-16-0[Próximo Capítulo &#62;]

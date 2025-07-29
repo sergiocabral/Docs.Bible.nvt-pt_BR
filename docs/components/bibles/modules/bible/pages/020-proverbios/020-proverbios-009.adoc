@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v20-9-0]]
+=== Provérbios, 9
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v20-9-1]]
+
+^<<v20-9-1,1>>^ A Sabedoria construiu sua casa e ergueu suas sete colunas.
+
+[[v20-9-2]]
+
+^<<v20-9-2,2>>^ Preparou um grande banquete; misturou os vinhos e arrumou a mesa.
+
+[[v20-9-3]]
+
+^<<v20-9-3,3>>^ Enviou suas servas para convidarem a todos; do ponto mais alto da cidade, ela clama:
+
+[[v20-9-4]]
+
+^<<v20-9-4,4>>^ "Venham à minha casa todos os ingênuos", e aos que não têm juízo ela diz:
+
+[[v20-9-5]]
+
+^<<v20-9-5,5>>^ "Venham, comam de meu banquete e bebam do vinho que misturei.
+
+[[v20-9-6]]
+
+^<<v20-9-6,6>>^ Deixem sua ingenuidade para trás e vivam; andem pelo caminho do discernimento".
+
+[[v20-9-7]]
+
+^<<v20-9-7,7>>^ Quem repreende o zombador recebe insulto como resposta; quem corrige o perverso prejudica a si mesmo.
+
+[[v20-9-8]]
+
+^<<v20-9-8,8>>^ Não se dê o trabalho de repreender o zombador, pois ele o odiará; repreenda, porém, o sábio, e ele o amará.
+
+[[v20-9-9]]
+
+^<<v20-9-9,9>>^ Instrua o sábio, e ele crescerá na sabedoria; ensine o justo, e ele aprenderá ainda mais.
+
+[[v20-9-10]]
+
+^<<v20-9-10,10>>^ O temor do SENHOR é o princípio da sabedoria; o conhecimento do Santo resulta em discernimento.
+
+[[v20-9-11]]
+
+^<<v20-9-11,11>>^ A sabedoria multiplicará seus dias e tornará sua vida mais longa.
+
+[[v20-9-12]]
+
+^<<v20-9-12,12>>^ Se você se tornar sábio, o benefício será seu; se desprezar a sabedoria, sofrerá as consequências.
+
+[[v20-9-13]]
+
+^<<v20-9-13,13>>^ A mulher chamada Insensatez é atrevida; é ignorante e nem se dá conta disso.
+
+[[v20-9-14]]
+
+^<<v20-9-14,14>>^ Senta-se à porta de sua casa, no ponto mais alto da cidade.
+
+[[v20-9-15]]
+
+^<<v20-9-15,15>>^ Clama aos que passam pelo caminho, ocupados com seus próprios assuntos:
+
+[[v20-9-16]]
+
+^<<v20-9-16,16>>^ "Venham à minha casa todos os ingênuos", e aos que não têm juízo ela diz:
+
+[[v20-9-17]]
+
+^<<v20-9-17,17>>^ "Água roubada é mais refrescante! Pão comido às escondidas é mais saboroso!".
+
+[[v20-9-18]]
+
+^<<v20-9-18,18>>^ Mal sabem, porém, que ali estão os mortos; seus convidados estão nas profundezas da sepultura.
+
+'''
+
+xref:020-proverbios/020-proverbios-008.adoc#v20-8-0[&#60; Capítulo Anterior] | <<v20-9-0,Topo>> | xref:020-proverbios/020-proverbios-010.adoc#v20-10-0[Próximo Capítulo &#62;]

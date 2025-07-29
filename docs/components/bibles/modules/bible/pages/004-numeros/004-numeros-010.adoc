@@ -1,0 +1,153 @@
+include::./index.adoc[]
+
+[[v4-10-0]]
+=== Números, 10
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v4-10-1]]
+
+^<<v4-10-1,1>>^ O SENHOR também disse a Moisés:
+
+[[v4-10-2]]
+
+^<<v4-10-2,2>>^ "Faça duas trombetas de prata batida. Com elas você chamará a comunidade para se reunir e dará o sinal para levantar acampamento.
+
+[[v4-10-3]]
+
+^<<v4-10-3,3>>^ Quando as duas trombetas soarem, todos se reunirão diante de você à entrada da tenda do encontro.
+
+[[v4-10-4]]
+
+^<<v4-10-4,4>>^ Se apenas uma trombeta soar, somente os líderes, os chefes dos clãs de Israel, se apresentarão a você.
+
+[[v4-10-5]]
+
+^<<v4-10-5,5>>^ "Quando o sinal para seguir viagem soar, as tribos acampadas do lado leste levantarão acampamento e avançarão.
+
+[[v4-10-6]]
+
+^<<v4-10-6,6>>^ Quando o sinal soar pela segunda vez, as tribos acampadas do lado sul virão em seguida. Mande soar dois toques curtos para indicar que devem partir.
+
+[[v4-10-7]]
+
+^<<v4-10-7,7>>^ Mas, quando convocar o povo para uma reunião sagrada, mande soar um toque diferente.
+
+[[v4-10-8]]
+
+^<<v4-10-8,8>>^ Apenas os sacerdotes, os descendentes de Arão, tocarão as trombetas. Essa é uma lei permanente para vocês, a ser cumprida de geração em geração.
+
+[[v4-10-9]]
+
+^<<v4-10-9,9>>^ "Quando chegarem à sua própria terra e guerrearem contra os inimigos que os atacarem, usem as trombetas para soar o alarme. Então o SENHOR, seu Deus, se lembrará de vocês e os livrará de seus inimigos.
+
+[[v4-10-10]]
+
+^<<v4-10-10,10>>^ Façam soar as trombetas também em ocasiões alegres, nas festas anuais e no começo de cada mês, e toquem as trombetas ao apresentarem holocaustos e ofertas de paz. As trombetas lhes servirão de recordação diante de seu Deus. Eu sou o SENHOR, seu Deus".
+
+[[v4-10-11]]
+
+^<<v4-10-11,11>>^ No segundo ano desde a saída de Israel do Egito, no vigésimo dia do segundo mês, a nuvem se elevou acima do tabernáculo da aliança.
+
+[[v4-10-12]]
+
+^<<v4-10-12,12>>^ Então os israelitas saíram do deserto do Sinai e viajaram de um lugar para outro até a nuvem pousar no deserto de Parã.
+
+[[v4-10-13]]
+
+^<<v4-10-13,13>>^ Da primeira vez que o povo partiu, seguindo as instruções do SENHOR a Moisés,
+
+[[v4-10-14]]
+
+^<<v4-10-14,14>>^ o exército da tribo de Judá foi à frente. Marchava atrás de sua bandeira e seu comandante era Naassom, filho de Aminadabe.
+
+[[v4-10-15]]
+
+^<<v4-10-15,15>>^ Em seguida, vieram o exército da tribo de Issacar, comandado por Natanael, filho de Zuar,
+
+[[v4-10-16]]
+
+^<<v4-10-16,16>>^ e o exército da tribo de Zebulom, comandado por Eliabe, filho de Helom.
+
+[[v4-10-17]]
+
+^<<v4-10-17,17>>^ O tabernáculo foi desmontado, e os levitas das divisões gersonita e merarita vieram na sequência, carregando o tabernáculo.
+
+[[v4-10-18]]
+
+^<<v4-10-18,18>>^ O exército de Rúben veio depois, marchando atrás de sua bandeira. Seu comandante era Elizur, filho de Sedeur.
+
+[[v4-10-19]]
+
+^<<v4-10-19,19>>^ Em seguida, vieram o exército da tribo de Simeão, comandado por Selumiel, filho de Zurisadai,
+
+[[v4-10-20]]
+
+^<<v4-10-20,20>>^ e o exército da tribo de Gade, comandado por Eliasafe, filho de Deuel.
+
+[[v4-10-21]]
+
+^<<v4-10-21,21>>^ Então vieram os levitas da divisão coatita carregando os objetos sagrados. Antes que o povo chegasse ao próximo acampamento, o tabernáculo deveria estar armado em seu novo local.
+
+[[v4-10-22]]
+
+^<<v4-10-22,22>>^ O exército de Efraim veio depois, marchando atrás de sua bandeira, comandado por Elisama, filho de Amiúde.
+
+[[v4-10-23]]
+
+^<<v4-10-23,23>>^ Em seguida, vieram o exército da tribo de Manassés, comandado por Gamaliel, filho de Pedazur,
+
+[[v4-10-24]]
+
+^<<v4-10-24,24>>^ e o exército da tribo de Benjamim, comandado por Abidã, filho de Gideoni.
+
+[[v4-10-25]]
+
+^<<v4-10-25,25>>^ O exército de Dã veio por último, marchando atrás de sua bandeira e formando a retaguarda de todos os acampamentos das tribos. Seu comandante era Aieser, filho de Amisadai.
+
+[[v4-10-26]]
+
+^<<v4-10-26,26>>^ Em seguida, vieram o exército da tribo de Aser, comandado por Pagiel, filho de Ocrã,
+
+[[v4-10-27]]
+
+^<<v4-10-27,27>>^ e o exército da tribo de Naftali, comandado por Aira, filho de Enã.
+
+[[v4-10-28]]
+
+^<<v4-10-28,28>>^ Era nessa sequência que os israelitas marchavam, exército após exército.
+
+[[v4-10-29]]
+
+^<<v4-10-29,29>>^ Moisés disse a seu cunhado Hobabe, filho do midianita Reuel: "Estamos a caminho do lugar que o SENHOR nos prometeu, pois ele disse: ‘Eu o darei a vocês’. Venha conosco e o trataremos bem, pois o SENHOR prometeu boas coisas a Israel!".
+
+[[v4-10-30]]
+
+^<<v4-10-30,30>>^ "Não irei", respondeu Hobabe. "Preciso voltar para minha própria terra e para minha família."
+
+[[v4-10-31]]
+
+^<<v4-10-31,31>>^ "Por favor, não nos deixe", pediu Moisés. "Você conhece os lugares do deserto onde poderemos acampar. Venha e seja nosso guia.
+
+[[v4-10-32]]
+
+^<<v4-10-32,32>>^ Se nos acompanhar, compartilharemos com você todas as boas coisas que o SENHOR nos der."
+
+[[v4-10-33]]
+
+^<<v4-10-33,33>>^ Depois de partirem do monte do SENHOR, marcharam por três dias. A arca da aliança do SENHOR ia à frente deles para lhes mostrar onde parar e descansar.
+
+[[v4-10-34]]
+
+^<<v4-10-34,34>>^ A cada dia, enquanto seguiam viagem, a nuvem do SENHOR permanecia sobre eles.
+
+[[v4-10-35]]
+
+^<<v4-10-35,35>>^ Sempre que a arca partia, Moisés exclamava: "Levanta-te, ó SENHOR! Que teus inimigos se dispersem e teus adversários fujam de diante de ti!".
+
+[[v4-10-36]]
+
+^<<v4-10-36,36>>^ E, quando a arca parava, ele dizia: "Volta, ó SENHOR, aos muitos milhares de Israel!".
+
+'''
+
+xref:004-numeros/004-numeros-009.adoc#v4-9-0[&#60; Capítulo Anterior] | <<v4-10-0,Topo>> | xref:004-numeros/004-numeros-011.adoc#v4-11-0[Próximo Capítulo &#62;]

@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v13-14-0]]
+=== 1 Crônicas, 14
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v13-14-1]]
+
+^<<v13-14-1,1>>^ Hirão, rei de Tiro, enviou a Davi mensageiros com madeira de cedro, pedreiros e carpinteiros, para que lhe construíssem um palácio.
+
+[[v13-14-2]]
+
+^<<v13-14-2,2>>^ E Davi compreendeu que o SENHOR o havia confirmado como rei sobre Israel e exaltado seu reino por causa de seu povo, Israel.
+
+[[v13-14-3]]
+
+^<<v13-14-3,3>>^ Em Jerusalém, Davi tomou para si outras mulheres, que lhe deram mais filhos e filhas.
+
+[[v13-14-4]]
+
+^<<v13-14-4,4>>^ Estes são os nomes dos filhos de Davi que nasceram em Jerusalém: Samua, Sobabe, Natã, Salomão,
+
+[[v13-14-5]]
+
+^<<v13-14-5,5>>^ Ibar, Elisua, Elpalete,
+
+[[v13-14-6]]
+
+^<<v13-14-6,6>>^ Nogá, Nefegue, Jafia,
+
+[[v13-14-7]]
+
+^<<v13-14-7,7>>^ Elisama, Eliada e Elifelete.
+
+[[v13-14-8]]
+
+^<<v13-14-8,8>>^ Quando os filisteus souberam que Davi tinha sido ungido rei de Israel, mobilizaram suas tropas para capturá-lo. Davi, porém, foi informado disso e saiu para enfrentá-los.
+
+[[v13-14-9]]
+
+^<<v13-14-9,9>>^ Os filisteus chegaram e invadiram o vale de Refaim.
+
+[[v13-14-10]]
+
+^<<v13-14-10,10>>^ Então Davi perguntou a Deus: "Devo sair e lutar contra os filisteus? Tu os entregarás em minhas mãos?". O SENHOR respondeu a Davi: "Sim, vá, pois eu certamente os entregarei em suas mãos".
+
+[[v13-14-11]]
+
+^<<v13-14-11,11>>^ Então Davi e seus soldados foram a Baal-Perazim e ali derrotaram os filisteus. Davi exclamou: "Por meu intermédio, Deus irrompeu no meio de meus inimigos como uma violenta inundação!". Por isso, chamou aquele lugar de Baal-Perazim.
+
+[[v13-14-12]]
+
+^<<v13-14-12,12>>^ Os filisteus haviam deixado seus ídolos ali, e Davi ordenou que fossem queimados.
+
+[[v13-14-13]]
+
+^<<v13-14-13,13>>^ Pouco tempo depois, os filisteus voltaram a invadir o vale.
+
+[[v13-14-14]]
+
+^<<v13-14-14,14>>^ Mais uma vez, Davi consultou a Deus. "Não os ataque pela frente", respondeu Deus. "Em vez disso, dê a volta por trás deles e ataque-os perto dos álamos.
+
+[[v13-14-15]]
+
+^<<v13-14-15,15>>^ Quando ouvir um som como de pés marchando por cima dos álamos, saia e ataque! É o sinal de que Deus vai à sua frente para derrotar o exército filisteu."
+
+[[v13-14-16]]
+
+^<<v13-14-16,16>>^ Davi fez como Deus ordenou e derrotou os filisteus por todo o caminho, desde Gibeom até Gezer.
+
+[[v13-14-17]]
+
+^<<v13-14-17,17>>^ Assim, a fama de Davi se espalhou por toda parte, e o SENHOR fez que todas as nações o temessem.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-013.adoc#v13-13-0[&#60; Capítulo Anterior] | <<v13-14-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-015.adoc#v13-15-0[Próximo Capítulo &#62;]

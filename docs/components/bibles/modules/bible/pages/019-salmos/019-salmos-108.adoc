@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v19-108-0]]
+=== Salmos, 108
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-108-1]]
+
+^<<v19-108-1,1>>^ Meu coração está firme em ti, ó Deus; por isso te cantarei louvores com todo o meu ser.
+
+[[v19-108-2]]
+
+^<<v19-108-2,2>>^ Despertem, lira e harpa! Quero acordar o amanhecer com a minha canção.
+
+[[v19-108-3]]
+
+^<<v19-108-3,3>>^ Eu te darei graças, SENHOR, no meio dos povos; cantarei louvores a ti entre as nações.
+
+[[v19-108-4]]
+
+^<<v19-108-4,4>>^ Pois o teu amor é mais alto que os céus; a tua fidelidade chega até as nuvens.
+
+[[v19-108-5]]
+
+^<<v19-108-5,5>>^ Sê exaltado, ó Deus, acima dos mais altos céus; que a tua glória brilhe sobre toda a terra!
+
+[[v19-108-6]]
+
+^<<v19-108-6,6>>^ Agora, livra teu povo amado; responde-nos e salva-nos por teu poder.
+
+[[v19-108-7]]
+
+^<<v19-108-7,7>>^ Deus, em seu santuário, prometeu: "Com alegria dividirei Siquém e medirei o vale de Sucote.
+
+[[v19-108-8]]
+
+^<<v19-108-8,8>>^ Gileade é minha, e também Manassés; Efraim é meu capacete, e Judá, meu cetro.
+
+[[v19-108-9]]
+
+^<<v19-108-9,9>>^ Moabe é minha bacia de lavar; limparei os pés sobre Edom e darei um grito de triunfo sobre a Filístia".
+
+[[v19-108-10]]
+
+^<<v19-108-10,10>>^ Quem me levará à cidade fortificada? Quem me guiará até Edom?
+
+[[v19-108-11]]
+
+^<<v19-108-11,11>>^ Acaso nos rejeitaste, ó Deus? Não marcharás mais com nossos exércitos?
+
+[[v19-108-12]]
+
+^<<v19-108-12,12>>^ Ajuda-nos contra nossos inimigos, pois todo socorro humano é inútil.
+
+[[v19-108-13]]
+
+^<<v19-108-13,13>>^ Com o auxílio de Deus, realizaremos grandes feitos, pois ele pisará os nossos inimigos.
+
+'''
+
+xref:019-salmos/019-salmos-107.adoc#v19-107-0[&#60; Capítulo Anterior] | <<v19-108-0,Topo>> | xref:019-salmos/019-salmos-109.adoc#v19-109-0[Próximo Capítulo &#62;]

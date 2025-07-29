@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v48-1-0]]
+=== Gálatas, 1
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v48-1-1]]
+
+^<<v48-1-1,1>>^ Eu, Paulo, apóstolo, nomeado não por um grupo de pessoas, nem por alguma autoridade humana, mas pelo próprio Jesus Cristo e por Deus, o Pai, que ressuscitou Jesus dos mortos,
+
+[[v48-1-2]]
+
+^<<v48-1-2,2>>^ escrevo esta carta, com todos os irmãos que estão comigo, às igrejas da Galácia.
+
+[[v48-1-3]]
+
+^<<v48-1-3,3>>^ Que Deus, o Pai, e nosso Senhor Jesus Cristo lhes deem graça e paz.
+
+[[v48-1-4]]
+
+^<<v48-1-4,4>>^ Jesus entregou sua vida por nossos pecados, a fim de nos resgatar deste mundo mau, conforme Deus, nosso Pai, havia planejado.
+
+[[v48-1-5]]
+
+^<<v48-1-5,5>>^ Toda a glória a Deus para todo o sempre! Amém.
+
+[[v48-1-6]]
+
+^<<v48-1-6,6>>^ Admiro-me que vocês estejam se afastando tão depressa daquele que os chamou para si por meio da graça de Cristo. Vocês estão seguindo um caminho diferente que se faz passar pelas boas-novas,
+
+[[v48-1-7]]
+
+^<<v48-1-7,7>>^ mas que não são boas-novas de maneira nenhuma. Estão sendo perturbados por aqueles que distorcem deliberadamente as boas-novas de Cristo.
+
+[[v48-1-8]]
+
+^<<v48-1-8,8>>^ Que seja amaldiçoado qualquer um, incluindo nós, ou mesmo um anjo do céu, que anunciar boas-novas diferentes das que nós lhes anunciamos.
+
+[[v48-1-9]]
+
+^<<v48-1-9,9>>^ Repito o que disse antes: se alguém anunciar boas-novas diferentes das que vocês receberam, que seja amaldiçoado.
+
+[[v48-1-10]]
+
+^<<v48-1-10,10>>^ Acaso estou tentando conquistar a aprovação das pessoas? Ou será que procuro a aprovação de Deus? Se meu objetivo fosse agradar as pessoas, não seria servo de Cristo.
+
+[[v48-1-11]]
+
+^<<v48-1-11,11>>^ Irmãos, quero que vocês entendam que a mensagem das boas-novas por mim anunciada não provém do raciocínio humano.
+
+[[v48-1-12]]
+
+^<<v48-1-12,12>>^ Não a recebi de fonte humana, e ninguém a ensinou a mim. Ao contrário, eu a recebi por revelação de Jesus Cristo.
+
+[[v48-1-13]]
+
+^<<v48-1-13,13>>^ Vocês sabem como eu era quando seguia a religião judaica, como perseguia com violência a igreja de Deus. Não media esforços para destruí-la.
+
+[[v48-1-14]]
+
+^<<v48-1-14,14>>^ Superava a muitos dos judeus de minha geração, sendo extremamente zeloso pelas tradições de meus antepassados.
+
+[[v48-1-15]]
+
+^<<v48-1-15,15>>^ Contudo, ainda antes de eu nascer, Deus me escolheu e me chamou por sua graça. Foi do agrado dele
+
+[[v48-1-16]]
+
+^<<v48-1-16,16>>^ revelar seu Filho a mim, para que eu o anunciasse aos gentios. Quando isso aconteceu, não consultei ser humano algum.
+
+[[v48-1-17]]
+
+^<<v48-1-17,17>>^ Tampouco subi a Jerusalém para pedir o conselho daqueles que eram apóstolos antes de mim. Em vez disso, fui à Arábia e depois voltei à cidade de Damasco.
+
+[[v48-1-18]]
+
+^<<v48-1-18,18>>^ Então, passados três anos, fui a Jerusalém para conhecer Pedro, com quem permaneci quinze dias.
+
+[[v48-1-19]]
+
+^<<v48-1-19,19>>^ O único outro apóstolo que vi naquela ocasião foi Tiago, irmão do Senhor.
+
+[[v48-1-20]]
+
+^<<v48-1-20,20>>^ Afirmo diante de Deus que o que lhes escrevo não é mentira.
+
+[[v48-1-21]]
+
+^<<v48-1-21,21>>^ Depois disso, fui às províncias da Síria e da Cilícia.
+
+[[v48-1-22]]
+
+^<<v48-1-22,22>>^ As igrejas em Cristo que estão na Judeia ainda não me conheciam pessoalmente.
+
+[[v48-1-23]]
+
+^<<v48-1-23,23>>^ Sabiam apenas o que as pessoas diziam: "Aquele que nos perseguia agora anuncia a mesma fé que antes tentava destruir".
+
+[[v48-1-24]]
+
+^<<v48-1-24,24>>^ E louvavam a Deus por minha causa.
+
+'''
+
+xref:047-2-corintios/047-2-corintios-013.adoc#v47-13-0[&#60; Capítulo Anterior] | <<v48-1-0,Topo>> | xref:048-galatas/048-galatas-002.adoc#v48-2-0[Próximo Capítulo &#62;]

@@ -1,0 +1,161 @@
+include::./index.adoc[]
+
+[[v42-3-0]]
+=== Lucas, 3
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v42-3-1]]
+
+^<<v42-3-1,1>>^ Era o décimo quinto ano do reinado do imperador Tibério César. Pôncio Pilatos era governador da Judeia; Herodes Antipas governava a Galileia; seu irmão Filipe governava a Itureia e Traconites; e Lisânias governava Abilene.
+
+[[v42-3-2]]
+
+^<<v42-3-2,2>>^ Anás e Caifás eram os sumos sacerdotes. Nesse ano, veio uma mensagem de Deus a João, filho de Zacarias, que vivia no deserto.
+
+[[v42-3-3]]
+
+^<<v42-3-3,3>>^ João percorreu os arredores do rio Jordão, pregando o batismo como sinal de arrependimento para o perdão dos pecados.
+
+[[v42-3-4]]
+
+^<<v42-3-4,4>>^ O profeta Isaías se referia a João quando escreveu em seu livro: "Ele é uma voz que clama no deserto: ‘Preparem o caminho para a vinda do Senhor! Abram uma estrada para ele!
+
+[[v42-3-5]]
+
+^<<v42-3-5,5>>^ Os vales serão aterrados, e os montes e as colinas, nivelados. As curvas serão endireitadas, e os lugares acidentados, aplanados.
+
+[[v42-3-6]]
+
+^<<v42-3-6,6>>^ Então todos verão a salvação enviada por Deus’".
+
+[[v42-3-7]]
+
+^<<v42-3-7,7>>^ João dizia às multidões que vinham até ele para ser batizadas: "Raça de víboras! Quem os convenceu a fugir da ira que está por vir?
+
+[[v42-3-8]]
+
+^<<v42-3-8,8>>^ Provem por suas ações que vocês se arrependeram. Não digam uns aos outros: ‘Estamos a salvo, pois somos filhos de Abraão’. Isso não significa nada, pois eu lhes digo que até destas pedras Deus pode fazer surgir filhos de Abraão.
+
+[[v42-3-9]]
+
+^<<v42-3-9,9>>^ Agora mesmo o machado do julgamento está pronto para cortar as raízes das árvores. Toda árvore que não produz bons frutos será cortada e lançada ao fogo".
+
+[[v42-3-10]]
+
+^<<v42-3-10,10>>^ As multidões perguntavam: "O que devemos fazer?".
+
+[[v42-3-11]]
+
+^<<v42-3-11,11>>^ João respondeu: "Se tiverem duas vestimentas, deem uma a quem não tem. Se tiverem comida, dividam com quem passa fome".
+
+[[v42-3-12]]
+
+^<<v42-3-12,12>>^ Cobradores de impostos também vinham para ser batizados e perguntavam: "Mestre, o que devemos fazer?".
+
+[[v42-3-13]]
+
+^<<v42-3-13,13>>^ Ele respondeu: "Não cobrem impostos além daquilo que é exigido".
+
+[[v42-3-14]]
+
+^<<v42-3-14,14>>^ "E nós?", perguntaram alguns soldados. "O que devemos fazer?" João respondeu: "Não pratiquem extorsão nem façam acusações falsas. Contentem-se com seu salário".
+
+[[v42-3-15]]
+
+^<<v42-3-15,15>>^ Todos esperavam que o Cristo viesse em breve, e estavam ansiosos para saber se João era ele.
+
+[[v42-3-16]]
+
+^<<v42-3-16,16>>^ João respondeu às perguntas deles, dizendo: "Eu os batizo com água, mas em breve virá alguém mais poderoso que eu, alguém tão superior que não sou digno de desatar as correias de suas sandálias. Ele os batizará com o Espírito Santo e com fogo.
+
+[[v42-3-17]]
+
+^<<v42-3-17,17>>^ Ele já tem na mão a pá, e com ela separará a palha do trigo, a fim de limpar a área onde os cereais são debulhados. Juntará o trigo no celeiro, mas queimará a palha num fogo que nunca se apaga".
+
+[[v42-3-18]]
+
+^<<v42-3-18,18>>^ João usou muitas advertências semelhantes ao anunciar as boas-novas ao povo.
+
+[[v42-3-19]]
+
+^<<v42-3-19,19>>^ João também criticou publicamente Herodes Antipas, o governador da Galileia, por ter se casado com Herodias, esposa de seu irmão, e por muitas outras maldades que havia cometido.
+
+[[v42-3-20]]
+
+^<<v42-3-20,20>>^ A essas maldades Herodes acrescentou outra, mandando prender João.
+
+[[v42-3-21]]
+
+^<<v42-3-21,21>>^ Certo dia, quando as multidões estavam sendo batizadas, Jesus também foi batizado. Enquanto ele orava, o céu se abriu,
+
+[[v42-3-22]]
+
+^<<v42-3-22,22>>^ e o Espírito Santo desceu sobre ele em forma corpórea como uma pomba. E uma voz do céu disse: "Você é meu filho amado, que me dá grande alegria".
+
+[[v42-3-23]]
+
+^<<v42-3-23,23>>^ Jesus estava com cerca de trinta anos quando começou seu ministério. Jesus era conhecido como filho de José. José era filho de Eli.
+
+[[v42-3-24]]
+
+^<<v42-3-24,24>>^ Eli era filho de Matate. Matate era filho de Levi. Levi era filho de Melqui. Melqui era filho de Janai. Janai era filho de José.
+
+[[v42-3-25]]
+
+^<<v42-3-25,25>>^ José era filho de Matatias. Matatias era filho de Amós. Amós era filho de Naum. Naum era filho de Esli. Esli era filho de Nagai.
+
+[[v42-3-26]]
+
+^<<v42-3-26,26>>^ Nagai era filho de Maate. Maate era filho de Matatias. Matatias era filho de Semei. Semei era filho de Joseque. Joseque era filho de Jodá.
+
+[[v42-3-27]]
+
+^<<v42-3-27,27>>^ Jodá era filho de Joanã. Joanã era filho de Ressa. Ressa era filho de Zorobabel. Zorobabel era filho de Salatiel. Salatiel era filho de Neri.
+
+[[v42-3-28]]
+
+^<<v42-3-28,28>>^ Neri era filho de Melqui. Melqui era filho de Adi. Adi era filho de Cosã. Cosã era filho de Elmadã. Elmadã era filho de Er.
+
+[[v42-3-29]]
+
+^<<v42-3-29,29>>^ Er era filho de Josué. Josué era filho de Eliézer. Eliézer era filho de Jorim. Jorim era filho de Matate. Matate era filho de Levi.
+
+[[v42-3-30]]
+
+^<<v42-3-30,30>>^ Levi era filho de Simeão. Simeão era filho de Judá. Judá era filho de José. José era filho de Jonã. Jonã era filho de Eliaquim.
+
+[[v42-3-31]]
+
+^<<v42-3-31,31>>^ Eliaquim era filho de Meleá. Meleá era filho de Mená. Mená era filho de Matatá. Matatá era filho de Natã. Natã era filho de Davi.
+
+[[v42-3-32]]
+
+^<<v42-3-32,32>>^ Davi era filho de Jessé. Jessé era filho de Obede. Obede era filho de Boaz. Boaz era filho de Salmom. Salmom era filho de Naassom.
+
+[[v42-3-33]]
+
+^<<v42-3-33,33>>^ Naassom era filho de Aminadabe. Aminadabe era filho de Admim. Admim era filho de Arni. Arni era filho de Esrom. Esrom era filho de Perez. Perez era filho de Judá.
+
+[[v42-3-34]]
+
+^<<v42-3-34,34>>^ Judá era filho de Jacó. Jacó era filho de Isaque. Isaque era filho de Abraão. Abraão era filho de Terá. Terá era filho de Naor.
+
+[[v42-3-35]]
+
+^<<v42-3-35,35>>^ Naor era filho de Serugue. Serugue era filho de Ragaú. Ragaú era filho de Faleque. Faleque era filho de Éber. Éber era filho de Salá.
+
+[[v42-3-36]]
+
+^<<v42-3-36,36>>^ Salá era filho de Cainã. Cainã era filho de Arfaxade. Arfaxade era filho de Sem. Sem era filho de Noé. Noé era filho de Lameque.
+
+[[v42-3-37]]
+
+^<<v42-3-37,37>>^ Lameque era filho de Matusalém. Matusalém era filho de Enoque. Enoque era filho de Jarede. Jarede era filho de Maalaleel. Maalaleel era filho de Cainã.
+
+[[v42-3-38]]
+
+^<<v42-3-38,38>>^ Cainã era filho de Enos. Enos era filho de Sete. Sete era filho de Adão. Adão era filho de Deus.
+
+'''
+
+xref:042-lucas/042-lucas-002.adoc#v42-2-0[&#60; Capítulo Anterior] | <<v42-3-0,Topo>> | xref:042-lucas/042-lucas-004.adoc#v42-4-0[Próximo Capítulo &#62;]

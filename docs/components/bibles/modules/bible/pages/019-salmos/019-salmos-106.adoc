@@ -1,0 +1,201 @@
+include::./index.adoc[]
+
+[[v19-106-0]]
+=== Salmos, 106
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-106-1]]
+
+^<<v19-106-1,1>>^ Louvado seja o SENHOR! Deem graças ao SENHOR porque ele é bom; seu amor dura para sempre!
+
+[[v19-106-2]]
+
+^<<v19-106-2,2>>^ Quem poderá contar os feitos poderosos do SENHOR? Quem poderá louvá-lo como ele merece?
+
+[[v19-106-3]]
+
+^<<v19-106-3,3>>^ Como são felizes os que fazem o que é certo e praticam a justiça todo o tempo!
+
+[[v19-106-4]]
+
+^<<v19-106-4,4>>^ Lembra-te de mim, SENHOR, quando mostrares favor ao teu povo; aproxima-te e resgata-me.
+
+[[v19-106-5]]
+
+^<<v19-106-5,5>>^ Que eu compartilhe da prosperidade dos teus escolhidos; que eu me alegre na alegria do teu povo e exulte com aqueles que pertencem a ti.
+
+[[v19-106-6]]
+
+^<<v19-106-6,6>>^ Pecamos, como nossos antepassados; fomos desobedientes e rebeldes.
+
+[[v19-106-7]]
+
+^<<v19-106-7,7>>^ No Egito, nossos antepassados não deram valor às maravilhas do SENHOR. Não se lembraram de seus muitos atos de bondade; rebelaram-se contra ele junto ao mar Vermelho.
+
+[[v19-106-8]]
+
+^<<v19-106-8,8>>^ Assim mesmo ele os resgatou, para proteger a honra de seu nome, para mostrar seu grande poder.
+
+[[v19-106-9]]
+
+^<<v19-106-9,9>>^ Ordenou que o mar Vermelho secasse e os conduziu pelas águas como por um deserto.
+
+[[v19-106-10]]
+
+^<<v19-106-10,10>>^ Ele os resgatou das mãos de seus inimigos e os libertou das garras de seus adversários.
+
+[[v19-106-11]]
+
+^<<v19-106-11,11>>^ As águas se fecharam e cobriram seus opressores; nenhum deles sobreviveu.
+
+[[v19-106-12]]
+
+^<<v19-106-12,12>>^ Então creram em suas promessas e cantaram louvores a ele.
+
+[[v19-106-13]]
+
+^<<v19-106-13,13>>^ Depressa, porém, esqueceram-se do que ele havia feito; não quiseram esperar por seus conselhos.
+
+[[v19-106-14]]
+
+^<<v19-106-14,14>>^ No deserto, os desejos do povo se tornaram insaciáveis; puseram Deus à prova naquela terra desolada.
+
+[[v19-106-15]]
+
+^<<v19-106-15,15>>^ Ele atendeu a seus pedidos, mas também lhes enviou uma praga.
+
+[[v19-106-16]]
+
+^<<v19-106-16,16>>^ No acampamento, tiveram inveja de Moisés e de Arão, o sacerdote consagrado ao SENHOR.
+
+[[v19-106-17]]
+
+^<<v19-106-17,17>>^ Por isso, a terra se abriu; engoliu Datã e sepultou Abirão e os outros rebeldes.
+
+[[v19-106-18]]
+
+^<<v19-106-18,18>>^ Fogo desceu sobre aqueles que os seguiam; uma chama consumiu os perversos.
+
+[[v19-106-19]]
+
+^<<v19-106-19,19>>^ No monte Sinai, fizeram um bezerro; prostraram-se diante de uma imagem de metal.
+
+[[v19-106-20]]
+
+^<<v19-106-20,20>>^ Trocaram seu Deus glorioso pela estátua de um boi que come capim.
+
+[[v19-106-21]]
+
+^<<v19-106-21,21>>^ Esqueceram-se de Deus, seu salvador, que havia feito coisas grandiosas no Egito,
+
+[[v19-106-22]]
+
+^<<v19-106-22,22>>^ atos maravilhosos na terra de Cam, feitos notáveis no mar Vermelho.
+
+[[v19-106-23]]
+
+^<<v19-106-23,23>>^ Por isso, declarou que os destruiria, mas Moisés, seu escolhido, pôs-se entre ele e o povo e suplicou-lhe que afastasse sua ira e não os destruísse.
+
+[[v19-106-24]]
+
+^<<v19-106-24,24>>^ Eles, porém, se recusaram a entrar na terra agradável, pois não creram na promessa.
+
+[[v19-106-25]]
+
+^<<v19-106-25,25>>^ Em vez disso, resmungaram em suas tendas e não deram ouvidos ao SENHOR.
+
+[[v19-106-26]]
+
+^<<v19-106-26,26>>^ Assim, ele jurou solenemente que os mataria no deserto,
+
+[[v19-106-27]]
+
+^<<v19-106-27,27>>^ que dispersaria seus descendentes entre as nações e os enviaria para o exílio em terras distantes.
+
+[[v19-106-28]]
+
+^<<v19-106-28,28>>^ Depois, juntaram-se aos adoradores de Baal em Peor; chegaram a comer sacrifícios oferecidos a mortos.
+
+[[v19-106-29]]
+
+^<<v19-106-29,29>>^ Com todos esses atos, provocaram a ira do SENHOR, por isso uma praga se espalhou entre eles.
+
+[[v19-106-30]]
+
+^<<v19-106-30,30>>^ Fineias, porém, teve coragem de intervir, e a praga foi detida.
+
+[[v19-106-31]]
+
+^<<v19-106-31,31>>^ Assim, desde então, ele foi considerado justo.
+
+[[v19-106-32]]
+
+^<<v19-106-32,32>>^ Também em Meribá, provocaram a ira do SENHOR, e causaram sérios problemas a Moisés.
+
+[[v19-106-33]]
+
+^<<v19-106-33,33>>^ Fizeram Moisés se irar, e ele falou sem refletir.
+
+[[v19-106-34]]
+
+^<<v19-106-34,34>>^ Não destruíram as nações que habitavam na terra, como o SENHOR lhes havia ordenado.
+
+[[v19-106-35]]
+
+^<<v19-106-35,35>>^ Em vez disso, misturaram-se com elas e adotaram seus costumes.
+
+[[v19-106-36]]
+
+^<<v19-106-36,36>>^ Adoraram ídolos estrangeiros, o que causou sua ruína.
+
+[[v19-106-37]]
+
+^<<v19-106-37,37>>^ Chegaram a sacrificar aos demônios seus filhos e filhas.
+
+[[v19-106-38]]
+
+^<<v19-106-38,38>>^ Derramaram sangue inocente, o sangue de seus filhos e filhas. Ao oferecer sacrifícios aos ídolos de Canaã, contaminaram a terra com sangue.
+
+[[v19-106-39]]
+
+^<<v19-106-39,39>>^ A si mesmos contaminaram com seus atos perversos; seu amor aos ídolos foi adultério.
+
+[[v19-106-40]]
+
+^<<v19-106-40,40>>^ Por isso, a ira do SENHOR se acendeu, e ele sentiu aversão por seu povo, sua propriedade.
+
+[[v19-106-41]]
+
+^<<v19-106-41,41>>^ Entregou-os às nações, e foram dominados por aqueles que os odiavam.
+
+[[v19-106-42]]
+
+^<<v19-106-42,42>>^ Seus inimigos os oprimiram e os sujeitaram ao seu poder cruel.
+
+[[v19-106-43]]
+
+^<<v19-106-43,43>>^ Muitas vezes os livrou, mas escolheram se rebelar contra ele; por fim, seu pecado os destruiu.
+
+[[v19-106-44]]
+
+^<<v19-106-44,44>>^ Ainda assim, ele viu a aflição do povo e ouviu seus clamores.
+
+[[v19-106-45]]
+
+^<<v19-106-45,45>>^ Lembrou-se de sua aliança com eles e teve compaixão por causa do seu grande amor.
+
+[[v19-106-46]]
+
+^<<v19-106-46,46>>^ Fez que seus captores os tratassem com misericórdia.
+
+[[v19-106-47]]
+
+^<<v19-106-47,47>>^ Salva-nos, SENHOR, nosso Deus! Reúne-nos dentre as nações, para darmos graças ao teu santo nome, para nos alegrarmos no teu louvor!
+
+[[v19-106-48]]
+
+^<<v19-106-48,48>>^ Louvem o SENHOR, o Deus de Israel, que vive de eternidade a eternidade. Todos digam "Amém"! Louvado seja o SENHOR!
+
+'''
+
+xref:019-salmos/019-salmos-105.adoc#v19-105-0[&#60; Capítulo Anterior] | <<v19-106-0,Topo>> | xref:019-salmos/019-salmos-107.adoc#v19-107-0[Próximo Capítulo &#62;]

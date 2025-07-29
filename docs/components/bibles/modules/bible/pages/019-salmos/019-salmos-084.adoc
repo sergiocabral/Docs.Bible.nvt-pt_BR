@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v19-84-0]]
+=== Salmos, 84
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-84-1]]
+
+^<<v19-84-1,1>>^ Como é agradável o lugar de tua habitação, ó SENHOR dos Exércitos!
+
+[[v19-84-2]]
+
+^<<v19-84-2,2>>^ Sinto desejo profundo, sim, morro de vontade de entrar nos pátios do SENHOR. Com todo o meu coração e todo o meu ser, aclamarei ao Deus vivo.
+
+[[v19-84-3]]
+
+^<<v19-84-3,3>>^ Até o pardal encontra um lar, e a andorinha faz um ninho e cria seus filhotes perto do teu altar, ó SENHOR dos Exércitos, meu Rei e meu Deus!
+
+[[v19-84-4]]
+
+^<<v19-84-4,4>>^ Como são felizes os que habitam em tua casa, sempre cantando louvores a ti! Interlúdio
+
+[[v19-84-5]]
+
+^<<v19-84-5,5>>^ Como são felizes os que de ti recebem forças, os que decidem percorrer os teus caminhos.
+
+[[v19-84-6]]
+
+^<<v19-84-6,6>>^ Quando passarem pelo vale do Choro, ele se transformará num lugar de fontes revigorantes; as primeiras chuvas o cobrirão de bênçãos.
+
+[[v19-84-7]]
+
+^<<v19-84-7,7>>^ Eles continuarão a se fortalecer, e cada um deles se apresentará diante de Deus, em Sião.
+
+[[v19-84-8]]
+
+^<<v19-84-8,8>>^ Ó SENHOR, Deus dos Exércitos, ouve minha oração; escuta, ó Deus de Jacó! Interlúdio
+
+[[v19-84-9]]
+
+^<<v19-84-9,9>>^ Ó Deus, olha com favor para o rei, nosso escudo; mostra bondade ao teu ungido!
+
+[[v19-84-10]]
+
+^<<v19-84-10,10>>^ Um só dia em teus pátios é melhor que mil dias em qualquer outro lugar. Prefiro ser porteiro da casa de meu Deus a viver na morada dos perversos.
+
+[[v19-84-11]]
+
+^<<v19-84-11,11>>^ Pois o SENHOR Deus é nosso sol e nosso escudo; ele nos dá graça e honra. O SENHOR não negará bem algum àqueles que andam no caminho certo.
+
+[[v19-84-12]]
+
+^<<v19-84-12,12>>^ Ó SENHOR dos Exércitos, como são felizes os que confiam em ti!
+
+'''
+
+xref:019-salmos/019-salmos-083.adoc#v19-83-0[&#60; Capítulo Anterior] | <<v19-84-0,Topo>> | xref:019-salmos/019-salmos-085.adoc#v19-85-0[Próximo Capítulo &#62;]

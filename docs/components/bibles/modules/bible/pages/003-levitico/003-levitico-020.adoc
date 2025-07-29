@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v3-20-0]]
+=== Levítico, 20
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v3-20-1]]
+
+^<<v3-20-1,1>>^ O SENHOR disse a Moisés:
+
+[[v3-20-2]]
+
+^<<v3-20-2,2>>^ "Dê as seguintes instruções ao povo de Israel. Elas se aplicam tanto aos israelitas de nascimento como aos estrangeiros que vivem em Israel. "Se algum deles oferecer seus filhos como sacrifício a Moloque, será executado. Os membros da comunidade o apedrejarão até que ele morra.
+
+[[v3-20-3]]
+
+^<<v3-20-3,3>>^ Eu mesmo me voltarei contra ele e o eliminarei do meio do povo, pois contaminou meu santuário e desonrou meu nome santo ao oferecer seus filhos a Moloque.
+
+[[v3-20-4]]
+
+^<<v3-20-4,4>>^ E, se os membros da comunidade fizerem vista grossa àquele que ofereceu seus filhos a Moloque e se recusarem a executá-lo,
+
+[[v3-20-5]]
+
+^<<v3-20-5,5>>^ eu mesmo me voltarei contra ele e sua família. Eu eliminarei do meio do povo tanto aquele homem como os que o seguiram em sua prostituição, no culto a Moloque.
+
+[[v3-20-6]]
+
+^<<v3-20-6,6>>^ "Também me voltarei contra aqueles que procuram médiuns ou que consultam os espíritos dos mortos, cometendo prostituição. Eu os eliminarei do meio do povo.
+
+[[v3-20-7]]
+
+^<<v3-20-7,7>>^ Portanto, consagrem-se e sejam santos, pois eu sou o SENHOR, seu Deus.
+
+[[v3-20-8]]
+
+^<<v3-20-8,8>>^ Guardem meus decretos pondo-os em prática, pois eu sou o SENHOR, que os santifica.
+
+[[v3-20-9]]
+
+^<<v3-20-9,9>>^ "Quem ofender a honra de seu pai ou sua mãe será executado; decretou a própria morte quando amaldiçoou seus pais.
+
+[[v3-20-10]]
+
+^<<v3-20-10,10>>^ "Se um homem cometer adultério com a mulher do seu próximo, o homem e a mulher que cometeram adultério serão executados.
+
+[[v3-20-11]]
+
+^<<v3-20-11,11>>^ "Se um homem desonrar seu pai tendo relações sexuais com qualquer das esposas de seu pai, o homem e a mulher serão executados; decretaram a própria morte.
+
+[[v3-20-12]]
+
+^<<v3-20-12,12>>^ "Se um homem tiver relações sexuais com sua nora, ambos serão executados, pois cometeram uma depravação; decretaram a própria morte.
+
+[[v3-20-13]]
+
+^<<v3-20-13,13>>^ "Se um homem adotar práticas homossexuais e tiver relações sexuais com outro homem como se fosse com uma mulher, os dois cometem um ato detestável e serão executados; decretaram a própria morte.
+
+[[v3-20-14]]
+
+^<<v3-20-14,14>>^ "Se um homem se casar com uma mulher e com a mãe dela, comete uma perversão; o homem e as duas mulheres serão queimados vivos para acabar com a perversidade entre vocês.
+
+[[v3-20-15]]
+
+^<<v3-20-15,15>>^ "Se um homem tiver relações sexuais com um animal, ele deverá ser executado, e o animal será morto.
+
+[[v3-20-16]]
+
+^<<v3-20-16,16>>^ "Se uma mulher se entregar a um animal macho para ter relações sexuais com ele, tanto ela como o animal serão executados. Matem ambos; decretaram a própria morte.
+
+[[v3-20-17]]
+
+^<<v3-20-17,17>>^ "Se um homem se casar com sua irmã, filha de seu pai ou de sua mãe, e se tiverem relações sexuais, cometeram uma infâmia. Ambos serão eliminados do meio do povo, à vista de todos. Uma vez que o homem desonrou sua irmã, será castigado por causa de seu pecado.
+
+[[v3-20-18]]
+
+^<<v3-20-18,18>>^ "Se um homem tiver relações sexuais com uma mulher durante a menstruação, ambos serão eliminados do meio do povo, pois, juntos, expuseram a fonte do fluxo de sangue da mulher.
+
+[[v3-20-19]]
+
+^<<v3-20-19,19>>^ "Não tenha relações sexuais com sua tia, irmã de sua mãe ou de seu pai, pois causaria desonra a uma parenta próxima. As duas partes são culpadas e serão castigadas por causa de seu pecado.
+
+[[v3-20-20]]
+
+^<<v3-20-20,20>>^ "Se um homem tiver relações sexuais com a mulher de seu tio, desonrou seu tio. O homem e a mulher serão castigados por causa de seu pecado e morrerão sem filhos.
+
+[[v3-20-21]]
+
+^<<v3-20-21,21>>^ "Se um homem se casar com a mulher de seu irmão, comete um ato de impureza. Desonrou seu irmão, e o casal culpado ficará sem filhos.
+
+[[v3-20-22]]
+
+^<<v3-20-22,22>>^ "Guardem todos os meus decretos e todos os meus estatutos pondo-os em prática; do contrário, a terra para onde os estou levando para ser seu novo lar os vomitará.
+
+[[v3-20-23]]
+
+^<<v3-20-23,23>>^ Não vivam de acordo com os costumes dos povos que expulsarei de diante de vocês. Eu os detesto porque praticam essas coisas vergonhosas.
+
+[[v3-20-24]]
+
+^<<v3-20-24,24>>^ A vocês, porém, prometi: ‘Possuirão a terra deles, pois a darei a vocês como sua propriedade, uma terra que produz leite e mel com fartura’. Eu sou o SENHOR, seu Deus, que os separou de todos os outros povos.
+
+[[v3-20-25]]
+
+^<<v3-20-25,25>>^ "Portanto, façam distinção entre animais puros e impuros e entre aves puras e impuras. Não se contaminem com nenhum animal, ave ou criatura que rasteja pelo chão; eu determinei o que é impuro para vocês.
+
+[[v3-20-26]]
+
+^<<v3-20-26,26>>^ Sejam santos, pois eu, o SENHOR, sou santo. Separei-os de todos os outros povos para serem meus.
+
+[[v3-20-27]]
+
+^<<v3-20-27,27>>^ "Os homens e mulheres entre vocês que forem médiuns ou que consultam espíritos dos mortos serão apedrejados até morrer; decretaram a própria morte".
+
+'''
+
+xref:003-levitico/003-levitico-019.adoc#v3-19-0[&#60; Capítulo Anterior] | <<v3-20-0,Topo>> | xref:003-levitico/003-levitico-021.adoc#v3-21-0[Próximo Capítulo &#62;]

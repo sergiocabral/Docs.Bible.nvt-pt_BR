@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v1-16-0]]
+=== Gênesis, 16
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v1-16-1]]
+
+^<<v1-16-1,1>>^ Sarai, mulher de Abrão, não havia conseguido lhe dar filhos. Tinha, porém, uma serva egípcia chamada Hagar.
+
+[[v1-16-2]]
+
+^<<v1-16-2,2>>^ Sarai disse a Abrão: "O SENHOR me impediu de ter filhos. Vá e deite-se com minha serva. Talvez, por meio dela, eu consiga ter uma família". Abrão aceitou a proposta de Sarai.
+
+[[v1-16-3]]
+
+^<<v1-16-3,3>>^ Então Sarai, mulher de Abrão, tomou Hagar, a serva egípcia, e a entregou a Abrão como mulher. (Isso aconteceu dez anos depois que Abrão havia se estabelecido na terra de Canaã.)
+
+[[v1-16-4]]
+
+^<<v1-16-4,4>>^ Abrão teve relações com Hagar, e ela engravidou. Quando Hagar soube que estava grávida, começou a tratar Sarai, sua senhora, com desprezo.
+
+[[v1-16-5]]
+
+^<<v1-16-5,5>>^ Então Sarai disse a Abrão: "Você é o culpado da vergonha que estou passando! Entreguei minha serva a você, mas, agora que engravidou, ela me trata com desprezo. O SENHOR mostrará quem está errado: você ou eu!".
+
+[[v1-16-6]]
+
+^<<v1-16-6,6>>^ Abrão respondeu: "Hagar é sua serva. Faça com ela o que lhe parecer melhor". Então Sarai a tratou tão mal que, por fim, Hagar fugiu.
+
+[[v1-16-7]]
+
+^<<v1-16-7,7>>^ O anjo do SENHOR encontrou Hagar no deserto, perto de uma fonte de água junto à estrada para Sur,
+
+[[v1-16-8]]
+
+^<<v1-16-8,8>>^ e perguntou: "Hagar, serva de Sarai, de onde você vem e para onde vai?". "Estou fugindo de minha senhora, Sarai", respondeu ela.
+
+[[v1-16-9]]
+
+^<<v1-16-9,9>>^ Então o anjo do SENHOR disse: "Volte para sua senhora e sujeite-se à autoridade dela".
+
+[[v1-16-10]]
+
+^<<v1-16-10,10>>^ E acrescentou: "Eu lhe darei tantos descendentes que será impossível contá-los".
+
+[[v1-16-11]]
+
+^<<v1-16-11,11>>^ O anjo do SENHOR também disse: "Você está grávida e dará à luz um filho. Dê a ele o nome de Ismael, pois o SENHOR ouviu seu clamor angustiado.
+
+[[v1-16-12]]
+
+^<<v1-16-12,12>>^ Seu filho será um homem solitário e indomável, como um jumento selvagem. Levantará o punho contra todos, e todos serão contra ele. Sim, ele viverá em franca oposição a todos os seus parentes".
+
+[[v1-16-13]]
+
+^<<v1-16-13,13>>^ Então Hagar passou a usar outro nome para se referir ao SENHOR, que havia falado com ela. Chamou-o de "Tu és o Deus que me vê", pois tinha dito: "Aqui eu vi aquele que me vê!".
+
+[[v1-16-14]]
+
+^<<v1-16-14,14>>^ Por isso, aquela fonte que fica entre Cades e Berede recebeu o nome de Beer-Laai-Roi.
+
+[[v1-16-15]]
+
+^<<v1-16-15,15>>^ Assim, Hagar deu um filho a Abrão, e Abrão o chamou de Ismael.
+
+[[v1-16-16]]
+
+^<<v1-16-16,16>>^ Quando Ismael nasceu, Abrão tinha 86 anos.
+
+'''
+
+xref:001-genesis/001-genesis-015.adoc#v1-15-0[&#60; Capítulo Anterior] | <<v1-16-0,Topo>> | xref:001-genesis/001-genesis-017.adoc#v1-17-0[Próximo Capítulo &#62;]

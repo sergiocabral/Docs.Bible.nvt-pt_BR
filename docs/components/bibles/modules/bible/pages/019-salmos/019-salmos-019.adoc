@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v19-19-0]]
+=== Salmos, 19
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-19-1]]
+
+^<<v19-19-1,1>>^ Os céus proclamam a glória de Deus; o firmamento demonstra a habilidade de suas mãos.
+
+[[v19-19-2]]
+
+^<<v19-19-2,2>>^ Dia após dia, eles continuam a falar; noite após noite, eles o tornam conhecido.
+
+[[v19-19-3]]
+
+^<<v19-19-3,3>>^ Não há som nem palavras, nunca se ouve o que eles dizem.
+
+[[v19-19-4]]
+
+^<<v19-19-4,4>>^ Sua mensagem, porém, chegou a toda a terra, e suas palavras, aos confins do mundo. Deus preparou no céu uma morada para o sol.
+
+[[v19-19-5]]
+
+^<<v19-19-5,5>>^ Dela o sol irrompe como o noivo depois do casamento; alegra-se como o valente guerreiro em seu caminho.
+
+[[v19-19-6]]
+
+^<<v19-19-6,6>>^ O sol nasce numa extremidade do céu e realiza seu trajeto até a outra extremidade; nada pode se esconder de seu calor.
+
+[[v19-19-7]]
+
+^<<v19-19-7,7>>^ A lei do SENHOR é perfeita e revigora a alma. Os decretos do SENHOR são dignos de confiança e dão sabedoria aos ingênuos.
+
+[[v19-19-8]]
+
+^<<v19-19-8,8>>^ Os preceitos do SENHOR são justos e alegram o coração. Os mandamentos do SENHOR são límpidos e iluminam a vida.
+
+[[v19-19-9]]
+
+^<<v19-19-9,9>>^ O temor do SENHOR é puro e dura para sempre. As instruções do SENHOR são verdadeiras e todas elas são corretas.
+
+[[v19-19-10]]
+
+^<<v19-19-10,10>>^ São mais desejáveis que o ouro, mesmo o ouro puro. São mais doces que o mel, mesmo o mel que goteja do favo.
+
+[[v19-19-11]]
+
+^<<v19-19-11,11>>^ São uma advertência para teu servo, grande recompensa para quem os cumpre.
+
+[[v19-19-12]]
+
+^<<v19-19-12,12>>^ Quem é capaz de distinguir os próprios erros? Absolve-me das faltas que me são ocultas.
+
+[[v19-19-13]]
+
+^<<v19-19-13,13>>^ Livra teu servo dos pecados intencionais! Não permitas que me controlem. Então serei inculpável e inocente de grande pecado.
+
+[[v19-19-14]]
+
+^<<v19-19-14,14>>^ Que as palavras da minha boca e a meditação do meu coração sejam agradáveis a ti, SENHOR, minha rocha e meu redentor!
+
+'''
+
+xref:019-salmos/019-salmos-018.adoc#v19-18-0[&#60; Capítulo Anterior] | <<v19-19-0,Topo>> | xref:019-salmos/019-salmos-020.adoc#v19-20-0[Próximo Capítulo &#62;]

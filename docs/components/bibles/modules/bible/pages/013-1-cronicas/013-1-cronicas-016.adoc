@@ -1,0 +1,181 @@
+include::./index.adoc[]
+
+[[v13-16-0]]
+=== 1 Crônicas, 16
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v13-16-1]]
+
+^<<v13-16-1,1>>^ Trouxeram a arca de Deus e a colocaram dentro da tenda especial que Davi tinha preparado para ela. Em seguida, apresentaram a Deus holocaustos e ofertas de paz.
+
+[[v13-16-2]]
+
+^<<v13-16-2,2>>^ Quando Davi terminou de oferecer os holocaustos e ofertas de paz, abençoou o povo em nome do SENHOR.
+
+[[v13-16-3]]
+
+^<<v13-16-3,3>>^ Depois, para cada homem e mulher em todo o Israel, deu um pão, um bolo de tâmaras e um bolo de passas.
+
+[[v13-16-4]]
+
+^<<v13-16-4,4>>^ Davi nomeou os seguintes levitas para servirem diante da arca do SENHOR, invocarem as bênçãos dele e darem graças e louvarem o SENHOR, o Deus de Israel:
+
+[[v13-16-5]]
+
+^<<v13-16-5,5>>^ Asafe, o chefe do grupo, tocava os címbalos. Depois dele vinha Zacarias, seguido de Jeiel, Semiramote, Jeiel, Matitias, Eliabe, Benaia, Obede-Edom e Jeiel, que tocavam harpas e liras.
+
+[[v13-16-6]]
+
+^<<v13-16-6,6>>^ Os sacerdotes Benaia e Jaaziel tocavam trombetas continuamente diante da arca da aliança de Deus.
+
+[[v13-16-7]]
+
+^<<v13-16-7,7>>^ Naquele dia, Davi encarregou Asafe e seus parentes levitas de louvarem com ação de graças ao SENHOR:
+
+[[v13-16-8]]
+
+^<<v13-16-8,8>>^ "Deem graças ao SENHOR e proclamem seu nome, anunciem entre os povos o que ele tem feito.
+
+[[v13-16-9]]
+
+^<<v13-16-9,9>>^ Cantem a ele, sim, cantem louvores a ele, falem a todos de suas maravilhas.
+
+[[v13-16-10]]
+
+^<<v13-16-10,10>>^ Exultem em seu santo nome, alegrem-se todos que buscam o SENHOR.
+
+[[v13-16-11]]
+
+^<<v13-16-11,11>>^ Busquem o SENHOR e sua força, busquem sua presença todo o tempo.
+
+[[v13-16-12]]
+
+^<<v13-16-12,12>>^ Lembrem-se das maravilhas que ele fez, dos milagres que realizou e dos juízos que pronunciou,
+
+[[v13-16-13]]
+
+^<<v13-16-13,13>>^ vocês que são filhos de seu servo Israel, descendentes de Jacó, seus escolhidos.
+
+[[v13-16-14]]
+
+^<<v13-16-14,14>>^ "Ele é o SENHOR, nosso Deus; vemos sua justiça em toda a terra.
+
+[[v13-16-15]]
+
+^<<v13-16-15,15>>^ Lembrem-se de sua aliança para sempre, do compromisso que ele firmou com mil gerações.
+
+[[v13-16-16]]
+
+^<<v13-16-16,16>>^ É a aliança que fez com Abraão, o juramento que fez a Isaque.
+
+[[v13-16-17]]
+
+^<<v13-16-17,17>>^ Ele a confirmou a Jacó por decreto, ao povo de Israel como aliança sem fim:
+
+[[v13-16-18]]
+
+^<<v13-16-18,18>>^ ‘Darei a vocês a terra de Canaã, como a porção de sua herança’.
+
+[[v13-16-19]]
+
+^<<v13-16-19,19>>^ "Assim declarou quando vocês ainda eram poucos, um punhado de estrangeiros em Canaã.
+
+[[v13-16-20]]
+
+^<<v13-16-20,20>>^ Vagaram de uma nação a outra, de um reino a outro.
+
+[[v13-16-21]]
+
+^<<v13-16-21,21>>^ E, no entanto, ele não permitiu que ninguém os oprimisse e, em seu favor, repreendeu reis:
+
+[[v13-16-22]]
+
+^<<v13-16-22,22>>^ ‘Não toquem em meu povo escolhido, não façam mal a meus profetas’.
+
+[[v13-16-23]]
+
+^<<v13-16-23,23>>^ "Toda a terra cante ao SENHOR! Proclamem todos os dias a sua salvação.
+
+[[v13-16-24]]
+
+^<<v13-16-24,24>>^ Anunciem a sua glória entre as nações, contem a todos as suas maravilhas.
+
+[[v13-16-25]]
+
+^<<v13-16-25,25>>^ Grande é o SENHOR! Digno de muito louvor! Ele é mais temível que todos os deuses.
+
+[[v13-16-26]]
+
+^<<v13-16-26,26>>^ Os deuses de outros povos não passam de ídolos, mas o SENHOR fez os céus!
+
+[[v13-16-27]]
+
+^<<v13-16-27,27>>^ Glória e majestade o cercam, força e alegria enchem sua habitação.
+
+[[v13-16-28]]
+
+^<<v13-16-28,28>>^ "Ó nações do mundo, reconheçam o SENHOR, reconheçam que o SENHOR é glorioso e forte.
+
+[[v13-16-29]]
+
+^<<v13-16-29,29>>^ Deem ao SENHOR a glória que seu nome merece, tragam ofertas e venham à sua presença. Adorem o SENHOR em todo o seu santo esplendor;
+
+[[v13-16-30]]
+
+^<<v13-16-30,30>>^ toda a terra trema diante dele. O mundo permanece firme e não pode ser abalado.
+
+[[v13-16-31]]
+
+^<<v13-16-31,31>>^ "Alegrem-se os céus e exulte a terra! Digam entre as nações: ‘O SENHOR reina!’.
+
+[[v13-16-32]]
+
+^<<v13-16-32,32>>^ Deem louvor o mar e tudo que nele há! Os campos e suas colheitas gritem de alegria!
+
+[[v13-16-33]]
+
+^<<v13-16-33,33>>^ As árvores do bosque exultem diante do SENHOR, pois ele vem para julgar a terra.
+
+[[v13-16-34]]
+
+^<<v13-16-34,34>>^ "Deem graças ao SENHOR, porque ele é bom; seu amor dura para sempre!
+
+[[v13-16-35]]
+
+^<<v13-16-35,35>>^ Clamem: ‘Salva-nos, ó Deus de nossa salvação! Reúne-nos e livra-nos das nações, para darmos graças ao teu santo nome, para nos alegrarmos no teu louvor’.
+
+[[v13-16-36]]
+
+^<<v13-16-36,36>>^ "Louvem o SENHOR, o Deus de Israel, que vive de eternidade a eternidade!". Todo o povo disse em alta voz: "Amém!" e louvou o SENHOR.
+
+[[v13-16-37]]
+
+^<<v13-16-37,37>>^ Davi providenciou que Asafe e seus parentes levitas servissem continuamente diante da arca da aliança do SENHOR e cumprissem seus deveres de cada dia.
+
+[[v13-16-38]]
+
+^<<v13-16-38,38>>^ Faziam parte desse grupo: Obede-Edom, filho de Jedutum, Hosa e 68 levitas que eram guardas das portas.
+
+[[v13-16-39]]
+
+^<<v13-16-39,39>>^ Enquanto isso, Davi deixou o sacerdote Zadoque e seus parentes no tabernáculo do SENHOR, no lugar de adoração em Gibeom, onde continuaram a servir diante do SENHOR.
+
+[[v13-16-40]]
+
+^<<v13-16-40,40>>^ Todas as manhãs e todas as tardes, ofereciam holocaustos ao SENHOR no altar separado para essa finalidade, em obediência a tudo que estava escrito na lei do SENHOR, conforme ele tinha ordenado a Israel.
+
+[[v13-16-41]]
+
+^<<v13-16-41,41>>^ Davi também designou Hemã, Jedutum e outros escolhidos por nome para darem graças ao SENHOR, pois "seu amor dura para sempre".
+
+[[v13-16-42]]
+
+^<<v13-16-42,42>>^ Acompanhavam os cânticos de louvor a Deus com trombetas, címbalos e outros instrumentos. Os filhos de Jedutum foram nomeados guardas das portas.
+
+[[v13-16-43]]
+
+^<<v13-16-43,43>>^ Então todos voltaram para casa, e Davi também voltou para abençoar sua família.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-015.adoc#v13-15-0[&#60; Capítulo Anterior] | <<v13-16-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-017.adoc#v13-17-0[Próximo Capítulo &#62;]

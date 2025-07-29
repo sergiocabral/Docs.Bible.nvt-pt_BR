@@ -1,0 +1,37 @@
+include::./index.adoc[]
+
+[[v19-54-0]]
+=== Salmos, 54
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-54-1]]
+
+^<<v19-54-1,1>>^ Vem com a força do teu nome, ó Deus, e salva-me! Defende-me com teu grande poder.
+
+[[v19-54-2]]
+
+^<<v19-54-2,2>>^ Ouve minha oração, ó Deus; escuta minha súplica.
+
+[[v19-54-3]]
+
+^<<v19-54-3,3>>^ Pois desconhecidos me atacam, pessoas violentas tentam me matar; eles não se importam com Deus. Interlúdio
+
+[[v19-54-4]]
+
+^<<v19-54-4,4>>^ Deus, porém, é meu auxílio; o Senhor me mantém com vida.
+
+[[v19-54-5]]
+
+^<<v19-54-5,5>>^ Que as tramas perversas de meus inimigos se voltem contra eles; destrói-os, como prometeste.
+
+[[v19-54-6]]
+
+^<<v19-54-6,6>>^ Oferecerei a ti um sacrifício voluntário; louvarei teu nome, ó SENHOR, porque és bom.
+
+[[v19-54-7]]
+
+^<<v19-54-7,7>>^ Pois me livraste de minhas aflições e me ajudaste a vencer meus inimigos.
+
+'''
+
+xref:019-salmos/019-salmos-053.adoc#v19-53-0[&#60; Capítulo Anterior] | <<v19-54-0,Topo>> | xref:019-salmos/019-salmos-055.adoc#v19-55-0[Próximo Capítulo &#62;]

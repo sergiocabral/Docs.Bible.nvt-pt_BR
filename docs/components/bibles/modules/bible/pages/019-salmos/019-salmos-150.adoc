@@ -1,0 +1,33 @@
+include::./index.adoc[]
+
+[[v19-150-0]]
+=== Salmos, 150
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-150-1]]
+
+^<<v19-150-1,1>>^ Louvado seja o SENHOR! Louvem o SENHOR em seu santuário, louvem-no em seu majestoso céu!
+
+[[v19-150-2]]
+
+^<<v19-150-2,2>>^ Louvem-no por seus feitos poderosos, louvem sua grandeza sem igual!
+
+[[v19-150-3]]
+
+^<<v19-150-3,3>>^ Louvem-no com o toque da trombeta, louvem-no com a lira e a harpa!
+
+[[v19-150-4]]
+
+^<<v19-150-4,4>>^ Louvem-no com tamborins e danças, louvem-no com instrumentos de cordas e flautas!
+
+[[v19-150-5]]
+
+^<<v19-150-5,5>>^ Louvem-no com o som dos címbalos, louvem-no com címbalos ressonantes!
+
+[[v19-150-6]]
+
+^<<v19-150-6,6>>^ Tudo que respira louve ao SENHOR! Louvado seja o SENHOR!
+
+'''
+
+xref:019-salmos/019-salmos-149.adoc#v19-149-0[&#60; Capítulo Anterior] | <<v19-150-0,Topo>> | xref:020-proverbios/020-proverbios-001.adoc#v20-1-0[Próximo Capítulo &#62;]

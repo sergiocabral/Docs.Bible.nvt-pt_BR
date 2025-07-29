@@ -1,0 +1,113 @@
+include::./index.adoc[]
+
+[[v23-3-0]]
+=== Isaías, 3
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v23-3-1]]
+
+^<<v23-3-1,1>>^ O Soberano SENHOR dos Exércitos, tirará de Jerusalém e de Judá tudo aquilo de que dependem: cada pedaço de pão, cada gota de água,
+
+[[v23-3-2]]
+
+^<<v23-3-2,2>>^ todos os seus heróis e soldados, juízes e profetas, adivinhos e autoridades,
+
+[[v23-3-3]]
+
+^<<v23-3-3,3>>^ oficiais do exército e altos funcionários, conselheiros, magos e astrólogos.
+
+[[v23-3-4]]
+
+^<<v23-3-4,4>>^ Nomearei meninos como seus líderes, crianças pequenas para governá-los.
+
+[[v23-3-5]]
+
+^<<v23-3-5,5>>^ As pessoas oprimirão umas às outras: homem contra homem, vizinho contra vizinho. Os jovens insultarão os idosos, e os canalhas desprezarão os honrados.
+
+[[v23-3-6]]
+
+^<<v23-3-6,6>>^ Naquele dia, um homem dirá a seu irmão: "Você tem roupas; seja nosso líder! Assuma o governo deste monte de ruínas".
+
+[[v23-3-7]]
+
+^<<v23-3-7,7>>^ Mas ele responderá: "Não posso ajudar! Não tenho roupa nem comida sobrando; não me escolham como líder".
+
+[[v23-3-8]]
+
+^<<v23-3-8,8>>^ Jerusalém tropeçará, e Judá cairá, pois falam contra o SENHOR e não querem lhe obedecer; rebelam-se abertamente contra sua glória.
+
+[[v23-3-9]]
+
+^<<v23-3-9,9>>^ A expressão do rosto os denuncia; exibem seu pecado como o povo de Sodoma, nem sequer procuram escondê-lo. Estão perdidos! Trouxeram desgraça sobre si mesmos.
+
+[[v23-3-10]]
+
+^<<v23-3-10,10>>^ Digam aos justos que tudo lhes irá bem; desfrutarão a recompensa de seus esforços.
+
+[[v23-3-11]]
+
+^<<v23-3-11,11>>^ Os perversos, porém, estão perdidos, pois receberão exatamente o que merecem.
+
+[[v23-3-12]]
+
+^<<v23-3-12,12>>^ Líderes imaturos oprimem meu povo, mulheres o governam. Ó meu povo, seus líderes o enganam e o conduzem pelo caminho errado.
+
+[[v23-3-13]]
+
+^<<v23-3-13,13>>^ O SENHOR toma seu lugar no tribunal e apresenta sua causa contra seu povo.
+
+[[v23-3-14]]
+
+^<<v23-3-14,14>>^ O SENHOR se apresenta para pronunciar julgamento sobre as autoridades do povo e seus governantes: "Vocês acabaram com Israel, minha videira; o que roubaram dos pobres agora enche suas casas.
+
+[[v23-3-15]]
+
+^<<v23-3-15,15>>^ Como ousam esmagar meu povo e esfregar o rosto dos pobres no pó?". Quem exige uma resposta é o Soberano SENHOR dos Exércitos.
+
+[[v23-3-16]]
+
+^<<v23-3-16,16>>^ O SENHOR diz: "A bela Sião é arrogante; estica seu pescoço elegante e lança olhares atrevidos, caminhando com passos curtos, fazendo tinir os enfeites de seus tornozelos.
+
+[[v23-3-17]]
+
+^<<v23-3-17,17>>^ Por isso, o Senhor fará surgir crostas em sua cabeça; o SENHOR deixará calva a bela Sião".
+
+[[v23-3-18]]
+
+^<<v23-3-18,18>>^ Naquele dia, o Senhor removerá tudo que a embeleza: os enfeites, as tiaras, os colares em forma de meia-lua,
+
+[[v23-3-19]]
+
+^<<v23-3-19,19>>^ os brincos, as pulseiras e os véus;
+
+[[v23-3-20]]
+
+^<<v23-3-20,20>>^ os lenços, os enfeites para o tornozelo, os cintos, os perfumes e os amuletos;
+
+[[v23-3-21]]
+
+^<<v23-3-21,21>>^ os anéis, as joias do nariz,
+
+[[v23-3-22]]
+
+^<<v23-3-22,22>>^ as roupas de festa, os vestidos, os mantos e as bolsas;
+
+[[v23-3-23]]
+
+^<<v23-3-23,23>>^ os espelhos, as roupas de linho fino, os adornos para a cabeça e os xales.
+
+[[v23-3-24]]
+
+^<<v23-3-24,24>>^ Em vez de exalar perfume agradável, ela terá mau cheiro; usará cordas como cinto e perderá todo o seu lindo cabelo. Vestirá pano de saco em vez de roupas finas, e a vergonha tomará o lugar de sua beleza.
+
+[[v23-3-25]]
+
+^<<v23-3-25,25>>^ Os homens da cidade serão mortos à espada, e seus guerreiros morrerão na batalha.
+
+[[v23-3-26]]
+
+^<<v23-3-26,26>>^ Os portões de Sião chorarão e se lamentarão; a cidade será como uma mulher devastada, encolhida no chão.
+
+'''
+
+xref:023-isaias/023-isaias-002.adoc#v23-2-0[&#60; Capítulo Anterior] | <<v23-3-0,Topo>> | xref:023-isaias/023-isaias-004.adoc#v23-4-0[Próximo Capítulo &#62;]

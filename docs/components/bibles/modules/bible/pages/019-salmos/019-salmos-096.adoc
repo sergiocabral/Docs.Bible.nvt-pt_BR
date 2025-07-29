@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v19-96-0]]
+=== Salmos, 96
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-96-1]]
+
+^<<v19-96-1,1>>^ Cantem ao SENHOR um cântico novo! Toda a terra cante ao SENHOR!
+
+[[v19-96-2]]
+
+^<<v19-96-2,2>>^ Cantem ao SENHOR e louvem o seu nome; proclamem todos os dias a sua salvação.
+
+[[v19-96-3]]
+
+^<<v19-96-3,3>>^ Anunciem a sua glória entre as nações, contem a todos as suas maravilhas.
+
+[[v19-96-4]]
+
+^<<v19-96-4,4>>^ Grande é o SENHOR! Digno de muito louvor! Ele é mais temível que todos os deuses.
+
+[[v19-96-5]]
+
+^<<v19-96-5,5>>^ Os deuses de outros povos não passam de ídolos, mas o SENHOR fez os céus!
+
+[[v19-96-6]]
+
+^<<v19-96-6,6>>^ Glória e majestade o cercam, força e beleza enchem seu santuário.
+
+[[v19-96-7]]
+
+^<<v19-96-7,7>>^ Ó nações do mundo, reconheçam o SENHOR; reconheçam que o SENHOR é forte e glorioso.
+
+[[v19-96-8]]
+
+^<<v19-96-8,8>>^ Deem ao SENHOR a glória que seu nome merece, tragam ofertas e entrem em seus pátios.
+
+[[v19-96-9]]
+
+^<<v19-96-9,9>>^ Adorem o SENHOR em todo o seu santo esplendor; toda a terra trema diante dele.
+
+[[v19-96-10]]
+
+^<<v19-96-10,10>>^ Digam entre as nações: "O SENHOR reina!"; ele firmou o mundo para que não seja abalado e com imparcialidade julgará todos os povos.
+
+[[v19-96-11]]
+
+^<<v19-96-11,11>>^ Alegrem-se os céus e exulte a terra! Deem louvor o mar e tudo que nele há!
+
+[[v19-96-12]]
+
+^<<v19-96-12,12>>^ Os campos e suas colheitas gritem de alegria! As árvores do bosque exultem
+
+[[v19-96-13]]
+
+^<<v19-96-13,13>>^ diante do SENHOR, pois ele vem; ele vem julgar a terra. Julgará o mundo com justiça e as nações, com sua verdade.
+
+'''
+
+xref:019-salmos/019-salmos-095.adoc#v19-95-0[&#60; Capítulo Anterior] | <<v19-96-0,Topo>> | xref:019-salmos/019-salmos-097.adoc#v19-97-0[Próximo Capítulo &#62;]

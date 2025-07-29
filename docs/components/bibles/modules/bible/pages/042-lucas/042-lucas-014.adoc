@@ -1,0 +1,149 @@
+include::./index.adoc[]
+
+[[v42-14-0]]
+=== Lucas, 14
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v42-14-1]]
+
+^<<v42-14-1,1>>^ Certo sábado, Jesus foi comer na casa de um líder fariseu, onde o observavam atentamente.
+
+[[v42-14-2]]
+
+^<<v42-14-2,2>>^ Estava ali um homem com o corpo muito inchado.
+
+[[v42-14-3]]
+
+^<<v42-14-3,3>>^ Jesus perguntou aos fariseus e aos especialistas da lei: "A lei permite ou não curar no sábado?".
+
+[[v42-14-4]]
+
+^<<v42-14-4,4>>^ Eles nada responderam, e Jesus tocou no homem enfermo, o curou e o mandou embora.
+
+[[v42-14-5]]
+
+^<<v42-14-5,5>>^ Depois, perguntou a eles: "Qual de vocês, se seu filho ou seu boi cair num buraco, não se apressará em tirá-lo de lá, mesmo que seja sábado?".
+
+[[v42-14-6]]
+
+^<<v42-14-6,6>>^ Mais uma vez, não puderam responder.
+
+[[v42-14-7]]
+
+^<<v42-14-7,7>>^ Quando Jesus observou que os convidados para o jantar procuravam ocupar os lugares de honra à mesa, deu-lhes este conselho:
+
+[[v42-14-8]]
+
+^<<v42-14-8,8>>^ "Quando você for convidado para um banquete de casamento, não ocupe o lugar de honra. E se chegar algum convidado mais importante que você?
+
+[[v42-14-9]]
+
+^<<v42-14-9,9>>^ O anfitrião virá e dirá: ‘Dê o seu lugar a esta pessoa’, e você, envergonhado, terá de sentar-se no último lugar da mesa.
+
+[[v42-14-10]]
+
+^<<v42-14-10,10>>^ "Em vez disso, ocupe o lugar menos importante à mesa. Assim, quando o anfitrião o vir, dirá: ‘Amigo, temos um lugar melhor para você!’. Então você será honrado diante de todos os convidados.
+
+[[v42-14-11]]
+
+^<<v42-14-11,11>>^ Pois os que se exaltam serão humilhados, e os que se humilham serão exaltados".
+
+[[v42-14-12]]
+
+^<<v42-14-12,12>>^ Então Jesus se voltou para o anfitrião e disse: "Quando oferecer um banquete ou jantar, não convide amigos, irmãos, parentes e vizinhos ricos. Eles poderão retribuir o convite, e essa será sua única recompensa.
+
+[[v42-14-13]]
+
+^<<v42-14-13,13>>^ Em vez disso, convide os pobres, os aleijados, os mancos e os cegos.
+
+[[v42-14-14]]
+
+^<<v42-14-14,14>>^ Assim, na ressurreição dos justos, você será recompensado por ter convidado aqueles que não podiam lhe retribuir".
+
+[[v42-14-15]]
+
+^<<v42-14-15,15>>^ Ao ouvir isso, um homem que estava à mesa com Jesus exclamou: "Feliz será aquele que participar do banquete no reino de Deus!".
+
+[[v42-14-16]]
+
+^<<v42-14-16,16>>^ Jesus respondeu com a seguinte parábola: "Certo homem preparou um grande banquete e enviou muitos convites.
+
+[[v42-14-17]]
+
+^<<v42-14-17,17>>^ Quando estava tudo pronto, mandou seu servo dizer aos convidados: ‘Venham, o banquete está pronto’.
+
+[[v42-14-18]]
+
+^<<v42-14-18,18>>^ Mas todos eles deram desculpas. Um disse: ‘Acabei de comprar um campo e preciso inspecioná-lo. Peço que me desculpe’.
+
+[[v42-14-19]]
+
+^<<v42-14-19,19>>^ Outro disse: ‘Acabei de comprar cinco juntas de bois e quero experimentá-las. Sinto muito’.
+
+[[v42-14-20]]
+
+^<<v42-14-20,20>>^ Ainda outro disse: ‘Acabei de me casar e não posso ir’.
+
+[[v42-14-21]]
+
+^<<v42-14-21,21>>^ "O servo voltou e informou a seu senhor o que tinham dito. Ele ficou furioso e ordenou: ‘Vá depressa pelas ruas e becos da cidade e convide os pobres, os aleijados, os cegos e os mancos’.
+
+[[v42-14-22]]
+
+^<<v42-14-22,22>>^ Depois de cumprir essa ordem, o servo informou: ‘Ainda há lugar para mais gente’.
+
+[[v42-14-23]]
+
+^<<v42-14-23,23>>^ Então o senhor disse: ‘Vá pelas estradas do campo e junto às cercas entre as videiras e insista com todos que encontrar para que venham, de modo que minha casa fique cheia.
+
+[[v42-14-24]]
+
+^<<v42-14-24,24>>^ Pois nenhum dos que antes foram convidados provará do meu banquete’".
+
+[[v42-14-25]]
+
+^<<v42-14-25,25>>^ Uma grande multidão seguia Jesus, que se voltou para ela e disse:
+
+[[v42-14-26]]
+
+^<<v42-14-26,26>>^ "Se alguém que me segue amar pai e mãe, esposa e filhos, irmãos e irmãs, e até mesmo a própria vida, mais que a mim, não pode ser meu discípulo.
+
+[[v42-14-27]]
+
+^<<v42-14-27,27>>^ E, se não tomar sua cruz e me seguir, não pode ser meu discípulo.
+
+[[v42-14-28]]
+
+^<<v42-14-28,28>>^ "Quem começa a construir uma torre sem antes calcular o custo e ver se possui dinheiro suficiente para terminá-la?
+
+[[v42-14-29]]
+
+^<<v42-14-29,29>>^ Pois, se completar apenas os alicerces e ficar sem dinheiro, todos rirão dele,
+
+[[v42-14-30]]
+
+^<<v42-14-30,30>>^ dizendo: ‘Esse aí começou a construir, mas não conseguiu terminar!’.
+
+[[v42-14-31]]
+
+^<<v42-14-31,31>>^ "Ou que rei iria à guerra sem antes avaliar se seu exército de dez mil poderia derrotar os vinte mil que vêm contra ele?
+
+[[v42-14-32]]
+
+^<<v42-14-32,32>>^ E, se concluir que não, o rei enviará uma delegação para negociar um acordo de paz enquanto o inimigo está longe.
+
+[[v42-14-33]]
+
+^<<v42-14-33,33>>^ Da mesma forma, ninguém pode se tornar meu discípulo sem abrir mão de tudo que possui.
+
+[[v42-14-34]]
+
+^<<v42-14-34,34>>^ "O sal é bom para temperar, mas, se perder o sabor, como torná-lo salgado outra vez?
+
+[[v42-14-35]]
+
+^<<v42-14-35,35>>^ O sal sem sabor não serve nem para o solo nem para adubo; é jogado fora. Quem é capaz de ouvir, ouça com atenção!".
+
+'''
+
+xref:042-lucas/042-lucas-013.adoc#v42-13-0[&#60; Capítulo Anterior] | <<v42-14-0,Topo>> | xref:042-lucas/042-lucas-015.adoc#v42-15-0[Próximo Capítulo &#62;]

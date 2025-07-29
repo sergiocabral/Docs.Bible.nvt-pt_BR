@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v19-132-0]]
+=== Salmos, 132
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-132-1]]
+
+^<<v19-132-1,1>>^ SENHOR, lembra-te de Davi e de tudo que ele sofreu.
+
+[[v19-132-2]]
+
+^<<v19-132-2,2>>^ Ele fez uma promessa solene ao SENHOR; jurou ao Poderoso de Jacó:
+
+[[v19-132-3]]
+
+^<<v19-132-3,3>>^ "Não voltarei para casa, não descansarei em minha cama,
+
+[[v19-132-4]]
+
+^<<v19-132-4,4>>^ não deixarei que meus olhos durmam, nem fecharei as pálpebras para cochilar,
+
+[[v19-132-5]]
+
+^<<v19-132-5,5>>^ enquanto não encontrar lugar para a habitação do SENHOR, o santuário para o Poderoso de Jacó".
+
+[[v19-132-6]]
+
+^<<v19-132-6,6>>^ Ouvimos dizer que a arca estava em Efrata e a encontramos nos campos de Jaar.
+
+[[v19-132-7]]
+
+^<<v19-132-7,7>>^ Vamos ao santuário do SENHOR; adoremos diante de seu trono!
+
+[[v19-132-8]]
+
+^<<v19-132-8,8>>^ Levanta-te, SENHOR, e entra no teu lugar de descanso, junto com a arca, o símbolo do teu poder.
+
+[[v19-132-9]]
+
+^<<v19-132-9,9>>^ Que teus sacerdotes se vistam de justiça, que teus fiéis cantem de alegria.
+
+[[v19-132-10]]
+
+^<<v19-132-10,10>>^ Por causa do teu servo Davi, não rejeites aquele que ungiste.
+
+[[v19-132-11]]
+
+^<<v19-132-11,11>>^ O SENHOR fez um juramento solene a Davi e prometeu jamais voltar atrás: "Colocarei em seu trono um de seus descendentes.
+
+[[v19-132-12]]
+
+^<<v19-132-12,12>>^ Se os seus descendentes obedecerem aos termos de minha aliança e aos preceitos que eu lhes ensino, sua linhagem real continuará para todo o sempre".
+
+[[v19-132-13]]
+
+^<<v19-132-13,13>>^ Pois o SENHOR escolheu Sião; desejou-a para ser sua habitação.
+
+[[v19-132-14]]
+
+^<<v19-132-14,14>>^ "Este é meu descanso para sempre", disse ele. "Habitarei aqui, pois este é o lugar que desejei.
+
+[[v19-132-15]]
+
+^<<v19-132-15,15>>^ Abençoarei esta cidade e a tornarei próspera; saciarei seus pobres com alimento.
+
+[[v19-132-16]]
+
+^<<v19-132-16,16>>^ Vestirei seus sacerdotes com salvação; seus fiéis cantarão de alegria.
+
+[[v19-132-17]]
+
+^<<v19-132-17,17>>^ Aqui aumentarei o poder de Davi; meu ungido será luz para meu povo.
+
+[[v19-132-18]]
+
+^<<v19-132-18,18>>^ Vestirei de vergonha seus inimigos, mas ele usará uma coroa gloriosa."
+
+'''
+
+xref:019-salmos/019-salmos-131.adoc#v19-131-0[&#60; Capítulo Anterior] | <<v19-132-0,Topo>> | xref:019-salmos/019-salmos-133.adoc#v19-133-0[Próximo Capítulo &#62;]

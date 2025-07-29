@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v18-40-0]]
+=== Jó, 40
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v18-40-1]]
+
+^<<v18-40-1,1>>^ Então o SENHOR disse a Jó:
+
+[[v18-40-2]]
+
+^<<v18-40-2,2>>^ "Ainda quer discutir com o Todo-poderoso? Você critica Deus, mas será que tem as respostas?".
+
+[[v18-40-3]]
+
+^<<v18-40-3,3>>^ Então Jó respondeu ao SENHOR:
+
+[[v18-40-4]]
+
+^<<v18-40-4,4>>^ "Eu não sou nada; como poderia encontrar as respostas? Cobrirei minha boca com a mão.
+
+[[v18-40-5]]
+
+^<<v18-40-5,5>>^ Já falei demais; não tenho mais nada a dizer".
+
+[[v18-40-6]]
+
+^<<v18-40-6,6>>^ Então, do meio do redemoinho, o SENHOR respondeu a Jó:
+
+[[v18-40-7]]
+
+^<<v18-40-7,7>>^ "Prepare-se como um guerreiro, pois lhe farei algumas perguntas, e você responderá.
+
+[[v18-40-8]]
+
+^<<v18-40-8,8>>^ "Porá em dúvida minha justiça e me condenará só para provar que tem razão?
+
+[[v18-40-9]]
+
+^<<v18-40-9,9>>^ Você é tão forte quanto Deus? Sua voz pode trovejar como a dele?
+
+[[v18-40-10]]
+
+^<<v18-40-10,10>>^ Então vista-se de glória e esplendor, de honra e majestade.
+
+[[v18-40-11]]
+
+^<<v18-40-11,11>>^ Dê vazão à sua ira, deixe-a transbordar contra os orgulhosos.
+
+[[v18-40-12]]
+
+^<<v18-40-12,12>>^ Humilhe-os com um olhar, pise os perversos onde estiverem.
+
+[[v18-40-13]]
+
+^<<v18-40-13,13>>^ Enterre-os no pó, prenda-os no mundo dos mortos.
+
+[[v18-40-14]]
+
+^<<v18-40-14,14>>^ Então eu mesmo reconheceria que você pode se salvar por sua própria força.
+
+[[v18-40-15]]
+
+^<<v18-40-15,15>>^ "Veja o Beemote, que eu criei, assim como criei você; ele come capim, como o boi.
+
+[[v18-40-16]]
+
+^<<v18-40-16,16>>^ Veja a força que ele tem nos lombos e o vigor nos músculos da barriga.
+
+[[v18-40-17]]
+
+^<<v18-40-17,17>>^ Sua cauda é forte como o cedro, e os tendões de suas coxas são entrelaçados.
+
+[[v18-40-18]]
+
+^<<v18-40-18,18>>^ Seus ossos são canos de bronze, e suas pernas, barras de ferro.
+
+[[v18-40-19]]
+
+^<<v18-40-19,19>>^ É ótimo exemplo das obras de Deus, e somente seu Criador é capaz de ameaçá-lo.
+
+[[v18-40-20]]
+
+^<<v18-40-20,20>>^ Os montes lhe oferecem seu melhor alimento, e ali brincam os animais selvagens.
+
+[[v18-40-21]]
+
+^<<v18-40-21,21>>^ Ele se deita sob arbustos espinhosos, onde os juncos do brejo o escondem.
+
+[[v18-40-22]]
+
+^<<v18-40-22,22>>^ Os arbustos lhe dão sombra entre os salgueiros junto ao riacho.
+
+[[v18-40-23]]
+
+^<<v18-40-23,23>>^ Ele não se perturba com as enchentes do rio, nem se preocupa quando o Jordão transborda e se agita ao redor.
+
+[[v18-40-24]]
+
+^<<v18-40-24,24>>^ Ninguém o pega de surpresa, nem lhe prende um anel no nariz."
+
+'''
+
+xref:018-jo/018-jo-039.adoc#v18-39-0[&#60; Capítulo Anterior] | <<v18-40-0,Topo>> | xref:018-jo/018-jo-041.adoc#v18-41-0[Próximo Capítulo &#62;]

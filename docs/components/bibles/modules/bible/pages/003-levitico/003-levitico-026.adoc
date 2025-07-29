@@ -1,0 +1,193 @@
+include::./index.adoc[]
+
+[[v3-26-0]]
+=== Levítico, 26
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v3-26-1]]
+
+^<<v3-26-1,1>>^ "Não façam ídolos nem imagens para si, nem levantem em sua terra colunas sagradas ou pedras esculpidas para adorá-las. Eu sou o SENHOR, seu Deus.
+
+[[v3-26-2]]
+
+^<<v3-26-2,2>>^ Guardem os meus sábados e tenham reverência pelo meu santuário. Eu sou o SENHOR.
+
+[[v3-26-3]]
+
+^<<v3-26-3,3>>^ "Se seguirem os meus decretos e obedecerem diligentemente aos meus mandamentos,
+
+[[v3-26-4]]
+
+^<<v3-26-4,4>>^ enviarei as chuvas nas estações próprias. A terra dará suas colheitas, e as árvores do campo produzirão seus frutos.
+
+[[v3-26-5]]
+
+^<<v3-26-5,5>>^ A época de debulhar cereais se estenderá até o início da colheita das uvas, e a colheita das uvas, até o início do plantio dos cereais. Vocês comerão até se saciarem e viverão em segurança em sua terra.
+
+[[v3-26-6]]
+
+^<<v3-26-6,6>>^ "Eu lhes darei paz na terra, e vocês poderão dormir sem medo. Tirarei da terra os animais ferozes e manterei os inimigos afastados de seu território.
+
+[[v3-26-7]]
+
+^<<v3-26-7,7>>^ De fato, vocês perseguirão seus inimigos e os matarão à espada.
+
+[[v3-26-8]]
+
+^<<v3-26-8,8>>^ Cinco de vocês perseguirão cem, e cem de vocês perseguirão dez mil. Todos os seus inimigos cairão pela sua espada.
+
+[[v3-26-9]]
+
+^<<v3-26-9,9>>^ "Olharei para vocês com favor, os tornarei férteis e multiplicarei seu povo. Cumprirei minha aliança com vocês.
+
+[[v3-26-10]]
+
+^<<v3-26-10,10>>^ Suas colheitas serão tão fartas que vocês terão de se desfazer dos cereais velhos a fim de dar espaço à nova safra.
+
+[[v3-26-11]]
+
+^<<v3-26-11,11>>^ Habitarei no meio de vocês e não os desprezarei.
+
+[[v3-26-12]]
+
+^<<v3-26-12,12>>^ Andarei em seu meio; serei o seu Deus, e vocês serão o meu povo.
+
+[[v3-26-13]]
+
+^<<v3-26-13,13>>^ Eu sou o SENHOR, seu Deus, que os tirou da terra do Egito para que não fossem mais escravos. Quebrei o jugo de servidão que vocês carregavam sobre o pescoço e os fiz andar de cabeça erguida." Castigos pela desobediência
+
+[[v3-26-14]]
+
+^<<v3-26-14,14>>^ "Mas, se vocês não me derem ouvidos e não obedecerem a todos esses mandamentos,
+
+[[v3-26-15]]
+
+^<<v3-26-15,15>>^ e se quebrarem a minha aliança rejeitando meus decretos, desprezando meus estatutos e recusando-se a cumprir meus mandamentos,
+
+[[v3-26-16]]
+
+^<<v3-26-16,16>>^ eu os castigarei. Trarei sobre vocês terrores repentinos, doenças debilitantes e febres ardentes que farão seus olhos escurecerem e sua vida definhar. Semearão em vão, pois seus inimigos comerão suas colheitas.
+
+[[v3-26-17]]
+
+^<<v3-26-17,17>>^ Eu me voltarei contra vocês, e seus inimigos os derrotarão. Aqueles que odeiam vocês os dominarão, e vocês fugirão mesmo quando ninguém os estiver perseguindo.
+
+[[v3-26-18]]
+
+^<<v3-26-18,18>>^ "E se, apesar disso tudo, vocês continuarem a me desobedecer, eu os castigarei sete vezes mais por seus pecados.
+
+[[v3-26-19]]
+
+^<<v3-26-19,19>>^ Quebrarei seu forte orgulho ao tornar o céu tão duro quanto o ferro e a terra tão impenetrável quanto o bronze.
+
+[[v3-26-20]]
+
+^<<v3-26-20,20>>^ Todo o seu trabalho será inútil, pois a terra não dará colheitas, e as árvores não produzirão frutos.
+
+[[v3-26-21]]
+
+^<<v3-26-21,21>>^ "Se, ainda assim, continuarem se opondo a mim e se recusarem a me obedecer, causarei desastres sete vezes piores por causa de seus pecados.
+
+[[v3-26-22]]
+
+^<<v3-26-22,22>>^ Enviarei animais selvagens que tomarão seus filhos de vocês e destruirão seus rebanhos. Sua população se tornará cada vez menor, e seus caminhos ficarão desertos.
+
+[[v3-26-23]]
+
+^<<v3-26-23,23>>^ "E, se vocês não aprenderem a lição e insistirem em se opor a mim,
+
+[[v3-26-24]]
+
+^<<v3-26-24,24>>^ eu mesmo me oporei a vocês e trarei calamidades sete vezes piores por causa de seus pecados.
+
+[[v3-26-25]]
+
+^<<v3-26-25,25>>^ Trarei contra vocês a guerra como maldição da aliança que vocês quebraram. Quando correrem para as cidades em busca de segurança, enviarei uma praga que os destruirá ali, e vocês serão entregues nas mãos de seus inimigos.
+
+[[v3-26-26]]
+
+^<<v3-26-26,26>>^ Destruirei seus mantimentos, de modo que dez mulheres precisarão de apenas um forno para assar pão para suas famílias. Racionarão o alimento por peso e, mesmo tendo o que comer, não se saciarão.
+
+[[v3-26-27]]
+
+^<<v3-26-27,27>>^ "Se, apesar disso tudo, ainda se recusarem a me obedecer e continuarem se opondo a mim,
+
+[[v3-26-28]]
+
+^<<v3-26-28,28>>^ eu me oporei a vocês furiosamente. Eu mesmo os castigarei sete vezes mais por seus pecados.
+
+[[v3-26-29]]
+
+^<<v3-26-29,29>>^ Então vocês comerão a carne de seus próprios filhos e filhas.
+
+[[v3-26-30]]
+
+^<<v3-26-30,30>>^ Destruirei seus altares idólatras e derrubarei seus lugares de culto. Amontoarei seus cadáveres por sobre seus ídolos mortos e os desprezarei por completo.
+
+[[v3-26-31]]
+
+^<<v3-26-31,31>>^ Farei suas cidades ficarem desoladas e destruirei seus santuários. Não terei prazer em suas ofertas, que deveriam ser um aroma agradável para mim.
+
+[[v3-26-32]]
+
+^<<v3-26-32,32>>^ Sim, eu mesmo devastarei sua terra, e os inimigos que virão ocupá-la ficarão horrorizados com aquilo que virem.
+
+[[v3-26-33]]
+
+^<<v3-26-33,33>>^ Eu os espalharei entre as nações e empunharei minha espada contra vocês. A terra ficará desolada, e as cidades, em ruínas.
+
+[[v3-26-34]]
+
+^<<v3-26-34,34>>^ Então, enquanto ela estiver desolada e vocês estiverem exilados na terra de seus inimigos, a terra desfrutará os anos sabáticos que lhe foram negados. Finalmente ela descansará e desfrutará os sábados que perdeu.
+
+[[v3-26-35]]
+
+^<<v3-26-35,35>>^ Durante todo o tempo em que a terra permanecer em ruínas, desfrutará o descanso que vocês não permitiram que ela tivesse a cada sete anos quando moravam nela.
+
+[[v3-26-36]]
+
+^<<v3-26-36,36>>^ "Quanto àqueles que sobreviverem, eu lhes causarei desespero na terra de seus inimigos. Viverão com tanto medo que até o som de uma folha levada pelo vento os fará fugir. Correrão como se fugissem de uma espada e cairão mesmo quando ninguém os estiver perseguindo.
+
+[[v3-26-37]]
+
+^<<v3-26-37,37>>^ Ainda que não haja ninguém atrás deles, tropeçarão uns nos outros como quem foge de uma espada. Não terão forças para resistir a seus inimigos.
+
+[[v3-26-38]]
+
+^<<v3-26-38,38>>^ Morrerão em nações estrangeiras, e a terra de seus inimigos os devorará.
+
+[[v3-26-39]]
+
+^<<v3-26-39,39>>^ Aqueles que sobreviverem definharão nas terras de seus inimigos por causa de seus pecados e dos pecados de seus antepassados.
+
+[[v3-26-40]]
+
+^<<v3-26-40,40>>^ "Enfim, porém, meu povo confessará seus pecados e os pecados de seus antepassados por serem infiéis e se oporem a mim.
+
+[[v3-26-41]]
+
+^<<v3-26-41,41>>^ Quando eu me opuser a eles e os levar à terra de seus inimigos, seu coração obstinado se humilhará e receberão o castigo de seus pecados.
+
+[[v3-26-42]]
+
+^<<v3-26-42,42>>^ Então me lembrarei de minha aliança com Jacó, de minha aliança com Isaque e de minha aliança com Abraão, e certamente me lembrarei da terra.
+
+[[v3-26-43]]
+
+^<<v3-26-43,43>>^ Pois a terra precisará ser abandonada para desfrutar os anos sabáticos de descanso enquanto permanecer deserta. Por fim, o povo receberá o castigo de seus pecados, pois rejeitaram continuamente meus estatutos e desprezaram meus decretos.
+
+[[v3-26-44]]
+
+^<<v3-26-44,44>>^ "Apesar disso tudo, não os rejeitarei completamente nem os desprezarei enquanto estiverem exilados na terra de seus inimigos. Não cancelarei minha aliança com eles exterminando-os, pois eu sou o SENHOR, seu Deus.
+
+[[v3-26-45]]
+
+^<<v3-26-45,45>>^ Em favor deles, eu me lembrarei da antiga aliança que fiz com seus antepassados, os quais tirei da terra do Egito diante dos olhos de todas as nações, para ser o Deus deles. Eu sou o SENHOR".
+
+[[v3-26-46]]
+
+^<<v3-26-46,46>>^ Esses são os decretos, os estatutos e as instruções que o SENHOR estabeleceu entre ele próprio e os israelitas por meio de Moisés no monte Sinai.
+
+'''
+
+xref:003-levitico/003-levitico-025.adoc#v3-25-0[&#60; Capítulo Anterior] | <<v3-26-0,Topo>> | xref:003-levitico/003-levitico-027.adoc#v3-27-0[Próximo Capítulo &#62;]

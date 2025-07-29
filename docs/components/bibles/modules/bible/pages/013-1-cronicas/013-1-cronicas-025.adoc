@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v13-25-0]]
+=== 1 Crônicas, 25
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v13-25-1]]
+
+^<<v13-25-1,1>>^ Depois, Davi e os comandantes do exército nomearam homens das famílias de Asafe, Hemã e Jedutum para profetizar, com o acompanhamento de liras, harpas e címbalos. Esta é a lista de seus nomes e de suas responsabilidades:
+
+[[v13-25-2]]
+
+^<<v13-25-2,2>>^ Dos filhos de Asafe: Zacur, José, Netanias e Asarela. Trabalhavam sob a direção de seu pai, Asafe, que profetizava por ordem do rei.
+
+[[v13-25-3]]
+
+^<<v13-25-3,3>>^ Dos filhos de Jedutum: Gedalias, Zeri, Jesaías, Simei, Hasabias e Matitias, seis ao todo. Trabalhavam sob a direção de seu pai, Jedutum, que profetizava com o acompanhamento da lira, dando graças e louvando o SENHOR.
+
+[[v13-25-4]]
+
+^<<v13-25-4,4>>^ Dos filhos de Hemã: Buquias, Matanias, Uziel, Subael, Jerimote, Hananias, Hanani, Eliata, Gidalti, Romanti-Ézer, Josbecasa, Maloti, Hotir e Maaziote.
+
+[[v13-25-5]]
+
+^<<v13-25-5,5>>^ Todos eram filhos de Hemã, vidente do rei, pois Deus lhe tinha dado o privilégio de ter catorze filhos e filhas, de acordo com sua promessa.
+
+[[v13-25-6]]
+
+^<<v13-25-6,6>>^ Todos esses homens estavam sob a direção de seus pais e serviam como músicos na casa do SENHOR. Eram responsáveis por tocar címbalos, harpas e liras na casa de Deus. Asafe, Jedutum e Hemã se reportavam diretamente ao rei.
+
+[[v13-25-7]]
+
+^<<v13-25-7,7>>^ Eles e suas famílias estavam preparados para cantar diante do SENHOR, e todos, 288 no total, eram músicos talentosos.
+
+[[v13-25-8]]
+
+^<<v13-25-8,8>>^ Os músicos foram nomeados para seu serviço por sorteio, tanto jovens como idosos, mestres ou aprendizes.
+
+[[v13-25-9]]
+
+^<<v13-25-9,9>>^ A primeira sorte caiu para José, do clã de Asafe, e doze de seus filhos e parentes; a segunda, para Gedalias e doze de seus filhos e parentes;
+
+[[v13-25-10]]
+
+^<<v13-25-10,10>>^ a terceira, para Zacur e doze de seus filhos e parentes;
+
+[[v13-25-11]]
+
+^<<v13-25-11,11>>^ a quarta, para Zeri e doze de seus filhos e parentes;
+
+[[v13-25-12]]
+
+^<<v13-25-12,12>>^ a quinta, para Netanias e doze de seus filhos e parentes;
+
+[[v13-25-13]]
+
+^<<v13-25-13,13>>^ a sexta, para Buquias e doze de seus filhos e parentes;
+
+[[v13-25-14]]
+
+^<<v13-25-14,14>>^ a sétima, para Asarela e doze de seus filhos e parentes;
+
+[[v13-25-15]]
+
+^<<v13-25-15,15>>^ a oitava, para Jesaías e doze de seus filhos e parentes;
+
+[[v13-25-16]]
+
+^<<v13-25-16,16>>^ a nona, para Matanias e doze de seus filhos e parentes;
+
+[[v13-25-17]]
+
+^<<v13-25-17,17>>^ a décima, para Simei e doze de seus filhos e parentes;
+
+[[v13-25-18]]
+
+^<<v13-25-18,18>>^ a décima primeira, para Uziel e doze de seus filhos e parentes;
+
+[[v13-25-19]]
+
+^<<v13-25-19,19>>^ a décima segunda, para Hasabias e doze de seus filhos e parentes;
+
+[[v13-25-20]]
+
+^<<v13-25-20,20>>^ a décima terceira, para Subael e doze de seus filhos e parentes;
+
+[[v13-25-21]]
+
+^<<v13-25-21,21>>^ a décima quarta, para Matitias e doze de seus filhos e parentes;
+
+[[v13-25-22]]
+
+^<<v13-25-22,22>>^ a décima quinta, para Jerimote e doze de seus filhos e parentes;
+
+[[v13-25-23]]
+
+^<<v13-25-23,23>>^ a décima sexta, para Hananias e doze de seus filhos e parentes;
+
+[[v13-25-24]]
+
+^<<v13-25-24,24>>^ a décima sétima, para Josbecasa e doze de seus filhos e parentes;
+
+[[v13-25-25]]
+
+^<<v13-25-25,25>>^ a décima oitava, para Hanani e doze de seus filhos e parentes;
+
+[[v13-25-26]]
+
+^<<v13-25-26,26>>^ a décima nona, para Maloti e doze de seus filhos e parentes;
+
+[[v13-25-27]]
+
+^<<v13-25-27,27>>^ a vigésima, para Eliata e doze de seus filhos e parentes;
+
+[[v13-25-28]]
+
+^<<v13-25-28,28>>^ a vigésima primeira, para Hotir e doze de seus filhos e parentes;
+
+[[v13-25-29]]
+
+^<<v13-25-29,29>>^ a vigésima segunda, para Gidalti e doze de seus filhos e parentes;
+
+[[v13-25-30]]
+
+^<<v13-25-30,30>>^ a vigésima terceira, para Maaziote e doze de seus filhos e parentes;
+
+[[v13-25-31]]
+
+^<<v13-25-31,31>>^ a vigésima quarta, para Romanti-Ézer e doze de seus filhos e parentes.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-024.adoc#v13-24-0[&#60; Capítulo Anterior] | <<v13-25-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-026.adoc#v13-26-0[Próximo Capítulo &#62;]

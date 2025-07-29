@@ -1,0 +1,45 @@
+include::./index.adoc[]
+
+[[v19-99-0]]
+=== Salmos, 99
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-99-1]]
+
+^<<v19-99-1,1>>^ O SENHOR reina! Tremam os povos! Ele está sentado em seu trono acima dos querubins. Trema toda a terra!
+
+[[v19-99-2]]
+
+^<<v19-99-2,2>>^ O SENHOR é soberano em Sião, exaltado acima de todos os povos.
+
+[[v19-99-3]]
+
+^<<v19-99-3,3>>^ Seja louvado teu grande e temível nome, pois é santo!
+
+[[v19-99-4]]
+
+^<<v19-99-4,4>>^ Rei poderoso, que ama a justiça, tu estabeleceste a imparcialidade. Agiste com justiça e retidão em Israel.
+
+[[v19-99-5]]
+
+^<<v19-99-5,5>>^ Exaltem o SENHOR, nosso Deus; prostrem-se a seus pés, pois ele é santo!
+
+[[v19-99-6]]
+
+^<<v19-99-6,6>>^ Moisés e Arão estavam entre seus sacerdotes, e Samuel também invocava seu nome. Clamavam ao SENHOR, e ele lhes respondia.
+
+[[v19-99-7]]
+
+^<<v19-99-7,7>>^ Da coluna de nuvem lhes falava, e eles seguiam os preceitos e os decretos que ele lhes dava.
+
+[[v19-99-8]]
+
+^<<v19-99-8,8>>^ Ó SENHOR, nosso Deus, tu lhes respondias; eras para eles Deus perdoador, mas os castigava quando se desviavam.
+
+[[v19-99-9]]
+
+^<<v19-99-9,9>>^ Exaltem o SENHOR, nosso Deus, e prostrem-se em seu santo monte, pois o SENHOR, nosso Deus, é santo!
+
+'''
+
+xref:019-salmos/019-salmos-098.adoc#v19-98-0[&#60; Capítulo Anterior] | <<v19-99-0,Topo>> | xref:019-salmos/019-salmos-100.adoc#v19-100-0[Próximo Capítulo &#62;]

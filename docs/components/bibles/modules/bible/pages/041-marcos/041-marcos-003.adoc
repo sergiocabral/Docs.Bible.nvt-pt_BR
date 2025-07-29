@@ -1,0 +1,149 @@
+include::./index.adoc[]
+
+[[v41-3-0]]
+=== Marcos, 3
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v41-3-1]]
+
+^<<v41-3-1,1>>^ Em outra ocasião, Jesus entrou na sinagoga e notou que havia ali um homem com uma das mãos deformada.
+
+[[v41-3-2]]
+
+^<<v41-3-2,2>>^ Os inimigos de Jesus o observavam atentamente. Se ele curasse a mão do homem, planejavam acusá-lo, pois era sábado.
+
+[[v41-3-3]]
+
+^<<v41-3-3,3>>^ Jesus disse ao homem com a mão deformada: "Venha e fique diante de todos".
+
+[[v41-3-4]]
+
+^<<v41-3-4,4>>^ Em seguida, voltou-se para seus críticos e perguntou: "O que a lei permite fazer no sábado? O bem ou o mal? Salvar uma vida ou destruí-la?". Eles ficaram em silêncio.
+
+[[v41-3-5]]
+
+^<<v41-3-5,5>>^ Jesus olhou para os que estavam ao seu redor, irado e muito triste pelo coração endurecido deles. Então disse ao homem: "Estenda a mão". O homem estendeu a mão, e ela foi restaurada.
+
+[[v41-3-6]]
+
+^<<v41-3-6,6>>^ No mesmo instante, os fariseus saíram e se reuniram com os membros do partido de Herodes para tramar um modo de matá-lo.
+
+[[v41-3-7]]
+
+^<<v41-3-7,7>>^ Jesus saiu para o mar com seus discípulos, e uma grande multidão os seguiu. Vinham de todas as partes da Galileia, da Judeia,
+
+[[v41-3-8]]
+
+^<<v41-3-8,8>>^ de Jerusalém, da Idumeia, do leste do rio Jordão e até de lugares distantes ao norte, como Tiro e Sidom. A notícia de seus milagres havia se espalhado para longe, e um grande número de pessoas vinha vê-lo.
+
+[[v41-3-9]]
+
+^<<v41-3-9,9>>^ Jesus instruiu seus discípulos a prepararem um barco para evitar que a multidão o esmagasse.
+
+[[v41-3-10]]
+
+^<<v41-3-10,10>>^ Havia curado muitos naquele dia, e os enfermos se empurravam para chegar até ele e tocá-lo.
+
+[[v41-3-11]]
+
+^<<v41-3-11,11>>^ E, sempre que o viam, os espíritos impuros se atiravam no chão na frente dele e gritavam: "Você é o Filho de Deus!".
+
+[[v41-3-12]]
+
+^<<v41-3-12,12>>^ Jesus, porém, lhes dava ordens severas para que não revelassem quem ele era.
+
+[[v41-3-13]]
+
+^<<v41-3-13,13>>^ Depois, Jesus subiu a um monte e chamou aqueles que ele desejava que o acompanhassem, e eles foram.
+
+[[v41-3-14]]
+
+^<<v41-3-14,14>>^ Escolheu doze e os chamou seus apóstolos, para que o seguissem e fossem enviados para anunciar sua mensagem,
+
+[[v41-3-15]]
+
+^<<v41-3-15,15>>^ e lhes deu autoridade para expulsar demônios.
+
+[[v41-3-16]]
+
+^<<v41-3-16,16>>^ Estes foram os doze que ele escolheu: Simão, a quem ele chamou Pedro,
+
+[[v41-3-17]]
+
+^<<v41-3-17,17>>^ Tiago e João, filhos de Zebedeu, aos quais deu o nome de Boanerges, que significa "filhos do trovão",
+
+[[v41-3-18]]
+
+^<<v41-3-18,18>>^ André, Filipe, Bartolomeu, Mateus, Tomé, Tiago, filho de Alfeu, Tadeu, Simão, o cananeu,
+
+[[v41-3-19]]
+
+^<<v41-3-19,19>>^ Judas Iscariotes, que depois o traiu.
+
+[[v41-3-20]]
+
+^<<v41-3-20,20>>^ Certo dia, Jesus entrou numa casa, e as multidões começaram a se juntar outra vez. Logo, ele e seus discípulos não tinham tempo nem para comer.
+
+[[v41-3-21]]
+
+^<<v41-3-21,21>>^ Quando os familiares de Jesus souberam o que estava acontecendo, tentaram impedi-lo de continuar. "Está fora de si", diziam.
+
+[[v41-3-22]]
+
+^<<v41-3-22,22>>^ Então os mestres da lei, que tinham vindo de Jerusalém, disseram: "Está possuído por Belzebu, príncipe dos demônios. É dele que recebe poder para expulsar demônios".
+
+[[v41-3-23]]
+
+^<<v41-3-23,23>>^ Jesus os chamou e respondeu com uma comparação: "Como é possível Satanás expulsar Satanás?", perguntou.
+
+[[v41-3-24]]
+
+^<<v41-3-24,24>>^ "Um reino dividido internamente será destruído.
+
+[[v41-3-25]]
+
+^<<v41-3-25,25>>^ Da mesma forma, uma família dividida contra si mesma se desintegrará.
+
+[[v41-3-26]]
+
+^<<v41-3-26,26>>^ E, se Satanás está dividido e luta contra si mesmo, não pode se manter de pé; está acabado.
+
+[[v41-3-27]]
+
+^<<v41-3-27,27>>^ Quem tem poder para entrar na casa de um homem forte e saquear seus bens? Somente alguém ainda mais forte, alguém capaz de amarrá-lo e saquear sua casa.
+
+[[v41-3-28]]
+
+^<<v41-3-28,28>>^ "Eu lhes digo a verdade: todo pecado e toda blasfêmia podem ser perdoados,
+
+[[v41-3-29]]
+
+^<<v41-3-29,29>>^ mas quem blasfemar contra o Espírito Santo jamais será perdoado. Esse é um pecado com consequências eternas."
+
+[[v41-3-30]]
+
+^<<v41-3-30,30>>^ Ele disse isso porque afirmavam: "Está possuído por um espírito impuro".
+
+[[v41-3-31]]
+
+^<<v41-3-31,31>>^ Então a mãe e os irmãos de Jesus foram vê-lo. Ficaram do lado de fora e mandaram alguém avisá-lo para sair e falar com eles.
+
+[[v41-3-32]]
+
+^<<v41-3-32,32>>^ Havia muitas pessoas sentadas ao seu redor, e alguém disse: "Sua mãe e seus irmãos estão lá fora e o procuram".
+
+[[v41-3-33]]
+
+^<<v41-3-33,33>>^ Jesus respondeu: "Quem é minha mãe? Quem são meus irmãos?".
+
+[[v41-3-34]]
+
+^<<v41-3-34,34>>^ Então olhou para aqueles que estavam ao seu redor e disse: "Vejam, estes são minha mãe e meus irmãos.
+
+[[v41-3-35]]
+
+^<<v41-3-35,35>>^ Quem faz a vontade de Deus é meu irmão, minha irmã e minha mãe".
+
+'''
+
+xref:041-marcos/041-marcos-002.adoc#v41-2-0[&#60; Capítulo Anterior] | <<v41-3-0,Topo>> | xref:041-marcos/041-marcos-004.adoc#v41-4-0[Próximo Capítulo &#62;]

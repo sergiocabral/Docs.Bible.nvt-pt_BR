@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v19-26-0]]
+=== Salmos, 26
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-26-1]]
+
+^<<v19-26-1,1>>^ Declara-me inocente, SENHOR, pois tenho vivido com integridade; tenho confiado no SENHOR sem vacilar.
+
+[[v19-26-2]]
+
+^<<v19-26-2,2>>^ Põe-me à prova, SENHOR, e examina-me; investiga meu coração e minha mente.
+
+[[v19-26-3]]
+
+^<<v19-26-3,3>>^ Pois estou sempre consciente do teu amor e tenho vivido de acordo com a tua verdade.
+
+[[v19-26-4]]
+
+^<<v19-26-4,4>>^ Não passo tempo com mentirosos, nem ando com hipócritas.
+
+[[v19-26-5]]
+
+^<<v19-26-5,5>>^ Detesto as reuniões dos que praticam o mal e não me associo aos perversos.
+
+[[v19-26-6]]
+
+^<<v19-26-6,6>>^ Lavo as mãos para declarar minha inocência. Venho ao teu altar, ó SENHOR,
+
+[[v19-26-7]]
+
+^<<v19-26-7,7>>^ para entoar um cântico de gratidão e anunciar todas as tuas maravilhas.
+
+[[v19-26-8]]
+
+^<<v19-26-8,8>>^ Amo o teu santuário, SENHOR, o lugar onde habita tua presença gloriosa.
+
+[[v19-26-9]]
+
+^<<v19-26-9,9>>^ Não permitas que eu tenha o destino dos pecadores, não me condenes junto com os assassinos.
+
+[[v19-26-10]]
+
+^<<v19-26-10,10>>^ Eles têm as mãos sujas de tramas perversas e vivem a aceitar subornos.
+
+[[v19-26-11]]
+
+^<<v19-26-11,11>>^ Eu, porém, vivo com integridade; resgata-me e tem misericórdia de mim.
+
+[[v19-26-12]]
+
+^<<v19-26-12,12>>^ Agora estou em solo firme e louvarei o SENHOR no meio do povo.
+
+'''
+
+xref:019-salmos/019-salmos-025.adoc#v19-25-0[&#60; Capítulo Anterior] | <<v19-26-0,Topo>> | xref:019-salmos/019-salmos-027.adoc#v19-27-0[Próximo Capítulo &#62;]

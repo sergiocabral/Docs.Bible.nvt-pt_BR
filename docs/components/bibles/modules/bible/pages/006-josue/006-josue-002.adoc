@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v6-2-0]]
+=== Josué, 2
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v6-2-1]]
+
+^<<v6-2-1,1>>^ Então, do acampamento em Sitim, Josué, filho de Num, enviou secretamente dois espiões, com a seguinte instrução: "Façam o reconhecimento da terra, especialmente dos arredores de Jericó". Os dois homens partiram e chegaram à casa de uma prostituta chamada Raabe, e ali passaram a noite.
+
+[[v6-2-2]]
+
+^<<v6-2-2,2>>^ A notícia chegou ao rei de Jericó: "Alguns israelitas vieram aqui esta noite para espionar a terra".
+
+[[v6-2-3]]
+
+^<<v6-2-3,3>>^ Então o rei de Jericó enviou a seguinte ordem a Raabe: "Traga para fora os homens que entraram em sua casa, pois vieram espionar toda a terra".
+
+[[v6-2-4]]
+
+^<<v6-2-4,4>>^ Raabe havia escondido os dois homens, mas respondeu: "Sim, os homens estiveram aqui, mas eu não sabia de onde eram.
+
+[[v6-2-5]]
+
+^<<v6-2-5,5>>^ Foram embora da cidade ao anoitecer, quase na hora de fechar os portões. Não sei para onde foram. Se vocês os perseguirem, é provável que os alcancem".
+
+[[v6-2-6]]
+
+^<<v6-2-6,6>>^ Na verdade, ela havia levado os homens para o terraço e os escondido debaixo dos feixes de linho que tinha posto ali.
+
+[[v6-2-7]]
+
+^<<v6-2-7,7>>^ Os homens do rei procuraram os espiões pelo caminho que ia até a parte rasa do Jordão, onde se podia atravessar. Assim que eles saíram, os portões de Jericó foram fechados.
+
+[[v6-2-8]]
+
+^<<v6-2-8,8>>^ Antes que os espiões fossem dormir, Raabe foi ao terraço falar com eles.
+
+[[v6-2-9]]
+
+^<<v6-2-9,9>>^ "Sei que o SENHOR lhes deu esta terra", disse ela. "Estamos todos apavorados por sua causa. Todos os habitantes desta terra estão desesperados,
+
+[[v6-2-10]]
+
+^<<v6-2-10,10>>^ pois ouvimos que o SENHOR secou as águas do mar Vermelho para que vocês passassem, quando saíram do Egito. E sabemos o que fizeram a leste do Jordão aos dois reis amorreus Ogue e Seom, cujos povos vocês destruíram completamente.
+
+[[v6-2-11]]
+
+^<<v6-2-11,11>>^ Não é à toa que estamos dominados pelo medo! Ninguém tem ânimo para lutar depois de ouvir coisas como essas, pois o SENHOR, seu Deus, é Deus supremo em cima no céu e embaixo na terra.
+
+[[v6-2-12]]
+
+^<<v6-2-12,12>>^ "Agora, portanto, jurem-me pelo SENHOR que, assim como os tratei com bondade, vocês serão bondosos comigo e com minha família. Deem-me alguma garantia de que,
+
+[[v6-2-13]]
+
+^<<v6-2-13,13>>^ quando Jericó for conquistada, vocês pouparão a minha vida e a vida de meu pai e minha mãe, e também a de meus irmãos e irmãs e de suas famílias."
+
+[[v6-2-14]]
+
+^<<v6-2-14,14>>^ Os homens responderam: "Oferecemos a própria vida como garantia de sua segurança. Se você não nos entregar, cumpriremos nossa promessa e trataremos vocês com bondade quando o SENHOR nos der a terra".
+
+[[v6-2-15]]
+
+^<<v6-2-15,15>>^ Então Raabe os ajudou a descer pela janela por uma corda, pois sua casa fazia parte do muro da cidade.
+
+[[v6-2-16]]
+
+^<<v6-2-16,16>>^ "Fujam para a região montanhosa", disse ela. "Escondam-se ali por três dias. Quando os homens que estão à sua procura tiverem voltado, vocês poderão seguir seu caminho."
+
+[[v6-2-17]]
+
+^<<v6-2-17,17>>^ Antes de partir, os homens disseram a Raabe: "Só estaremos obrigados pelo juramento que fizemos se você seguir nossas instruções.
+
+[[v6-2-18]]
+
+^<<v6-2-18,18>>^ Quando entrarmos na terra, deixe este cordão vermelho pendurado na janela por onde você nos ajudou a descer. Todos os membros de sua família — pai, mãe, irmãos e todos os seus parentes — devem estar dentro desta casa.
+
+[[v6-2-19]]
+
+^<<v6-2-19,19>>^ Se saírem na rua e forem mortos, não teremos culpa. Mas, se alguém fizer mal aos que estiverem dentro desta casa, assumiremos a responsabilidade por sua morte.
+
+[[v6-2-20]]
+
+^<<v6-2-20,20>>^ E, se você falar a outros sobre nossa missão, estaremos livres do juramento que fizemos".
+
+[[v6-2-21]]
+
+^<<v6-2-21,21>>^ "Eu aceito suas condições", respondeu ela, e despediu-se deles, deixando o cordão vermelho pendurado na janela.
+
+[[v6-2-22]]
+
+^<<v6-2-22,22>>^ Os espiões subiram até a região montanhosa e ali ficaram por três dias. Seus perseguidores os procuraram por todo o caminho, mas não os encontraram e voltaram.
+
+[[v6-2-23]]
+
+^<<v6-2-23,23>>^ Então os dois espiões desceram da região montanhosa, atravessaram o Jordão e relataram a Josué, filho de Num, tudo que lhes havia acontecido.
+
+[[v6-2-24]]
+
+^<<v6-2-24,24>>^ "Certamente o SENHOR nos deu toda a terra", disseram eles. "Todos os seus habitantes estão desesperados por nossa causa."
+
+'''
+
+xref:006-josue/006-josue-001.adoc#v6-1-0[&#60; Capítulo Anterior] | <<v6-2-0,Topo>> | xref:006-josue/006-josue-003.adoc#v6-3-0[Próximo Capítulo &#62;]

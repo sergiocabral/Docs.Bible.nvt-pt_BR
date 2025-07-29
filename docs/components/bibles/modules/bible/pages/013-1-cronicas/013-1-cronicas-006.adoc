@@ -1,0 +1,333 @@
+include::./index.adoc[]
+
+[[v13-6-0]]
+=== 1 Crônicas, 6
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v13-6-1]]
+
+^<<v13-6-1,1>>^ Os filhos de Levi foram: Gérson, Coate e Merari.
+
+[[v13-6-2]]
+
+^<<v13-6-2,2>>^ Os descendentes de Coate foram: Anrão, Isar, Hebrom e Uziel.
+
+[[v13-6-3]]
+
+^<<v13-6-3,3>>^ Os filhos de Anrão foram: Arão, Moisés e Miriã. Os filhos de Arão foram: Nadabe, Abiú, Eleazar e Itamar.
+
+[[v13-6-4]]
+
+^<<v13-6-4,4>>^ Eleazar gerou Fineias. Fineias gerou Abisua.
+
+[[v13-6-5]]
+
+^<<v13-6-5,5>>^ Abisua gerou Buqui. Buqui gerou Uzi.
+
+[[v13-6-6]]
+
+^<<v13-6-6,6>>^ Uzi gerou Zeraías. Zeraías gerou Meraiote.
+
+[[v13-6-7]]
+
+^<<v13-6-7,7>>^ Meraiote gerou Amarias. Amarias gerou Aitube.
+
+[[v13-6-8]]
+
+^<<v13-6-8,8>>^ Aitube gerou Zadoque. Zadoque gerou Aimaás.
+
+[[v13-6-9]]
+
+^<<v13-6-9,9>>^ Aimaás gerou Azarias. Azarias gerou Joanã.
+
+[[v13-6-10]]
+
+^<<v13-6-10,10>>^ Joanã gerou Azarias, sumo sacerdote no templo que Salomão construiu em Jerusalém.
+
+[[v13-6-11]]
+
+^<<v13-6-11,11>>^ Azarias gerou Amarias. Amarias gerou Aitube.
+
+[[v13-6-12]]
+
+^<<v13-6-12,12>>^ Aitube gerou Zadoque. Zadoque gerou Salum.
+
+[[v13-6-13]]
+
+^<<v13-6-13,13>>^ Salum gerou Hilquias. Hilquias gerou Azarias.
+
+[[v13-6-14]]
+
+^<<v13-6-14,14>>^ Azarias gerou Seraías. Seraías gerou Jeozadaque,
+
+[[v13-6-15]]
+
+^<<v13-6-15,15>>^ que foi deportado quando o SENHOR enviou o povo de Judá e de Jerusalém para o exílio por meio de Nabucodonosor.
+
+[[v13-6-16]]
+
+^<<v13-6-16,16>>^ Os filhos de Levi foram: Gérson, Coate e Merari.
+
+[[v13-6-17]]
+
+^<<v13-6-17,17>>^ Os descendentes de Gérson foram: Libni e Simei.
+
+[[v13-6-18]]
+
+^<<v13-6-18,18>>^ Os descendentes de Coate foram: Anrão, Isar, Hebrom e Uziel.
+
+[[v13-6-19]]
+
+^<<v13-6-19,19>>^ Os descendentes de Merari foram: Mali e Musi. Estes foram os clãs dos levitas, listados de acordo com seus antepassados:
+
+[[v13-6-20]]
+
+^<<v13-6-20,20>>^ Os descendentes de Gérson foram: Libni, Jaate, Zima,
+
+[[v13-6-21]]
+
+^<<v13-6-21,21>>^ Joá, Ido, Zerá e Jeaterai.
+
+[[v13-6-22]]
+
+^<<v13-6-22,22>>^ Os descendentes de Coate foram: Aminadabe, Coré, Assir,
+
+[[v13-6-23]]
+
+^<<v13-6-23,23>>^ Elcana, Abiasafe, Assir,
+
+[[v13-6-24]]
+
+^<<v13-6-24,24>>^ Taate, Uriel, Uzias e Saul.
+
+[[v13-6-25]]
+
+^<<v13-6-25,25>>^ Os descendentes de Elcana foram: Amasai, Aimote,
+
+[[v13-6-26]]
+
+^<<v13-6-26,26>>^ Elcana, Zofai, Naate,
+
+[[v13-6-27]]
+
+^<<v13-6-27,27>>^ Eliabe, Jeroão, Elcana e Samuel.
+
+[[v13-6-28]]
+
+^<<v13-6-28,28>>^ Os filhos de Samuel foram: Joel, o mais velho, e Abias, o segundo.
+
+[[v13-6-29]]
+
+^<<v13-6-29,29>>^ As gerações de descendentes de Merari foram: Mali, Libni, Simei, Uzá,
+
+[[v13-6-30]]
+
+^<<v13-6-30,30>>^ Simeia, Hagias e Asaías.
+
+[[v13-6-31]]
+
+^<<v13-6-31,31>>^ Estes foram os homens que Davi nomeou para dirigirem a música na casa do SENHOR depois que a arca foi colocada ali.
+
+[[v13-6-32]]
+
+^<<v13-6-32,32>>^ Ministravam com música no tabernáculo, na tenda do encontro, até que Salomão construiu o templo do SENHOR em Jerusalém. Realizavam seu trabalho de acordo com as normas que lhes haviam sido transmitidas.
+
+[[v13-6-33]]
+
+^<<v13-6-33,33>>^ Estes são os homens que serviram ali, junto com seus filhos. O músico Hemã era do clã de Coate. Os antepassados de Hemã foram: Joel, Samuel,
+
+[[v13-6-34]]
+
+^<<v13-6-34,34>>^ Elcana, Jeroão, Eliel, Toá,
+
+[[v13-6-35]]
+
+^<<v13-6-35,35>>^ Zufe, Elcana, Maate, Amasai,
+
+[[v13-6-36]]
+
+^<<v13-6-36,36>>^ Elcana, Joel, Azarias, Sofonias,
+
+[[v13-6-37]]
+
+^<<v13-6-37,37>>^ Taate, Assir, Abiasafe, Coré,
+
+[[v13-6-38]]
+
+^<<v13-6-38,38>>^ Isar, Coate, Levi e Israel.
+
+[[v13-6-39]]
+
+^<<v13-6-39,39>>^ O primeiro ajudante de Hemã foi seu irmão Asafe. Os antepassados de Asafe foram: Berequias, Simeia,
+
+[[v13-6-40]]
+
+^<<v13-6-40,40>>^ Micael, Baaseias, Malquias,
+
+[[v13-6-41]]
+
+^<<v13-6-41,41>>^ Etni, Zerá, Adaías,
+
+[[v13-6-42]]
+
+^<<v13-6-42,42>>^ Etã, Zima, Simei,
+
+[[v13-6-43]]
+
+^<<v13-6-43,43>>^ Jaate, Gérson e Levi.
+
+[[v13-6-44]]
+
+^<<v13-6-44,44>>^ O segundo ajudante de Hemã foi Etã, do clã de Merari. Os antepassados de Etã foram: Quisi, Abdi, Maluque,
+
+[[v13-6-45]]
+
+^<<v13-6-45,45>>^ Hasabias, Amazias, Hilquias,
+
+[[v13-6-46]]
+
+^<<v13-6-46,46>>^ Anzi, Bani, Sêmer,
+
+[[v13-6-47]]
+
+^<<v13-6-47,47>>^ Mali, Musi, Merari e Levi.
+
+[[v13-6-48]]
+
+^<<v13-6-48,48>>^ Seus parentes levitas foram encarregados de muitas outras tarefas no tabernáculo, a casa de Deus.
+
+[[v13-6-49]]
+
+^<<v13-6-49,49>>^ Somente Arão e seus descendentes serviam na função de sacerdotes. Apresentavam as ofertas no altar do holocausto e no altar de incenso e realizavam todas as tarefas relacionadas ao lugar santíssimo. Faziam expiação por Israel conforme tudo que Moisés, servo de Deus, havia ordenado.
+
+[[v13-6-50]]
+
+^<<v13-6-50,50>>^ Os descendentes de Arão foram: Eleazar, Fineias, Abisua,
+
+[[v13-6-51]]
+
+^<<v13-6-51,51>>^ Buqui, Uzi, Zeraías,
+
+[[v13-6-52]]
+
+^<<v13-6-52,52>>^ Meraiote, Amarias, Aitube,
+
+[[v13-6-53]]
+
+^<<v13-6-53,53>>^ Zadoque e Aimaás.
+
+[[v13-6-54]]
+
+^<<v13-6-54,54>>^ Este é um registro das cidades e do território que, por sorteio, foram entregues aos descendentes de Arão, do clã de Coate.
+
+[[v13-6-55]]
+
+^<<v13-6-55,55>>^ Seu território abrangia Hebrom, em Judá, e as pastagens ao redor,
+
+[[v13-6-56]]
+
+^<<v13-6-56,56>>^ mas os campos e os povoados vizinhos foram entregues a Calebe, filho de Jefoné.
+
+[[v13-6-57]]
+
+^<<v13-6-57,57>>^ Assim, os descendentes de Arão receberam as seguintes cidades, cada uma com as pastagens ao redor: Hebrom (uma cidade de refúgio), Libna, Jatir, Estemoa,
+
+[[v13-6-58]]
+
+^<<v13-6-58,58>>^ Holom, Debir,
+
+[[v13-6-59]]
+
+^<<v13-6-59,59>>^ Aim, Jutá e Bete-Semes.
+
+[[v13-6-60]]
+
+^<<v13-6-60,60>>^ E, do território de Benjamim, receberam: Gibeom, Geba, Alemete e Anatote, cada uma com suas pastagens. Ao todo, os descendentes de Arão receberam treze cidades, de acordo com seus clãs.
+
+[[v13-6-61]]
+
+^<<v13-6-61,61>>^ Os demais descendentes de Coate receberam, por sorteio, dez cidades no território da meia tribo de Manassés.
+
+[[v13-6-62]]
+
+^<<v13-6-62,62>>^ Os descendentes de Gérson receberam, por sorteio, de acordo com seus clãs, treze cidades nos territórios de Issacar, Aser, Naftali e da região de Basã, de Manassés, a leste do Jordão.
+
+[[v13-6-63]]
+
+^<<v13-6-63,63>>^ Os descendentes de Merari receberam, por sorteio, de acordo com seus clãs, doze cidades nos territórios de Rúben, Gade e Zebulom.
+
+[[v13-6-64]]
+
+^<<v13-6-64,64>>^ Os israelitas entregaram todas essas cidades e pastagens aos levitas.
+
+[[v13-6-65]]
+
+^<<v13-6-65,65>>^ As cidades nos territórios de Judá, Simeão e Benjamim, mencionadas anteriormente, foram entregues por sorteio.
+
+[[v13-6-66]]
+
+^<<v13-6-66,66>>^ Os descendentes de Coate receberam as seguintes cidades no território de Efraim, cada uma com suas pastagens:
+
+[[v13-6-67]]
+
+^<<v13-6-67,67>>^ Siquém, uma das cidades de refúgio na região montanhosa de Efraim, e Gezer,
+
+[[v13-6-68]]
+
+^<<v13-6-68,68>>^ Jocmeão, Bete-Horom,
+
+[[v13-6-69]]
+
+^<<v13-6-69,69>>^ Aijalom e Gate-Rimom.
+
+[[v13-6-70]]
+
+^<<v13-6-70,70>>^ Os demais descendentes de Coate receberam as seguintes cidades no território da meia tribo de Manassés: Aner e Bileã, cada uma com suas pastagens.
+
+[[v13-6-71]]
+
+^<<v13-6-71,71>>^ Os descendentes de Gérson receberam as cidades de Golã, em Basã, e Asterote, no território da meia tribo de Manassés, cada uma com suas pastagens.
+
+[[v13-6-72]]
+
+^<<v13-6-72,72>>^ No território de Issacar, receberam Quedes, Daberate,
+
+[[v13-6-73]]
+
+^<<v13-6-73,73>>^ Ramote e Aném, cada uma com suas pastagens.
+
+[[v13-6-74]]
+
+^<<v13-6-74,74>>^ No território de Aser, receberam Masal, Abdom,
+
+[[v13-6-75]]
+
+^<<v13-6-75,75>>^ Hucoque e Reobe, cada uma com suas pastagens.
+
+[[v13-6-76]]
+
+^<<v13-6-76,76>>^ No território de Naftali, receberam Quedes, na Galileia, Hamom e Quiriataim, cada uma com suas pastagens.
+
+[[v13-6-77]]
+
+^<<v13-6-77,77>>^ Os demais descendentes de Merari receberam as seguintes cidades: Jocneã, Carta, Rimom e Tabor, no território de Zebulom, cada uma com suas pastagens.
+
+[[v13-6-78]]
+
+^<<v13-6-78,78>>^ No território de Rúben, a leste do rio Jordão, defronte de Jericó, receberam Bezer (uma cidade no deserto), Jaza,
+
+[[v13-6-79]]
+
+^<<v13-6-79,79>>^ Quedemote e Mefaate, cada uma com suas pastagens.
+
+[[v13-6-80]]
+
+^<<v13-6-80,80>>^ E, no território de Gade, receberam Ramote, em Gileade, Maanaim,
+
+[[v13-6-81]]
+
+^<<v13-6-81,81>>^ Hesbom e Jazer, cada uma com suas pastagens.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-005.adoc#v13-5-0[&#60; Capítulo Anterior] | <<v13-6-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-007.adoc#v13-7-0[Próximo Capítulo &#62;]

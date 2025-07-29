@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v18-17-0]]
+=== Jó, 17
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v18-17-1]]
+
+^<<v18-17-1,1>>^ "Meu espírito está quebrado, e minha vida, quase apagada; o túmulo está pronto para me receber.
+
+[[v18-17-2]]
+
+^<<v18-17-2,2>>^ Estou cercado de zombadores; seus insultos estão sempre diante de mim.
+
+[[v18-17-3]]
+
+^<<v18-17-3,3>>^ "Dá-me garantia de que me defenderás, ó Deus, pois ninguém mais tomará meu partido.
+
+[[v18-17-4]]
+
+^<<v18-17-4,4>>^ Fechaste a mente deles para o entendimento, mas não permitas que triunfem.
+
+[[v18-17-5]]
+
+^<<v18-17-5,5>>^ Traem os amigos em benefício próprio; deixa que os filhos deles desfaleçam de fome.
+
+[[v18-17-6]]
+
+^<<v18-17-6,6>>^ "Deus me transformou em motivo de zombaria; as pessoas cospem em meu rosto.
+
+[[v18-17-7]]
+
+^<<v18-17-7,7>>^ Meus olhos estão inchados de tanto chorar; sou apenas sombra do que já fui.
+
+[[v18-17-8]]
+
+^<<v18-17-8,8>>^ Os virtuosos ficam horrorizados quando me veem, e os inocentes se levantam contra os ímpios.
+
+[[v18-17-9]]
+
+^<<v18-17-9,9>>^ Os justos prosseguem em seu caminho, e os de mãos limpas se fortalecem cada vez mais.
+
+[[v18-17-10]]
+
+^<<v18-17-10,10>>^ "Quanto a vocês, voltem com um argumento melhor; ainda assim, não encontrarei sábio algum em seu meio.
+
+[[v18-17-11]]
+
+^<<v18-17-11,11>>^ Meus dias chegaram ao fim e minhas esperanças se foram; os desejos de meu coração não se realizaram.
+
+[[v18-17-12]]
+
+^<<v18-17-12,12>>^ Esses homens dizem que a noite é dia, afirmam que a escuridão é luz.
+
+[[v18-17-13]]
+
+^<<v18-17-13,13>>^ E se eu descer à sepultura e arrumar minha cama na escuridão?
+
+[[v18-17-14]]
+
+^<<v18-17-14,14>>^ E se eu chamar o túmulo de pai e o verme, de mãe ou irmã?
+
+[[v18-17-15]]
+
+^<<v18-17-15,15>>^ Onde está, então, minha esperança? Há alguém que possa encontrá-la?
+
+[[v18-17-16]]
+
+^<<v18-17-16,16>>^ Não, minha esperança descerá comigo à sepultura; descansaremos juntos no pó".
+
+'''
+
+xref:018-jo/018-jo-016.adoc#v18-16-0[&#60; Capítulo Anterior] | <<v18-17-0,Topo>> | xref:018-jo/018-jo-018.adoc#v18-18-0[Próximo Capítulo &#62;]

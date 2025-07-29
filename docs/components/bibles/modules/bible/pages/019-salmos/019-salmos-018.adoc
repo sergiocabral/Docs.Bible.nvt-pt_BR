@@ -1,0 +1,209 @@
+include::./index.adoc[]
+
+[[v19-18-0]]
+=== Salmos, 18
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-18-1]]
+
+^<<v19-18-1,1>>^ Eu te amo, SENHOR; tu és minha força.
+
+[[v19-18-2]]
+
+^<<v19-18-2,2>>^ O SENHOR é minha rocha, minha fortaleza e meu libertador; meu Deus é meu rochedo, em quem encontro proteção. Ele é meu escudo, o poder que me salva e meu lugar seguro.
+
+[[v19-18-3]]
+
+^<<v19-18-3,3>>^ Clamei ao SENHOR, que é digno de louvor, e ele me livrou de meus inimigos.
+
+[[v19-18-4]]
+
+^<<v19-18-4,4>>^ Os laços da morte me cercaram, torrentes de destruição caíram sobre mim.
+
+[[v19-18-5]]
+
+^<<v19-18-5,5>>^ A sepultura me envolveu em seus laços, a morte pôs uma armadilha em meu caminho.
+
+[[v19-18-6]]
+
+^<<v19-18-6,6>>^ Em minha aflição, clamei ao SENHOR; sim, pedi socorro a meu Deus. De seu santuário ele me ouviu; meu clamor chegou a seus ouvidos.
+
+[[v19-18-7]]
+
+^<<v19-18-7,7>>^ A terra se abalou e estremeceu; tremeram os fundamentos dos montes, agitaram-se por causa de sua ira.
+
+[[v19-18-8]]
+
+^<<v19-18-8,8>>^ De suas narinas saiu fumaça, de sua boca, fogo consumidor; brasas vivas saíram dele.
+
+[[v19-18-9]]
+
+^<<v19-18-9,9>>^ Ele abriu os céus e desceu, com nuvens escuras de tempestade sob os pés.
+
+[[v19-18-10]]
+
+^<<v19-18-10,10>>^ Montado num querubim, pairava sobre as asas do vento.
+
+[[v19-18-11]]
+
+^<<v19-18-11,11>>^ Envolveu-se num manto de escuridão, em densas nuvens de chuva.
+
+[[v19-18-12]]
+
+^<<v19-18-12,12>>^ Nuvens espessas escondiam o brilho ao seu redor e faziam chover granizo e brasas vivas.
+
+[[v19-18-13]]
+
+^<<v19-18-13,13>>^ O SENHOR trovejou dos céus; a voz do Altíssimo ressoou, em meio ao granizo e às brasas vivas.
+
+[[v19-18-14]]
+
+^<<v19-18-14,14>>^ Atirou flechas e dispersou seus inimigos, lançou muitos raios e os fez fugir em confusão.
+
+[[v19-18-15]]
+
+^<<v19-18-15,15>>^ Então, por tua ordem, SENHOR, com o forte sopro de tuas narinas, o fundo do mar apareceu, e os alicerces da terra ficaram expostos.
+
+[[v19-18-16]]
+
+^<<v19-18-16,16>>^ Dos céus estendeu a mão e me resgatou; tirou-me de águas profundas.
+
+[[v19-18-17]]
+
+^<<v19-18-17,17>>^ Livrou-me de inimigos poderosos, dos que me odiavam e eram fortes demais para mim.
+
+[[v19-18-18]]
+
+^<<v19-18-18,18>>^ Quando eu estava angustiado, eles me atacaram, mas o SENHOR me sustentou.
+
+[[v19-18-19]]
+
+^<<v19-18-19,19>>^ Ele me levou a um lugar seguro e me livrou porque se agrada de mim.
+
+[[v19-18-20]]
+
+^<<v19-18-20,20>>^ O SENHOR me recompensou por minha justiça; por causa de minha inocência, me restaurou.
+
+[[v19-18-21]]
+
+^<<v19-18-21,21>>^ Pois guardei os caminhos do SENHOR; não me afastei de meu Deus para seguir o mal.
+
+[[v19-18-22]]
+
+^<<v19-18-22,22>>^ Cumpri todos os seus estatutos e nunca abandonei seus decretos.
+
+[[v19-18-23]]
+
+^<<v19-18-23,23>>^ Sou inculpável diante de Deus; do pecado me guardei.
+
+[[v19-18-24]]
+
+^<<v19-18-24,24>>^ O SENHOR me recompensou por minha justiça; ele viu minha inocência.
+
+[[v19-18-25]]
+
+^<<v19-18-25,25>>^ Aos fiéis te mostras fiel, e, aos íntegros, mostras integridade.
+
+[[v19-18-26]]
+
+^<<v19-18-26,26>>^ Aos puros te mostras puro, mas, aos perversos, te mostras astuto.
+
+[[v19-18-27]]
+
+^<<v19-18-27,27>>^ Livras os humildes, mas humilhas os orgulhosos.
+
+[[v19-18-28]]
+
+^<<v19-18-28,28>>^ Manténs acesa minha lâmpada; o SENHOR, meu Deus, ilumina minha escuridão.
+
+[[v19-18-29]]
+
+^<<v19-18-29,29>>^ Com tua força, posso atacar qualquer exército; com meu Deus, posso saltar qualquer muralha.
+
+[[v19-18-30]]
+
+^<<v19-18-30,30>>^ O caminho de Deus é perfeito; as promessas do SENHOR sempre se cumprem; ele é escudo para todos que nele se refugiam.
+
+[[v19-18-31]]
+
+^<<v19-18-31,31>>^ Pois quem é Deus, senão o SENHOR? Quem é rocha firme, senão o nosso Deus?
+
+[[v19-18-32]]
+
+^<<v19-18-32,32>>^ Deus me reveste de força e remove os obstáculos de meu caminho.
+
+[[v19-18-33]]
+
+^<<v19-18-33,33>>^ Torna meus pés ágeis como os da corça e me sustenta quando ando pelos montes.
+
+[[v19-18-34]]
+
+^<<v19-18-34,34>>^ Treina minhas mãos para a batalha e fortalece meus braços para vergar o arco de bronze.
+
+[[v19-18-35]]
+
+^<<v19-18-35,35>>^ Tu me deste teu escudo de vitória; tua mão direita me sustenta, teu socorro me engrandece.
+
+[[v19-18-36]]
+
+^<<v19-18-36,36>>^ Abriste um caminho largo para meus pés, de modo que não vacilem.
+
+[[v19-18-37]]
+
+^<<v19-18-37,37>>^ Persegui meus inimigos e os alcancei; não retornei enquanto não foram derrotados.
+
+[[v19-18-38]]
+
+^<<v19-18-38,38>>^ Eu os feri até que não pudessem se levantar; tombaram diante de meus pés.
+
+[[v19-18-39]]
+
+^<<v19-18-39,39>>^ Tu me armaste fortemente para a batalha; ajoelhaste meus inimigos diante de mim.
+
+[[v19-18-40]]
+
+^<<v19-18-40,40>>^ Puseste o pescoço deles sob meus pés; destruí todos que me odiavam.
+
+[[v19-18-41]]
+
+^<<v19-18-41,41>>^ Pediram ajuda, mas ninguém os socorreu; clamaram ao SENHOR, mas ele não respondeu.
+
+[[v19-18-42]]
+
+^<<v19-18-42,42>>^ Eu os moí tão fino como o pó da terra; eu os lancei fora como a lama das ruas.
+
+[[v19-18-43]]
+
+^<<v19-18-43,43>>^ Tu me livraste de meus acusadores e me puseste como governante das nações; povos que eu não conhecia agora me servem.
+
+[[v19-18-44]]
+
+^<<v19-18-44,44>>^ Rendem-se assim que ouvem sobre meus feitos; nações estrangeiras se encolhem diante de mim.
+
+[[v19-18-45]]
+
+^<<v19-18-45,45>>^ Todos eles perdem a coragem e, tremendo, saem de suas fortalezas.
+
+[[v19-18-46]]
+
+^<<v19-18-46,46>>^ O SENHOR vive! Louvada seja minha Rocha! Exaltado seja o Deus de minha salvação!
+
+[[v19-18-47]]
+
+^<<v19-18-47,47>>^ Ele é o Deus que se vinga dos que me fazem o mal; sujeita as nações ao meu poder
+
+[[v19-18-48]]
+
+^<<v19-18-48,48>>^ e me livra de meus adversários. Tu me manténs em segurança, fora do alcance de meus inimigos; de homens violentos me livras.
+
+[[v19-18-49]]
+
+^<<v19-18-49,49>>^ Por isso, ó SENHOR, te louvarei entre as nações; sim, cantarei louvores ao teu nome.
+
+[[v19-18-50]]
+
+^<<v19-18-50,50>>^ Concedes grandes vitórias ao teu rei e mostras amor por teu ungido, por Davi e todos os seus descendentes, para sempre!
+
+'''
+
+xref:019-salmos/019-salmos-017.adoc#v19-17-0[&#60; Capítulo Anterior] | <<v19-18-0,Topo>> | xref:019-salmos/019-salmos-019.adoc#v19-19-0[Próximo Capítulo &#62;]

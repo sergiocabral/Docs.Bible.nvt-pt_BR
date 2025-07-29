@@ -1,0 +1,189 @@
+include::./index.adoc[]
+
+[[v6-21-0]]
+=== Josué, 21
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v6-21-1]]
+
+^<<v6-21-1,1>>^ Os líderes da tribo de Levi foram falar com o sacerdote Eleazar, com Josué, filho de Num, e com os líderes das outras tribos de Israel.
+
+[[v6-21-2]]
+
+^<<v6-21-2,2>>^ Encontraram-se com eles em Siló, na terra de Canaã, e disseram: "O SENHOR ordenou por meio de Moisés que nos desse cidades para morarmos, além de pastagens para nossos animais".
+
+[[v6-21-3]]
+
+^<<v6-21-3,3>>^ Então, por ordem do SENHOR, os israelitas deram aos levitas, de sua própria herança, as seguintes cidades com suas pastagens:
+
+[[v6-21-4]]
+
+^<<v6-21-4,4>>^ Os descendentes de Arão, membros do clã coatita da tribo de Levi, receberam por sorteio treze cidades que antes haviam sido designadas às tribos de Judá, Simeão e Benjamim.
+
+[[v6-21-5]]
+
+^<<v6-21-5,5>>^ As outras famílias do clã coatita receberam por sorteio dez cidades das tribos de Efraim, Dã e da meia tribo de Manassés.
+
+[[v6-21-6]]
+
+^<<v6-21-6,6>>^ O clã de Gérson recebeu por sorteio treze cidades das tribos de Issacar, Aser, Naftali e da meia tribo de Manassés estabelecida em Basã.
+
+[[v6-21-7]]
+
+^<<v6-21-7,7>>^ O clã de Merari recebeu por sorteio doze cidades das tribos de Rúben, Gade e Zebulom.
+
+[[v6-21-8]]
+
+^<<v6-21-8,8>>^ Assim, os israelitas obedeceram à ordem do SENHOR a Moisés e, por sorteio, designaram aos levitas essas cidades com suas pastagens.
+
+[[v6-21-9]]
+
+^<<v6-21-9,9>>^ Estas foram as cidades das tribos de Judá e Simeão que os israelitas entregaram
+
+[[v6-21-10]]
+
+^<<v6-21-10,10>>^ aos descendentes de Arão, membros do clã coatita da tribo de Levi, os primeiros a serem sorteados:
+
+[[v6-21-11]]
+
+^<<v6-21-11,11>>^ Quiriate-Arba (isto é, Hebrom), na região montanhosa de Judá, com as pastagens ao redor. (Arba era antepassado de Enaque.)
+
+[[v6-21-12]]
+
+^<<v6-21-12,12>>^ Mas os campos com os povoados ao redor foram entregues a Calebe, filho de Jefoné, como sua propriedade.
+
+[[v6-21-13]]
+
+^<<v6-21-13,13>>^ Estas foram as cidades com suas pastagens que os descendentes do sacerdote Arão receberam: Hebrom (a cidade de refúgio para o homicida involuntário), Libna,
+
+[[v6-21-14]]
+
+^<<v6-21-14,14>>^ Jatir, Estemoa,
+
+[[v6-21-15]]
+
+^<<v6-21-15,15>>^ Holom, Debir,
+
+[[v6-21-16]]
+
+^<<v6-21-16,16>>^ Aim, Jutá e Bete-Semes; foram nove cidades dessas duas tribos.
+
+[[v6-21-17]]
+
+^<<v6-21-17,17>>^ Da tribo de Benjamim os sacerdotes receberam estas cidades com suas pastagens: Gibeom, Geba,
+
+[[v6-21-18]]
+
+^<<v6-21-18,18>>^ Anatote e Almom; foram quatro cidades.
+
+[[v6-21-19]]
+
+^<<v6-21-19,19>>^ Ao todo, portanto, os sacerdotes, descendentes de Arão, receberam treze cidades com suas pastagens.
+
+[[v6-21-20]]
+
+^<<v6-21-20,20>>^ Os outros levitas do clã coatita receberam por sorteio da tribo de Efraim estas cidades com suas pastagens:
+
+[[v6-21-21]]
+
+^<<v6-21-21,21>>^ Siquém, na região montanhosa de Efraim (uma cidade de refúgio para o homicida involuntário), Gezer,
+
+[[v6-21-22]]
+
+^<<v6-21-22,22>>^ Quibzaim e Bete-Horom; foram quatro cidades.
+
+[[v6-21-23]]
+
+^<<v6-21-23,23>>^ Estas foram as cidades com suas pastagens, entregues aos sacerdotes pela tribo de Dã: Elteque, Gibetom,
+
+[[v6-21-24]]
+
+^<<v6-21-24,24>>^ Aijalom e Gate-Rimom; foram quatro cidades.
+
+[[v6-21-25]]
+
+^<<v6-21-25,25>>^ Da meia tribo de Manassés os sacerdotes receberam estas cidades com suas pastagens: Taanaque e Gate-Rimom; foram duas cidades.
+
+[[v6-21-26]]
+
+^<<v6-21-26,26>>^ Ao todo, portanto, foram entregues aos outros clãs coatitas dez cidades com suas pastagens.
+
+[[v6-21-27]]
+
+^<<v6-21-27,27>>^ Os descendentes de Gérson, outro clã da tribo de Levi, receberam da meia tribo de Manassés estas cidades com suas pastagens: Golã, em Basã (uma cidade de refúgio para o homicida involuntário), e Beesterá; foram duas cidades.
+
+[[v6-21-28]]
+
+^<<v6-21-28,28>>^ Da tribo de Issacar receberam estas cidades com suas pastagens: Quisiom, Daberate,
+
+[[v6-21-29]]
+
+^<<v6-21-29,29>>^ Jarmute e En-Ganim; foram quatro cidades.
+
+[[v6-21-30]]
+
+^<<v6-21-30,30>>^ Da tribo de Aser receberam estas cidades, com suas pastagens: Misal, Abdom,
+
+[[v6-21-31]]
+
+^<<v6-21-31,31>>^ Helcate e Reobe; foram quatro cidades.
+
+[[v6-21-32]]
+
+^<<v6-21-32,32>>^ Da tribo de Naftali receberam estas cidades, com suas pastagens: Quedes, na Galileia (a cidade de refúgio para o homicida involuntário), Hamote-Dor e Cartã; foram três cidades.
+
+[[v6-21-33]]
+
+^<<v6-21-33,33>>^ Ao todo, portanto, o clã de Gérson recebeu treze cidades, com suas pastagens.
+
+[[v6-21-34]]
+
+^<<v6-21-34,34>>^ Os levitas restantes, o clã de Merari, receberam da tribo de Zebulom estas cidades, com suas pastagens: Jocneão, Cartá,
+
+[[v6-21-35]]
+
+^<<v6-21-35,35>>^ Dimna e Naalal; foram quatro cidades.
+
+[[v6-21-36]]
+
+^<<v6-21-36,36>>^ Da tribo de Rúben receberam estas cidades com suas pastagens: Bezer, Jaza,
+
+[[v6-21-37]]
+
+^<<v6-21-37,37>>^ Quedemote e Mefaate; foram quatro cidades.
+
+[[v6-21-38]]
+
+^<<v6-21-38,38>>^ Da tribo de Gade receberam estas cidades com suas pastagens: Ramote, em Gileade (a cidade de refúgio para o homicida involuntário), Maanaim,
+
+[[v6-21-39]]
+
+^<<v6-21-39,39>>^ Hesbom e Jazar.
+
+[[v6-21-40]]
+
+^<<v6-21-40,40>>^ Ao todo, portanto, o clã de Merari recebeu doze cidades.
+
+[[v6-21-41]]
+
+^<<v6-21-41,41>>^ No total, foram entregues aos levitas dentro do território israelita 48 cidades com suas pastagens.
+
+[[v6-21-42]]
+
+^<<v6-21-42,42>>^ Cada uma dessas cidades tinha pastagens ao seu redor.
+
+[[v6-21-43]]
+
+^<<v6-21-43,43>>^ Assim, o SENHOR deu a Israel toda a terra que havia jurado dar a seus antepassados, e eles tomaram posse dela e nela se estabeleceram.
+
+[[v6-21-44]]
+
+^<<v6-21-44,44>>^ O SENHOR lhes deu descanso de todos os lados, como havia prometido solenemente a seus antepassados. Nenhum de seus inimigos resistiu a eles, pois o SENHOR os ajudou a conquistar todos os seus adversários.
+
+[[v6-21-45]]
+
+^<<v6-21-45,45>>^ Nenhuma das boas promessas que o SENHOR fez à família de Israel ficou sem se cumprir; tudo que ele tinha dito se realizou.
+
+'''
+
+xref:006-josue/006-josue-020.adoc#v6-20-0[&#60; Capítulo Anterior] | <<v6-21-0,Topo>> | xref:006-josue/006-josue-022.adoc#v6-22-0[Próximo Capítulo &#62;]

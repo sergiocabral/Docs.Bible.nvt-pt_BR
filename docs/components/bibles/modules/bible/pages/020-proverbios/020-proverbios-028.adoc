@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v20-28-0]]
+=== Provérbios, 28
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v20-28-1]]
+
+^<<v20-28-1,1>>^ Os perversos fogem mesmo quando ninguém os persegue, mas o justo é valente como o leão.
+
+[[v20-28-2]]
+
+^<<v20-28-2,2>>^ A corrupção moral de uma nação faz cair seu governo, mas o líder sábio e prudente traz estabilidade.
+
+[[v20-28-3]]
+
+^<<v20-28-3,3>>^ O pobre que oprime os pobres é como a chuva torrencial que destrói a plantação.
+
+[[v20-28-4]]
+
+^<<v20-28-4,4>>^ Quem despreza a lei exalta os perversos; quem obedece à lei luta contra eles.
+
+[[v20-28-5]]
+
+^<<v20-28-5,5>>^ Os que praticam o mal não compreendem a justiça, mas os que buscam o SENHOR a entendem plenamente.
+
+[[v20-28-6]]
+
+^<<v20-28-6,6>>^ É melhor ser pobre e honesto que ser rico e desonesto.
+
+[[v20-28-7]]
+
+^<<v20-28-7,7>>^ O filho que obedece à lei demonstra prudência; aquele que anda com libertinos envergonha seu pai.
+
+[[v20-28-8]]
+
+^<<v20-28-8,8>>^ O lucro obtido da cobrança de juros altos terminará no bolso de alguém que trata os pobres com bondade.
+
+[[v20-28-9]]
+
+^<<v20-28-9,9>>^ As orações de quem se recusa a ouvir a lei são detestáveis para Deus.
+
+[[v20-28-10]]
+
+^<<v20-28-10,10>>^ Quem leva os justos para o mau caminho cairá na própria armadilha, mas os íntegros herdarão o bem.
+
+[[v20-28-11]]
+
+^<<v20-28-11,11>>^ O rico pode se considerar sábio, mas não engana o pobre que tem discernimento.
+
+[[v20-28-12]]
+
+^<<v20-28-12,12>>^ Quando os justos são bem-sucedidos, todos se alegram; quando os perversos assumem o poder, as pessoas se escondem.
+
+[[v20-28-13]]
+
+^<<v20-28-13,13>>^ Quem oculta seus pecados não prospera; quem os confessa e os abandona recebe misericórdia.
+
+[[v20-28-14]]
+
+^<<v20-28-14,14>>^ Quem teme fazer o mal é feliz, mas quem endurece o coração cai em desgraça.
+
+[[v20-28-15]]
+
+^<<v20-28-15,15>>^ O governante perverso é tão perigoso para os pobres quanto o leão que ruge ou o urso que ataca.
+
+[[v20-28-16]]
+
+^<<v20-28-16,16>>^ O governante que não tem entendimento oprime seu povo, mas o que odeia a corrupção tem vida longa.
+
+[[v20-28-17]]
+
+^<<v20-28-17,17>>^ A consciência atormentada do assassino o levará à sepultura; ninguém tente detê-lo.
+
+[[v20-28-18]]
+
+^<<v20-28-18,18>>^ O íntegro será salvo do perigo, mas o perverso será destruído repentinamente.
+
+[[v20-28-19]]
+
+^<<v20-28-19,19>>^ Quem trabalha com dedicação tem fartura de alimento, mas quem corre atrás de fantasias acaba na miséria.
+
+[[v20-28-20]]
+
+^<<v20-28-20,20>>^ A pessoa fiel obterá grande recompensa, mas o que deseja enriquecer depressa se meterá em apuros.
+
+[[v20-28-21]]
+
+^<<v20-28-21,21>>^ Nunca é bom agir com parcialidade, mas há quem faça o mal até por um pedaço de pão.
+
+[[v20-28-22]]
+
+^<<v20-28-22,22>>^ O ganancioso tenta enriquecer depressa, mas não percebe que caminha para a pobreza.
+
+[[v20-28-23]]
+
+^<<v20-28-23,23>>^ No fim, as pessoas apreciam a crítica honesta muito mais que a bajulação.
+
+[[v20-28-24]]
+
+^<<v20-28-24,24>>^ Quem rouba de seu pai e de sua mãe e diz: "Que mal há nisso?", não é melhor que o assassino.
+
+[[v20-28-25]]
+
+^<<v20-28-25,25>>^ A ganância provoca brigas; a confiança no SENHOR conduz à prosperidade.
+
+[[v20-28-26]]
+
+^<<v20-28-26,26>>^ Quem confia no próprio entendimento é tolo; quem anda com sabedoria está seguro.
+
+[[v20-28-27]]
+
+^<<v20-28-27,27>>^ Quem ajuda os pobres não passará necessidade, mas quem fecha os olhos para a pobreza será amaldiçoado.
+
+[[v20-28-28]]
+
+^<<v20-28-28,28>>^ Quando os perversos assumem o poder, as pessoas se escondem; quando eles são destruídos, os justos prosperam.
+
+'''
+
+xref:020-proverbios/020-proverbios-027.adoc#v20-27-0[&#60; Capítulo Anterior] | <<v20-28-0,Topo>> | xref:020-proverbios/020-proverbios-029.adoc#v20-29-0[Próximo Capítulo &#62;]

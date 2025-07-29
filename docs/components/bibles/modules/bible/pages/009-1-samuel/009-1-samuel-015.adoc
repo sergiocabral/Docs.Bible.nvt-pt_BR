@@ -1,0 +1,149 @@
+include::./index.adoc[]
+
+[[v9-15-0]]
+=== 1 Samuel, 15
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v9-15-1]]
+
+^<<v9-15-1,1>>^ Certo dia, Samuel disse a Saul: "Foi o SENHOR que me enviou para ungi-lo rei de seu povo, Israel. Agora ouça esta mensagem do SENHOR!
+
+[[v9-15-2]]
+
+^<<v9-15-2,2>>^ Assim diz o SENHOR dos Exércitos: Resolvi acertar as contas com a nação de Amaleque por ter se colocado contra Israel quando o povo saía do Egito.
+
+[[v9-15-3]]
+
+^<<v9-15-3,3>>^ Agora vá e destrua completamente a nação amalequita: homens, mulheres, crianças, recém-nascidos, gado, ovelhas, camelos e jumentos".
+
+[[v9-15-4]]
+
+^<<v9-15-4,4>>^ Então Saul reuniu seu exército em Telaim. Havia duzentos mil soldados de Israel e dez mil homens de Judá.
+
+[[v9-15-5]]
+
+^<<v9-15-5,5>>^ Em seguida, Saul e o exército foram à cidade dos amalequitas e armaram uma emboscada no vale.
+
+[[v9-15-6]]
+
+^<<v9-15-6,6>>^ Saul mandou este aviso aos queneus: "Afastem-se de onde vivem os amalequitas, para que não morram com eles, pois vocês demonstraram bondade a todos os israelitas quando eles saíram do Egito". Então os queneus saíram do meio dos amalequitas.
+
+[[v9-15-7]]
+
+^<<v9-15-7,7>>^ Saul atacou e derrotou os amalequitas desde Havilá até Sur, a leste do Egito.
+
+[[v9-15-8]]
+
+^<<v9-15-8,8>>^ Capturou Agague, o rei amalequita, e destruiu completamente todo o povo.
+
+[[v9-15-9]]
+
+^<<v9-15-9,9>>^ Saul e seus homens pouparam a vida de Agague, bem como o melhor das ovelhas, do gado, dos bezerros gordos e dos cordeiros. Destruíram apenas o que não tinha valor ou que era de qualidade inferior.
+
+[[v9-15-10]]
+
+^<<v9-15-10,10>>^ Então o SENHOR disse a Samuel:
+
+[[v9-15-11]]
+
+^<<v9-15-11,11>>^ "Arrependo-me de ter colocado Saul como rei, pois ele se afastou de mim e se recusou a obedecer às minhas ordens". Samuel ficou tão frustrado ao ouvir essas palavras que clamou ao SENHOR a noite toda.
+
+[[v9-15-12]]
+
+^<<v9-15-12,12>>^ Na manhã seguinte, bem cedo, Samuel foi procurar Saul. Alguém lhe disse: "Saul foi para a região do Carmelo, onde levantou um monumento para si próprio; depois, seguiu para Gilgal".
+
+[[v9-15-13]]
+
+^<<v9-15-13,13>>^ Quando Samuel finalmente o encontrou, Saul o cumprimentou com alegria: "Que o SENHOR o abençoe!", disse Saul. "Cumpri a ordem do SENHOR!"
+
+[[v9-15-14]]
+
+^<<v9-15-14,14>>^ Samuel perguntou: "Então o que é esse balido de ovelhas e esse mugido de bois que estou ouvindo?"
+
+[[v9-15-15]]
+
+^<<v9-15-15,15>>^ Saul respondeu: "É verdade que os soldados pouparam o melhor das ovelhas e dos bois que pertenciam aos amalequitas. Mas eles vão sacrificá-los ao SENHOR, seu Deus. Quanto ao resto, destruímos tudo".
+
+[[v9-15-16]]
+
+^<<v9-15-16,16>>^ Então Samuel disse a Saul: "Basta! Ouça o que o SENHOR me disse na noite passada". "O que foi?", perguntou Saul.
+
+[[v9-15-17]]
+
+^<<v9-15-17,17>>^ Samuel respondeu: "Embora a seus próprios olhos você se considerasse insignificante, não se tornou o líder das tribos de Israel? Sim, o SENHOR o ungiu rei sobre o povo!
+
+[[v9-15-18]]
+
+^<<v9-15-18,18>>^ Então o SENHOR o enviou numa missão e disse: ‘Vá e destrua completamente aqueles pecadores, os amalequitas. Lute contra eles até exterminá-los’.
+
+[[v9-15-19]]
+
+^<<v9-15-19,19>>^ Por que você não obedeceu ao SENHOR? Por que tomou apressadamente os despojos e fez o que era mau aos olhos do SENHOR?".
+
+[[v9-15-20]]
+
+^<<v9-15-20,20>>^ "Mas eu obedeci ao SENHOR!", insistiu Saul. "Cumpri a missão de que ele me encarregou. Trouxe o rei Agague, mas destruí todos os outros amalequitas.
+
+[[v9-15-21]]
+
+^<<v9-15-21,21>>^ Então meus soldados trouxeram o melhor das ovelhas e dos bois, bem como o melhor dos despojos, a fim de sacrificá-los ao SENHOR, seu Deus, em Gilgal."
+
+[[v9-15-22]]
+
+^<<v9-15-22,22>>^ Samuel respondeu: "O que agrada mais ao SENHOR: holocaustos e sacrifícios ou obediência à voz dele? Ouça! A obediência é melhor que o sacrifício, e a submissão é melhor que ofertas de gordura de carneiros.
+
+[[v9-15-23]]
+
+^<<v9-15-23,23>>^ A rebeldia é um pecado tão grave quanto a feitiçaria, e persistir no erro é um mal tão grave quanto adorar ídolos. Assim como você rejeitou a ordem do SENHOR, ele o rejeitou como rei".
+
+[[v9-15-24]]
+
+^<<v9-15-24,24>>^ Então Saul confessou: "Sim, pequei! Desobedeci às suas instruções e à ordem do SENHOR, pois tive medo do povo e fiz o que eles exigiram.
+
+[[v9-15-25]]
+
+^<<v9-15-25,25>>^ Agora, imploro que perdoe meu pecado e volte comigo, para que eu possa adorar o SENHOR!".
+
+[[v9-15-26]]
+
+^<<v9-15-26,26>>^ Samuel, porém, respondeu: "Não voltarei com você! Uma vez que você rejeitou a ordem do SENHOR, ele o rejeitou como rei de Israel".
+
+[[v9-15-27]]
+
+^<<v9-15-27,27>>^ Quando Samuel se virou para ir embora, Saul tentou detê-lo segurando a barra de seu manto, que se rasgou.
+
+[[v9-15-28]]
+
+^<<v9-15-28,28>>^ Então Samuel lhe disse: "Hoje o SENHOR rasgou de você o reino de Israel e o entregou a outro, alguém melhor que você.
+
+[[v9-15-29]]
+
+^<<v9-15-29,29>>^ E aquele que é a Glória de Israel não mente nem se arrepende, pois não é ser humano para se arrepender!".
+
+[[v9-15-30]]
+
+^<<v9-15-30,30>>^ Saul implorou novamente: "Sei que pequei! Mas, por favor, pelo menos honre-me diante das autoridades de meu povo e diante de Israel ao voltar comigo, para que eu possa adorar o SENHOR, seu Deus!".
+
+[[v9-15-31]]
+
+^<<v9-15-31,31>>^ Por fim, Samuel concordou e voltou com ele, e Saul adorou o SENHOR.
+
+[[v9-15-32]]
+
+^<<v9-15-32,32>>^ Então Samuel disse: "Traga-me Agague, rei dos amalequitas". Agague veio cheio de esperança, pois pensou: "Com certeza a ira deles já passou, e eu fui poupado!".
+
+[[v9-15-33]]
+
+^<<v9-15-33,33>>^ Mas Samuel disse: "Assim como sua espada matou os filhos de muitas mães, agora sua mãe ficará sem o filho". E Samuel cortou Agague em pedaços diante do SENHOR em Gilgal.
+
+[[v9-15-34]]
+
+^<<v9-15-34,34>>^ Depois, Samuel foi para Ramá, e Saul voltou para casa em Gibeá, sua cidade.
+
+[[v9-15-35]]
+
+^<<v9-15-35,35>>^ Até o dia em que morreu, Samuel não voltou a ver Saul, embora sempre lamentasse o que aconteceu com ele. E o SENHOR se arrependeu de ter estabelecido Saul como rei de Israel.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-014.adoc#v9-14-0[&#60; Capítulo Anterior] | <<v9-15-0,Topo>> | xref:009-1-samuel/009-1-samuel-016.adoc#v9-16-0[Próximo Capítulo &#62;]

@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v18-35-0]]
+=== Jó, 35
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v18-35-1]]
+
+^<<v18-35-1,1>>^ Então Eliú disse:
+
+[[v18-35-2]]
+
+^<<v18-35-2,2>>^ "Você acha certo afirmar: ‘Sou justo diante de Deus’?
+
+[[v18-35-3]]
+
+^<<v18-35-3,3>>^ Pois você também pergunta: ‘O que eu ganho com isso? Que vantagem há em não pecar?’.
+
+[[v18-35-4]]
+
+^<<v18-35-4,4>>^ "Responderei a você e a todos os seus amigos.
+
+[[v18-35-5]]
+
+^<<v18-35-5,5>>^ Olhe para o céu, e veja as nuvens lá no alto, muito acima de você.
+
+[[v18-35-6]]
+
+^<<v18-35-6,6>>^ Se você pecar, em que isso afetará Deus? Mesmo que peque repetidamente, que efeito terá sobre ele?
+
+[[v18-35-7]]
+
+^<<v18-35-7,7>>^ Se você for justo, isso será um grande presente para ele? O que você tem para lhe dar?
+
+[[v18-35-8]]
+
+^<<v18-35-8,8>>^ Seus pecados só afetam gente como você; suas boas ações só afetam outros humanos.
+
+[[v18-35-9]]
+
+^<<v18-35-9,9>>^ "As pessoas clamam por socorro quando oprimidas; gritam pedindo ajuda sob a força dos poderosos.
+
+[[v18-35-10]]
+
+^<<v18-35-10,10>>^ E, no entanto, não perguntam: ‘Onde está Deus, meu Criador, aquele que me dá canções durante a noite?’
+
+[[v18-35-11]]
+
+^<<v18-35-11,11>>^ Onde está aquele que nos torna mais inteligentes que os animais e mais sábios que as aves do céu?’.
+
+[[v18-35-12]]
+
+^<<v18-35-12,12>>^ Quando clamam, Deus não responde, por causa do orgulho dos maus.
+
+[[v18-35-13]]
+
+^<<v18-35-13,13>>^ É errado, porém, dizer que Deus não ouve e afirmar que o Todo-poderoso não se importa.
+
+[[v18-35-14]]
+
+^<<v18-35-14,14>>^ Você diz que não vê Deus, mas espere, e ele lhe fará justiça.
+
+[[v18-35-15]]
+
+^<<v18-35-15,15>>^ Você diz que Deus, em sua ira, não castiga os pecadores, e, portanto, não faz muito caso da perversidade.
+
+[[v18-35-16]]
+
+^<<v18-35-16,16>>^ Você não sabe o que diz, Jó; fala como um tolo".
+
+'''
+
+xref:018-jo/018-jo-034.adoc#v18-34-0[&#60; Capítulo Anterior] | <<v18-35-0,Topo>> | xref:018-jo/018-jo-036.adoc#v18-36-0[Próximo Capítulo &#62;]

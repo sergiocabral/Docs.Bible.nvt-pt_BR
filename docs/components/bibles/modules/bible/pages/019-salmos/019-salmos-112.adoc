@@ -1,0 +1,49 @@
+include::./index.adoc[]
+
+[[v19-112-0]]
+=== Salmos, 112
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-112-1]]
+
+^<<v19-112-1,1>>^ Louvado seja o SENHOR! Como é feliz aquele que teme o Senhor e tem prazer em obedecer a seus mandamentos!
+
+[[v19-112-2]]
+
+^<<v19-112-2,2>>^ Seus filhos serão bem-sucedidos em toda a terra; uma geração inteira de justos será abençoada.
+
+[[v19-112-3]]
+
+^<<v19-112-3,3>>^ Em sua casa, haverá riqueza e prosperidade, e suas boas ações permanecerão para sempre.
+
+[[v19-112-4]]
+
+^<<v19-112-4,4>>^ A luz brilha na escuridão para o justo; ele é compassivo, misericordioso e íntegro.
+
+[[v19-112-5]]
+
+^<<v19-112-5,5>>^ Feliz é o que empresta com generosidade e conduz seus negócios honestamente.
+
+[[v19-112-6]]
+
+^<<v19-112-6,6>>^ Ele não será abalado; sua lembrança durará por muito tempo.
+
+[[v19-112-7]]
+
+^<<v19-112-7,7>>^ Não teme más notícias; confia plenamente no cuidado do SENHOR.
+
+[[v19-112-8]]
+
+^<<v19-112-8,8>>^ É confiante e destemido; olha com triunfo para seus inimigos.
+
+[[v19-112-9]]
+
+^<<v19-112-9,9>>^ Compartilha generosamente com os pobres, e seus atos de justiça serão lembrados para sempre; ele terá influência e honra.
+
+[[v19-112-10]]
+
+^<<v19-112-10,10>>^ O perverso verá isso e ficará furioso, rangerá os dentes de raiva e desaparecerá; seus desejos serão frustrados.
+
+'''
+
+xref:019-salmos/019-salmos-111.adoc#v19-111-0[&#60; Capítulo Anterior] | <<v19-112-0,Topo>> | xref:019-salmos/019-salmos-113.adoc#v19-113-0[Próximo Capítulo &#62;]

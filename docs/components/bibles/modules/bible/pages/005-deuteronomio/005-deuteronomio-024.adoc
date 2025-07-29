@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v5-24-0]]
+=== Deuteronômio, 24
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v5-24-1]]
+
+^<<v5-24-1,1>>^ "Se um homem se casar e a esposa não for do seu agrado porque ele descobriu alguma coisa vergonhosa da parte dela, ele escreverá um certificado de divórcio e o dará a ela, mandando-a embora de sua casa.
+
+[[v5-24-2]]
+
+^<<v5-24-2,2>>^ Depois de partir, ela poderá casar-se com outro homem.
+
+[[v5-24-3]]
+
+^<<v5-24-3,3>>^ E, se este também a rejeitar e escrever um certificado de divórcio e o der a ela, mandando-a embora de sua casa, ou até mesmo se ele morrer,
+
+[[v5-24-4]]
+
+^<<v5-24-4,4>>^ o primeiro homem que a mandou embora não poderá casar-se de novo com ela, pois ela foi contaminada. Isso seria detestável para o SENHOR. Não tragam culpa sobre a terra que o SENHOR, seu Deus, lhes dá como herança.
+
+[[v5-24-5]]
+
+^<<v5-24-5,5>>^ "O homem recém-casado não será recrutado para o serviço militar nem receberá nenhuma outra responsabilidade oficial. Estará livre para passar um ano em casa, proporcionando alegria à mulher com quem se casou.
+
+[[v5-24-6]]
+
+^<<v5-24-6,6>>^ "Não tomem um conjunto de pedras de moinho, nem mesmo só a pedra de cima, como garantia de uma dívida, pois o dono precisa das pedras para obter seu sustento.
+
+[[v5-24-7]]
+
+^<<v5-24-7,7>>^ "Se alguém sequestrar um irmão israelita e o tratar como escravo ou o vender, o sequestrador terá de morrer. Desse modo, vocês eliminarão o mal do seu meio.
+
+[[v5-24-8]]
+
+^<<v5-24-8,8>>^ "Em todos os casos de lepra, cumpram com extremo cuidado as instruções dos sacerdotes levitas; obedeçam a todos os mandamentos que eu dei a eles.
+
+[[v5-24-9]]
+
+^<<v5-24-9,9>>^ Lembrem-se daquilo que o SENHOR, seu Deus, fez com Miriã durante sua jornada no deserto, depois que vocês saíram do Egito.
+
+[[v5-24-10]]
+
+^<<v5-24-10,10>>^ "Se um de vocês emprestar algo a seu próximo, não entre na casa dele para pegar o objeto que ele lhe oferecer como garantia.
+
+[[v5-24-11]]
+
+^<<v5-24-11,11>>^ Espere do lado de fora enquanto ele pega o objeto e o traz para você.
+
+[[v5-24-12]]
+
+^<<v5-24-12,12>>^ Se ele for pobre e lhe der o manto como garantia, não o guarde consigo durante a noite.
+
+[[v5-24-13]]
+
+^<<v5-24-13,13>>^ Devolva-lhe o manto ao pôr do sol, para que ele se aqueça durante a noite e abençoe você. O SENHOR, seu Deus, considerará isso um ato de justiça.
+
+[[v5-24-14]]
+
+^<<v5-24-14,14>>^ "Nunca se aproveitem de trabalhadores pobres e necessitados, sejam irmãos israelitas ou estrangeiros que vivem em suas cidades.
+
+[[v5-24-15]]
+
+^<<v5-24-15,15>>^ Paguem o salário deles todos os dias, antes do pôr do sol, pois eles são pobres e contam com isso para viver. Do contrário, quando clamarem contra vocês ao SENHOR, vocês serão culpados de pecado diante dele.
+
+[[v5-24-16]]
+
+^<<v5-24-16,16>>^ "Os pais não serão executados por causa do pecado dos filhos, nem os filhos por causa do pecado dos pais. Aqueles que merecem morrer deverão ser executados por causa de seus próprios crimes.
+
+[[v5-24-17]]
+
+^<<v5-24-17,17>>^ "Sejam justos com os estrangeiros e os órfãos que vivem entre vocês, e jamais aceitem a roupa de uma viúva como garantia por sua dívida.
+
+[[v5-24-18]]
+
+^<<v5-24-18,18>>^ Lembrem-se sempre de que vocês foram escravos no Egito e de que o SENHOR, seu Deus, os libertou da escravidão. Por isso eu lhes dou estas ordens.
+
+[[v5-24-19]]
+
+^<<v5-24-19,19>>^ "Quando estiverem fazendo a colheita de suas lavouras e esquecerem um feixe de cereais no campo, não voltem para buscá-lo. Deixem-no para os estrangeiros, para os órfãos e para as viúvas. Então o SENHOR, seu Deus, os abençoará em tudo que fizerem.
+
+[[v5-24-20]]
+
+^<<v5-24-20,20>>^ Quando sacudirem as azeitonas de suas oliveiras, não passem pelos mesmos ramos duas vezes. Deixem as azeitonas restantes para os estrangeiros, os órfãos e as viúvas.
+
+[[v5-24-21]]
+
+^<<v5-24-21,21>>^ Quando colherem uvas em seus vinhedos, não passem novamente pelas videiras. Deixem as uvas restantes para os estrangeiros, os órfãos e as viúvas.
+
+[[v5-24-22]]
+
+^<<v5-24-22,22>>^ Lembrem-se de que vocês foram escravos na terra do Egito. Por isso eu lhes dou estas ordens."
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-023.adoc#v5-23-0[&#60; Capítulo Anterior] | <<v5-24-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-025.adoc#v5-25-0[Próximo Capítulo &#62;]

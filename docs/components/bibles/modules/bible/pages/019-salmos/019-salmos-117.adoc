@@ -1,0 +1,17 @@
+include::./index.adoc[]
+
+[[v19-117-0]]
+=== Salmos, 117
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-117-1]]
+
+^<<v19-117-1,1>>^ Louvem o SENHOR todas as nações; louvem-no todos os povos.
+
+[[v19-117-2]]
+
+^<<v19-117-2,2>>^ Pois grande é o seu amor por nós; a fidelidade do SENHOR dura para sempre. Louvado seja o SENHOR!
+
+'''
+
+xref:019-salmos/019-salmos-116.adoc#v19-116-0[&#60; Capítulo Anterior] | <<v19-117-0,Topo>> | xref:019-salmos/019-salmos-118.adoc#v19-118-0[Próximo Capítulo &#62;]

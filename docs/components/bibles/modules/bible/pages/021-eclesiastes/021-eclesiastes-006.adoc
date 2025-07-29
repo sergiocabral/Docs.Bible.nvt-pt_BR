@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v21-6-0]]
+=== Eclesiastes, 6
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v21-6-1]]
+
+^<<v21-6-1,1>>^ Vi debaixo do sol outra grande tragédia que pesa sobre a humanidade.
+
+[[v21-6-2]]
+
+^<<v21-6-2,2>>^ Deus concede a alguns muita riqueza, honra e tudo que desejam, mas não lhes dá a oportunidade de usufruir disso. Eles morrem e outro acaba usufruindo de todas essas coisas! Isso também não faz sentido; é uma verdadeira desgraça.
+
+[[v21-6-3]]
+
+^<<v21-6-3,3>>^ Um homem pode ter cem filhos e viver muitos anos. Se, porém, não encontrar satisfação alguma na vida e não tiver nem mesmo um enterro digno, teria sido melhor que houvesse nascido morto.
+
+[[v21-6-4]]
+
+^<<v21-6-4,4>>^ Pois assim seu nascimento teria sido inútil, e ele teria desaparecido na escuridão. Não teria recebido sequer um nome,
+
+[[v21-6-5]]
+
+^<<v21-6-5,5>>^ e jamais teria visto o sol, nem saberia de sua existência. E, no entanto, teria desfrutado mais paz que se houvesse crescido e se tornado um homem infeliz.
+
+[[v21-6-6]]
+
+^<<v21-6-6,6>>^ Mesmo que vivesse dois mil anos, não acharia contentamento. E, visto que deve morrer como todos os outros, de que adiantaria?
+
+[[v21-6-7]]
+
+^<<v21-6-7,7>>^ Todos passam a vida se esforçando para ter o que comer, mas nunca parece suficiente.
+
+[[v21-6-8]]
+
+^<<v21-6-8,8>>^ Será, então, que o sábio tem alguma vantagem sobre o tolo? O pobre ganha algo por saber como agir diante dos outros?
+
+[[v21-6-9]]
+
+^<<v21-6-9,9>>^ Aproveite o que você tem em vez de desejar o que não tem. Querer cada vez mais não faz sentido; é como correr atrás do vento.
+
+[[v21-6-10]]
+
+^<<v21-6-10,10>>^ Tudo já foi decidido; sabia-se há muito tempo o que cada pessoa seria. Portanto, não adianta discutir com Deus sobre nosso destino.
+
+[[v21-6-11]]
+
+^<<v21-6-11,11>>^ Quanto mais palavras são ditas, mais vazias elas são. Então, que diferença fazem?
+
+[[v21-6-12]]
+
+^<<v21-6-12,12>>^ Nesta vida breve e sem sentido, quem sabe como é melhor passar os dias? A vida é como a sombra. Quem sabe o que acontecerá debaixo do sol depois que tivermos partido?
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-005.adoc#v21-5-0[&#60; Capítulo Anterior] | <<v21-6-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-007.adoc#v21-7-0[Próximo Capítulo &#62;]

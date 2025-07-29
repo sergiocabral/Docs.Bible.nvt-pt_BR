@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v1-40-0]]
+=== Gênesis, 40
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v1-40-1]]
+
+^<<v1-40-1,1>>^ Algum tempo depois, o chefe dos copeiros e o chefe dos padeiros do faraó ofenderam seu senhor, o rei do Egito.
+
+[[v1-40-2]]
+
+^<<v1-40-2,2>>^ O faraó se enfureceu com os dois oficiais
+
+[[v1-40-3]]
+
+^<<v1-40-3,3>>^ e os mandou para a prisão onde José estava, no palácio do capitão da guarda.
+
+[[v1-40-4]]
+
+^<<v1-40-4,4>>^ Eles ficaram presos por um bom tempo, e o capitão da guarda os colocou sob a responsabilidade de José, para que cuidasse deles.
+
+[[v1-40-5]]
+
+^<<v1-40-5,5>>^ Certa noite, enquanto estavam presos, o copeiro e o padeiro tiveram, cada um, um sonho, e cada sonho tinha o seu significado.
+
+[[v1-40-6]]
+
+^<<v1-40-6,6>>^ Quando José os viu no dia seguinte, notou que os dois estavam perturbados
+
+[[v1-40-7]]
+
+^<<v1-40-7,7>>^ e perguntou: "Por que vocês estão preocupados?".
+
+[[v1-40-8]]
+
+^<<v1-40-8,8>>^ Eles responderam: "Esta noite, nós dois tivemos sonhos, mas ninguém sabe nos dizer o que significam". "A interpretação dos sonhos vem de Deus", disse José. "Contem-me o que sonharam."
+
+[[v1-40-9]]
+
+^<<v1-40-9,9>>^ O chefe dos copeiros foi o primeiro a relatar seu sonho a José. "Em meu sonho, vi na minha frente uma videira", disse ele.
+
+[[v1-40-10]]
+
+^<<v1-40-10,10>>^ "Havia três ramos que começaram a brotar e florescer e, em pouco tempo, produziram cachos de uvas.
+
+[[v1-40-11]]
+
+^<<v1-40-11,11>>^ Eu tinha na mão o copo do faraó. Tomei um dos cachos de uva, espremi o suco na taça e a coloquei na mão do faraó."
+
+[[v1-40-12]]
+
+^<<v1-40-12,12>>^ José disse: "Este é o significado do sonho: os três ramos representam três dias.
+
+[[v1-40-13]]
+
+^<<v1-40-13,13>>^ Dentro de três dias, o faraó o elevará de volta ao seu cargo de chefe dos copeiros.
+
+[[v1-40-14]]
+
+^<<v1-40-14,14>>^ Quando a situação estiver bem para você, peço que se lembre de mim. Fale de mim ao faraó, para que ele me tire deste lugar,
+
+[[v1-40-15]]
+
+^<<v1-40-15,15>>^ pois fui trazido à força da minha terra natal, a terra dos hebreus, e agora estou nesta prisão, onde fui lançado sem motivo justo".
+
+[[v1-40-16]]
+
+^<<v1-40-16,16>>^ Ao ouvir a interpretação favorável de José para o primeiro sonho, o chefe dos padeiros lhe disse: "Também tive um sonho. Nele, havia três cestos de pães brancos empilhados sobre a minha cabeça.
+
+[[v1-40-17]]
+
+^<<v1-40-17,17>>^ No cesto de cima, havia pães e doces de todo tipo para o faraó, mas as aves vieram e comeram do cesto que estava sobre a minha cabeça".
+
+[[v1-40-18]]
+
+^<<v1-40-18,18>>^ José lhe disse: "Este é o significado do sonho: os três cestos também representam três dias.
+
+[[v1-40-19]]
+
+^<<v1-40-19,19>>^ Dentro de três dias, o faraó pendurará sua cabeça em um poste, e as aves comerão sua carne".
+
+[[v1-40-20]]
+
+^<<v1-40-20,20>>^ Três dias depois, era o aniversário do faraó, e ele preparou um banquete para todos os seus oficiais e funcionários. Convocou o chefe dos copeiros e o chefe dos padeiros para comparecerem à festa.
+
+[[v1-40-21]]
+
+^<<v1-40-21,21>>^ Elevou o chefe dos copeiros de volta a seu cargo, para que voltasse a entregar o copo ao faraó.
+
+[[v1-40-22]]
+
+^<<v1-40-22,22>>^ Quanto ao chefe dos padeiros, mandou enforcá-lo, como José havia previsto ao interpretar o sonho dele.
+
+[[v1-40-23]]
+
+^<<v1-40-23,23>>^ O chefe dos copeiros, porém, se esqueceu completamente de José e não pensou mais nele.
+
+'''
+
+xref:001-genesis/001-genesis-039.adoc#v1-39-0[&#60; Capítulo Anterior] | <<v1-40-0,Topo>> | xref:001-genesis/001-genesis-041.adoc#v1-41-0[Próximo Capítulo &#62;]

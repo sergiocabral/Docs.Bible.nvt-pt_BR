@@ -1,0 +1,53 @@
+include::./index.adoc[]
+
+[[v22-3-0]]
+=== Cânticos, 3
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v22-3-1]]
+
+^<<v22-3-1,1>>^ Certa noite, na cama, ansiei por meu amado; ansiei por ele, mas ele não veio.
+
+[[v22-3-2]]
+
+^<<v22-3-2,2>>^ Pensei: "Vou me levantar e andar pela cidade, vou procurá-lo em todas as ruas e praças; sim, vou em busca de meu amado". Procurei por toda parte, mas não o encontrei.
+
+[[v22-3-3]]
+
+^<<v22-3-3,3>>^ Os guardas me pararam enquanto faziam a ronda, e eu lhes perguntei: "Vocês viram meu amado?".
+
+[[v22-3-4]]
+
+^<<v22-3-4,4>>^ Pouco depois de me afastar deles, encontrei meu amado! Segurei-o e abracei-o com força; levei-o à casa de minha mãe, à cama onde fui concebida.
+
+[[v22-3-5]]
+
+^<<v22-3-5,5>>^ Prometam, ó mulheres de Jerusalém, pelas gazelas e corças selvagens, que não despertarão o amor antes do tempo.
+
+[[v22-3-6]]
+
+^<<v22-3-6,6>>^ O que é isso que vem subindo do deserto, como nuvem de fumaça? De onde vem esse perfume de mirra e incenso, o aroma de todo tipo de especiaria?
+
+[[v22-3-7]]
+
+^<<v22-3-7,7>>^ Vejam, é a liteira de Salomão, cercada por sessenta homens valentes, os melhores soldados de Israel!
+
+[[v22-3-8]]
+
+^<<v22-3-8,8>>^ São todos habilidosos com a espada, guerreiros experientes. Cada um traz sua espada, pronto para defender o rei dos perigos da noite.
+
+[[v22-3-9]]
+
+^<<v22-3-9,9>>^ A liteira do rei Salomão é feita de madeira importada do Líbano.
+
+[[v22-3-10]]
+
+^<<v22-3-10,10>>^ As colunas são de prata, a cobertura é de ouro, as almofadas são de tecido púrpura. Foi enfeitada com carinho pelas mulheres de Jerusalém.
+
+[[v22-3-11]]
+
+^<<v22-3-11,11>>^ Mulheres de Sião, venham ver o rei Salomão! Ele usa a coroa que sua mãe lhe deu no dia em que ele se casou, no dia mais feliz de sua vida.
+
+'''
+
+xref:022-canticos/022-canticos-002.adoc#v22-2-0[&#60; Capítulo Anterior] | <<v22-3-0,Topo>> | xref:022-canticos/022-canticos-004.adoc#v22-4-0[Próximo Capítulo &#62;]

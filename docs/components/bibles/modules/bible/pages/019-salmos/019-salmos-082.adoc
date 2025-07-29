@@ -1,0 +1,41 @@
+include::./index.adoc[]
+
+[[v19-82-0]]
+=== Salmos, 82
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-82-1]]
+
+^<<v19-82-1,1>>^ Deus preside a assembleia dos céus; no meio dos seres celestiais, anuncia seu julgamento:
+
+[[v19-82-2]]
+
+^<<v19-82-2,2>>^ "Até quando tomarão decisões injustas que favorecem a causa dos perversos? Interlúdio
+
+[[v19-82-3]]
+
+^<<v19-82-3,3>>^ "Façam justiça ao pobre e ao órfão, defendam os direitos do oprimido e do desamparado.
+
+[[v19-82-4]]
+
+^<<v19-82-4,4>>^ Livrem o pobre e o necessitado, libertem-nos das garras dos perversos.
+
+[[v19-82-5]]
+
+^<<v19-82-5,5>>^ Esses opressores nada entendem; são completos ignorantes! Andam sem rumo na escuridão, enquanto os alicerces da terra estremecem.
+
+[[v19-82-6]]
+
+^<<v19-82-6,6>>^ Eu digo: ‘Vocês são deuses, são todos filhos do Altíssimo.
+
+[[v19-82-7]]
+
+^<<v19-82-7,7>>^ Morrerão, porém, como simples mortais e cairão como qualquer governante’".
+
+[[v19-82-8]]
+
+^<<v19-82-8,8>>^ Levanta-te, ó Deus, e julga a terra, pois todas as nações te pertencem.
+
+'''
+
+xref:019-salmos/019-salmos-081.adoc#v19-81-0[&#60; Capítulo Anterior] | <<v19-82-0,Topo>> | xref:019-salmos/019-salmos-083.adoc#v19-83-0[Próximo Capítulo &#62;]

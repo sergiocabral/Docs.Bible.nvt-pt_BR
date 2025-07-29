@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v47-1-0]]
+=== 2 Coríntios, 1
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v47-1-1]]
+
+^<<v47-1-1,1>>^ Eu, Paulo, chamado pela vontade de Deus para ser apóstolo de Cristo Jesus, escrevo esta carta, com nosso irmão Timóteo, à igreja de Deus em Corinto e a todo o seu povo santo em toda a Acaia.
+
+[[v47-1-2]]
+
+^<<v47-1-2,2>>^ Que Deus, nosso Pai, e o Senhor Jesus Cristo lhes deem graça e paz.
+
+[[v47-1-3]]
+
+^<<v47-1-3,3>>^ Louvado seja Deus, Pai de nosso Senhor Jesus Cristo, Pai misericordioso e Deus de todo encorajamento.
+
+[[v47-1-4]]
+
+^<<v47-1-4,4>>^ Ele nos encoraja em todas as nossas aflições, para que, com o encorajamento que recebemos de Deus, possamos encorajar outros quando eles passarem por aflições.
+
+[[v47-1-5]]
+
+^<<v47-1-5,5>>^ Pois, quanto mais sofrimento por Cristo suportarmos, mais encorajamento será derramado sobre nós por meio de Cristo.
+
+[[v47-1-6]]
+
+^<<v47-1-6,6>>^ Mesmo quando estamos sobrecarregados de aflições, é para o encorajamento e a salvação de vocês. Pois, quando somos encorajados, certamente encorajaremos vocês, e então vocês poderão suportar pacientemente os mesmos sofrimentos que nós.
+
+[[v47-1-7]]
+
+^<<v47-1-7,7>>^ Temos firme esperança de que, assim como vocês participam de nossos sofrimentos, também participarão de nosso encorajamento.
+
+[[v47-1-8]]
+
+^<<v47-1-8,8>>^ Irmãos, queremos que saibam das aflições pelas quais passamos na província da Ásia. Fomos esmagados e oprimidos além da nossa capacidade de suportar, e pensamos que não sobreviveríamos.
+
+[[v47-1-9]]
+
+^<<v47-1-9,9>>^ De fato, esperávamos morrer. Mas, como resultado, deixamos de confiar em nós mesmos e aprendemos a confiar somente em Deus, que ressuscita os mortos.
+
+[[v47-1-10]]
+
+^<<v47-1-10,10>>^ Ele nos livrou do perigo mortal, e nos livrará outra vez. Nele depositamos nossa esperança, e ele continuará a nos livrar.
+
+[[v47-1-11]]
+
+^<<v47-1-11,11>>^ E vocês nos têm ajudado ao orar por nós. Então muitos darão graças porque Deus, em sua bondade, respondeu a tantas orações feitas em nosso favor.
+
+[[v47-1-12]]
+
+^<<v47-1-12,12>>^ Podemos dizer com certeza e com a consciência limpa que temos vivido em santidade e sinceridade dadas por Deus. Dependemos da graça divina, e não da sabedoria humana. É dessa forma que nos temos conduzido diante do mundo e, especialmente, em relação a vocês.
+
+[[v47-1-13]]
+
+^<<v47-1-13,13>>^ Nossas cartas foram claras e objetivas, não havendo nada escrito nas entrelinhas ou que não conseguissem compreender. Espero que um dia vocês nos entendam plenamente,
+
+[[v47-1-14]]
+
+^<<v47-1-14,14>>^ mesmo que não o façam agora. Então, no dia do Senhor Jesus, poderão se orgulhar de nós como nos orgulhamos de vocês.
+
+[[v47-1-15]]
+
+^<<v47-1-15,15>>^ Porque eu estava tão certo de sua compreensão e confiança, queria abençoá-los duplamente visitando-os duas vezes,
+
+[[v47-1-16]]
+
+^<<v47-1-16,16>>^ primeiro a caminho da Macedônia e depois ao voltar de lá. Então vocês poderiam me ajudar com minha viagem para a Judeia.
+
+[[v47-1-17]]
+
+^<<v47-1-17,17>>^ Talvez vocês estejam se perguntando por que mudei de ideia. Será que faço meus planos de modo irresponsável? Será que sou como as pessoas do mundo, que dizem "sim" quando na verdade querem dizer "não"?
+
+[[v47-1-18]]
+
+^<<v47-1-18,18>>^ Tão certo como Deus é fiel, nossa palavra a vocês não oscila entre "sim" e "não".
+
+[[v47-1-19]]
+
+^<<v47-1-19,19>>^ Pois Jesus Cristo, o Filho de Deus, não oscila entre "sim" e "não". Foi a respeito dele que Silas, Timóteo e eu lhes falamos e, sendo ele o "sim" definitivo, ele sempre faz o que diz.
+
+[[v47-1-20]]
+
+^<<v47-1-20,20>>^ Pois todas as promessas de Deus se cumpriram em Cristo com um alto e claro "Sim!". E, por meio de Cristo, confirmamos isso, de modo que nosso "Amém" se eleva a Deus para sua glória.
+
+[[v47-1-21]]
+
+^<<v47-1-21,21>>^ É Deus quem nos capacita e a vocês a permanecermos firmes em Cristo. Ele nos ungiu
+
+[[v47-1-22]]
+
+^<<v47-1-22,22>>^ e nos identificou como sua propriedade ao colocar em nosso coração o selo do Espírito, a garantia de tudo que ele nos prometeu.
+
+[[v47-1-23]]
+
+^<<v47-1-23,23>>^ Agora, invoco a Deus como testemunha de que foi para poupá-los que ainda não voltei a Corinto.
+
+[[v47-1-24]]
+
+^<<v47-1-24,24>>^ Isso não significa que queremos controlar vocês, dizendo-lhes como exercer sua fé. Nosso desejo é trabalhar com vocês para que tenham alegria, pois é pela fé que permanecem firmes.
+
+'''
+
+xref:046-1-corintios/046-1-corintios-016.adoc#v46-16-0[&#60; Capítulo Anterior] | <<v47-1-0,Topo>> | xref:047-2-corintios/047-2-corintios-002.adoc#v47-2-0[Próximo Capítulo &#62;]

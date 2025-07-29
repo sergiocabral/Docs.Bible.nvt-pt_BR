@@ -1,0 +1,53 @@
+include::./index.adoc[]
+
+[[v9-29-0]]
+=== 1 Samuel, 29
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v9-29-1]]
+
+^<<v9-29-1,1>>^ As tropas dos filisteus estavam reunidas em Afeca, e os israelitas acamparam junto à fonte de Jezreel.
+
+[[v9-29-2]]
+
+^<<v9-29-2,2>>^ Enquanto os governantes filisteus iam à frente de suas tropas de centenas e de milhares, Davi e seus homens marchavam na retaguarda com o rei Aquis.
+
+[[v9-29-3]]
+
+^<<v9-29-3,3>>^ Então os comandantes filisteus perguntaram: "O que estes hebreus fazem aqui?". Aquis respondeu: "Este é Davi, servo do rei Saul, de Israel. Já faz tempo que está comigo e, desde o dia em que chegou até hoje, não encontrei nele nenhuma falta".
+
+[[v9-29-4]]
+
+^<<v9-29-4,4>>^ Mas os comandantes filisteus se iraram. "Mande-o de volta para a cidade que o senhor deu para ele!", exigiram. "Não pode ir à guerra conosco. E se ele se voltar contra nós na batalha e se tornar nosso adversário? Existe maneira melhor de ele se reconciliar com seu senhor do que entregando-lhe nossa cabeça?
+
+[[v9-29-5]]
+
+^<<v9-29-5,5>>^ Não é este o mesmo Davi a respeito de quem as mulheres de Israel cantavam em suas danças: ‘Saul matou milhares, e Davi, dezenas de milhares’?"
+
+[[v9-29-6]]
+
+^<<v9-29-6,6>>^ Então Aquis chamou Davi e lhe disse: "Tão certo como vive o SENHOR, você foi um aliado fiel. A meu ver, deveria acompanhar-me na batalha, pois, desde o dia em que chegou até hoje, nunca encontrei nenhuma falha em você. Mas os outros governantes filisteus não o aprovam.
+
+[[v9-29-7]]
+
+^<<v9-29-7,7>>^ Por favor, não os desagrade; volte para casa em paz".
+
+[[v9-29-8]]
+
+^<<v9-29-8,8>>^ "O que fiz para merecer esse tratamento?", perguntou Davi. "O que o senhor viu de errado em mim desde que comecei a servi-lo? Por que não posso lutar contra os inimigos do meu senhor, o rei?"
+
+[[v9-29-9]]
+
+^<<v9-29-9,9>>^ Aquis, porém, insistiu: "Para mim, você é tão leal quanto um anjo de Deus, mas os comandantes filisteus não querem que você os acompanhe na batalha.
+
+[[v9-29-10]]
+
+^<<v9-29-10,10>>^ Agora, levante-se bem cedo e vá embora com seus homens assim que o dia clarear".
+
+[[v9-29-11]]
+
+^<<v9-29-11,11>>^ Então Davi e seus soldados voltaram bem cedo para a terra dos filisteus, enquanto o exército filisteu prosseguiu para Jezreel.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-028.adoc#v9-28-0[&#60; Capítulo Anterior] | <<v9-29-0,Topo>> | xref:009-1-samuel/009-1-samuel-030.adoc#v9-30-0[Próximo Capítulo &#62;]

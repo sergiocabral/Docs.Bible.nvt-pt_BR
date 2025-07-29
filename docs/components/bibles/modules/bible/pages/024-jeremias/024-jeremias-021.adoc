@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v24-21-0]]
+=== Jeremias, 21
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v24-21-1]]
+
+^<<v24-21-1,1>>^ O SENHOR deu esta mensagem a Jeremias quando o rei Zedequias enviou Pasur, filho de Malquias, e o sacerdote Sofonias, filho de Maaseias, para falarem com o profeta. Suplicaram a Jeremias:
+
+[[v24-21-2]]
+
+^<<v24-21-2,2>>^ "Consulte o SENHOR por nós e peça que nos ajude. Nabucodonosor, rei da Babilônia, está atacando Judá. Quem sabe o SENHOR não fará um de seus milagres poderosos, como no passado, e obrigará Nabucodonosor a retirar seus exércitos".
+
+[[v24-21-3]]
+
+^<<v24-21-3,3>>^ Jeremias respondeu: "Voltem ao rei Zedequias e digam-lhe:
+
+[[v24-21-4]]
+
+^<<v24-21-4,4>>^ ‘Assim diz o SENHOR, o Deus de Israel: Tornarei inúteis suas armas contra o rei da Babilônia e os babilônios que os atacam do lado de fora de seus muros. Trarei seus inimigos para dentro desta cidade.
+
+[[v24-21-5]]
+
+^<<v24-21-5,5>>^ Eu mesmo lutarei contra vocês com mão forte e braço poderoso, pois é grande a minha ira. Sim, vocês me deixaram furioso!
+
+[[v24-21-6]]
+
+^<<v24-21-6,6>>^ Enviarei sobre esta cidade uma peste terrível, e tanto as pessoas como os animais morrerão.
+
+[[v24-21-7]]
+
+^<<v24-21-7,7>>^ Depois de tudo isso, diz o SENHOR, entregarei o rei Zedequias, seus servos, e todos os habitantes desta cidade que sobreviverem à doença, à guerra e à fome a Nabucodonosor, rei da Babilônia, e a seus outros inimigos. Nabucodonosor os matará sem misericórdia, nem piedade, nem compaixão’.
+
+[[v24-21-8]]
+
+^<<v24-21-8,8>>^ "Digam a todo o povo: ‘Assim diz o SENHOR: Escolham entre a vida e a morte!
+
+[[v24-21-9]]
+
+^<<v24-21-9,9>>^ Quem ficar em Jerusalém morrerá por guerra, fome ou doença, mas os que saírem e se renderem aos babilônios viverão. Sua recompensa será a vida.
+
+[[v24-21-10]]
+
+^<<v24-21-10,10>>^ Pois decidi trazer calamidade, e não o bem, sobre esta cidade, diz o SENHOR. Será entregue ao rei da Babilônia, e ele a queimará de alto a baixo’."
+
+[[v24-21-11]]
+
+^<<v24-21-11,11>>^ "Digam à família real de Judá: ‘Ouçam esta mensagem do SENHOR!
+
+[[v24-21-12]]
+
+^<<v24-21-12,12>>^ Assim diz o SENHOR à dinastia de Davi: "‘A cada manhã, façam justiça ao povo que vocês julgam; ajudem os que são explorados e livrem-nos de seus opressores. Do contrário, minha ira arderá como fogo que ninguém é capaz de apagar, por causa de todos os seus pecados.
+
+[[v24-21-13]]
+
+^<<v24-21-13,13>>^ Eu mesmo lutarei contra os habitantes de Jerusalém, essa fortaleza poderosa, contra o povo que diz: ‘Estamos seguros aqui; ninguém conseguirá entrar’.
+
+[[v24-21-14]]
+
+^<<v24-21-14,14>>^ Eu mesmo os castigarei por tudo que fizeram, diz o SENHOR. Acenderei um fogo em seus bosques, e ele queimará tudo ao redor’".
+
+'''
+
+xref:024-jeremias/024-jeremias-020.adoc#v24-20-0[&#60; Capítulo Anterior] | <<v24-21-0,Topo>> | xref:024-jeremias/024-jeremias-022.adoc#v24-22-0[Próximo Capítulo &#62;]

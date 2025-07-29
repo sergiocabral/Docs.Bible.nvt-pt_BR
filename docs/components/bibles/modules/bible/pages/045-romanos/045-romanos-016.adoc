@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v45-16-0]]
+=== Romanos, 16
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v45-16-1]]
+
+^<<v45-16-1,1>>^ Recomendo-lhes nossa irmã Febe, que serve à igreja em Cencreia.
+
+[[v45-16-2]]
+
+^<<v45-16-2,2>>^ Recebam-na no Senhor, como uma pessoa digna de honra no meio do povo santo. Ajudem-na no que ela precisar, pois tem sido de grande ajuda para muitos, especialmente para mim.
+
+[[v45-16-3]]
+
+^<<v45-16-3,3>>^ Deem minhas saudações a Priscila e Áquila, meus colaboradores no serviço de Cristo Jesus.
+
+[[v45-16-4]]
+
+^<<v45-16-4,4>>^ Certa vez, eles arriscaram a vida por mim. Sou grato a eles, e também o são todas as igrejas dos gentios.
+
+[[v45-16-5]]
+
+^<<v45-16-5,5>>^ Saúdem a igreja que se reúne na casa deles. Saúdem também meu querido amigo Epêneto, que foi o primeiro seguidor de Cristo na província da Ásia.
+
+[[v45-16-6]]
+
+^<<v45-16-6,6>>^ Saúdem Maria, que trabalhou tanto por vocês.
+
+[[v45-16-7]]
+
+^<<v45-16-7,7>>^ Saúdem Andrônico e Júnias, meus compatriotas judeus que estiveram comigo na prisão. São muito respeitados entre os apóstolos e se tornaram seguidores de Cristo antes de mim.
+
+[[v45-16-8]]
+
+^<<v45-16-8,8>>^ Saúdem Amplíato, meu querido amigo no Senhor.
+
+[[v45-16-9]]
+
+^<<v45-16-9,9>>^ Saúdem Urbano, nosso colaborador em Cristo, e meu querido amigo Estáquis.
+
+[[v45-16-10]]
+
+^<<v45-16-10,10>>^ Saúdem Apeles, um bom homem, aprovado por Cristo. Saúdem os que são da casa de Aristóbulo.
+
+[[v45-16-11]]
+
+^<<v45-16-11,11>>^ Saúdem Herodião, meu compatriota judeu. Saúdem os da casa de Narciso que são do Senhor.
+
+[[v45-16-12]]
+
+^<<v45-16-12,12>>^ Saúdem Trifena e Trifosa, obreiras do Senhor, e a estimada Pérside, que tem trabalhado com dedicação para o Senhor.
+
+[[v45-16-13]]
+
+^<<v45-16-13,13>>^ Saúdem Rufo, a quem o Senhor escolheu, e também sua mãe, que tem sido mãe para mim.
+
+[[v45-16-14]]
+
+^<<v45-16-14,14>>^ Saúdem Asíncrito, Flegonte, Hermes, Pátrobas, Hermas e os irmãos que se reúnem com eles.
+
+[[v45-16-15]]
+
+^<<v45-16-15,15>>^ Saúdem Filólogo, Júlia, Nereu e sua irmã, e também Olimpas e todo o povo santo que se reúne com eles.
+
+[[v45-16-16]]
+
+^<<v45-16-16,16>>^ Saúdem uns aos outros com beijo santo. Todas as igrejas de Cristo lhes enviam saudações.
+
+[[v45-16-17]]
+
+^<<v45-16-17,17>>^ E agora, irmãos, peço-lhes que tomem cuidado com aqueles que causam divisões e perturbam a fé, ensinando coisas contrárias ao que vocês aprenderam. Fiquem longe deles.
+
+[[v45-16-18]]
+
+^<<v45-16-18,18>>^ Esses indivíduos não servem a Cristo, nosso Senhor, mas apenas a seus próprios interesses, e enganam os inocentes com palavras suaves e bajulação.
+
+[[v45-16-19]]
+
+^<<v45-16-19,19>>^ Mas todos sabem que vocês são obedientes ao Senhor, o que muito me alegra. Quero que sejam sábios quanto a fazer o bem e permaneçam inocentes de todo mal.
+
+[[v45-16-20]]
+
+^<<v45-16-20,20>>^ Em breve o Deus da paz esmagará Satanás sob os pés de vocês. Que a graça de nosso Senhor Jesus seja com vocês.
+
+[[v45-16-21]]
+
+^<<v45-16-21,21>>^ Timóteo, meu colaborador, lhes envia saudações, bem como Lúcio, Jasom e Sosípatro, meus compatriotas judeus.
+
+[[v45-16-22]]
+
+^<<v45-16-22,22>>^ Eu, Tércio, que escrevo esta carta para Paulo, também envio minhas saudações no Senhor.
+
+[[v45-16-23]]
+
+^<<v45-16-23,23>>^ Gaio os saúda. Estou hospedado em sua casa, onde ele também tem recebido toda a igreja. Erasto, tesoureiro da cidade, bem como nosso irmão Quarto, lhes enviam saudações.
+
+[[v45-16-24]]
+
+^<<v45-16-24,24>>^ Que a graça de nosso Senhor Jesus Cristo seja com todos vocês. Amém.
+
+[[v45-16-25]]
+
+^<<v45-16-25,25>>^ Toda a glória seja a Deus, que pode fortalecê-los, como afirmam as boas-novas. Essa mensagem a respeito de Jesus Cristo revelou seu plano, mantido em segredo desde o princípio dos tempos,
+
+[[v45-16-26]]
+
+^<<v45-16-26,26>>^ mas que agora, como os escritos dos profetas predisseram e o Deus eterno ordenou, é anunciada aos gentios de toda parte, a fim de que eles também possam crer nele e lhe obedecer.
+
+[[v45-16-27]]
+
+^<<v45-16-27,27>>^ Toda a glória para sempre ao Deus único e sábio, por meio de Jesus Cristo. Amém.
+
+'''
+
+xref:045-romanos/045-romanos-015.adoc#v45-15-0[&#60; Capítulo Anterior] | <<v45-16-0,Topo>> | xref:046-1-corintios/046-1-corintios-001.adoc#v46-1-0[Próximo Capítulo &#62;]

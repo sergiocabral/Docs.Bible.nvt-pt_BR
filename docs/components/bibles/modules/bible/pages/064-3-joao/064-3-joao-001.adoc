@@ -1,0 +1,69 @@
+include::./index.adoc[]
+
+[[v64-1-0]]
+=== 3 João, 1
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v64-1-1]]
+
+^<<v64-1-1,1>>^ Eu, o presbítero, escrevo a Gaio, meu amigo querido, a quem amo na verdade.
+
+[[v64-1-2]]
+
+^<<v64-1-2,2>>^ Amado, espero que você esteja bem e fisicamente tão sadio quanto é forte em espírito.
+
+[[v64-1-3]]
+
+^<<v64-1-3,3>>^ Alguns dos irmãos regressaram e me deixaram muito alegre quando falaram de sua fidelidade e de como você vive de acordo com a verdade.
+
+[[v64-1-4]]
+
+^<<v64-1-4,4>>^ Eu não poderia ter maior alegria que saber que meus filhos têm seguido a verdade.
+
+[[v64-1-5]]
+
+^<<v64-1-5,5>>^ Amado, você é fiel quando cuida dos irmãos que passam por aí, embora não os conheça.
+
+[[v64-1-6]]
+
+^<<v64-1-6,6>>^ Eles falaram à igreja daqui a respeito de sua amizade afetuosa. Peço que continue a suprir as necessidades deles de modo agradável a Deus.
+
+[[v64-1-7]]
+
+^<<v64-1-7,7>>^ Pois eles viajam a serviço do Senhor e não aceitam coisa alguma dos que são de fora.
+
+[[v64-1-8]]
+
+^<<v64-1-8,8>>^ Assim, nós mesmos devemos sustentá-los, a fim de nos tornarmos seus cooperadores quando eles ensinarem a verdade.
+
+[[v64-1-9]]
+
+^<<v64-1-9,9>>^ Escrevi à igreja sobre isso, mas Diótrefes, que gosta de ser o mais importante, se recusa a receber-nos.
+
+[[v64-1-10]]
+
+^<<v64-1-10,10>>^ Quando eu for, relatarei algumas das coisas que ele tem feito, bem como suas acusações maldosas contra nós. Ele não apenas se recusa a acolher os irmãos, mas também impede outros de ajudá-los. E, quando o fazem, ele os expulsa da igreja.
+
+[[v64-1-11]]
+
+^<<v64-1-11,11>>^ Amado, não deixe que esse mau exemplo o influencie, mas siga apenas o que é bom. Quem faz o bem prova que é filho de Deus; quem faz o mal prova que não conhece a Deus.
+
+[[v64-1-12]]
+
+^<<v64-1-12,12>>^ Todos, incluindo a própria verdade, falam bem de Demétrio. Nós dizemos o mesmo a respeito dele, e você sabe que falamos a verdade.
+
+[[v64-1-13]]
+
+^<<v64-1-13,13>>^ Tenho muito mais a lhe dizer, mas não quero fazê-lo com pena e tinta,
+
+[[v64-1-14]]
+
+^<<v64-1-14,14>>^ pois espero vê-lo em breve, e então conversaremos pessoalmente.
+
+[[v64-1-15]]
+
+^<<v64-1-15,15>>^ A paz seja com você. Seus amigos daqui mandam lembranças. Por favor, envie minhas saudações pessoais a cada um dos amigos daí.
+
+'''
+
+xref:063-2-joao/063-2-joao-001.adoc#v63-1-0[&#60; Capítulo Anterior] | <<v64-1-0,Topo>> | xref:065-judas/065-judas-001.adoc#v65-1-0[Próximo Capítulo &#62;]

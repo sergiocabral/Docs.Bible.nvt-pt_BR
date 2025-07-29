@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v2-2-0]]
+=== Êxodo, 2
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v2-2-1]]
+
+^<<v2-2-1,1>>^ Por essa época, um homem e uma mulher da tribo de Levi se casaram.
+
+[[v2-2-2]]
+
+^<<v2-2-2,2>>^ A mulher engravidou e deu à luz um menino. Viu que era um lindo bebê e o escondeu por três meses.
+
+[[v2-2-3]]
+
+^<<v2-2-3,3>>^ Quando não conseguia mais escondê-lo, pegou um cesto feito de juncos de papiro e o revestiu com betume e piche. Acomodou o bebê no cesto e o colocou entre os juncos, à margem do rio Nilo.
+
+[[v2-2-4]]
+
+^<<v2-2-4,4>>^ A irmã do bebê ficou observando a certa distância, para ver o que lhe aconteceria.
+
+[[v2-2-5]]
+
+^<<v2-2-5,5>>^ Pouco depois, a filha do faraó desceu ao Nilo para tomar banho, e suas servas foram caminhar pela margem do rio. Quando a princesa viu o cesto entre os juncos, mandou sua serva buscá-lo.
+
+[[v2-2-6]]
+
+^<<v2-2-6,6>>^ Ao abrir o cesto, a princesa viu o bebê. O menino chorava, e ela sentiu pena dele. "Deve ser um dos meninos hebreus", disse ela.
+
+[[v2-2-7]]
+
+^<<v2-2-7,7>>^ Então a irmã do menino se aproximou e perguntou à princesa: "A senhora quer que eu chame uma mulher hebreia para amamentar o bebê?".
+
+[[v2-2-8]]
+
+^<<v2-2-8,8>>^ "Quero", respondeu a princesa. A moça foi e chamou a mãe do bebê.
+
+[[v2-2-9]]
+
+^<<v2-2-9,9>>^ A princesa disse à mãe do bebê: "Leve este menino e amamente-o para mim. Eu pagarei por sua ajuda". A mulher levou o bebê para casa e o amamentou.
+
+[[v2-2-10]]
+
+^<<v2-2-10,10>>^ Quando o menino cresceu, ela o levou de volta à filha do faraó, que o adotou como seu próprio filho. A princesa o chamou de Moisés, pois disse: "Eu o tirei da água".
+
+[[v2-2-11]]
+
+^<<v2-2-11,11>>^ Anos depois, já adulto, Moisés foi visitar seu povo e descobriu que eles eram forçados a realizar trabalhos pesados. Durante sua visita, viu um egípcio espancar um hebreu, um homem de seu povo.
+
+[[v2-2-12]]
+
+^<<v2-2-12,12>>^ Olhou para todos os lados e, não avistando ninguém por perto, matou o egípcio. Em seguida, escondeu o corpo na areia.
+
+[[v2-2-13]]
+
+^<<v2-2-13,13>>^ No dia seguinte, quando Moisés saiu novamente para visitar seu povo, viu dois hebreus brigando. "Por que você está espancando seu amigo?", perguntou Moisés ao que havia começado a briga.
+
+[[v2-2-14]]
+
+^<<v2-2-14,14>>^ O homem respondeu: "Quem o nomeou nosso príncipe e juiz? Vai me matar como matou o egípcio?". Moisés teve medo e pensou: "Com certeza todos já sabem o que aconteceu!".
+
+[[v2-2-15]]
+
+^<<v2-2-15,15>>^ E, de fato, o faraó tomou conhecimento do que havia acontecido e tentou matar Moisés, mas ele fugiu e foi morar na terra de Midiã. Quando chegou a Midiã, estabeleceu-se junto a um poço.
+
+[[v2-2-16]]
+
+^<<v2-2-16,16>>^ O sacerdote de Midiã tinha sete filhas, que foram ao poço tirar água e encher os bebedouros para o rebanho de seu pai.
+
+[[v2-2-17]]
+
+^<<v2-2-17,17>>^ Então alguns pastores chegaram e as expulsaram de lá. Moisés, porém, defendeu as moças e tirou água para o rebanho delas.
+
+[[v2-2-18]]
+
+^<<v2-2-18,18>>^ Quando as moças voltaram para seu pai, Reuel, ele lhes perguntou: "Por que voltaram tão cedo hoje?".
+
+[[v2-2-19]]
+
+^<<v2-2-19,19>>^ Elas responderam: "Um egípcio nos defendeu dos pastores; depois, tirou água e deu de beber ao nosso rebanho".
+
+[[v2-2-20]]
+
+^<<v2-2-20,20>>^ "E onde está ele?", perguntou o pai. "Por que o deixaram lá? Convidem-no para comer conosco."
+
+[[v2-2-21]]
+
+^<<v2-2-21,21>>^ Moisés aceitou o convite e foi morar com Reuel. Depois de algum tempo, Reuel entregou sua filha Zípora em casamento a Moisés.
+
+[[v2-2-22]]
+
+^<<v2-2-22,22>>^ Mais tarde, ela deu à luz um menino, a quem Moisés chamou de Gérson, pois disse: "Sou forasteiro em terra alheia".
+
+[[v2-2-23]]
+
+^<<v2-2-23,23>>^ Depois de muitos anos, o rei do Egito morreu. Os israelitas, porém, continuavam a gemer sob o peso da escravidão. Clamaram por socorro, e seu clamor subiu até Deus.
+
+[[v2-2-24]]
+
+^<<v2-2-24,24>>^ Ele ouviu os gemidos e se lembrou da aliança que havia feito com Abraão, Isaque e Jacó.
+
+[[v2-2-25]]
+
+^<<v2-2-25,25>>^ Olhou para os israelitas e percebeu sua necessidade.
+
+'''
+
+xref:002-exodo/002-exodo-001.adoc#v2-1-0[&#60; Capítulo Anterior] | <<v2-2-0,Topo>> | xref:002-exodo/002-exodo-003.adoc#v2-3-0[Próximo Capítulo &#62;]

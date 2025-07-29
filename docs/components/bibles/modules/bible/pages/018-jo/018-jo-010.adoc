@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v18-10-0]]
+=== Jó, 10
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v18-10-1]]
+
+^<<v18-10-1,1>>^ "Estou cansado de minha vida, vou me queixar abertamente; minha alma amargurada precisa se expressar.
+
+[[v18-10-2]]
+
+^<<v18-10-2,2>>^ Direi a Deus: ‘Não apenas me condenes; dize-me que acusações tens contra mim.
+
+[[v18-10-3]]
+
+^<<v18-10-3,3>>^ Que vantagem tens em me oprimir? Por que me rejeitas, se sou obra de tuas mãos, enquanto sorris para as tramas dos perversos?
+
+[[v18-10-4]]
+
+^<<v18-10-4,4>>^ Acaso teus olhos são como os nossos? Vês as coisas como um ser humano qualquer?
+
+[[v18-10-5]]
+
+^<<v18-10-5,5>>^ Tua vida é tão breve como a nossa? Vives tão pouco, como o homem,
+
+[[v18-10-6]]
+
+^<<v18-10-6,6>>^ que precisas, sem demora, investigar minha culpa e procurar meu pecado?
+
+[[v18-10-7]]
+
+^<<v18-10-7,7>>^ Embora saibas que não sou culpado, não há quem possa livrar-me de tuas mãos.
+
+[[v18-10-8]]
+
+^<<v18-10-8,8>>^ "‘Tu me formaste com tuas mãos; tu me fizeste e, no entanto, me destróis por completo.
+
+[[v18-10-9]]
+
+^<<v18-10-9,9>>^ Lembra-te de que do barro me fizeste; acaso me farás voltar tão depressa ao pó?
+
+[[v18-10-10]]
+
+^<<v18-10-10,10>>^ Tu guiaste minha concepção e me moldaste no ventre materno.
+
+[[v18-10-11]]
+
+^<<v18-10-11,11>>^ Com carne e pele me vestiste e me teceste os ossos com meus tendões.
+
+[[v18-10-12]]
+
+^<<v18-10-12,12>>^ Tu me deste vida e me mostraste teu amor, e com teu cuidado me preservaste.
+
+[[v18-10-13]]
+
+^<<v18-10-13,13>>^ "‘Teu verdadeiro motivo, porém, tua real intenção,
+
+[[v18-10-14]]
+
+^<<v18-10-14,14>>^ era me vigiar e, se eu pecasse, não perdoar minha culpa.
+
+[[v18-10-15]]
+
+^<<v18-10-15,15>>^ Se sou culpado, pior para mim; e, mesmo que eu seja inocente, não posso manter a cabeça erguida, pois estou cheio de vergonha e sofrimento.
+
+[[v18-10-16]]
+
+^<<v18-10-16,16>>^ Se mantenho a cabeça erguida, tu me caças como um leão e manifestas contra mim teu imenso poder.
+
+[[v18-10-17]]
+
+^<<v18-10-17,17>>^ Repetidas vezes depões contra mim; sobre mim derramas tua ira crescente e me atacas com um exército após o outro.
+
+[[v18-10-18]]
+
+^<<v18-10-18,18>>^ "‘Por que, então, me tiraste do ventre de minha mãe? Por que não me deixaste morrer antes de vir ao mundo?
+
+[[v18-10-19]]
+
+^<<v18-10-19,19>>^ Seria como se eu nunca tivesse existido; iria direto do ventre para o túmulo.
+
+[[v18-10-20]]
+
+^<<v18-10-20,20>>^ Restam-me apenas alguns dias; por favor, deixa-me em paz, para que eu tenha um instante de alívio
+
+[[v18-10-21]]
+
+^<<v18-10-21,21>>^ antes de partir para a terra de escuridão e densas sombras, para nunca mais voltar.
+
+[[v18-10-22]]
+
+^<<v18-10-22,22>>^ É uma terra escura como a meia-noite, terra de profunda escuridão e desordem, onde até mesmo a luz é escura como a meia-noite’".
+
+'''
+
+xref:018-jo/018-jo-009.adoc#v18-9-0[&#60; Capítulo Anterior] | <<v18-10-0,Topo>> | xref:018-jo/018-jo-011.adoc#v18-11-0[Próximo Capítulo &#62;]

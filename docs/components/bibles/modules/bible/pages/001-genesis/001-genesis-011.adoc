@@ -1,0 +1,137 @@
+include::./index.adoc[]
+
+[[v1-11-0]]
+=== Gênesis, 11
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v1-11-1]]
+
+^<<v1-11-1,1>>^ Houve um tempo em que todos os habitantes do mundo falavam a mesma língua e usavam as mesmas palavras.
+
+[[v1-11-2]]
+
+^<<v1-11-2,2>>^ Ao migrarem do leste, encontraram uma planície na terra da Babilônia, onde se estabeleceram.
+
+[[v1-11-3]]
+
+^<<v1-11-3,3>>^ Começaram a dizer uns aos outros: "Venham, vamos fazer tijolos e endurecê-los no fogo". (Naquela região, era costume usar tijolos em vez de pedras, e betume em vez de argamassa.)
+
+[[v1-11-4]]
+
+^<<v1-11-4,4>>^ Depois, disseram: "Venham, vamos construir uma cidade com uma torre que chegue até o céu. Assim, ficaremos famosos e não seremos espalhados pelo mundo".
+
+[[v1-11-5]]
+
+^<<v1-11-5,5>>^ O SENHOR, porém, desceu para ver a cidade e a torre que estavam construindo.
+
+[[v1-11-6]]
+
+^<<v1-11-6,6>>^ "Vejam!", disse o SENHOR. "Todos se uniram e falam a mesma língua. Se isto é o começo do que fazem, nada do que se propuserem a fazer daqui em diante lhes será impossível.
+
+[[v1-11-7]]
+
+^<<v1-11-7,7>>^ Venham, vamos descer e confundi-los com línguas diferentes, para que não consigam mais entender uns aos outros."
+
+[[v1-11-8]]
+
+^<<v1-11-8,8>>^ Assim, o SENHOR os espalhou pelo mundo inteiro, e eles pararam de construir a cidade.
+
+[[v1-11-9]]
+
+^<<v1-11-9,9>>^ Ela recebeu o nome de Babel, pois ali o SENHOR confundiu as pessoas com línguas diferentes e as espalhou pelo mundo.
+
+[[v1-11-10]]
+
+^<<v1-11-10,10>>^ Este é o relato da família de Sem. Dois anos depois do dilúvio, aos 100 anos, Sem gerou Arfaxade.
+
+[[v1-11-11]]
+
+^<<v1-11-11,11>>^ Depois do nascimento de Arfaxade, Sem viveu mais 500 anos e teve outros filhos e filhas.
+
+[[v1-11-12]]
+
+^<<v1-11-12,12>>^ Aos 35 anos, Arfaxade gerou Salá.
+
+[[v1-11-13]]
+
+^<<v1-11-13,13>>^ Depois do nascimento de Salá, Arfaxade viveu mais 403 anos e teve outros filhos e filhas.
+
+[[v1-11-14]]
+
+^<<v1-11-14,14>>^ Aos 30 anos, Salá gerou Héber.
+
+[[v1-11-15]]
+
+^<<v1-11-15,15>>^ Depois do nascimento de Héber, Salá viveu mais 403 anos e teve outros filhos e filhas.
+
+[[v1-11-16]]
+
+^<<v1-11-16,16>>^ Aos 34 anos, Héber gerou Pelegue.
+
+[[v1-11-17]]
+
+^<<v1-11-17,17>>^ Depois do nascimento de Pelegue, Héber viveu mais 430 anos e teve outros filhos e filhas.
+
+[[v1-11-18]]
+
+^<<v1-11-18,18>>^ Aos 30 anos, Pelegue gerou Reú.
+
+[[v1-11-19]]
+
+^<<v1-11-19,19>>^ Depois do nascimento de Reú, Pelegue viveu mais 209 anos e teve outros filhos e filhas.
+
+[[v1-11-20]]
+
+^<<v1-11-20,20>>^ Aos 32 anos, Reú gerou Serugue.
+
+[[v1-11-21]]
+
+^<<v1-11-21,21>>^ Depois do nascimento de Serugue, Reú viveu mais 207 anos e teve outros filhos e filhas.
+
+[[v1-11-22]]
+
+^<<v1-11-22,22>>^ Aos 30 anos, Serugue gerou Naor.
+
+[[v1-11-23]]
+
+^<<v1-11-23,23>>^ Depois do nascimento de Naor, Serugue viveu mais 200 anos e teve outros filhos e filhas.
+
+[[v1-11-24]]
+
+^<<v1-11-24,24>>^ Aos 29 anos, Naor gerou Terá.
+
+[[v1-11-25]]
+
+^<<v1-11-25,25>>^ Depois do nascimento de Terá, Naor viveu mais 119 anos e teve outros filhos e filhas.
+
+[[v1-11-26]]
+
+^<<v1-11-26,26>>^ Depois que completou 70 anos, Terá gerou Abrão, Naor e Harã.
+
+[[v1-11-27]]
+
+^<<v1-11-27,27>>^ Este é o relato da família de Terá, pai de Abrão, Naor e Harã. Harã, que foi o pai de Ló,
+
+[[v1-11-28]]
+
+^<<v1-11-28,28>>^ morreu em Ur dos caldeus, sua terra natal, enquanto seu pai, Terá, ainda vivia.
+
+[[v1-11-29]]
+
+^<<v1-11-29,29>>^ Tanto Abrão como Naor se casaram. A mulher de Abrão se chamava Sarai, e a mulher de Naor, Milca. (Milca e sua irmã, Iscá, eram filhas de Harã, irmão de Naor.)
+
+[[v1-11-30]]
+
+^<<v1-11-30,30>>^ Sarai, porém, não conseguia engravidar e não tinha filhos.
+
+[[v1-11-31]]
+
+^<<v1-11-31,31>>^ Certo dia, Terá tomou seu filho Abrão, sua nora Sarai (mulher de seu filho Abrão) e seu neto Ló (filho de seu filho Harã) e se mudou de Ur dos caldeus. Partiram em direção à terra de Canaã, mas pararam em Harã e se estabeleceram ali.
+
+[[v1-11-32]]
+
+^<<v1-11-32,32>>^ Terá viveu 205 anos e morreu enquanto ainda estava em Harã.
+
+'''
+
+xref:001-genesis/001-genesis-010.adoc#v1-10-0[&#60; Capítulo Anterior] | <<v1-11-0,Topo>> | xref:001-genesis/001-genesis-012.adoc#v1-12-0[Próximo Capítulo &#62;]

@@ -1,0 +1,85 @@
+include::./index.adoc[]
+
+[[v19-80-0]]
+=== Salmos, 80
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-80-1]]
+
+^<<v19-80-1,1>>^ Ouve, ó Pastor de Israel, que conduz os descendentes de José como um rebanho. Tu que estás entronizado acima dos querubins, manifesta teu esplendor
+
+[[v19-80-2]]
+
+^<<v19-80-2,2>>^ a Efraim, a Benjamim e a Manassés. Mostra-nos teu poder e vem salvar-nos!
+
+[[v19-80-3]]
+
+^<<v19-80-3,3>>^ Restaura-nos, ó Deus! Que a luz do teu rosto brilhe sobre nós; só então seremos salvos.
+
+[[v19-80-4]]
+
+^<<v19-80-4,4>>^ Ó SENHOR, Deus dos Exércitos, até quando ficarás irado com as orações do teu povo?
+
+[[v19-80-5]]
+
+^<<v19-80-5,5>>^ Tu nos deste tristeza como alimento e nos fizeste beber copos cheios de lágrimas.
+
+[[v19-80-6]]
+
+^<<v19-80-6,6>>^ Tu nos tornaste motivo de desprezo das nações vizinhas; agora nossos inimigos zombam de nós.
+
+[[v19-80-7]]
+
+^<<v19-80-7,7>>^ Restaura-nos, ó Deus dos Exércitos! Que a luz do teu rosto brilhe sobre nós; só então seremos salvos.
+
+[[v19-80-8]]
+
+^<<v19-80-8,8>>^ Tu nos trouxeste do Egito, como uma videira; expulsaste as nações e nos plantaste no solo.
+
+[[v19-80-9]]
+
+^<<v19-80-9,9>>^ Limpaste o terreno para nós; fincamos raízes e enchemos a terra.
+
+[[v19-80-10]]
+
+^<<v19-80-10,10>>^ Nossa sombra se estendeu por cima dos montes, nossos ramos cobriram os altos cedros.
+
+[[v19-80-11]]
+
+^<<v19-80-11,11>>^ Estendemos nossos ramos até o Mediterrâneo, nossos brotos se espalharam até o Eufrates.
+
+[[v19-80-12]]
+
+^<<v19-80-12,12>>^ Mas, agora, por que derrubaste nossos muros? Todos que passam roubam nossos frutos.
+
+[[v19-80-13]]
+
+^<<v19-80-13,13>>^ Os javalis da floresta devoram a videira, animais selvagens se alimentam dela.
+
+[[v19-80-14]]
+
+^<<v19-80-14,14>>^ Ó Deus dos Exércitos, suplicamos que voltes! Olha dos céus e vê a nossa aflição. Cuida desta videira
+
+[[v19-80-15]]
+
+^<<v19-80-15,15>>^ que tu mesmo plantaste, o filho que criaste para ti.
+
+[[v19-80-16]]
+
+^<<v19-80-16,16>>^ Somos cortados e queimados por nossos inimigos; que eles pereçam ao ver a repreensão em tua face!
+
+[[v19-80-17]]
+
+^<<v19-80-17,17>>^ Fortalece aquele a quem amas, o filho que criaste para ti.
+
+[[v19-80-18]]
+
+^<<v19-80-18,18>>^ Então jamais te abandonaremos; reanima-nos, para que invoquemos o teu nome.
+
+[[v19-80-19]]
+
+^<<v19-80-19,19>>^ Restaura-nos, ó SENHOR, o Deus dos Exércitos! Que a luz do teu rosto brilhe sobre nós; só então seremos salvos.
+
+'''
+
+xref:019-salmos/019-salmos-079.adoc#v19-79-0[&#60; Capítulo Anterior] | <<v19-80-0,Topo>> | xref:019-salmos/019-salmos-081.adoc#v19-81-0[Próximo Capítulo &#62;]

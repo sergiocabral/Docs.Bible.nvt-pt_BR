@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v20-13-0]]
+=== Provérbios, 13
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v20-13-1]]
+
+^<<v20-13-1,1>>^ O filho sábio aceita a disciplina de seu pai; o zombador se recusa a ouvir a repreensão.
+
+[[v20-13-2]]
+
+^<<v20-13-2,2>>^ Com palavras sábias consegue-se uma boa refeição, mas os desleais têm fome de violência.
+
+[[v20-13-3]]
+
+^<<v20-13-3,3>>^ Quem controla a língua terá vida longa; quem fala demais acaba se arruinando.
+
+[[v20-13-4]]
+
+^<<v20-13-4,4>>^ O preguiçoso muito quer e nada alcança, mas os que trabalham com dedicação prosperam.
+
+[[v20-13-5]]
+
+^<<v20-13-5,5>>^ O justo odeia mentiras; o perverso causa vergonha e desonra.
+
+[[v20-13-6]]
+
+^<<v20-13-6,6>>^ A justiça guarda o caminho do íntegro, mas a perversidade desencaminha o pecador.
+
+[[v20-13-7]]
+
+^<<v20-13-7,7>>^ Alguns que são pobres fingem ser ricos; outros que são ricos fingem ser pobres.
+
+[[v20-13-8]]
+
+^<<v20-13-8,8>>^ O rico tem como pagar resgate por sua vida; o pobre nem sequer é ameaçado.
+
+[[v20-13-9]]
+
+^<<v20-13-9,9>>^ A vida dos justos brilha alegremente, mas a luz dos perversos se apagará.
+
+[[v20-13-10]]
+
+^<<v20-13-10,10>>^ O orgulho só traz conflitos, mas os que aceitam conselhos são sábios.
+
+[[v20-13-11]]
+
+^<<v20-13-11,11>>^ O dinheiro ganho por meios ilícitos logo acaba; a riqueza conquistada com trabalho árduo cresce com o tempo.
+
+[[v20-13-12]]
+
+^<<v20-13-12,12>>^ A esperança adiada faz o coração ficar doente, mas o sonho realizado é árvore de vida.
+
+[[v20-13-13]]
+
+^<<v20-13-13,13>>^ Quem despreza o bom conselho se envolve em dificuldades; quem respeita o mandamento será bem-sucedido.
+
+[[v20-13-14]]
+
+^<<v20-13-14,14>>^ A instrução do sábio é fonte de vida; quem a aceita escapa das armadilhas da morte.
+
+[[v20-13-15]]
+
+^<<v20-13-15,15>>^ O sensato é respeitado; o desleal caminha para a destruição.
+
+[[v20-13-16]]
+
+^<<v20-13-16,16>>^ O sábio pensa antes de agir; os tolos se gabam de sua insensatez.
+
+[[v20-13-17]]
+
+^<<v20-13-17,17>>^ O mensageiro desleal depara com dificuldades, mas o mensageiro confiável traz cura.
+
+[[v20-13-18]]
+
+^<<v20-13-18,18>>^ Quem despreza a disciplina acabará em pobreza e vergonha; quem aceita a repreensão será honrado.
+
+[[v20-13-19]]
+
+^<<v20-13-19,19>>^ É agradável ver sonhos se realizarem, mas os tolos se recusam a se afastar do mal.
+
+[[v20-13-20]]
+
+^<<v20-13-20,20>>^ Quem anda com os sábios se torna sábio, mas quem anda com os tolos sofrerá as consequências.
+
+[[v20-13-21]]
+
+^<<v20-13-21,21>>^ Desgraças perseguem os pecadores, enquanto bênçãos recompensam os justos.
+
+[[v20-13-22]]
+
+^<<v20-13-22,22>>^ A pessoa de bem deixa herança para os netos, mas a riqueza do pecador vai para as mãos do justo.
+
+[[v20-13-23]]
+
+^<<v20-13-23,23>>^ As terras dos pobres produzem muito alimento, mas a injustiça tudo consome.
+
+[[v20-13-24]]
+
+^<<v20-13-24,24>>^ Quem não corrige os filhos mostra que não os ama; quem ama os filhos se preocupa em discipliná-los.
+
+[[v20-13-25]]
+
+^<<v20-13-25,25>>^ O justo come até se satisfazer, mas o estômago dos perversos fica vazio.
+
+'''
+
+xref:020-proverbios/020-proverbios-012.adoc#v20-12-0[&#60; Capítulo Anterior] | <<v20-13-0,Topo>> | xref:020-proverbios/020-proverbios-014.adoc#v20-14-0[Próximo Capítulo &#62;]

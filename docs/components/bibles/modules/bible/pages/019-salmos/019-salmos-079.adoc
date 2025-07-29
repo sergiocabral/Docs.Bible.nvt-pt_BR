@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v19-79-0]]
+=== Salmos, 79
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-79-1]]
+
+^<<v19-79-1,1>>^ Ó Deus, as nações invadiram a terra que te pertence; profanaram teu santo templo e transformaram Jerusalém num monte de ruínas.
+
+[[v19-79-2]]
+
+^<<v19-79-2,2>>^ Deixaram os corpos de teus servos para servirem de alimento às aves do céu. A carne de teus fiéis se tornou comida para os animais selvagens.
+
+[[v19-79-3]]
+
+^<<v19-79-3,3>>^ O sangue correu como água ao redor de Jerusalém, e não resta ninguém para sepultar os mortos.
+
+[[v19-79-4]]
+
+^<<v19-79-4,4>>^ Nossos vizinhos zombam de nós; somos objeto de riso e desprezo para os que nos rodeiam.
+
+[[v19-79-5]]
+
+^<<v19-79-5,5>>^ Até quando, SENHOR, ficarás irado conosco? Será para sempre? Até quando teu zelo arderá como fogo?
+
+[[v19-79-6]]
+
+^<<v19-79-6,6>>^ Derrama tua fúria sobre as nações que não te reconhecem, sobre os reinos que não invocam teu nome.
+
+[[v19-79-7]]
+
+^<<v19-79-7,7>>^ Pois devoraram teu povo, Israel, e transformaram suas casas em ruínas.
+
+[[v19-79-8]]
+
+^<<v19-79-8,8>>^ Não nos culpes pelos pecados de nossos antepassados! Que a tua compaixão venha depressa nos socorrer, pois é grande o nosso desespero!
+
+[[v19-79-9]]
+
+^<<v19-79-9,9>>^ Ajuda-nos, ó Deus de nossa salvação, pela glória do teu nome. Livra-nos e perdoa nossos pecados, pela honra do teu nome.
+
+[[v19-79-10]]
+
+^<<v19-79-10,10>>^ Por que permitir que as nações digam: "Onde está o seu Deus?" Mostra-nos tua vingança contra as nações, pois elas derramaram o sangue de teus servos.
+
+[[v19-79-11]]
+
+^<<v19-79-11,11>>^ Ouve os gemidos dos prisioneiros; por teu grande poder, salva os condenados à morte.
+
+[[v19-79-12]]
+
+^<<v19-79-12,12>>^ Ó Senhor, retribui sete vezes mais a nossos vizinhos pelos insultos que lançaram contra ti.
+
+[[v19-79-13]]
+
+^<<v19-79-13,13>>^ Então nós, teu povo, ovelhas do teu pasto, para sempre te daremos graças e louvaremos tua grandeza por todas as gerações.
+
+'''
+
+xref:019-salmos/019-salmos-078.adoc#v19-78-0[&#60; Capítulo Anterior] | <<v19-79-0,Topo>> | xref:019-salmos/019-salmos-080.adoc#v19-80-0[Próximo Capítulo &#62;]

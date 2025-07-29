@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v19-83-0]]
+=== Salmos, 83
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-83-1]]
+
+^<<v19-83-1,1>>^ Ó Deus, não fiques em silêncio! Não feches os ouvidos e não permaneças calado, ó Deus!
+
+[[v19-83-2]]
+
+^<<v19-83-2,2>>^ Não ouves o tumulto de teus adversários? Não vês que teus inimigos te desafiam?
+
+[[v19-83-3]]
+
+^<<v19-83-3,3>>^ Tramam com astúcia contra o teu povo; conspiram contra os teus protegidos.
+
+[[v19-83-4]]
+
+^<<v19-83-4,4>>^ Dizem: "Venham, exterminemos a nação de Israel, para que ninguém se lembre de sua existência".
+
+[[v19-83-5]]
+
+^<<v19-83-5,5>>^ Sim, em unanimidade decidiram; fizeram um tratado e aliaram-se contra ti
+
+[[v19-83-6]]
+
+^<<v19-83-6,6>>^ os edomitas e os ismaelitas, os moabitas e os hagarenos,
+
+[[v19-83-7]]
+
+^<<v19-83-7,7>>^ os gebalitas, os amonitas e os amalequitas, os povos da Filístia e de Tiro.
+
+[[v19-83-8]]
+
+^<<v19-83-8,8>>^ A eles também se uniram os assírios e se aliaram aos descendentes de Ló. Interlúdio
+
+[[v19-83-9]]
+
+^<<v19-83-9,9>>^ Trata-os como trataste os midianitas, como trataste Sísera e Jabim no rio Quisom.
+
+[[v19-83-10]]
+
+^<<v19-83-10,10>>^ Foram destruídos em En-Dor; tornaram-se adubo para a terra.
+
+[[v19-83-11]]
+
+^<<v19-83-11,11>>^ Que seus nobres morram como Orebe e Zeebe, e todos os seus príncipes, como Zeba e Zalmuna,
+
+[[v19-83-12]]
+
+^<<v19-83-12,12>>^ pois disseram: "Vamos nos apossar das pastagens de Deus!".
+
+[[v19-83-13]]
+
+^<<v19-83-13,13>>^ Ó meu Deus, espalha-os como folhas num redemoinho, como palha ao vento.
+
+[[v19-83-14]]
+
+^<<v19-83-14,14>>^ Assim como o fogo consome o bosque, como a chama incendeia os montes,
+
+[[v19-83-15]]
+
+^<<v19-83-15,15>>^ persegue-os com a tua tempestade, enche-os de medo com o teu vendaval.
+
+[[v19-83-16]]
+
+^<<v19-83-16,16>>^ Faze-os cair na desgraça mais profunda, até que se sujeitem ao teu nome, SENHOR.
+
+[[v19-83-17]]
+
+^<<v19-83-17,17>>^ Sejam envergonhados e aterrorizados para sempre e morram em desonra.
+
+[[v19-83-18]]
+
+^<<v19-83-18,18>>^ Então aprenderão que somente tu és chamado SENHOR, somente tu és o Altíssimo, supremo sobre toda a terra.
+
+'''
+
+xref:019-salmos/019-salmos-082.adoc#v19-82-0[&#60; Capítulo Anterior] | <<v19-83-0,Topo>> | xref:019-salmos/019-salmos-084.adoc#v19-84-0[Próximo Capítulo &#62;]

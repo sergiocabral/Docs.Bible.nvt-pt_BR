@@ -1,0 +1,33 @@
+include::./index.adoc[]
+
+[[v18-25-0]]
+=== Jó, 25
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v18-25-1]]
+
+^<<v18-25-1,1>>^ Então Bildade, de Suá, respondeu:
+
+[[v18-25-2]]
+
+^<<v18-25-2,2>>^ "Deus é poderoso e temível; ele impõe a paz nos céus.
+
+[[v18-25-3]]
+
+^<<v18-25-3,3>>^ Quem pode contar seu exército celestial? Acaso sua luz não brilha sobre toda a terra?
+
+[[v18-25-4]]
+
+^<<v18-25-4,4>>^ Pode algum mortal ser inocente perante Deus? Pode alguém nascido de mulher ser puro?
+
+[[v18-25-5]]
+
+^<<v18-25-5,5>>^ Deus é mais glorioso que a lua; brilha mais que as estrelas.
+
+[[v18-25-6]]
+
+^<<v18-25-6,6>>^ Comparados a ele, somos larvas; nós, mortais, não passamos de vermes".
+
+'''
+
+xref:018-jo/018-jo-024.adoc#v18-24-0[&#60; Capítulo Anterior] | <<v18-25-0,Topo>> | xref:018-jo/018-jo-026.adoc#v18-26-0[Próximo Capítulo &#62;]

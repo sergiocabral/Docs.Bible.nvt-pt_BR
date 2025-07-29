@@ -1,0 +1,301 @@
+include::./index.adoc[]
+
+[[v16-7-0]]
+=== Neemias, 7
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v16-7-1]]
+
+^<<v16-7-1,1>>^ Depois que o muro foi terminado e que eu havia colocado as portas em seus lugares, foram nomeados os guardas das portas, os cantores e os levitas.
+
+[[v16-7-2]]
+
+^<<v16-7-2,2>>^ Entreguei a responsabilidade de governar Jerusalém a meu irmão Hanani e a Hananias, comandante da fortaleza, pois era um homem fiel que temia a Deus mais do que a maioria dos homens.
+
+[[v16-7-3]]
+
+^<<v16-7-3,3>>^ Eu lhes disse: "Não deixem as portas abertas durante a parte mais quente do dia. Mesmo quando os guardas das portas estiverem de serviço, deverão fechá-las e trancá-las. Nomeiem moradores de Jerusalém para montar guarda, todos em turnos regulares. Alguns ficarão em postos de sentinela, e outros, em frente de suas casas".
+
+[[v16-7-4]]
+
+^<<v16-7-4,4>>^ Nesse tempo, a cidade era grande e espaçosa, mas a população era pequena e nenhuma das casas havia sido reconstruída.
+
+[[v16-7-5]]
+
+^<<v16-7-5,5>>^ Então meu Deus me deu a ideia de convocar todos os nobres e as autoridades da cidade e todos os cidadãos comuns para registrá-los. Eu havia encontrado o registro genealógico dos primeiros a regressar a Judá. Nele estava escrito:
+
+[[v16-7-6]]
+
+^<<v16-7-6,6>>^ Esta é uma lista dos judeus da província que regressaram do cativeiro. O rei Nabucodonosor os havia deportado para a Babilônia, mas eles voltaram para Jerusalém e Judá, cada um para sua cidade de origem.
+
+[[v16-7-7]]
+
+^<<v16-7-7,7>>^ Seus líderes eram Zorobabel, Jesua, Neemias, Seraías, Reelaías, Naamani, Mardoqueu, Bilsã, Mispar, Bigvai, Reum e Baaná. Este é o número de homens de Israel que regressaram do exílio:
+
+[[v16-7-8]]
+
+^<<v16-7-8,8>>^ da família de Parós, 2.172;
+
+[[v16-7-9]]
+
+^<<v16-7-9,9>>^ da família de Sefatias, 372;
+
+[[v16-7-10]]
+
+^<<v16-7-10,10>>^ da família de Ará, 652;
+
+[[v16-7-11]]
+
+^<<v16-7-11,11>>^ da família de Paate-Moabe (descendentes de Jesua e de Joabe), 2.818;
+
+[[v16-7-12]]
+
+^<<v16-7-12,12>>^ da família de Elão, 1.254;
+
+[[v16-7-13]]
+
+^<<v16-7-13,13>>^ da família de Zatu, 845;
+
+[[v16-7-14]]
+
+^<<v16-7-14,14>>^ da família de Zacai, 760;
+
+[[v16-7-15]]
+
+^<<v16-7-15,15>>^ da família de Bani, 648;
+
+[[v16-7-16]]
+
+^<<v16-7-16,16>>^ da família de Bebai, 628;
+
+[[v16-7-17]]
+
+^<<v16-7-17,17>>^ da família de Azgade, 2.322;
+
+[[v16-7-18]]
+
+^<<v16-7-18,18>>^ da família de Adonicam, 667;
+
+[[v16-7-19]]
+
+^<<v16-7-19,19>>^ da família de Bigvai, 2.067;
+
+[[v16-7-20]]
+
+^<<v16-7-20,20>>^ da família de Adim, 655;
+
+[[v16-7-21]]
+
+^<<v16-7-21,21>>^ da família de Ater (descendentes de Ezequias), 98;
+
+[[v16-7-22]]
+
+^<<v16-7-22,22>>^ da família de Hassum, 328;
+
+[[v16-7-23]]
+
+^<<v16-7-23,23>>^ da família de Bezai, 324;
+
+[[v16-7-24]]
+
+^<<v16-7-24,24>>^ da família de Jora, 112;
+
+[[v16-7-25]]
+
+^<<v16-7-25,25>>^ da família de Gibar, 95;
+
+[[v16-7-26]]
+
+^<<v16-7-26,26>>^ do povo de Belém e Netofa, 188;
+
+[[v16-7-27]]
+
+^<<v16-7-27,27>>^ do povo de Anatote, 128;
+
+[[v16-7-28]]
+
+^<<v16-7-28,28>>^ do povo de Bete-Azmavete, 42;
+
+[[v16-7-29]]
+
+^<<v16-7-29,29>>^ do povo de Quiriate-Jearim, Quefira e Beerote, 743;
+
+[[v16-7-30]]
+
+^<<v16-7-30,30>>^ do povo de Ramá e Geba, 621;
+
+[[v16-7-31]]
+
+^<<v16-7-31,31>>^ do povo de Micmás, 122;
+
+[[v16-7-32]]
+
+^<<v16-7-32,32>>^ do povo de Betel e Ai, 123;
+
+[[v16-7-33]]
+
+^<<v16-7-33,33>>^ do povo de Nebo Ocidental, 52;
+
+[[v16-7-34]]
+
+^<<v16-7-34,34>>^ dos cidadãos de Elão Ocidental, 1.254;
+
+[[v16-7-35]]
+
+^<<v16-7-35,35>>^ os cidadãos de Harim, 320;
+
+[[v16-7-36]]
+
+^<<v16-7-36,36>>^ os cidadãos de Jericó, 345;
+
+[[v16-7-37]]
+
+^<<v16-7-37,37>>^ os cidadãos de Lode, Hadide e Ono, 721;
+
+[[v16-7-38]]
+
+^<<v16-7-38,38>>^ os cidadãos de Senaá, 3.930.
+
+[[v16-7-39]]
+
+^<<v16-7-39,39>>^ Estes são os sacerdotes que regressaram do exílio: da família de Jedaías (da linhagem de Jesua), 973;
+
+[[v16-7-40]]
+
+^<<v16-7-40,40>>^ da família de Imer, 1.052;
+
+[[v16-7-41]]
+
+^<<v16-7-41,41>>^ da família de Pasur, 1.247;
+
+[[v16-7-42]]
+
+^<<v16-7-42,42>>^ da família de Harim, 1.017.
+
+[[v16-7-43]]
+
+^<<v16-7-43,43>>^ Estes são os levitas que regressaram do exílio: das famílias de Jesua e Cadmiel (descendentes de Hodavias), 74;
+
+[[v16-7-44]]
+
+^<<v16-7-44,44>>^ os cantores da família de Asafe, 148;
+
+[[v16-7-45]]
+
+^<<v16-7-45,45>>^ os guardas das portas das famílias de Salum, Ater, Talmom, Acube, Hatita e Sobai, 138.
+
+[[v16-7-46]]
+
+^<<v16-7-46,46>>^ Os descendentes destes servidores do templo regressaram do exílio: Zia, Hasufa, Tabaote,
+
+[[v16-7-47]]
+
+^<<v16-7-47,47>>^ Queros, Sia, Padom,
+
+[[v16-7-48]]
+
+^<<v16-7-48,48>>^ Lebana, Hagaba, Salmai,
+
+[[v16-7-49]]
+
+^<<v16-7-49,49>>^ Hanã, Gidel, Gaar,
+
+[[v16-7-50]]
+
+^<<v16-7-50,50>>^ Reaías, Rezim, Necoda,
+
+[[v16-7-51]]
+
+^<<v16-7-51,51>>^ Gazão, Uzá, Paseia,
+
+[[v16-7-52]]
+
+^<<v16-7-52,52>>^ Besai, Meunim, Nefusim,
+
+[[v16-7-53]]
+
+^<<v16-7-53,53>>^ Baquebuque, Hacufa, Harur,
+
+[[v16-7-54]]
+
+^<<v16-7-54,54>>^ Baslute, Meída, Harsa,
+
+[[v16-7-55]]
+
+^<<v16-7-55,55>>^ Barcos, Sísera, Tamá,
+
+[[v16-7-56]]
+
+^<<v16-7-56,56>>^ Nesias e Hatifa.
+
+[[v16-7-57]]
+
+^<<v16-7-57,57>>^ Os descendentes destes servos do rei Salomão regressaram do exílio: Sotai, Soferete, Peruda,
+
+[[v16-7-58]]
+
+^<<v16-7-58,58>>^ Jaala, Darcom, Gidel,
+
+[[v16-7-59]]
+
+^<<v16-7-59,59>>^ Sefatias, Hatil, Poquerete-Hazebaim e Ami.
+
+[[v16-7-60]]
+
+^<<v16-7-60,60>>^ Ao todo, os servidores do templo e os descendentes dos servos de Salomão eram 392.
+
+[[v16-7-61]]
+
+^<<v16-7-61,61>>^ Nessa ocasião, outro grupo regressou das cidades de Tel-Melá, Tel-Harsa, Querube, Adã e Imer. Contudo, não puderam comprovar que eles ou suas famílias eram descendentes de Israel.
+
+[[v16-7-62]]
+
+^<<v16-7-62,62>>^ Estavam nesse grupo as famílias de Delaías, Tobias e Necoda, 642 pessoas ao todo.
+
+[[v16-7-63]]
+
+^<<v16-7-63,63>>^ Também regressaram as famílias de três sacerdotes: Habaías, Hacoz e Barzilai. (Esse Barzilai havia se casado com uma mulher descendente de Barzilai, de Gileade, e assumido o nome da família dela.)
+
+[[v16-7-64]]
+
+^<<v16-7-64,64>>^ Procuraram seus nomes nos registros genealógicos, mas não os encontraram, por isso não se qualificaram para servir como sacerdotes.
+
+[[v16-7-65]]
+
+^<<v16-7-65,65>>^ O governador ordenou que não comessem das porções dos sacrifícios separadas para os sacerdotes até que um sacerdote consultasse o SENHOR a esse respeito usando o Urim e o Tumim.
+
+[[v16-7-66]]
+
+^<<v16-7-66,66>>^ Portanto, os que regressaram para Judá foram 42.360,
+
+[[v16-7-67]]
+
+^<<v16-7-67,67>>^ além dos 7.337 servos e servas e dos 245 cantores e cantoras.
+
+[[v16-7-68]]
+
+^<<v16-7-68,68>>^ Levaram consigo 736 cavalos, 245 mulas,
+
+[[v16-7-69]]
+
+^<<v16-7-69,69>>^ 435 camelos e 6.720 jumentos.
+
+[[v16-7-70]]
+
+^<<v16-7-70,70>>^ Alguns dos chefes das famílias fizeram donativos para a obra. O governador deu à tesouraria o total de 8,6 quilos de ouro, 50 bacias de ouro e 530 vestes para os sacerdotes.
+
+[[v16-7-71]]
+
+^<<v16-7-71,71>>^ Os outros líderes deram à tesouraria o total de 172 quilos de ouro e 1.320 quilos de prata.
+
+[[v16-7-72]]
+
+^<<v16-7-72,72>>^ O restante do povo deu 172 quilos de ouro, 1.200 quilos de prata e 67 vestes para os sacerdotes.
+
+[[v16-7-73]]
+
+^<<v16-7-73,73>>^ Assim, os sacerdotes, os levitas, os guardas das portas, os cantores, os servidores do templo e alguns do povo se estabeleceram perto de Jerusalém. O restante do povo regressou às suas cidades em todo o Israel.
+
+'''
+
+xref:016-neemias/016-neemias-006.adoc#v16-6-0[&#60; Capítulo Anterior] | <<v16-7-0,Topo>> | xref:016-neemias/016-neemias-008.adoc#v16-8-0[Próximo Capítulo &#62;]

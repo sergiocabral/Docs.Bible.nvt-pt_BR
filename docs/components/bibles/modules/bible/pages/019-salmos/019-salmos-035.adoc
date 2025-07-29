@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v19-35-0]]
+=== Salmos, 35
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-35-1]]
+
+^<<v19-35-1,1>>^ Ó SENHOR, defende-me dos que me acusam; luta contra os que lutam contra mim.
+
+[[v19-35-2]]
+
+^<<v19-35-2,2>>^ Põe tua armadura e toma teu escudo, prepara-te para a batalha e vem me socorrer.
+
+[[v19-35-3]]
+
+^<<v19-35-3,3>>^ Levanta tua lança e teu dardo contra aqueles que me perseguem. Que eu te ouça dizer: "Eu lhe darei vitória!".
+
+[[v19-35-4]]
+
+^<<v19-35-4,4>>^ Sejam derrotados e humilhados os que procuram me matar, recuem envergonhados os que planejam me prejudicar.
+
+[[v19-35-5]]
+
+^<<v19-35-5,5>>^ Sopra-os para longe, como palha ao vento, e que o anjo do SENHOR os disperse.
+
+[[v19-35-6]]
+
+^<<v19-35-6,6>>^ Torna o caminho deles escuro e escorregadio, e que o anjo do SENHOR os persiga.
+
+[[v19-35-7]]
+
+^<<v19-35-7,7>>^ Não lhes fiz mal algum, mas eles me prepararam uma armadilha; sem motivo, abriram uma cova para me pegar.
+
+[[v19-35-8]]
+
+^<<v19-35-8,8>>^ Portanto, que venha sobre eles destruição repentina! Sejam pegos na armadilha que me prepararam, sejam destruídos na cova que abriram para mim.
+
+[[v19-35-9]]
+
+^<<v19-35-9,9>>^ Então me alegrarei no SENHOR, exultarei porque ele me salva.
+
+[[v19-35-10]]
+
+^<<v19-35-10,10>>^ Eu o louvarei com todos os ossos de meu corpo: " SENHOR, quem se compara a ti? Quem além de ti resgata o indefeso das mãos do forte? Quem protege o pobre e o humilde daqueles que os exploram?".
+
+[[v19-35-11]]
+
+^<<v19-35-11,11>>^ Testemunhas maldosas depõem contra mim e me acusam de crimes que não cometi.
+
+[[v19-35-12]]
+
+^<<v19-35-12,12>>^ Pagam-me o bem com o mal; estou desesperado!
+
+[[v19-35-13]]
+
+^<<v19-35-13,13>>^ Quando eles ficavam doentes, eu lamentava; humilhava-me com jejuns por eles, mas minhas orações não eram respondidas.
+
+[[v19-35-14]]
+
+^<<v19-35-14,14>>^ Como se fossem meus amigos ou familiares, eu me entristecia, como se lamentasse por minha própria mãe.
+
+[[v19-35-15]]
+
+^<<v19-35-15,15>>^ Mas agora, em minha aflição, eles se alegram; triunfantes, juntam-se contra mim. Pessoas que nem conheço me atacam, agridem-me sem cessar.
+
+[[v19-35-16]]
+
+^<<v19-35-16,16>>^ Zombam de mim e me insultam, rosnam e me mostram os dentes.
+
+[[v19-35-17]]
+
+^<<v19-35-17,17>>^ Até quando, Senhor, ficarás olhando? Salva-me de seus ataques ferozes, livra-me desses leões!
+
+[[v19-35-18]]
+
+^<<v19-35-18,18>>^ Então te darei graças diante da comunidade e te louvarei perante todo o povo.
+
+[[v19-35-19]]
+
+^<<v19-35-19,19>>^ Não permitas que meus inimigos traiçoeiros riam de mim, não deixes que me desprezem os que me odeiam sem razão.
+
+[[v19-35-20]]
+
+^<<v19-35-20,20>>^ Não falam de paz; tramam contra os que vivem tranquilos na terra.
+
+[[v19-35-21]]
+
+^<<v19-35-21,21>>^ Gritam: "Ah! Agora o pegamos! Nós o vimos com os próprios olhos!".
+
+[[v19-35-22]]
+
+^<<v19-35-22,22>>^ Viste tudo isso, SENHOR; não permaneças calado, Senhor, e não me abandones agora.
+
+[[v19-35-23]]
+
+^<<v19-35-23,23>>^ Desperta! Levanta-te para me fazeres justiça! Defende minha causa, meu Deus e meu Senhor.
+
+[[v19-35-24]]
+
+^<<v19-35-24,24>>^ Julga-me, SENHOR, meu Deus, conforme a tua justiça; não permitas que meus inimigos riam às minhas custas.
+
+[[v19-35-25]]
+
+^<<v19-35-25,25>>^ Não deixes que digam: "Conseguimos o que queríamos! Agora vamos acabar com ele!".
+
+[[v19-35-26]]
+
+^<<v19-35-26,26>>^ Sejam envergonhados e humilhados os que se alegram com a minha desgraça. Sejam cobertos de vergonha e desonra os que triunfam sobre mim.
+
+[[v19-35-27]]
+
+^<<v19-35-27,27>>^ Exultem e alegrem-se, porém, os que me defendem; que eles digam sempre: "Grande é o SENHOR, que se agrada de abençoar seu servo com paz!".
+
+[[v19-35-28]]
+
+^<<v19-35-28,28>>^ Então proclamarei tua justiça e te louvarei o dia todo.
+
+'''
+
+xref:019-salmos/019-salmos-034.adoc#v19-34-0[&#60; Capítulo Anterior] | <<v19-35-0,Topo>> | xref:019-salmos/019-salmos-036.adoc#v19-36-0[Próximo Capítulo &#62;]

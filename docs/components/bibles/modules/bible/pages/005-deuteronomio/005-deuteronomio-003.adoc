@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v5-3-0]]
+=== Deuteronômio, 3
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v5-3-1]]
+
+^<<v5-3-1,1>>^ "Em seguida, voltamos e nos dirigimos à terra de Basã, onde o rei Ogue e todo o seu exército nos atacaram em Edrei.
+
+[[v5-3-2]]
+
+^<<v5-3-2,2>>^ Mas o SENHOR me disse: ‘Não tenha medo, pois eu lhe dei vitória sobre Ogue e todo o seu exército, e lhe darei toda a terra dele. Trate-o como você tratou Seom, rei dos amorreus, que vivia em Hesbom’.
+
+[[v5-3-3]]
+
+^<<v5-3-3,3>>^ "Então o SENHOR, nosso Deus, entregou em nossas mãos o rei Ogue e todo o seu povo. Nós os aniquilamos, de modo que não restaram sobreviventes.
+
+[[v5-3-4]]
+
+^<<v5-3-4,4>>^ Conquistamos todas as sessenta cidades deles, a região inteira de Argobe, no reino de Basã. Não deixamos de tomar uma cidade sequer.
+
+[[v5-3-5]]
+
+^<<v5-3-5,5>>^ Eram todas fortificadas com muralhas altas e portões com trancas. Na mesma ocasião, também conquistamos muitos outros povoados sem muros.
+
+[[v5-3-6]]
+
+^<<v5-3-6,6>>^ Destruímos completamente o reino de Ogue, como havíamos destruído Seom, rei de Hesbom. Exterminamos todo o povo das cidades que conquistamos, tanto homens como mulheres e crianças.
+
+[[v5-3-7]]
+
+^<<v5-3-7,7>>^ Ficamos, porém, com todos os animais e levamos os despojos das cidades.
+
+[[v5-3-8]]
+
+^<<v5-3-8,8>>^ "Assim, tomamos o território dos dois reis amorreus a leste do rio Jordão, desde o vale de Arnom até o monte Hermom.
+
+[[v5-3-9]]
+
+^<<v5-3-9,9>>^ (Os sidônios chamam o monte Hermom de Siriom, enquanto os amorreus o chamam de Senir.)
+
+[[v5-3-10]]
+
+^<<v5-3-10,10>>^ A essa altura, havíamos conquistado todas as cidades do planalto e todo o território de Gileade e Basã, até as cidades de Salcá e Edrei, que faziam parte do reino de Ogue, em Basã."
+
+[[v5-3-11]]
+
+^<<v5-3-11,11>>^ (O rei Ogue de Basã foi o último sobrevivente dos refains. Sua cama era feita de ferro e media mais de quatro metros de comprimento e quase dois metros de largura. Ainda hoje é possível vê-la na cidade amonita de Rabá.)
+
+[[v5-3-12]]
+
+^<<v5-3-12,12>>^ "Quando tomamos posse da terra, dei às tribos de Rúben e Gade o território para além de Aroer, ao longo do vale de Arnom, e também metade do território de Gileade com suas cidades.
+
+[[v5-3-13]]
+
+^<<v5-3-13,13>>^ Depois, entreguei o restante de Gileade e toda a Basã, o antigo reino de Ogue, à meia tribo de Manassés. (Toda essa região de Argobe, em Basã, era conhecida como a terra dos refains.
+
+[[v5-3-14]]
+
+^<<v5-3-14,14>>^ Jair, um dos descendentes da tribo de Manassés, conquistou toda a região de Argobe, em Basã, até a fronteira com os gesuritas e maacatitas. Jair deu à região seu próprio nome, Cidades de Jair, pelo qual ela é conhecida até hoje.)
+
+[[v5-3-15]]
+
+^<<v5-3-15,15>>^ Dei Gileade ao clã de Maquir,
+
+[[v5-3-16]]
+
+^<<v5-3-16,16>>^ mas também dei parte de Gileade às tribos de Rúben e Gade. A região que lhes entreguei se estende desde a metade do vale de Arnom, ao sul, até o rio Jaboque, na fronteira amonita.
+
+[[v5-3-17]]
+
+^<<v5-3-17,17>>^ Eles também receberam o vale do Jordão, desde o mar da Galileia até o mar Morto, tendo o Jordão como limite a oeste e, a leste, as encostas do monte Pisga.
+
+[[v5-3-18]]
+
+^<<v5-3-18,18>>^ "Naquela ocasião, dei a seguinte ordem às tribos que habitariam a leste do Jordão: ‘Embora o SENHOR, seu Deus, lhes tenha dado esta terra como propriedade, todos os seus homens aptos à guerra devem atravessar o Jordão à frente de seus parentes israelitas, armados e prontos para ajudá-los.
+
+[[v5-3-19]]
+
+^<<v5-3-19,19>>^ Suas esposas, filhos e rebanhos numerosos ficarão nas cidades que já lhes dei.
+
+[[v5-3-20]]
+
+^<<v5-3-20,20>>^ Quando o SENHOR tiver dado segurança aos demais israelitas, como deu a vocês, e quando eles tiverem tomado posse da terra que o SENHOR, seu Deus, lhes dá do outro lado do Jordão, então vocês poderão voltar para esta terra que lhes dei’."
+
+[[v5-3-21]]
+
+^<<v5-3-21,21>>^ "Naquela ocasião, dei a Josué a seguinte ordem: ‘Você viu com os próprios olhos tudo que o SENHOR, seu Deus, fez a esses dois reis. Ele fará o mesmo a todos os reinos do lado oeste do Jordão.
+
+[[v5-3-22]]
+
+^<<v5-3-22,22>>^ Não tenham medo dessas nações, pois o SENHOR, seu Deus, lutará por vocês’.
+
+[[v5-3-23]]
+
+^<<v5-3-23,23>>^ "Também naquela ocasião, supliquei ao SENHOR:
+
+[[v5-3-24]]
+
+^<<v5-3-24,24>>^ ‘Ó SENHOR Soberano, tu apenas começaste a mostrar a este teu servo a tua grandeza e a força da tua mão. Existe algum deus no céu ou na terra capaz de realizar obras tão grandiosas e poderosas como as que tu realizas?
+
+[[v5-3-25]]
+
+^<<v5-3-25,25>>^ Por favor, peço que me deixes atravessar o Jordão para ver a boa terra do outro lado do rio, a bela região montanhosa e o Líbano’.
+
+[[v5-3-26]]
+
+^<<v5-3-26,26>>^ "Mas o SENHOR estava irado comigo por causa de vocês e não me atendeu. ‘Basta!’, declarou ele. ‘Não toque mais nesse assunto.
+
+[[v5-3-27]]
+
+^<<v5-3-27,27>>^ Suba ao topo do monte Pisga e contemple a terra em todas as direções. Olhe bem, pois você não atravessará o Jordão.
+
+[[v5-3-28]]
+
+^<<v5-3-28,28>>^ Encarregue Josué dessa tarefa, encoraje-o e fortaleça-o, pois ele conduzirá o povo para o outro lado do Jordão. Ele lhes dará como herança toda a terra que você está vendo.’
+
+[[v5-3-29]]
+
+^<<v5-3-29,29>>^ Assim, ficamos no vale junto a Bete-Peor."
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-002.adoc#v5-2-0[&#60; Capítulo Anterior] | <<v5-3-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-004.adoc#v5-4-0[Próximo Capítulo &#62;]

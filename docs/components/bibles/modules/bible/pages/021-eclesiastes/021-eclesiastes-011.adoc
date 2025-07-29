@@ -1,0 +1,49 @@
+include::./index.adoc[]
+
+[[v21-11-0]]
+=== Eclesiastes, 11
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v21-11-1]]
+
+^<<v21-11-1,1>>^ Envie os grãos de sua colheita mar afora, e com o tempo isso lhe trará retorno.
+
+[[v21-11-2]]
+
+^<<v21-11-2,2>>^ Invista seus recursos em vários lugares, pois desconhece os riscos adiante.
+
+[[v21-11-3]]
+
+^<<v21-11-3,3>>^ Quando as nuvens estão carregadas, vêm as chuvas; quando a árvore cai, para o norte ou para o sul, ali permanece.
+
+[[v21-11-4]]
+
+^<<v21-11-4,4>>^ O agricultor que espera condições de tempo perfeitas nunca semeia; se ele fica observando cada nuvem, não colhe.
+
+[[v21-11-5]]
+
+^<<v21-11-5,5>>^ Assim como é impossível entender o caminho do vento ou o mistério do crescimento do bebê no ventre da mãe, também é impossível entender as obras de Deus, que faz todas as coisas.
+
+[[v21-11-6]]
+
+^<<v21-11-6,6>>^ Semeie pela manhã e continue a trabalhar à tarde, pois você não sabe se o lucro virá de uma atividade ou de outra, ou talvez de ambas.
+
+[[v21-11-7]]
+
+^<<v21-11-7,7>>^ A luz é doce; como é bom ver o nascer de um novo dia.
+
+[[v21-11-8]]
+
+^<<v21-11-8,8>>^ Se você chegar à velhice, desfrute cada dia de sua vida. Lembre-se, porém, que haverá muitos dias sombrios. Nada do que ainda está por vir faz sentido.
+
+[[v21-11-9]]
+
+^<<v21-11-9,9>>^ Jovem, alegre-se em sua juventude! Aproveite cada momento. Faça tudo que desejar; não perca nada! Lembre-se, porém, que Deus lhe pedirá contas de tudo que fizer.
+
+[[v21-11-10]]
+
+^<<v21-11-10,10>>^ Não se preocupe com coisa alguma e mantenha o corpo saudável. Lembre-se, porém, que a juventude, e a vida inteira diante de você, não fazem sentido.
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-010.adoc#v21-10-0[&#60; Capítulo Anterior] | <<v21-11-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-012.adoc#v21-12-0[Próximo Capítulo &#62;]

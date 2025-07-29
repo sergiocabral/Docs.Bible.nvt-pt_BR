@@ -1,0 +1,225 @@
+include::./index.adoc[]
+
+[[v4-1-0]]
+=== Números, 1
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v4-1-1]]
+
+^<<v4-1-1,1>>^ No primeiro dia do segundo mês, no segundo ano desde a saída dos israelitas do Egito, o SENHOR falou a Moisés na tenda do encontro, no deserto do Sinai, e disse:
+
+[[v4-1-2]]
+
+^<<v4-1-2,2>>^ "Realize um censo de toda a comunidade de Israel, de acordo com seus clãs e famílias. Faça uma lista de todos os homens
+
+[[v4-1-3]]
+
+^<<v4-1-3,3>>^ de 20 anos para cima, aptos para irem à guerra. Você e Arão registrarão os soldados
+
+[[v4-1-4]]
+
+^<<v4-1-4,4>>^ com a ajuda do chefe dos clãs de cada uma das tribos.
+
+[[v4-1-5]]
+
+^<<v4-1-5,5>>^ "Estes são os chefes dos clãs que os ajudarão, conforme suas tribos: da tribo de Rúben, Elizur, filho de Sedeur;
+
+[[v4-1-6]]
+
+^<<v4-1-6,6>>^ da tribo de Simeão, Selumiel, filho de Zurisadai;
+
+[[v4-1-7]]
+
+^<<v4-1-7,7>>^ da tribo de Judá, Naassom, filho de Aminadabe;
+
+[[v4-1-8]]
+
+^<<v4-1-8,8>>^ da tribo de Issacar, Natanael, filho de Zuar;
+
+[[v4-1-9]]
+
+^<<v4-1-9,9>>^ da tribo de Zebulom, Eliabe, filho de Helom;
+
+[[v4-1-10]]
+
+^<<v4-1-10,10>>^ da tribo de Efraim, filho de José, Elisama, filho de Amiúde; da tribo de Manassés, filho de José, Gamaliel, filho de Pedazur;
+
+[[v4-1-11]]
+
+^<<v4-1-11,11>>^ da tribo de Benjamim, Abidã, filho de Gideoni;
+
+[[v4-1-12]]
+
+^<<v4-1-12,12>>^ da tribo de Dã, Aieser, filho de Amisadai;
+
+[[v4-1-13]]
+
+^<<v4-1-13,13>>^ da tribo de Aser, Pagiel, filho de Ocrã;
+
+[[v4-1-14]]
+
+^<<v4-1-14,14>>^ da tribo de Gade, Eliasafe, filho de Deuel;
+
+[[v4-1-15]]
+
+^<<v4-1-15,15>>^ da tribo de Naftali, Aira, filho de Enã.
+
+[[v4-1-16]]
+
+^<<v4-1-16,16>>^ Esses são os representantes escolhidos da comunidade, líderes das tribos de seus antepassados, chefes dos clãs de Israel".
+
+[[v4-1-17]]
+
+^<<v4-1-17,17>>^ Assim, Moisés e Arão convocaram os líderes nomeados
+
+[[v4-1-18]]
+
+^<<v4-1-18,18>>^ e, naquele mesmo dia, reuniram toda a comunidade. Todos foram registrados conforme sua linhagem, de acordo com seus clãs e famílias. Os homens de 20 anos para cima foram registrados um a um,
+
+[[v4-1-19]]
+
+^<<v4-1-19,19>>^ como o SENHOR tinha ordenado a Moisés. Desse modo, Moisés registrou seus nomes enquanto estavam no deserto do Sinai, na seguinte ordem:
+
+[[v4-1-20]]
+
+^<<v4-1-20,20>>^ Da tribo de Rúben, o filho mais velho de Jacó, os homens de 20 anos para cima, aptos para irem à guerra, conforme os nomes anotados nos registros de seus clãs e famílias,
+
+[[v4-1-21]]
+
+^<<v4-1-21,21>>^ totalizaram 46.500. Esse é o número da tribo de Rúben.
+
+[[v4-1-22]]
+
+^<<v4-1-22,22>>^ Da tribo de Simeão, os homens de 20 anos para cima, aptos para irem à guerra, conforme os nomes anotados nos registros de seus clãs e famílias,
+
+[[v4-1-23]]
+
+^<<v4-1-23,23>>^ totalizaram 59.300. Esse é o número da tribo de Simeão.
+
+[[v4-1-24]]
+
+^<<v4-1-24,24>>^ Da tribo de Gade, os homens de 20 anos para cima, aptos para irem à guerra, conforme os nomes anotados nos registros de seus clãs e famílias,
+
+[[v4-1-25]]
+
+^<<v4-1-25,25>>^ totalizaram 45.650. Esse é o número da tribo de Gade.
+
+[[v4-1-26]]
+
+^<<v4-1-26,26>>^ Da tribo de Judá, os homens de 20 anos para cima, aptos para irem à guerra, conforme os nomes anotados nos registros de seus clãs e famílias,
+
+[[v4-1-27]]
+
+^<<v4-1-27,27>>^ totalizaram 74.600. Esse é o número da tribo de Judá.
+
+[[v4-1-28]]
+
+^<<v4-1-28,28>>^ Da tribo de Issacar, os homens de 20 anos para cima, aptos para irem à guerra, conforme os nomes anotados nos registros de seus clãs e famílias,
+
+[[v4-1-29]]
+
+^<<v4-1-29,29>>^ totalizaram 54.400. Esse é o número da tribo de Issacar.
+
+[[v4-1-30]]
+
+^<<v4-1-30,30>>^ Da tribo de Zebulom, os homens de 20 anos para cima, aptos para irem à guerra, conforme os nomes anotados nos registros de seus clãs e famílias,
+
+[[v4-1-31]]
+
+^<<v4-1-31,31>>^ totalizaram 57.400. Esse é o número da tribo de Zebulom.
+
+[[v4-1-32]]
+
+^<<v4-1-32,32>>^ Da tribo de Efraim, filho de José, os homens de 20 anos para cima, aptos para irem à guerra, conforme os nomes anotados nos registros de seus clãs e famílias,
+
+[[v4-1-33]]
+
+^<<v4-1-33,33>>^ totalizaram 40.500. Esse é o número da tribo de Efraim.
+
+[[v4-1-34]]
+
+^<<v4-1-34,34>>^ Da tribo de Manassés, filho de José, os homens de 20 anos para cima, aptos para irem à guerra, conforme os nomes anotados nos registros de seus clãs e famílias,
+
+[[v4-1-35]]
+
+^<<v4-1-35,35>>^ totalizaram 32.200. Esse é o número da tribo de Manassés.
+
+[[v4-1-36]]
+
+^<<v4-1-36,36>>^ Da tribo de Benjamim, os homens de 20 anos para cima, aptos para irem à guerra, conforme os nomes anotados nos registros de seus clãs e famílias,
+
+[[v4-1-37]]
+
+^<<v4-1-37,37>>^ totalizaram 35.400. Esse é o número da tribo de Benjamim.
+
+[[v4-1-38]]
+
+^<<v4-1-38,38>>^ Da tribo de Dã, os homens de 20 anos para cima, aptos para irem à guerra, conforme os nomes anotados nos registros de seus clãs e famílias,
+
+[[v4-1-39]]
+
+^<<v4-1-39,39>>^ totalizaram 62.700. Esse é o número da tribo de Dã.
+
+[[v4-1-40]]
+
+^<<v4-1-40,40>>^ Da tribo de Aser, os homens de 20 anos para cima, aptos para irem à guerra, conforme os nomes anotados nos registros de seus clãs e famílias,
+
+[[v4-1-41]]
+
+^<<v4-1-41,41>>^ totalizaram 41.500. Esse é o número da tribo de Aser.
+
+[[v4-1-42]]
+
+^<<v4-1-42,42>>^ Da tribo de Naftali, os homens de 20 anos para cima, aptos para irem à guerra, conforme os nomes anotados nos registros de seus clãs e famílias,
+
+[[v4-1-43]]
+
+^<<v4-1-43,43>>^ totalizaram 53.400. Esse é o número da tribo de Naftali.
+
+[[v4-1-44]]
+
+^<<v4-1-44,44>>^ Moisés, Arão e os doze líderes de Israel registraram esses homens, todos incluídos na lista de acordo com suas famílias.
+
+[[v4-1-45]]
+
+^<<v4-1-45,45>>^ Todos os homens de Israel de 20 anos para cima, aptos para irem à guerra, foram registrados de acordo com suas famílias.
+
+[[v4-1-46]]
+
+^<<v4-1-46,46>>^ No total, 603.550 homens.
+
+[[v4-1-47]]
+
+^<<v4-1-47,47>>^ Esse total, porém, não incluía os clãs dos levitas,
+
+[[v4-1-48]]
+
+^<<v4-1-48,48>>^ pois o SENHOR tinha dito a Moisés:
+
+[[v4-1-49]]
+
+^<<v4-1-49,49>>^ "Não inclua a tribo de Levi no censo e não conte seus membros com o restante dos israelitas.
+
+[[v4-1-50]]
+
+^<<v4-1-50,50>>^ Encarregue os levitas de cuidarem do tabernáculo da aliança e de toda a sua mobília e todos os seus utensílios. Eles transportarão o tabernáculo e todos os seus utensílios, cuidarão dele e acamparão ao seu redor.
+
+[[v4-1-51]]
+
+^<<v4-1-51,51>>^ Sempre que o tabernáculo tiver de ser transportado, os levitas o desmontarão. Na hora de acampar, eles o armarão novamente. Qualquer pessoa não autorizada que se aproximar do tabernáculo será executada.
+
+[[v4-1-52]]
+
+^<<v4-1-52,52>>^ Os israelitas acamparão de acordo com suas divisões numa área designada por sua bandeira.
+
+[[v4-1-53]]
+
+^<<v4-1-53,53>>^ Os levitas, por sua vez, acamparão ao redor do tabernáculo da aliança para proteger a comunidade de Israel da ira do SENHOR. É responsabilidade dos levitas montar guarda ao redor do tabernáculo da aliança".
+
+[[v4-1-54]]
+
+^<<v4-1-54,54>>^ Os israelitas fizeram exatamente conforme o SENHOR havia ordenado a Moisés.
+
+'''
+
+xref:003-levitico/003-levitico-027.adoc#v3-27-0[&#60; Capítulo Anterior] | <<v4-1-0,Topo>> | xref:004-numeros/004-numeros-002.adoc#v4-2-0[Próximo Capítulo &#62;]

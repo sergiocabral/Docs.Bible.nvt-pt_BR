@@ -1,0 +1,45 @@
+include::./index.adoc[]
+
+[[v19-20-0]]
+=== Salmos, 20
+// nvt ?, NVT - Nova Versão Transformadora
+
+[[v19-20-1]]
+
+^<<v19-20-1,1>>^ Que o SENHOR responda ao seu clamor em tempos de sofrimento; o nome do Deus de Jacó o guarde de todo mal.
+
+[[v19-20-2]]
+
+^<<v19-20-2,2>>^ Que, de seu santuário, ele lhe envie socorro e, de Sião, o fortaleça.
+
+[[v19-20-3]]
+
+^<<v19-20-3,3>>^ Que ele se lembre de todas as suas ofertas e olhe com favor para os seus holocaustos. Interlúdio
+
+[[v19-20-4]]
+
+^<<v19-20-4,4>>^ Que ele conceda os desejos do seu coração e lhe dê sucesso em todos os seus planos.
+
+[[v19-20-5]]
+
+^<<v19-20-5,5>>^ Daremos gritos de alegria pela sua vitória e hastearemos bandeiras em nome de nosso Deus. Que o SENHOR responda a todas as suas orações.
+
+[[v19-20-6]]
+
+^<<v19-20-6,6>>^ Agora sei que o SENHOR salva seu ungido; ele responderá de seu santo céu e o livrará com seu grande poder.
+
+[[v19-20-7]]
+
+^<<v19-20-7,7>>^ Alguns povos confiam em carros de guerra, outros, em cavalos, mas nós confiamos no nome do SENHOR, nosso Deus.
+
+[[v19-20-8]]
+
+^<<v19-20-8,8>>^ Tais nações perdem as forças e caem, mas nós nos levantamos e permanecemos firmes.
+
+[[v19-20-9]]
+
+^<<v19-20-9,9>>^ Dá vitória ao teu rei, ó SENHOR! Responde ao nosso clamor por socorro.
+
+'''
+
+xref:019-salmos/019-salmos-019.adoc#v19-19-0[&#60; Capítulo Anterior] | <<v19-20-0,Topo>> | xref:019-salmos/019-salmos-021.adoc#v19-21-0[Próximo Capítulo &#62;]
