@@ -1,4 +1,59 @@
-= Bem-vindo!
+= Bem-vindo
 
-Aqui você encontra uma ou mais traduções da Bíblia organizadas de forma clara e acessível.
-Este espaço foi feito para facilitar a leitura e o compartilhamento das Escrituras.
+[cols="1h,3", options="header"]
+|===
+2+|📚 *Sobre esta tradução da Bíblia* +
+🔗 xref:bible:001-genesis/001-genesis-001.adoc[]
+
+|📛 Sigla   |nvt
+|🌐 Idioma  |Português (Brasil)
+|📅 Ano     |2016
+|📖 Título  |Nova Versão Transformadora
+|===
+
+A *Nova Versão Transformadora* (sigla: **NVT**) é uma tradução da Bíblia em português lançada oficialmente em **outubro de 2016** pela editora **Mundo Cristão**. É uma versão brasileira da *New Living Translation (NLT)*.
+
+== Base textual
+
+* Antigo Testamento: Texto Massorético (Biblia Hebraica Stuttgartensia), com consulta à Septuaginta, Manuscritos do Mar Morto e Peshitta.
+* Novo Testamento: Texto Crítico (UBS 4ª ed. e Nestlé-Aland 27ª ed.).
+
+== Filosofia de tradução
+
+* Tradução de estilo híbrido: mistura de equivalência formal (literal) e dinâmica (sentido).
+* Atualização de termos, medidas e expressões culturais para o português moderno.
+* Uso de linguagem inclusiva quando não compromete o sentido original.
+* Clareza e fluidez como prioridade, sem comprometer a fidelidade ao texto bíblico.
+
+== Desenvolvimento
+
+* Projeto iniciado em 2010, com equipe coordenada por Carlos Osvaldo Cardoso Pinto e Estevan F. Kirschner.
+* Lançada oficialmente em outubro de 2016.
+* Mais de 700 mil exemplares vendidos em formato impresso, digital e áudio.
+
+== Características
+
+* Linguagem contemporânea e acessível.
+* Boa fluidez textual para leitores modernos.
+* Uso explicativo de notas de rodapé.
+* Publicada com apoio de ferramentas digitais, como aplicativos e sites.
+
+== Diferenças em relação a outras versões
+
+* Não usa literalidade rígida como ACF ou ARC.
+* Mais clara e moderna que a NAA ou ARA.
+* Baseada na filosofia da *New Living Translation* (NLT), enquanto a NAA é próxima da *ESV Study Bible*.
+
+== Fontes e referências
+
+* Bíblia Online – NVT: https://www.bibliaonline.com.br/nvt
+* Mundo Cristão – NVT: https://mundocristao.com.br/nvt
+* Wikipédia: https://pt.wikipedia.org/wiki/Nova_Vers%C3%A3o_Transformadora
+* Scriptum Est: https://scriptumestblog.wordpress.com/2019/07/26/traducao-biblica-em-foco-nova-versao-transformadora
+* Comunhão: https://comunhao.com.br/mundo-cristao-traducao-biblica
+
+== Observações finais
+
+A NVT é recomendada para leitores que desejam uma leitura bíblica fluida, precisa e em linguagem moderna.
+
+:include: https://www.raciocinios.com.br/support-projects.adoc

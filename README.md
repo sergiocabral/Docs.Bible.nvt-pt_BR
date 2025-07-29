@@ -1,6 +1,6 @@
-# 📖 Traduções da Bíblia
+# 📖 Tradução da Bíblia: Nova Versão Transformadora (nvt, pt_BR, 2016)
 
-Este repositório pode ser acessado online no endereço: https://www.raciocinios.com.br/
+Este repositório pode ser acessado online no endereço: https://nvt-pt-br.bible.raciocinios.com.br/
 
 ---
 
